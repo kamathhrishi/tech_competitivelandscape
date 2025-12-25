@@ -1,0 +1,19 @@
+{
+  "company": "GoodRx Holdings, Inc.",
+  "ticker": "GDRX",
+  "year": 2025,
+  "search_query": "GoodRx competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "GoodRx provides prescription price comparison, discounts, and telehealth. The company faces competition from Amazon, transparent pharmacies, and integrated healthcare players.",
+  "competitors": [
+    {"name": "Amazon Pharmacy", "notes": "RxPass and Prime pharmacy benefits"},
+    {"name": "Cost Plus Drugs", "notes": "Mark Cuban's transparent pricing pharmacy"},
+    {"name": "SingleCare", "notes": "Prescription discount card competitor"},
+    {"name": "CVS/Caremark", "notes": "Integrated PBM and retail pharmacy"},
+    {"name": "Optum Rx", "notes": "UnitedHealth pharmacy services"},
+    {"name": "Costco Pharmacy", "notes": "Value-focused pharmacy"},
+    {"name": "Walmart", "notes": "Low-cost prescription programs"},
+    {"name": "Capsule", "notes": "Digital pharmacy with delivery"}
+  ],
+  "sources": ["Healthcare technology analysis"]
+}

@@ -1,7 +1,7 @@
 {
-  "name": "software-sector-competitive-intelligence",
+  "name": "tech-competitive-intelligence",
   "version": "1.0.0",
-  "description": "Competitive intelligence database for 115 Russell 1000 software companies",
+  "description": "Competitive intelligence database for 160+ public tech companies",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,8 +10,9 @@
   },
   "keywords": [
     "competitive-intelligence",
-    "software-companies",
-    "russell-1000",
+    "tech-companies",
+    "fintech",
+    "saas",
     "market-research"
   ],
   "author": "",

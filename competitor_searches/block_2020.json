@@ -1,0 +1,19 @@
+{
+  "company": "Block, Inc.",
+  "ticker": "SQ",
+  "year": 2020,
+  "search_query": "Square Block competitors 2020",
+  "search_date": "2024-12-24",
+  "context": "Square (now Block) saw Cash App explode during the pandemic with 36M monthly users. The company enabled Bitcoin trading and focused on building an ecosystem across sellers and consumers.",
+  "competitors": [
+    {"name": "PayPal/Venmo", "notes": "Major P2P and merchant payment competitor"},
+    {"name": "Stripe", "notes": "Developer payments platform reaching $36B valuation"},
+    {"name": "Clover (Fiserv)", "notes": "Restaurant and retail POS system"},
+    {"name": "Toast", "notes": "Restaurant-focused POS and management platform"},
+    {"name": "Shopify", "notes": "E-commerce platform with integrated payments"},
+    {"name": "Lightspeed", "notes": "Retail and restaurant POS and commerce"},
+    {"name": "Adyen", "notes": "Enterprise unified commerce platform"},
+    {"name": "Coinbase", "notes": "Crypto exchange competing with Cash App Bitcoin"}
+  ],
+  "sources": ["Payments and fintech industry analysis"]
+}

@@ -1,0 +1,19 @@
+{
+  "company": "Roblox Corporation",
+  "ticker": "RBLX",
+  "year": 2024,
+  "search_query": "Roblox competitors 2024",
+  "search_date": "2024-12-24",
+  "context": "Roblox has 80M+ daily active users and is expanding beyond kids with older teen/adult experiences. The platform monetizes through virtual currency (Robux) and brand partnerships.",
+  "competitors": [
+    {"name": "Minecraft", "notes": "Microsoft's sandbox game with 170M+ monthly players"},
+    {"name": "Fortnite", "notes": "Epic's battle royale and creator platform"},
+    {"name": "Epic Games/UEFN", "notes": "Unreal Editor for Fortnite enabling UGC"},
+    {"name": "Unity", "notes": "Game engine competing for developers"},
+    {"name": "YouTube", "notes": "Video platform competing for entertainment time"},
+    {"name": "TikTok", "notes": "Short-form video capturing same demographics"},
+    {"name": "Discord", "notes": "Gaming and community platform"},
+    {"name": "Core (Manticore)", "notes": "User-generated games platform using Unreal"}
+  ],
+  "sources": ["Gaming industry analysis"]
+}

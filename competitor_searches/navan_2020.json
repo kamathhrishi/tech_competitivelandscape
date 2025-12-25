@@ -1,0 +1,19 @@
+{
+  "company": "Navan, Inc.",
+  "ticker": "NVAN",
+  "year": 2020,
+  "search_query": "TripActions competitors 2020",
+  "search_date": "2024-12-24",
+  "context": "TripActions (now Navan) was severely impacted by COVID-19 travel collapse. Company pivoted to add Liquid expense card and diversified beyond travel booking while waiting for recovery.",
+  "competitors": [
+    {"name": "SAP Concur", "notes": "Enterprise travel and expense incumbent"},
+    {"name": "Egencia", "notes": "Expedia's corporate travel arm"},
+    {"name": "BCD Travel", "notes": "Traditional travel management company"},
+    {"name": "American Express GBT", "notes": "Premium corporate travel"},
+    {"name": "Expensify", "notes": "Expense reporting software"},
+    {"name": "Certify", "notes": "Travel and expense (acquired by SAP)"},
+    {"name": "Chrome River", "notes": "Enterprise expense management"},
+    {"name": "Lola.com", "notes": "Modern business travel startup"}
+  ],
+  "sources": ["Travel tech analysis"]
+}

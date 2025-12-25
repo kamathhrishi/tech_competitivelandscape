@@ -1,0 +1,19 @@
+{
+  "company": "Spotify Technology S.A.",
+  "ticker": "SPOT",
+  "year": 2025,
+  "search_query": "Spotify competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Spotify is the global audio streaming leader with 650M+ monthly users. The company offers music, podcasts, and audiobooks with AI DJ and personalization features driving engagement.",
+  "competitors": [
+    {"name": "Apple Music", "notes": "Premium music streaming with spatial audio"},
+    {"name": "Amazon Music", "notes": "Streaming integrated with Prime and Alexa ecosystem"},
+    {"name": "YouTube Music", "notes": "Google streaming with music video integration"},
+    {"name": "Tidal", "notes": "High-fidelity audio streaming"},
+    {"name": "Deezer", "notes": "European streaming with AI features"},
+    {"name": "SiriusXM/Pandora", "notes": "Satellite radio and streaming combination"},
+    {"name": "Audible", "notes": "Amazon audiobooks competing in spoken word"},
+    {"name": "TikTok", "notes": "Music discovery platform affecting streaming behavior"}
+  ],
+  "sources": ["Audio streaming industry analysis"]
+}

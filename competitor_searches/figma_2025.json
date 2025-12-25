@@ -1,0 +1,19 @@
+{
+  "company": "Figma",
+  "ticker": "FIGM",
+  "year": 2025,
+  "search_query": "Figma competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Figma dominates collaborative design with AI-powered features including Figma AI for design generation and code suggestions. The company continues to expand into developer workflows and design systems.",
+  "competitors": [
+    {"name": "Adobe Creative Cloud", "notes": "Adobe's design suite with Firefly AI and integrated workflows"},
+    {"name": "Canva", "notes": "Design platform now valued at $26B competing in visual design across segments"},
+    {"name": "Framer", "notes": "AI-powered design and website builder with strong product velocity"},
+    {"name": "Webflow", "notes": "Visual development platform competing in design-to-production"},
+    {"name": "Miro", "notes": "Collaboration platform competing with FigJam for whiteboarding"},
+    {"name": "Penpot", "notes": "Open-source design alternative gaining enterprise adoption"},
+    {"name": "Sketch", "notes": "Mac design tool with reduced market presence"},
+    {"name": "Zeplin", "notes": "Design handoff competing with Figma Dev Mode"}
+  ],
+  "sources": ["Design industry analysis"]
+}

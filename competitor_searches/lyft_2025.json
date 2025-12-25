@@ -1,0 +1,19 @@
+{
+  "company": "Lyft, Inc.",
+  "ticker": "LYFT",
+  "year": 2025,
+  "search_query": "Lyft competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Lyft remains the #2 US ride-hailing platform focused on North America. The company partners with autonomous vehicle companies while Uber and Tesla develop robotaxi solutions.",
+  "competitors": [
+    {"name": "Uber", "notes": "Dominant global competitor with rides, delivery, and AV partnerships"},
+    {"name": "Waymo", "notes": "Google's autonomous ride-hailing service expanding coverage"},
+    {"name": "Tesla", "notes": "Robotaxi service threatening ride-hailing incumbents"},
+    {"name": "Zoox (Amazon)", "notes": "Amazon's autonomous vehicle robotaxi development"},
+    {"name": "Via", "notes": "Transit technology and dynamic shared rides"},
+    {"name": "Revel", "notes": "Electric vehicle ride-hailing in urban markets"},
+    {"name": "Public Transit", "notes": "Improved mass transit competing for urban trips"},
+    {"name": "Micromobility", "notes": "E-bikes and scooters from Lime, Bird for short distances"}
+  ],
+  "sources": ["Ride-hailing industry analysis"]
+}

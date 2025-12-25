@@ -1,0 +1,19 @@
+{
+  "company": "Rivian Automotive, Inc.",
+  "ticker": "RIVN",
+  "year": 2024,
+  "search_query": "Rivian competitors 2024",
+  "search_date": "2024-12-24",
+  "context": "Rivian announced Volkswagen joint venture worth up to $5B. The company focused on cost reduction and announced the more affordable R2 platform. Delivered ~50K vehicles in 2024.",
+  "competitors": [
+    {"name": "Tesla", "notes": "Dominant EV maker, launched Cybertruck"},
+    {"name": "Ford", "notes": "F-150 Lightning and Mustang Mach-E"},
+    {"name": "GM", "notes": "Ultium platform, GMC Hummer EV"},
+    {"name": "Lucid", "notes": "Luxury EV sedan and SUV"},
+    {"name": "Polestar", "notes": "Premium EV from Volvo/Geely"},
+    {"name": "Fisker", "notes": "EV startup facing challenges"},
+    {"name": "Volkswagen", "notes": "ID series, became JV partner"},
+    {"name": "Mercedes-Benz", "notes": "EQ series electric vehicles"}
+  ],
+  "sources": ["EV industry analysis"]
+}

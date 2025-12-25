@@ -1,0 +1,19 @@
+{
+  "company": "Snap Inc.",
+  "ticker": "SNAP",
+  "year": 2025,
+  "search_query": "Snap competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Snap continues as a camera and AR company with 400M+ daily users. Snapchat+ subscriptions, AR glasses development, and AI features drive innovation while competing for young user attention.",
+  "competitors": [
+    {"name": "TikTok", "notes": "Leading short-form video platform (facing potential US ban)"},
+    {"name": "Instagram", "notes": "Meta's photo/video app with comprehensive features"},
+    {"name": "YouTube Shorts", "notes": "Short-form video with creator monetization"},
+    {"name": "Meta", "notes": "Ray-Ban Meta glasses competing in AR wearables"},
+    {"name": "Apple", "notes": "Vision Pro and messaging competing for engagement"},
+    {"name": "BeReal", "notes": "Authenticity social app"},
+    {"name": "Discord", "notes": "Community messaging platform"},
+    {"name": "Lemon8", "notes": "ByteDance lifestyle app"}
+  ],
+  "sources": ["Social media industry analysis"]
+}

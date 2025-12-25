@@ -1,0 +1,19 @@
+{
+  "company": "Etsy, Inc.",
+  "ticker": "ETSY",
+  "year": 2024,
+  "search_query": "Etsy competitors 2024",
+  "search_date": "2024-12-24",
+  "context": "Etsy operates marketplaces including Etsy, Depop, and Reverb. The company has 90M+ active buyers but faces post-pandemic normalization and competition from larger platforms.",
+  "competitors": [
+    {"name": "Amazon", "notes": "Dominant e-commerce with Handmade and third-party sellers"},
+    {"name": "eBay", "notes": "Marketplace for vintage, collectibles, and unique items"},
+    {"name": "Shopify", "notes": "Enabling independent sellers to build own stores"},
+    {"name": "Poshmark", "notes": "Social commerce for fashion and home goods"},
+    {"name": "Mercari", "notes": "Resale marketplace for various categories"},
+    {"name": "Temu", "notes": "Low-cost marketplace threatening handmade premium"},
+    {"name": "TikTok Shop", "notes": "Social commerce platform for creators"},
+    {"name": "Facebook Marketplace", "notes": "Local and shipped goods marketplace"}
+  ],
+  "sources": ["E-commerce industry analysis"]
+}

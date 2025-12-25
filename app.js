@@ -16,15 +16,34 @@ const entityMap = new Map();
 
 // Initialize
 function init() {
-    COMPETITOR_DATA.entities.forEach(entity => {
-        entityMap.set(entity.slug, entity);
-    });
+    // Show loading state
+    showLoading();
 
-    populateIndustryFilter();
-    setupEventListeners();
-    renderCompanyList();
-    handleHashChange();
-    window.addEventListener('hashchange', handleHashChange);
+    // Use setTimeout to allow the loading UI to render
+    setTimeout(() => {
+        COMPETITOR_DATA.entities.forEach(entity => {
+            entityMap.set(entity.slug, entity);
+        });
+
+        populateIndustryFilter();
+        setupEventListeners();
+        renderCompanyList();
+        handleHashChange();
+        window.addEventListener('hashchange', handleHashChange);
+
+        // Hide loading
+        hideLoading();
+    }, 10);
+}
+
+function showLoading() {
+    const loader = document.getElementById('loadingOverlay');
+    if (loader) loader.classList.add('active');
+}
+
+function hideLoading() {
+    const loader = document.getElementById('loadingOverlay');
+    if (loader) loader.classList.remove('active');
 }
 
 // Populate industry dropdown
@@ -89,7 +108,9 @@ function setupEventListeners() {
                 </div>
             `).join('');
             searchResults.querySelectorAll('.search-result').forEach(item => {
-                item.addEventListener('click', () => {
+                // Use mousedown instead of click - fires before blur
+                item.addEventListener('mousedown', (e) => {
+                    e.preventDefault(); // Prevent blur from firing
                     navigateToEntity(decodeURIComponent(item.dataset.slug));
                     searchResults.classList.remove('active');
                     searchInput.value = '';

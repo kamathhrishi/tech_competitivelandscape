@@ -1,0 +1,19 @@
+{
+  "company": "Block, Inc.",
+  "ticker": "SQ",
+  "year": 2024,
+  "search_query": "Block Square competitors 2024",
+  "search_date": "2024-12-24",
+  "context": "Block operates Square (seller ecosystem), Cash App (consumer finance), Afterpay (BNPL), TIDAL, and Bitcoin mining. Cash App has 55M+ monthly actives with banking and investing features.",
+  "competitors": [
+    {"name": "PayPal/Venmo", "notes": "Consumer payments and P2P competitor"},
+    {"name": "Stripe", "notes": "Leading online payment infrastructure"},
+    {"name": "Toast", "notes": "Restaurant POS leader"},
+    {"name": "Shopify", "notes": "Commerce platform with payments and POS"},
+    {"name": "Clover (Fiserv)", "notes": "SMB POS and payment processing"},
+    {"name": "Chime", "notes": "Neobank competing with Cash App banking"},
+    {"name": "Coinbase", "notes": "Crypto trading competitor"},
+    {"name": "Apple Pay", "notes": "Tap to Pay threatening Square hardware"}
+  ],
+  "sources": ["Payments and fintech industry analysis"]
+}

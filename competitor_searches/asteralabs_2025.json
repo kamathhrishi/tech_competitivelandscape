@@ -1,0 +1,19 @@
+{
+  "company": "Astera Labs, Inc.",
+  "ticker": "ALAB",
+  "year": 2025,
+  "search_query": "Astera Labs competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Astera Labs was one of the best performing IPOs of 2024, continuing strong performance into 2025. The company provides connectivity solutions for AI infrastructure and data centers.",
+  "competitors": [
+    {"name": "Broadcom", "notes": "Semiconductor giant with connectivity products"},
+    {"name": "Marvell", "notes": "Data infrastructure semiconductors"},
+    {"name": "Credo Technology", "notes": "High-speed connectivity solutions"},
+    {"name": "Alphawave IP", "notes": "High-speed connectivity IP"},
+    {"name": "Rambus", "notes": "Memory interface and security chips"},
+    {"name": "Parade Technologies", "notes": "High-speed interface ICs"},
+    {"name": "Microchip", "notes": "Timing and connectivity solutions"},
+    {"name": "Intel", "notes": "Data center connectivity"}
+  ],
+  "sources": ["Semiconductor industry analysis"]
+}

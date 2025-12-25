@@ -1,0 +1,19 @@
+{
+  "company": "Wayfair Inc.",
+  "ticker": "W",
+  "year": 2025,
+  "search_query": "Wayfair competitors 2025",
+  "search_date": "2024-12-24",
+  "context": "Wayfair is a leading online home goods retailer with 22M+ active customers. The company operates physical stores and focuses on premium brands through Perigold and AllModern.",
+  "competitors": [
+    {"name": "Amazon", "notes": "E-commerce leader with extensive home selection"},
+    {"name": "IKEA", "notes": "Global furniture giant with omnichannel presence"},
+    {"name": "Williams-Sonoma", "notes": "Premium home brands portfolio"},
+    {"name": "Target", "notes": "Design-focused mass retailer"},
+    {"name": "Walmart", "notes": "Largest retailer with home goods expansion"},
+    {"name": "Home Depot", "notes": "Home improvement with decor and furniture"},
+    {"name": "Temu", "notes": "Low-cost e-commerce disrupting home goods"},
+    {"name": "RH (Restoration Hardware)", "notes": "Luxury home furnishings"}
+  ],
+  "sources": ["Home goods industry analysis"]
+}

@@ -1,0 +1,19 @@
+{
+  "company": "Astera Labs, Inc.",
+  "ticker": "ALAB",
+  "year": 2024,
+  "search_query": "Astera Labs competitors 2024",
+  "search_date": "2024-12-24",
+  "context": "Astera Labs went public in March 2024 and became one of the year's best performing IPOs alongside Reddit. The company provides semiconductor connectivity solutions for AI and cloud infrastructure.",
+  "competitors": [
+    {"name": "Broadcom", "notes": "Dominant in data center connectivity"},
+    {"name": "Marvell Technology", "notes": "Cloud and 5G semiconductors"},
+    {"name": "Credo Technology", "notes": "High-speed connectivity startup"},
+    {"name": "Alphawave Semi", "notes": "High-speed connectivity IP"},
+    {"name": "Rambus", "notes": "Interface and security IP"},
+    {"name": "Montage Technology", "notes": "Memory interface chips"},
+    {"name": "Microchip Technology", "notes": "Timing solutions"},
+    {"name": "Renesas", "notes": "Analog and connectivity"}
+  ],
+  "sources": ["Semiconductor industry analysis"]
+}

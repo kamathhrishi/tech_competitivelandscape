@@ -1,18 +1,18 @@
-# Software Sector Competitive Intelligence Database
+# Tech Competitive Intelligence Database
 
-A comprehensive database tracking competitive relationships across 81 public software companies from the Russell 1000 index, spanning 2000-2024.
+A comprehensive database tracking competitive relationships across 150+ public technology companies, spanning 2000-2025.
 
 ## Overview
 
-This project aggregates and visualizes competitive intelligence data for major software companies. It provides structured, historical data on who competes with whom, how competitive landscapes have evolved over time, and cross-references between entities.
+This project aggregates and visualizes competitive intelligence data for major technology companies across software, hardware, fintech, e-commerce, streaming, gaming, and more. It provides structured, historical data on who competes with whom, how competitive landscapes have evolved over time, and cross-references between entities.
 
 ### Key Statistics
 
-- **115 public companies** tracked (Russell 1000 software sector)
-- **1,994 entities** referenced as competitors
-- **5,078 relationships** mapped
+- **165 companies** tracked (public tech companies)
+- **2,640+ entities** referenced as competitors
+- **6,700+ relationships** mapped
 - **26 years** of historical coverage (2000-2025)
-- **600 JSON data files** containing research
+- **806 JSON data files** containing research
 
 ## Data Structure
 
@@ -31,7 +31,7 @@ competitor_searches/
 
 Each JSON file contains:
 - `company`: Company name
-- `ticker`: Stock ticker symbol
+- `ticker`: Stock ticker symbol (or "PRIVATE" for private companies)
 - `year`: Year of competitive data
 - `search_query`: Research query used
 - `search_date`: When research was conducted
@@ -50,11 +50,13 @@ The `compile-data.js` script aggregates all JSON files into a unified entity gra
 
 ## Companies Covered
 
-The database includes major software companies across segments:
+The database includes major technology companies across segments:
 
-**Cloud & Infrastructure**: Microsoft, Amazon (AWS), Google Cloud, Oracle, IBM, Snowflake, MongoDB, Cloudflare, Nutanix
+### Software & Cloud
 
-**Cybersecurity**: Palo Alto Networks, CrowdStrike, Fortinet, Zscaler, SentinelOne, Okta, Qualys, Tenable, Rapid7, Varonis, CyberArk
+**Cloud & Infrastructure**: Microsoft, Amazon (AWS), Google Cloud, Oracle, IBM, Snowflake, MongoDB, Cloudflare, Nutanix, CoreWeave
+
+**Cybersecurity**: Palo Alto Networks, CrowdStrike, Fortinet, Zscaler, SentinelOne, Okta, Qualys, Tenable, Rapid7, Varonis, CyberArk, Check Point
 
 **Enterprise Software**: Salesforce, SAP, ServiceNow, Workday, Intuit, Adobe, Autodesk
 
@@ -62,37 +64,71 @@ The database includes major software companies across segments:
 
 **DevOps & Development**: Atlassian, GitLab, JFrog, HashiCorp, Dynatrace
 
-**HR & Payroll**: Workday, Paycom, Paylocity, Ceridian
+**HR & Payroll**: Workday, Paycom, Paylocity, Dayforce (Ceridian)
 
 **CRM & Marketing**: Salesforce, HubSpot, Klaviyo, Braze, Sprinklr, Sprout Social
 
 **Collaboration**: Zoom, Twilio, DocuSign, Box, Dropbox, Five9, Freshworks
 
-**Design & Engineering**: Autodesk, ANSYS, Synopsys, Cadence, PTC, Altair, Bentley Systems, Aspen Technology
+**Design & Engineering**: Autodesk, ANSYS, Synopsys, Cadence, PTC, Altair, Bentley Systems, Aspen Technology, Figma
 
-**Vertical Software**: Veeva (life sciences), Guidewire (insurance), Procore (construction), Tyler Technologies (government), nCino (banking), Blackbaud (nonprofits)
+**Vertical Software**: Veeva (life sciences), Guidewire (insurance), Procore (construction), Tyler Technologies (government), nCino (banking), Blackbaud (nonprofits), ServiceTitan (home services)
 
-**Financial Software**: Bill Holdings, BlackLine, Zuora, FICO
+### Consumer & Digital Platforms
 
-**Ad Tech & IoT**: The Trade Desk, AppLovin, Samsara, Unity Software
+**Streaming & Entertainment**: Netflix, Spotify, Roku
 
-**IT Services & Consulting**: Accenture, Cognizant, Globant, Gartner
+**Social Media**: Snap, Pinterest, Reddit, Meta
+
+**Gaming**: Roblox, Electronic Arts, Take-Two Interactive, Unity Software
+
+**E-commerce**: Etsy, eBay, Chewy, Wayfair, Shopify, Amazon, Coupang
+
+**Delivery & Gig Economy**: DoorDash, Uber, Lyft, Instacart
+
+**Electric Vehicles**: Tesla, Rivian, Lucid Motors
+
+**Travel Tech**: Airbnb, Booking Holdings, Expedia, Navan
+
+### Fintech & Payments
+
+**Payments & Fintech**: PayPal, Block (Square), Affirm, Robinhood, SoFi, Coinbase, Chime, Klarna
+
+**Crypto & Blockchain**: Circle (USDC)
+
+**Financial Software**: Bill Holdings, BlackLine, Zuora, FICO, Payoneer, WEX
+
+### Health Tech
+
+**Digital Health**: Teladoc, Doximity, GoodRx, Tempus AI
+
+### Real Estate Tech
+
+**PropTech**: Zillow, Redfin, CoStar Group
+
+### Hardware & Infrastructure
 
 **Networking & Infrastructure**: Arista Networks, F5, Akamai, NetApp, Pure Storage, Broadcom, Dell Technologies, Motorola Solutions, Zebra Technologies
 
-**Data Management**: Informatica, Trimble
+**Semiconductors**: NVIDIA, Intel, AMD, ARM Holdings, Astera Labs
 
-**Fintech & Payments**: Payoneer, WEX
+**Ad Tech & IoT**: The Trade Desk, AppLovin, Samsara
+
+### Services & Other
+
+**IT Services & Consulting**: Accenture, Cognizant, Globant, Gartner
+
+**Data Management**: Informatica, Trimble, Rubrik
 
 **Consumer Tech**: Duolingo, Gen Digital
 
-**Diversified Tech**: Roper Technologies, SAP, Shopify, Check Point Software
+**Diversified Tech**: Roper Technologies
 
 ## Site Features
 
 ### Home View
 
-- Alphabetically sorted list of public companies
+- Alphabetically sorted list of companies
 - Filter by entity type (Public Companies / All Entities)
 - Filter by industry segment
 - Global search across all entities
@@ -129,6 +165,9 @@ site/
 ├── app.js              # Application logic and rendering
 ├── data.js             # Compiled entity graph (generated)
 ├── compile-data.js     # Node.js script to compile JSON files
+├── server.js           # Node.js static file server
+├── package.json        # Node.js project configuration
+├── railway.json        # Railway deployment configuration
 └── README.md           # This file
 ```
 
@@ -136,20 +175,27 @@ site/
 
 1. Compile the data (if JSON files have changed):
    ```bash
-   node compile-data.js
+   npm run compile
    ```
 
-2. Start a local server:
+2. Start the server:
    ```bash
-   python3 -m http.server 8000
+   npm start
    ```
 
 3. Open http://localhost:8000
 
+### Deployment
+
+The site is configured for Railway deployment:
+- Push to GitHub
+- Connect repository to Railway
+- Railway automatically builds and deploys
+
 ### Technologies
 
 - Vanilla HTML, CSS, JavaScript (no frameworks)
-- Node.js for data compilation
+- Node.js for data compilation and serving
 - Inter and IBM Plex Mono fonts
 
 ## Data Sources
@@ -157,7 +203,7 @@ site/
 Competitive intelligence was compiled from:
 - SEC filings (10-K, 10-Q reports)
 - Company investor presentations
-- Industry analyst reports
+- Industry analyst reports (Gartner, Forrester, IDC)
 - Market research publications
 - Business news and press releases
 
@@ -167,91 +213,6 @@ Competitive intelligence was compiled from:
 - **Market Analysis**: Track how competitive landscapes evolve
 - **Business Development**: Identify potential partners or acquisition targets
 - **Strategic Planning**: Map competitive threats and opportunities
-
-## Project History
-
-### Phase 1: Data Collection
-
-The project began with identifying 85 software companies from the Russell 1000 index. For each company, web research was conducted to gather competitive intelligence across multiple time periods:
-
-- **2024**: Current competitive landscape
-- **2020**: Pre/during COVID market state
-- **2015**: Mid-2010s market structure
-- **2010**: Post-financial crisis landscape
-- **2005**: Early cloud era (for established companies)
-- **2000**: Dot-com era (for companies that existed then)
-
-Research was conducted using web searches combining company names with terms like "competitors", "competitive landscape", and "market position". Results were structured into JSON files capturing:
-- Market context and company positioning
-- Named competitors with explanatory notes
-- Source URLs for verification
-
-**Final count**: 521 JSON files covering 97 public companies.
-
-### Phase 2: Data Compilation
-
-A Node.js script (`compile-data.js`) was built to:
-
-1. Parse all JSON files from `/competitor_searches/`
-2. Normalize company names to create consistent slugs
-3. Identify which competitors are themselves public companies
-4. Build bidirectional relationships (if A cites B, B's page shows A)
-5. Aggregate notes by year for non-public entities
-6. Infer industry classifications from context keywords
-7. Output unified `data.js` for browser consumption
-
-This creates an entity graph where every mentioned competitor becomes a navigable entity, even if it's a private company or subsidiary.
-
-### Phase 3: Site Development
-
-The web interface went through several design iterations:
-
-**Iteration 1: Dark Theme Dashboard**
-- Card-based grid layout
-- Purple/pink gradient accents
-- Collapsible timeline with all years visible
-- Sidebar with stats and related entities
-
-*Feedback: "Looks like a fun site, not serious for professional research"*
-
-**Iteration 2: Light Professional Theme**
-- Switched to light color scheme
-- Clean borders, no gradients
-- Professional blue accents
-- Monospace fonts for data
-- Collapsible year sections
-
-*Feedback: "Hard to navigate, unintuitive"*
-
-**Iteration 3: Information-First Design**
-- Removed sidebar entirely
-- Document-style single-column layout
-- Simple list view on home page
-- Year tabs to show one year at a time
-- Focus on content, minimal UI chrome
-
-*Feedback: "Much better"*
-
-**Iteration 4: Final Refinements**
-- Alphabetical sorting for company list
-- Centered back button (styled as button)
-- Centered header section (ticker, name, stats, industries)
-- Left-aligned content (year tabs, competitors, sources)
-- Public companies shown by default
-
-### Design Decisions
-
-**Why year tabs instead of full timeline?**
-Showing all years at once creates information overload. Tabs let users focus on one time period, reducing cognitive load while maintaining access to historical data.
-
-**Why center the header but not content?**
-The header establishes identity and context—centering creates visual hierarchy and draws attention. Content (competitors, notes, sources) benefits from left-alignment for readability and scanning.
-
-**Why a simple list instead of cards?**
-Cards add visual noise. A clean list with inline stats is faster to scan and feels more like a data tool than a marketing site.
-
-**Why cross-reference non-public entities?**
-Many important competitors are private companies, subsidiaries, or products. Making them first-class entities with their own pages (showing who cites them) adds significant research value.
 
 ## Future Enhancements
 
