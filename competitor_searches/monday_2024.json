@@ -1,0 +1,67 @@
+{
+  "company": "Monday.com",
+  "ticker": "MNDY",
+  "year": 2024,
+  "search_query": "Monday.com competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "By 2024, Monday.com had evolved into a mature Work OS platform competing in collaborative work management, project management, and no-code workflow automation. The competitive landscape intensified with players offering better mobile experiences, cleaner interfaces, and more competitive pricing on lower tiers. Key competitive differentiators included time tracking capabilities, task dependencies on lower-tier plans, and mobile app functionality.",
+  "competitors": [
+    {
+      "name": "ClickUp",
+      "notes": "Leading alternative offering extreme customization and comprehensive features. Provides more functionality in lower tiers with 'free forever' option including more features than Monday.com's free plan. Pricing $5-$19/user/month with strong task management and collaboration features."
+    },
+    {
+      "name": "Asana",
+      "notes": "Best for visual project management with boards and cards, offering cleaner interface and better intuitive visualization of project data. Pricing $10.99-$24.99/user/month for streamlined task management without visual clutter."
+    },
+    {
+      "name": "Wrike",
+      "notes": "Cloud-based enterprise work management with built-in timeline capabilities, Kanban boards, and Gantt charts. Offers more extensive integrations and flexibility for team members to work in their preferred view."
+    },
+    {
+      "name": "Smartsheet",
+      "notes": "Spreadsheet-like interface familiar to Excel users. Main differentiation from Monday.com lies in the classic spreadsheet interface, appealing to teams preferring traditional spreadsheet workflows."
+    },
+    {
+      "name": "Jira",
+      "notes": "Agile platform specialized for software development teams, offering complete contrast to spreadsheet views. Features scrum boards, Kanban boards, and real-time project tracking customizable dashboards."
+    },
+    {
+      "name": "Trello",
+      "notes": "Simple Kanban-focused approach with excellent customer support. Best for teams wanting to get organized without being overwhelmed by features, offering Kanban-dominant workflow."
+    },
+    {
+      "name": "Hive",
+      "notes": "Integrated project management and collaboration platform. Offers most competitive entry pricing with Starter plan at $5/user/month and Teams plan at $12/user/month with unlimited capabilities."
+    },
+    {
+      "name": "Teamwork",
+      "notes": "Rated best overall alternative due to comprehensive task and project management tools, superior customer support, and easy interface. More expensive but offers phone-based support on all plans."
+    },
+    {
+      "name": "Notion",
+      "notes": "Hybrid platform becoming essential for organization and team collaboration, with everything in one place including linked documents, notes, tasks, and comments. Built-in AI tools for creating tables and flowcharts."
+    },
+    {
+      "name": "nTask",
+      "notes": "Free alternative offering simple project management capabilities for teams seeking budget-friendly options with essential features."
+    },
+    {
+      "name": "Celoxis",
+      "notes": "Comprehensive project management platform competing on enterprise features and advanced project portfolio management capabilities."
+    },
+    {
+      "name": "AFFiNE",
+      "notes": "Emerging alternative for project management offering privacy-focused and open-source approach to work management."
+    }
+  ],
+  "sources": [
+    "https://thedigitalprojectmanager.com/tools/best-monday-alternative/",
+    "https://affine.pro/blog/8-best-monday-alternatives-for-project-management-2023",
+    "https://teamhub.com/blog/top-26-monday-com-alternatives-for-project-management-in-2024/",
+    "https://hive.com/blog/monday-alternatives/",
+    "https://www.teamwork.com/blog/monday-alternatives/",
+    "https://www.celoxis.com/article/best-alternatives-to-monday",
+    "https://www.ntaskmanager.com/blog/free-dapulse-monday-alternatives/"
+  ]
+}

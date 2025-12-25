@@ -1,0 +1,73 @@
+{
+  "company": "nCino",
+  "ticker": "NCNO",
+  "year": 2025,
+  "search_query": "nCino competitors 2025 bank operating system cloud banking",
+  "search_date": "2025-12-24",
+  "context": "nCino is a global fintech company offering cloud-based banking software built on Salesforce platform. As of 2025, nCino is used in more than 2,700 financial institutions globally including TD Bank, Truist Financial, and Santander Bank. The platform has 0.21% market share in banking and competes with 107 tools. In 2025, nCino completed acquisition of SandBox Banking, and Sean Desmond was appointed CEO replacing Pierre Naudé who became Executive Chairman.",
+  "competitors": [
+    {
+      "name": "Q2",
+      "notes": "Top nCino alternative according to G2 2025 for cloud banking platforms."
+    },
+    {
+      "name": "Alkami",
+      "notes": "Major cloud banking platform competitor, second-ranked alternative to nCino."
+    },
+    {
+      "name": "Razorpay",
+      "notes": "Market share leader with 47.71% in banking tools category, significantly ahead of nCino's 0.21%."
+    },
+    {
+      "name": "Oracle Financial Services",
+      "notes": "Second largest competitor by market share at 8.77% in banking category."
+    },
+    {
+      "name": "Temenos",
+      "notes": "Major banking platform competitor with 4.85% market share. Temenos Infinity platform enables digital transformation for financial institutions."
+    },
+    {
+      "name": "Mambu",
+      "notes": "Cloud-native SaaS core banking platform. Modular architecture for lending, deposits, payments. Enables building tailored financial ecosystems."
+    },
+    {
+      "name": "FIS Core Banking",
+      "notes": "Agile solutions with componentized architecture serving community, mid-tier, large and global financial institutions."
+    },
+    {
+      "name": "Backbase",
+      "notes": "Digital banking platform competing with nCino's engagement banking capabilities (The Engagement Banking Platform)."
+    },
+    {
+      "name": "Finastra",
+      "notes": "Range of banking and lending solutions competing with nCino's offerings."
+    },
+    {
+      "name": "TurnKey Lender",
+      "notes": "AI-driven SaaS lending platform used in 50+ countries. Automates 90% of lending processes, reduces costs and risk."
+    },
+    {
+      "name": "Finacle Online Banking",
+      "notes": "Banking platform alternative to nCino Cloud Banking Platform."
+    },
+    {
+      "name": "BaNCS",
+      "notes": "Core banking solution competing with nCino."
+    },
+    {
+      "name": "Credit Lens",
+      "notes": "Credit origination and decisioning platform, competing in lending space."
+    },
+    {
+      "name": "iDenfy",
+      "notes": "Alternative to nCino for banking verification and compliance."
+    }
+  ],
+  "sources": [
+    "https://www.g2.com/products/ncino-bank-operating-system/competitors/alternatives",
+    "https://6sense.com/tech/banking/ncino-cloud-banking-platform-market-share",
+    "https://en.wikipedia.org/wiki/NCino",
+    "https://www.gartner.com/reviews/market/digital-banking-platforms/vendor/ncino/product/ncino-cloud-banking-platform/alternatives",
+    "https://www.meniga.com/guides/ncino-alternatives/"
+  ]
+}

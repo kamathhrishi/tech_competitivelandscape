@@ -1,0 +1,52 @@
+{
+  "company": "PTC Inc.",
+  "ticker": "PTC",
+  "year": 2025,
+  "search_query": "PTC parametric technology competitors 2025 PLM CAD software",
+  "search_date": "2025-12-24",
+  "context": "PTC Inc. (formerly Parametric Technology Corporation) is a Boston-based provider of CAD and PLM software, founded in 1985. PTC was a pioneer in parametric, associative feature-based solid CAD modeling in 1988 and Internet-based PLM in 1998. The company has eight core product families: Creo (CAD), Windchill (PLM), Mathcad, Integrity, Servigistics, ThingWorx (IoT), ServiceMax, and Arbortext Editor. PTC Creo offers hybrid parametric/direct modeling, advanced analysis (topology optimization, CFD), and tight design-to-manufacture integration. Windchill provides comprehensive PLM with deep Creo integration and support for SolidWorks, CATIA, and NX.",
+  "competitors": [
+    {
+      "name": "Siemens (Teamcenter + NX)",
+      "ticker": "SIEGY",
+      "notes": "Teamcenter is widely used comprehensive end-to-end PLM solution. Siemens NX is enterprise-grade CAD that scales well with strong PLM integration. The NX + Teamcenter combination offers deep native integration for complete CAD-PLM ecosystem."
+    },
+    {
+      "name": "Dassault Systèmes (ENOVIA + CATIA)",
+      "ticker": "DASSAULT",
+      "notes": "ENOVIA offers 3D product architect tool for multi-CAD product structures using 3D Experience platform. CATIA is enterprise CAD for advanced assemblies and regulatory requirements. CATIA + ENOVIA provides deep native integration."
+    },
+    {
+      "name": "Autodesk (Fusion Manage + Fusion/Inventor)",
+      "ticker": "ADSK",
+      "notes": "Autodesk Fusion Manage is cloud-based PLM with strong CAD integration, especially with Fusion 360 and AutoCAD. User-friendly interface well-suited for small to medium-sized businesses. Inventor offers 3D mechanical design, documentation, and simulation."
+    },
+    {
+      "name": "OpenBOM",
+      "notes": "Modern, cloud-based platform for agile BOM management. Simplifies BOM creation, modification, and sharing across distributed teams. Features real-time collaboration, revision control, and automated part cataloging."
+    },
+    {
+      "name": "SolidWorks",
+      "ticker": "Dassault Systèmes",
+      "notes": "User-friendly CAD interface with strong community. Popular for small to medium-sized businesses, particularly in consumer products and industrial machinery sectors."
+    },
+    {
+      "name": "Onshape",
+      "ticker": "PTC",
+      "notes": "Cloud-native product development platform with integrated CAD, data management and analytics. Note: Onshape is owned by PTC but operates as a separate product line."
+    },
+    {
+      "name": "Solid Edge",
+      "ticker": "SIEGY",
+      "notes": "Siemens product development solution combining 3D design, simulation, manufacturing, data management, and cloud collaboration. Combines speed/simplicity of direct modeling with flexibility/control of parametric design."
+    }
+  ],
+  "sources": [
+    "https://cadsoftwarehub.com/blog/top-7-plm-software-solutions-with-excellent-cad-in/",
+    "https://www.g2.com/best-software-companies/top-cad-and-plm",
+    "https://www.shapr3d.com/content-library/cad-software-comparison-2025-complete-analysis-of-11-leading-platforms-for-manufacturing",
+    "https://en.wikipedia.org/wiki/PTC_Inc.",
+    "https://softwareconnect.com/roundups/best-product-lifecycle-management-software/",
+    "https://www.trustradius.com/products/ptc-creo/competitors"
+  ]
+}

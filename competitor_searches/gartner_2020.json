@@ -1,0 +1,60 @@
+{
+  "company": "Gartner",
+  "ticker": "IT",
+  "year": 2020,
+  "search_query": "Gartner competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "As digital transformation accelerated during the COVID-19 pandemic, Gartner maintained its position as the world's leading research and advisory firm. The competitive landscape included traditional research firms, management consultancies, and specialized technology advisory firms all competing for enterprise technology decision-makers.",
+  "competitors": [
+    {
+      "name": "Forrester Research",
+      "notes": "Major competitor with focus on customer experience and technology's impact on consumer behavior; Forrester Wave reports provide detailed vendor analysis"
+    },
+    {
+      "name": "IDC (International Data Corporation)",
+      "notes": "Global provider of IT market intelligence and advisory; IDC MarketScape equivalent to Magic Quadrant; strong in telecommunications and consumer tech"
+    },
+    {
+      "name": "451 Research",
+      "notes": "Detailed reports and advisory in cloud computing, data management, information security; tracks emerging technology innovation"
+    },
+    {
+      "name": "Everest Group",
+      "notes": "Focus on digital transformation, technology services, and sourcing strategies; tailored solutions competing with Gartner"
+    },
+    {
+      "name": "Info-Tech Research Group",
+      "notes": "IT research and advisory providing strategic decision support for CIOs and IT leaders"
+    },
+    {
+      "name": "Nucleus Research",
+      "notes": "Only provider of case-based technology research; ROI-centric approach with actionable insights"
+    },
+    {
+      "name": "Frost & Sullivan",
+      "notes": "Growth opportunity analytics and advisory; transformation consulting, technology insights, business model guidance"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "Project-based consulting rather than subscription research; premium pricing for strategic IT initiatives"
+    },
+    {
+      "name": "Deloitte",
+      "notes": "Big Four firm competing heavily in digital transformation and technology implementation"
+    },
+    {
+      "name": "Accenture",
+      "notes": "Technology consulting and digital transformation services competing with Gartner's advisory offerings"
+    },
+    {
+      "name": "IBM Consulting",
+      "notes": "Technology consulting and implementation services"
+    }
+  ],
+  "sources": [
+    "https://clickup.com/blog/gartner-alternatives/",
+    "https://www.tsia.com/blog/alternatives-to-gartner",
+    "https://bstrategyhub.com/gartner-competitors-alternatives/",
+    "https://businessmodelanalyst.com/gartner-competitors/"
+  ]
+}

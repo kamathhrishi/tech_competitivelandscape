@@ -1,0 +1,36 @@
+{
+  "company": "Cadence Design Systems",
+  "ticker": "CDNS",
+  "year": 2005,
+  "search_query": "Cadence Design Systems competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "In 2005, Cadence Design Systems was a leading provider of electronic design automation (EDA) software, hardware, and services for semiconductor and electronics companies. The company offered tools for IC design, verification, and analysis, serving the growing semiconductor industry during a period of rapid technological advancement. The EDA market was concentrated among a few major players providing comprehensive toolsets for chip design, simulation, and verification workflows.",
+  "competitors": [
+    {
+      "name": "Synopsys",
+      "notes": "Primary competitor and major EDA vendor offering comprehensive design, verification, and manufacturing tools for semiconductor design"
+    },
+    {
+      "name": "Mentor Graphics",
+      "notes": "Major EDA competitor providing IC design, PCB design, and embedded software tools (later acquired by Siemens in 2017)"
+    },
+    {
+      "name": "ANSYS",
+      "notes": "Competitor in simulation and analysis software, particularly for power analysis and electromagnetic verification"
+    },
+    {
+      "name": "Magma Design Automation",
+      "notes": "EDA competitor focusing on digital IC design and implementation tools (later acquired by Synopsys in 2012)"
+    },
+    {
+      "name": "Atrenta",
+      "notes": "Smaller EDA competitor specializing in design rule checking and analysis tools for semiconductor design"
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/cadence-design-systems/competitors",
+    "https://www.globaldata.com/company-profile/cadence-design-systems-inc/competitors/",
+    "https://craft.co/cadence/competitors",
+    "https://www.quora.com/Who-are-the-biggest-competitors-of-Cadence-Design-Systems"
+  ]
+}

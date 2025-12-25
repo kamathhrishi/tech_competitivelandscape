@@ -1,0 +1,64 @@
+{
+  "company": "Gen Digital",
+  "ticker": "GEN",
+  "year": 2020,
+  "search_query": "Gen Digital NortonLifeLock competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "In 2020, operating as NortonLifeLock (post-split from Symantec/Broadcom in 2019), the company focused on consumer cybersecurity and identity protection. Key strategic move: acquisition of German security firm Avira in December 2020 for $360 million, expanding its consumer antivirus portfolio. The consumer cybersecurity market was highly competitive with traditional antivirus vendors and emerging identity protection services.",
+  "competitors": [
+    {
+      "name": "McAfee",
+      "notes": "Key direct rival offering comprehensive consumer security products including antivirus and identity protection services"
+    },
+    {
+      "name": "Bitdefender",
+      "notes": "Major competitor in device security and endpoint protection with strong presence in consumer antivirus market"
+    },
+    {
+      "name": "Kaspersky",
+      "notes": "Global cybersecurity vendor competing in consumer antivirus, malware protection, and privacy tools"
+    },
+    {
+      "name": "ESET",
+      "notes": "Established competitor in consumer security software with antivirus and endpoint protection offerings"
+    },
+    {
+      "name": "Trend Micro",
+      "notes": "Japanese cybersecurity company with strong consumer and enterprise security product offerings"
+    },
+    {
+      "name": "Aura (formerly Intersections)",
+      "notes": "Primary competitor in identity theft protection services, offering credit monitoring and digital safety solutions"
+    },
+    {
+      "name": "IDShield",
+      "notes": "Identity protection competitor focusing on identity theft monitoring and restoration services"
+    },
+    {
+      "name": "Identity Guard",
+      "notes": "Competitor in identity protection market with credit monitoring and fraud detection services"
+    },
+    {
+      "name": "F-Secure",
+      "notes": "Finnish cybersecurity company competing in consumer antivirus and privacy protection"
+    },
+    {
+      "name": "Malwarebytes",
+      "notes": "Competitor specializing in malware detection and removal for consumer and business markets"
+    },
+    {
+      "name": "Microsoft Defender",
+      "notes": "Indirect competition through built-in Windows operating system security, providing baseline protection"
+    },
+    {
+      "name": "Avast",
+      "notes": "Czech cybersecurity company and future merger partner (2021), competing in consumer antivirus and privacy tools before merger"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gen_Digital",
+    "https://portersfiveforce.com/blogs/competitors/gendigital",
+    "https://www.aura.com/learn/lifelock-competitors-alternatives",
+    "https://cybernews.com/identity-theft-protection/lifelock-alternatives/"
+  ]
+}

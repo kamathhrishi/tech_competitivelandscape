@@ -1,0 +1,49 @@
+{
+  "company": "The Trade Desk",
+  "ticker": "TTD",
+  "year": 2010,
+  "search_query": "The Trade Desk competitors 2010 programmatic advertising",
+  "search_date": "2024-12-24",
+  "context": "The Trade Desk was founded in November 2009 by Jeff Green and Dave Pickles, veterans from Microsoft's AdECN acquisition. In 2010, the company raised $2.5 million in venture capital to advance its self-service, cloud-based demand-side platform (DSP). The programmatic advertising industry was in its infancy, with real-time bidding (RTB) representing only 2% of display ad spend. DSPs were just emerging as a technology category around 2011, following the launch of ad exchanges in 2007. The Trade Desk differentiated itself through its purely buy-side focus and commitment to transparency in the fragmented and opaque digital advertising landscape.",
+  "competitors": [
+    {
+      "name": "MediaMath",
+      "notes": "Pioneer that launched the first DSP in 2007, established leader with data-driven marketing strategies and focus on transparency"
+    },
+    {
+      "name": "Google DoubleClick",
+      "notes": "Major player after Google's acquisitions of AdMeld ($400M) and Invite Media ($80M) in 2010, offering integrated ad exchange and DSP capabilities"
+    },
+    {
+      "name": "AppNexus",
+      "notes": "Early ad tech platform offering DSP, SSP, and ad exchange technology, founded 2007-2010 period"
+    },
+    {
+      "name": "Microsoft AdECN",
+      "notes": "Microsoft's real-time advertising platform acquired from The Trade Desk founders' previous company, competing in RTB space"
+    },
+    {
+      "name": "Turn",
+      "notes": "Early DSP platform focusing on data-driven programmatic advertising with audience buying capabilities"
+    },
+    {
+      "name": "Rocket Fuel",
+      "notes": "DSP competitor emphasizing machine-learning algorithms for programmatic ad buying"
+    },
+    {
+      "name": "The Rubicon Project",
+      "notes": "Ad tech platform building SSP and exchange software during 2007-2010 period"
+    },
+    {
+      "name": "PubMatic",
+      "notes": "Supply-side platform that also competed in the broader programmatic advertising ecosystem"
+    }
+  ],
+  "sources": [
+    "https://www.adexchanger.com/data-driven-thinking/history-programmatic-era-control/",
+    "https://digilant.com/blog/what-is-programmatic-digital-advertising/",
+    "https://en.wikipedia.org/wiki/The_Trade_Desk",
+    "https://canvasbusinessmodel.com/blogs/brief-history/the-trade-desk-brief-history",
+    "https://www.mediapost.com/publications/article/251220/aol-dataxu-turn-the-trade-desk-appnexus-named.html"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "company": "Dynatrace Inc.",
+  "ticker": "DT",
+  "year": 2015,
+  "search_query": "Dynatrace APM competitors 2015",
+  "search_date": "2025-12-24",
+  "competitors": [
+    {"name": "AppDynamics", "notes": "Fast-growing APM vendor, IPO'd January 2017"},
+    {"name": "New Relic", "notes": "Cloud-based APM, public since December 2014"},
+    {"name": "Compuware", "notes": "Parent company of Dynatrace before spinoff"},
+    {"name": "CA Technologies APM", "notes": "Enterprise APM solutions"},
+    {"name": "HP Application Performance Management", "notes": "Enterprise APM from Hewlett-Packard"}
+  ],
+  "context": "In 2015, Dynatrace was part of Compuware and preparing for its April 2016 spinoff. The APM market was growing with cloud adoption and microservices. AppDynamics and New Relic (public since 2014) were fast-growing competitors. Traditional vendors like CA and HP competed in enterprise APM. The market was shifting from on-premises to SaaS APM delivery. Dynatrace was developing its next-generation platform that would differentiate with AI-powered automation.",
+  "sources": ["https://www.dynatrace.com/company/"]
+}

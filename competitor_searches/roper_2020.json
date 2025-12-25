@@ -1,0 +1,52 @@
+{
+  "company": "Roper Technologies",
+  "ticker": "ROP",
+  "year": 2020,
+  "search_query": "Roper Technologies ROP competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "Roper Technologies is a diversified technology company providing engineered products and solutions for global niche markets. Operates through three main segments: Application Software (Aderant, CBORD/Horizon, CliniSys, Data Innovations, Deltek, Frontline Education, IntelliTrans, PowerPlan, Strata, Vertafore), Network Software (ConstructConnect, DAT, Foundry, iPipeline, iTradeNetwork, Loadlink, MHA, SHP, SoftWriters), and Technology Enabled Products (CIVCO Medical Solutions, FMI, Inovonics, IPA, Neptune, Northern Digital, rf IDEAS, Verathon).",
+  "competitors": [
+    {
+      "name": "Fortive",
+      "notes": "Major competitor in diversified industrial technology"
+    },
+    {
+      "name": "AMETEK",
+      "notes": "Competitor in electronic instruments and specialty metals"
+    },
+    {
+      "name": "Rockwell Automation",
+      "notes": "Competitor in industrial automation and digital transformation"
+    },
+    {
+      "name": "ITT Corporation",
+      "notes": "Competitor in engineered solutions"
+    },
+    {
+      "name": "Crane Company",
+      "notes": "Competitor in industrial products"
+    },
+    {
+      "name": "Danaher Corporation",
+      "notes": "Competitor in science and technology"
+    },
+    {
+      "name": "Parker Hannifin",
+      "notes": "Similar stock in specialty industrial machinery"
+    },
+    {
+      "name": "Badger Meter",
+      "notes": "Similar stock in specialty industrial machinery"
+    },
+    {
+      "name": "Gartner",
+      "notes": "Similar stock in research and advisory services"
+    }
+  ],
+  "sources": [
+    "https://seekingalpha.com/symbol/ROP/peers/comparison",
+    "https://www.marketbeat.com/stocks/NASDAQ/ROP/competitors-and-alternatives/",
+    "https://csimarket.com/stocks/compet_glance.php?code=ROP",
+    "https://www.tipranks.com/stocks/rop/similar-stocks"
+  ]
+}

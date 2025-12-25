@@ -1,0 +1,48 @@
+{
+  "company": "NetApp",
+  "ticker": "NTAP",
+  "year": 2015,
+  "search_query": "NetApp competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "Transition to cloud and all-flash storage era. According to 2014 IDC report, NetApp ranked second in network storage industry Big 5, behind EMC (Dell), and ahead of IBM, HP and Hitachi. Cloud storage and all-flash arrays were disrupting traditional storage models. NetApp launched Cloud Volumes ONTAP to address hybrid cloud needs.",
+  "competitors": [
+    {
+      "name": "Dell EMC",
+      "notes": "Market leader with Unity, PowerMax, and comprehensive storage portfolio following EMC acquisition"
+    },
+    {
+      "name": "Pure Storage",
+      "notes": "All-flash storage specialist disrupting traditional storage with Evergreen model, growing rapidly"
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "notes": "Major competitor with Nimble Storage and 3PAR all-flash solutions"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise storage solutions and hybrid cloud strategies"
+    },
+    {
+      "name": "Hitachi Vantara",
+      "notes": "Enterprise storage with focus on data management and digital transformation"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Integrated hardware and cloud infrastructure offerings"
+    },
+    {
+      "name": "Nimble Storage",
+      "notes": "Predictive all-flash and hybrid flash arrays (acquired by HPE in 2017)"
+    },
+    {
+      "name": "Amazon Web Services",
+      "notes": "Cloud storage with S3 and EBS, disrupting traditional storage market"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/NetApp",
+    "https://www.netapp.com/netapp-vs-competitors/",
+    "https://portersfiveforce.com/blogs/competitors/netapp",
+    "https://www.marketing91.com/netapp-competitors/"
+  ]
+}

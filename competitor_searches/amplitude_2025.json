@@ -1,0 +1,70 @@
+{
+  "company": "Amplitude Analytics",
+  "ticker": "AMPL",
+  "year": 2025,
+  "search_query": "Amplitude Analytics competitors 2025 product analytics",
+  "search_date": "2025-12-24",
+  "context": "Amplitude is a product analytics platform with user sentiment rating of 90 based on 2,735 reviews. In 2025, companies face challenges with Amplitude's steep learning curve, pricing based on Monthly Tracked Users (MTUs) making costs unpredictable as usage scales, lack of user engagement layer, and absence of automated event tracking. Advanced features require significant expertise, making it harder for small/mid-sized teams to extract full value.",
+  "competitors": [
+    {
+      "name": "Pendo",
+      "notes": "Best overall Amplitude alternative. Digital experience optimization platform for product analytics of web and mobile apps. User sentiment rating: not specified."
+    },
+    {
+      "name": "Mixpanel",
+      "notes": "Second-ranked alternative. Digital analytics platform with impressive data visualization. Self-serve product analytics helping teams analyze how and why people engage, convert, retain in real-time across devices. Serves 26,000+ companies including Expedia, Uber, Ancestry, DocuSign, Lemonade."
+    },
+    {
+      "name": "Heap",
+      "notes": "Third-ranked alternative. Digital analytics platform with tools for digital experiences, user journeys, conversions, feedback, retention. User sentiment rating: 87 based on 1,528 reviews."
+    },
+    {
+      "name": "FullStory",
+      "notes": "Digital experience intelligence platform. Three parts: data capture, product analytics, session insights. Provides well-rounded view of current digital experience."
+    },
+    {
+      "name": "Contentsquare",
+      "notes": "Combines product analytics, session replay, journey analysis, voice of customer in one platform. Built-in AI and business impact analysis."
+    },
+    {
+      "name": "Smartlook",
+      "notes": "Product analytics and session recording platform similar to Amplitude."
+    },
+    {
+      "name": "Hotjar",
+      "notes": "User behavior analytics platform known for heatmaps and session recording functionality."
+    },
+    {
+      "name": "Google Analytics",
+      "notes": "Freemium website analytics software offering robust customer analytics capabilities."
+    },
+    {
+      "name": "Adobe Analytics",
+      "notes": "Creates holistic business view by turning customer interactions into actionable insights. Intuitive interactive dashboards and reports for real-time information."
+    },
+    {
+      "name": "Quantum Metric",
+      "notes": "Digital analytics platform. User sentiment rating: 94 based on 6 reviews (highest rated)."
+    },
+    {
+      "name": "Userpilot",
+      "notes": "Product analytics with user engagement capabilities. User sentiment rating: 92 based on 893 reviews."
+    },
+    {
+      "name": "UXCam",
+      "notes": "Mobile app analytics platform. User sentiment rating: 93 based on 256 reviews."
+    },
+    {
+      "name": "Glassbox",
+      "notes": "Digital experience analytics platform for large enterprises in retail and B2C. Wide feature range but can be overwhelming for teams."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/web-product-and-digital-experience-analytics/vendor/amplitude/product/amplitude-analytics/alternatives",
+    "https://www.g2.com/products/amplitude-analytics/competitors/alternatives",
+    "https://userpilot.com/blog/amplitude-alternatives/",
+    "https://livesession.io/blog/best-amplitude-alternatives-top-competitors-for-product-analytics-2025",
+    "https://www.selecthub.com/product-analytics-software/amplitude-analytics/alternatives/",
+    "https://contentsquare.com/blog/amplitude-alternatives/"
+  ]
+}

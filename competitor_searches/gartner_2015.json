@@ -1,0 +1,60 @@
+{
+  "company": "Gartner",
+  "ticker": "IT",
+  "year": 2015,
+  "search_query": "Gartner competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "Gartner expanded its influence by acquiring Capterra in 2015, entering the peer review platform market. The technology analyst landscape included both traditional research firms and emerging mid-tier specialists, as well as new peer-driven alternatives challenging traditional analyst models.",
+  "competitors": [
+    {
+      "name": "Forrester Research",
+      "notes": "Strongest competitor focusing on customer experience/journey; Forrester Wave reports highly regarded; covers established and emerging vendors"
+    },
+    {
+      "name": "IDC (International Data Corporation)",
+      "notes": "1,100+ analysts worldwide covering 110+ countries; IDC MarketScape competes with Magic Quadrant; strong in market sizing"
+    },
+    {
+      "name": "451 Research",
+      "notes": "Detailed reports on cloud computing, data management, information security; known for tracking emerging technology trends"
+    },
+    {
+      "name": "Frost & Sullivan",
+      "notes": "Business consulting firm with 45 offices globally; market research, growth strategy consulting, corporate training"
+    },
+    {
+      "name": "Constellation Research",
+      "notes": "Mid-tier firm executing well as emerging challenger to major analyst firms"
+    },
+    {
+      "name": "CXP Group",
+      "notes": "Mid-tier European technology research and consulting firm"
+    },
+    {
+      "name": "Digital Clarity Group",
+      "notes": "Mid-tier firm focused on customer experience technology"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "Project-based consulting at premium pricing for digital transformation and IT strategy"
+    },
+    {
+      "name": "Deloitte",
+      "notes": "Big Four firm with consulting arm competing in digital transformation and technology implementation"
+    },
+    {
+      "name": "G2",
+      "notes": "Peer-reviewed alternative to traditional analyst reports gaining traction"
+    },
+    {
+      "name": "TrustRadius",
+      "notes": "Peer review platform offering alternative to analyst research"
+    }
+  ],
+  "sources": [
+    "https://clickup.com/blog/gartner-alternatives/",
+    "https://www.brightworkresearch.com/who-are-the-gartner-competitors/",
+    "https://businessmodelanalyst.com/gartner-competitors/",
+    "https://www.progress.com/blogs/six-peer-reviewed-alternatives-to-gartner-and-forrester-reports"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "company": "Broadcom",
+  "ticker": "AVGO",
+  "year": 2020,
+  "search_query": "Broadcom competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "By 2020, Broadcom had transformed into a hybrid semiconductor and enterprise software company through major acquisitions. The company had acquired CA Technologies (2018) and Symantec's Enterprise Security business (2019), diversifying beyond pure semiconductors. Broadcom was the sixth-largest semiconductor company globally with over $30 billion in annual revenue. In semiconductors, it dominated networking chips for data centers and wireless communications. In software, it competed in virtualization, infrastructure, and security software for large enterprises, financial institutions, and governments.",
+  "competitors": [
+    {
+      "name": "Intel",
+      "notes": "Semiconductor competitor in data center solutions, networking, and integrated graphics"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Direct competitor in wireless communication technologies and mobile/IoT markets"
+    },
+    {
+      "name": "Nvidia",
+      "notes": "Semiconductor competitor in AI and graphics processing, posing competitive threat to Broadcom's offerings"
+    },
+    {
+      "name": "AMD",
+      "notes": "Competitor in semiconductor solutions for data centers and computing"
+    },
+    {
+      "name": "Texas Instruments",
+      "notes": "Competitor in analog and embedded processing semiconductors"
+    },
+    {
+      "name": "Marvell Technology",
+      "notes": "Competitor in networking and storage semiconductor solutions"
+    },
+    {
+      "name": "Micron",
+      "notes": "Competitor in memory and storage semiconductor solutions"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Competitor in networking infrastructure and solutions"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software competitor following Broadcom's CA Technologies and Symantec acquisitions"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise software competitor in cybersecurity, automation, and infrastructure software"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Growing competitor in enterprise software and cloud solutions"
+    }
+  ],
+  "sources": [
+    "https://www.nasdaq.com/articles/depth-analysis-broadcom-versus-competitors-semiconductors-semiconductor-equipment-industry",
+    "https://pitchgrade.com/companies/broadcom-inc",
+    "https://thebrandhopper.com/2024/02/17/top-broadcom-competitors-in-the-world/"
+  ]
+}

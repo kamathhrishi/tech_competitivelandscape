@@ -1,0 +1,69 @@
+{
+  "company": "Toast",
+  "ticker": "TOST",
+  "year": 2025,
+  "search_query": "Toast POS restaurant competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "As of 2025, Toast is an established public company and leading cloud-based restaurant management software platform based in Boston, Massachusetts. The company serves approximately 120,000 US restaurants (as of June 2024) with an all-in-one Android-based POS system. Toast maintains 21.72% market share in the POS systems category, competing against 219 competitor tools. Square remains the market leader with 25.56% share. The restaurant technology market remains highly fragmented with significant opportunity for growth, as Toast still serves less than 15% of the 800,000+ US restaurant locations. The competitive landscape features a mix of general-purpose POS systems, restaurant-specific solutions, and specialized providers targeting different restaurant segments.",
+  "competitors": [
+    {
+      "name": "Square for Restaurants",
+      "notes": "Market leader with 25.56% share in POS systems. Well-known POS option for small cafes, food trucks, and quick-service restaurants. Offers free plan with essential features, making it attractive for new businesses. Strong presence in both retail and restaurant markets."
+    },
+    {
+      "name": "Lightspeed",
+      "notes": "Comprehensive restaurant POS known for powerful back-end features, particularly in inventory and multi-location management. Ideal for restaurants scaling up or wanting deeper operational control. Higher learning curve but strong feature set for fine dining and multi-location operations."
+    },
+    {
+      "name": "Clover",
+      "notes": "Flexible POS system with 6.21% market share. Accepts more payment options than Toast with customizable features and wide range of hardware options. Custom-build capability with extensive third-party apps and integrations. No contract requirements unlike Toast."
+    },
+    {
+      "name": "TouchBistro",
+      "notes": "iPad-based POS focused on restaurant-specific needs. Intuitive, mobile-friendly solution ideal for food trucks, pop-ups, and casual dining restaurants. Strong offline functionality and affordable pricing."
+    },
+    {
+      "name": "SpotOn",
+      "notes": "All-in-one solution combining POS with marketing, loyalty, and reservation tools. Excellent for full-service restaurants looking to enhance customer engagement and retention."
+    },
+    {
+      "name": "Revel",
+      "notes": "Strong POS system designed for restaurants with multiple locations. Competes in the enterprise and multi-unit restaurant segment with robust features."
+    },
+    {
+      "name": "Retail Sales Manager",
+      "notes": "Second-largest competitor in POS systems category with 13.70% market share, though primarily focused on retail rather than restaurant-specific solutions."
+    },
+    {
+      "name": "HungerRush",
+      "notes": "Specialized POS system designed specifically for pizza restaurants and fast food chains. Strong in delivery-dependent businesses."
+    },
+    {
+      "name": "UpMenu",
+      "notes": "Emerging competitor ideal for restaurants focused on online ordering, delivery, and marketing. Strong digital-first approach."
+    },
+    {
+      "name": "Restaurant365",
+      "notes": "Restaurant management and accounting software that competes in the back-office management and financial operations segment."
+    },
+    {
+      "name": "Lavu",
+      "notes": "iPad-based restaurant POS competing in the mobile POS segment for restaurants."
+    },
+    {
+      "name": "Petpooja",
+      "notes": "Restaurant management platform competing in the broader restaurant technology space."
+    }
+  ],
+  "sources": [
+    "https://www.peblla.com/blog/10-popular-toast-competitors-according-to-customers-in-2025",
+    "https://restaurant.eatapp.co/blog/toast-tables-alternatives-and-competitors",
+    "https://www.upmenu.com/blog/toast-competitors/",
+    "https://en.wikipedia.org/wiki/Toast,_Inc.",
+    "https://www.owner.com/blog/toast-competitors",
+    "https://www.softwaresuggest.com/toast-pos/alternatives",
+    "https://pos.toasttab.com/blog/best-toast-competitors-and-alternatives",
+    "https://6sense.com/tech/pos-systems/toast-market-share",
+    "https://butterpos.com/blog/top-alternatives-to-toast-pos-in-2025"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "company": "Appian Corporation",
+  "ticker": "APPN",
+  "year": 2010,
+  "search_query": "Appian competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "By 2010, Appian had established itself as a leader in the BPM software market. According to Forrester Research in 2010, Pegasystems and Appian led the pack with the best overall combination of modeling, design, and development features. The BPM market was experiencing significant consolidation, with major acquisitions including IBM's purchase of Lombardi Software in late 2009 and Progress Software's acquisition of Savvion in January 2010. Appian launched its hosted version, Appian Anywhere, in 2007 and was gaining traction with its cloud-integrated BPM platform.",
+  "competitors": [
+    {
+      "name": "Pegasystems",
+      "notes": "Co-leader with Appian in Forrester's 2010 BPM evaluation, strong in modeling and development features"
+    },
+    {
+      "name": "IBM (including WebSphere, Lotus, FileNet, Lombardi)",
+      "notes": "Major BPM vendor after acquiring Lombardi Software in December 2009 and FileNet in 2006"
+    },
+    {
+      "name": "Software AG (including webMethods, IDS Scheer)",
+      "notes": "BPM leader after acquiring webMethods in 2007 and IDS Scheer in 2009"
+    },
+    {
+      "name": "Oracle (including BEA Systems)",
+      "notes": "Enterprise software giant competing in BPM after acquiring BEA Systems in 2008"
+    },
+    {
+      "name": "TIBCO Software",
+      "notes": "BPM vendor that acquired Staffware in 2004, competing with integration and process management tools"
+    },
+    {
+      "name": "Progress Software (Savvion)",
+      "notes": "BPM vendor after acquiring Savvion in January 2010"
+    },
+    {
+      "name": "Ultimus",
+      "notes": "Continuing BPM suite provider with workflow and process management capabilities"
+    },
+    {
+      "name": "Cordys",
+      "notes": "BPM suite vendor with cloud-based process management offerings"
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/appian/competitors",
+    "https://www.idevnews.com/images/emailers/110415_ProgressWhitePaper_EU_Kathy/2010-forrester-wave-bpm.pdf",
+    "https://www.datamation.com/networks/ibm-acquires-bpm-vendor-lombardi/",
+    "https://en.wikipedia.org/wiki/Lombardi_Software"
+  ]
+}

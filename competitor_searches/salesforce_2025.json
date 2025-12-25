@@ -1,0 +1,53 @@
+{
+  "company": "Salesforce",
+  "ticker": "CRM",
+  "year": 2025,
+  "search_query": "Salesforce CRM competitors 2025 enterprise SaaS competitive landscape",
+  "search_date": "2025-12-24",
+  "context": "Salesforce remains the dominant CRM platform with a comprehensive ecosystem, though facing increasing competition from Microsoft Dynamics 365, Oracle, and SAP. The market is characterized by AI/ML integration race, with competitors targeting cost-sensitive mid-market customers. Key competitive factors include AI capabilities, industry-specific solutions, total cost of ownership, and integration ecosystems.",
+  "competitors": [
+    {
+      "name": "Microsoft Dynamics 365",
+      "notes": "Strong competitor with deep integration into Microsoft ecosystem (Office 365, Teams, Azure), particularly attractive for organizations already invested in Microsoft technologies"
+    },
+    {
+      "name": "Oracle CX Cloud",
+      "notes": "Enterprise-focused with strong database and ERP integration capabilities, preferred by companies using Oracle infrastructure"
+    },
+    {
+      "name": "SAP Customer Experience (SAP CX)",
+      "notes": "Popular among companies already using SAP ERP systems, offering tight integration with SAP's business suite"
+    },
+    {
+      "name": "HubSpot",
+      "notes": "Strong in mid-market and growing into enterprise segment, known for marketing automation and user-friendly interface"
+    },
+    {
+      "name": "Adobe Experience Cloud",
+      "notes": "Particularly strong in marketing and customer experience management, focused on digital experience"
+    },
+    {
+      "name": "Zoho CRM",
+      "notes": "Cost-effective alternative with comprehensive suite of business tools, targeting SMB and mid-market"
+    },
+    {
+      "name": "ServiceNow",
+      "notes": "Growing presence in customer service and workflow automation, expanding beyond ITSM"
+    },
+    {
+      "name": "Freshworks (Freshsales)",
+      "notes": "Targeting SMB and mid-market with AI-powered features and affordable pricing"
+    },
+    {
+      "name": "Zendesk",
+      "notes": "Strong in customer service/support CRM functions with focus on customer experience"
+    },
+    {
+      "name": "Monday.com Sales CRM",
+      "notes": "Emerging player with user-friendly interface and visual workflow management"
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/it-service-management-platforms/vendor/servicenow/alternatives"
+  ]
+}

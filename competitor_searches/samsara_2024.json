@@ -1,0 +1,76 @@
+{
+  "company": "Samsara",
+  "ticker": "IOT",
+  "year": 2024,
+  "search_query": "Samsara IoT competitors 2024",
+  "search_date": "2024-12-24",
+  "context": "Samsara went public in 2021 and by 2024 has established itself as one of the leading providers in the commercial telematics market, consistently ranked as a market leader particularly in North America. The company reported total revenue of $1.09 billion for fiscal year 2024, representing a 43% year-over-year increase. Samsara holds approximately 4.30% market share in the IoT platform category and competes with 47 different tools across the ecosystem. The company is recognized for its comprehensive Connected Operations Cloud platform that combines IoT hardware, software, and AI to provide visibility and insights across fleet management, video-based safety, asset tracking, and industrial operations. The competitive landscape has intensified with both established players and technology giants vying for market share in the growing telematics and industrial IoT sectors. Patent disputes have emerged, including a 2024 lawsuit from Motive alleging infringement of AI dashcam technology.",
+  "competitors": [
+    {
+      "name": "Geotab",
+      "notes": "The largest fleet telematics provider globally with over 4 million connected vehicles. Market leader in Europe and Latin America by active subscriptions. Offers comprehensive telematics platform with focus on data analytics and fleet optimization. Recently acquired Verizon Connect's international operations in 2025, significantly expanding its footprint."
+    },
+    {
+      "name": "Motive",
+      "notes": "All-in-one platform emphasizing ELD compliance, asset tracking, and driver safety. Provides services including fleet management, equipment monitoring, spend management, and AI vision solutions. Filed patent infringement lawsuit against Samsara in 2024 over AI dashcam technology."
+    },
+    {
+      "name": "Lytx",
+      "notes": "According to G2 reviews, rated as the best overall Samsara alternative. Excels in video-based telematics with AI-driven fleet safety solutions, offering unparalleled visibility into driver behavior and fleet safety through advanced video analytics."
+    },
+    {
+      "name": "Verizon Connect",
+      "notes": "Recommended for large fleets and enterprise-level analytics. Provides comprehensive fleet management solutions backed by Verizon's telecommunications infrastructure. Strong in GPS tracking, maintenance alerts, and performance reporting for enterprise customers."
+    },
+    {
+      "name": "Trimble",
+      "notes": "Diversified technology company with integrated hardware and software solutions. Particularly strong in construction and transportation technology. Competes in asset management and field service solutions with comprehensive industry-specific offerings."
+    },
+    {
+      "name": "The Modbus Organization",
+      "notes": "Holds 39.11% market share in the IoT Platform category, significantly higher than Samsara. Provides industrial communication protocol and IoT connectivity standards widely adopted in manufacturing and industrial automation."
+    },
+    {
+      "name": "Zigbee",
+      "notes": "Commands 12.49% market share in IoT Platform category. Offers wireless communication protocol for IoT devices, particularly strong in smart home and industrial applications."
+    },
+    {
+      "name": "Google Cloud IoT",
+      "notes": "Holds 7.09% market share in IoT Platform category. Technology giant offering comprehensive IoT platform services that compete with Samsara's data analytics and cloud-based operational insights."
+    },
+    {
+      "name": "Azuga Fleet",
+      "notes": "Fleet management and GPS tracking solution competing in the telematics space with focus on driver safety and fuel management."
+    },
+    {
+      "name": "Wireless Links",
+      "notes": "Fleet management and telematics provider offering GPS tracking and vehicle monitoring solutions."
+    },
+    {
+      "name": "Wialon",
+      "notes": "Global fleet management platform with strong international presence. Recognized as one of the top competitors alongside Geotab and Lytx in commercial telematics market research reports."
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Offers Azure IoT services that overlap with Samsara's industrial IoT and connected operations capabilities, particularly in cloud infrastructure and analytics."
+    },
+    {
+      "name": "Oracle",
+      "notes": "Provides enterprise IoT solutions and fleet management capabilities through its cloud platform, competing in the enterprise segment."
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Operates Mobility Services Platform and IoT Control Center alongside data center connectivity solutions. Historical connection through acquisition of Meraki (founded by Samsara's founders)."
+    }
+  ],
+  "sources": [
+    "https://wlius.com/blog/samsara-alternatives/",
+    "https://canvasbusinessmodel.com/blogs/competitors/samsara-competitive-landscape",
+    "https://6sense.com/tech/iot-platform/samsara-market-share",
+    "https://www.marketbeat.com/stocks/NYSE/IOT/competitors-and-alternatives/",
+    "https://www.g2.com/products/samsara/competitors/alternatives",
+    "https://www.geotab.com/press-release/verizon-connect/",
+    "https://csimarket.com/stocks/compet_glance.php?code=IOT",
+    "https://www.rankred.com/samsara-competitors-alternatives/"
+  ]
+}

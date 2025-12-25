@@ -1,0 +1,68 @@
+{
+  "company": "Payoneer",
+  "ticker": "PAYO",
+  "year": 2024,
+  "search_query": "Payoneer competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "Cross-border payments market valued at $206.5 billion in 2024, projected to reach $414.6 billion by 2034 (7.1% CAGR). Payoneer operating as public company (IPO 2021) in highly competitive landscape driven by e-commerce expansion, digital transformation, and blockchain adoption. Competition from both fintech innovators and traditional financial institutions.",
+  "competitors": [
+    {
+      "name": "Wise (TransferWise)",
+      "notes": "Leading affordable cross-border platform with mid-market rates, multi-currency accounts supporting 40+ currencies, transparent pricing model"
+    },
+    {
+      "name": "Airwallex",
+      "notes": "Melbourne-based (2015) serving 150,000+ businesses in 180+ countries, local accounts in 20+ currencies, interbank FX rates"
+    },
+    {
+      "name": "PayPal",
+      "notes": "Operates in 200+ markets, familiar brand with extensive reach, but higher fees and less transparent currency conversion"
+    },
+    {
+      "name": "Tipalti",
+      "notes": "Enterprise-focused payments to 200+ countries in 120+ currencies with 50+ payment methods, higher fees for complex operations"
+    },
+    {
+      "name": "Revolut",
+      "notes": "Multi-currency accounts with 25+ currencies, spending in 140+ countries, mid-market exchange rates, monthly fees $0-16.99"
+    },
+    {
+      "name": "Stripe",
+      "notes": "Developer-friendly platform with Stripe Connect for marketplaces and complex payment flows"
+    },
+    {
+      "name": "Visa",
+      "notes": "Global payment network competing in cross-border payment infrastructure"
+    },
+    {
+      "name": "Mastercard",
+      "notes": "Global payment network with cross-border payment capabilities"
+    },
+    {
+      "name": "FIS",
+      "notes": "Financial technology provider with cross-border payment solutions"
+    },
+    {
+      "name": "Adyen",
+      "notes": "Payment platform offering cross-border payment acceptance and processing"
+    },
+    {
+      "name": "TransferMate",
+      "notes": "B2B cross-border payments platform"
+    },
+    {
+      "name": "PingPong Global Solutions",
+      "notes": "Cross-border payment platform focused on e-commerce and marketplaces"
+    },
+    {
+      "name": "Thunes",
+      "notes": "Cross-border payments network"
+    }
+  ],
+  "sources": [
+    "https://www.alliedmarketresearch.com/cross-border-payments-market-A288119",
+    "https://www.worldfirst.com/uk/blogs/international-transactions/best-payoneer-alternatives/",
+    "https://statrys.com/reviews/payoneer-alternatives",
+    "https://www.exiap.com/guides/payoneer-alternatives"
+  ]
+}

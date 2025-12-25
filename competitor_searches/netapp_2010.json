@@ -1,0 +1,47 @@
+{
+  "company": "NetApp",
+  "ticker": "NTAP",
+  "year": 2010,
+  "search_query": "NetApp competitors 2010",
+  "search_date": "2025-12-24",
+  "context": "Consolidation in storage market. In 2009, NetApp ranked second in market capitalization behind EMC, and ahead of Seagate, Western Digital, Brocade, Imation, and Quantum. NetApp settled patent disputes with Oracle (new owner of Sun) regarding ZFS File System in September 2010. The Big 5 storage vendors were emerging.",
+  "competitors": [
+    {
+      "name": "EMC Corporation",
+      "notes": "Market leader in enterprise storage by revenue and market cap, leading the Big 5"
+    },
+    {
+      "name": "IBM",
+      "notes": "Third in Big 5 ranking with comprehensive storage portfolio"
+    },
+    {
+      "name": "Hewlett-Packard",
+      "notes": "Fourth in Big 5 with HP StorageWorks and 3PAR (acquired 2010)"
+    },
+    {
+      "name": "Hitachi Data Systems",
+      "notes": "Fifth in Big 5 with enterprise storage arrays"
+    },
+    {
+      "name": "Dell",
+      "notes": "Growing storage business with EqualLogic and Compellent acquisitions"
+    },
+    {
+      "name": "Oracle Corporation",
+      "notes": "Storage offerings following Sun Microsystems acquisition, ZFS competitor"
+    },
+    {
+      "name": "Seagate Technology",
+      "notes": "Storage systems and hardware provider"
+    },
+    {
+      "name": "Western Digital",
+      "notes": "Enterprise storage solutions"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/NetApp",
+    "https://www.simplyblock.io/blog/competitors-to-netapp/",
+    "https://www.marketing91.com/netapp-competitors/"
+  ]
+}

@@ -1,0 +1,498 @@
+/**
+ * Software Sector Competitive Intelligence
+ * Clean, information-first interface
+ */
+
+const state = {
+    filter: 'public',
+    industry: '',
+    currentEntity: null,
+    selectedYear: null,
+    currentPage: 1,
+    perPage: 20
+};
+
+const entityMap = new Map();
+
+// Initialize
+function init() {
+    COMPETITOR_DATA.entities.forEach(entity => {
+        entityMap.set(entity.slug, entity);
+    });
+
+    populateIndustryFilter();
+    setupEventListeners();
+    renderCompanyList();
+    handleHashChange();
+    window.addEventListener('hashchange', handleHashChange);
+}
+
+// Populate industry dropdown
+function populateIndustryFilter() {
+    const industries = new Set();
+    Object.values(COMPETITOR_DATA.industries).forEach(list => {
+        list.forEach(i => industries.add(i));
+    });
+
+    const select = document.getElementById('industryFilter');
+    Array.from(industries).sort().forEach(industry => {
+        const option = document.createElement('option');
+        option.value = industry;
+        option.textContent = industry;
+        select.appendChild(option);
+    });
+}
+
+// Event listeners
+function setupEventListeners() {
+    // Filter tabs
+    document.querySelectorAll('.tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            state.filter = tab.dataset.filter;
+            state.currentPage = 1;
+            renderCompanyList();
+        });
+    });
+
+    // Industry filter
+    document.getElementById('industryFilter').addEventListener('change', (e) => {
+        state.industry = e.target.value;
+        state.currentPage = 1;
+        renderCompanyList();
+    });
+
+    // Search
+    const searchInput = document.getElementById('globalSearch');
+    const searchResults = document.getElementById('searchResults');
+
+    searchInput.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase().trim();
+        if (query.length < 2) {
+            searchResults.classList.remove('active');
+            return;
+        }
+
+        const results = COMPETITOR_DATA.entities
+            .filter(entity =>
+                entity.name.toLowerCase().includes(query) ||
+                (entity.ticker && entity.ticker.toLowerCase().includes(query))
+            )
+            .slice(0, 8);
+
+        if (results.length > 0) {
+            searchResults.innerHTML = results.map(entity => `
+                <div class="search-result" data-slug="${encodeURIComponent(entity.slug)}">
+                    <span>${entity.name}</span>
+                    ${entity.ticker ? `<span class="ticker">${entity.ticker}</span>` : ''}
+                </div>
+            `).join('');
+            searchResults.querySelectorAll('.search-result').forEach(item => {
+                item.addEventListener('click', () => {
+                    navigateToEntity(decodeURIComponent(item.dataset.slug));
+                    searchResults.classList.remove('active');
+                    searchInput.value = '';
+                });
+            });
+            searchResults.classList.add('active');
+        } else {
+            searchResults.classList.remove('active');
+        }
+    });
+
+    searchInput.addEventListener('blur', () => {
+        setTimeout(() => searchResults.classList.remove('active'), 200);
+    });
+}
+
+// Render company list with pagination
+function renderCompanyList() {
+    let entities = [...COMPETITOR_DATA.entities];
+
+    // Filter
+    if (state.filter === 'public') {
+        entities = entities.filter(e => e.isPublic);
+    }
+
+    // Industry filter
+    if (state.industry) {
+        entities = entities.filter(e => {
+            const industries = COMPETITOR_DATA.industries[e.slug] || [];
+            return industries.includes(state.industry);
+        });
+    }
+
+    // Sort alphabetically
+    entities.sort((a, b) => a.name.localeCompare(b.name));
+
+    // Pagination
+    const totalPages = Math.ceil(entities.length / state.perPage);
+    if (state.currentPage > totalPages) state.currentPage = 1;
+    const start = (state.currentPage - 1) * state.perPage;
+    const end = start + state.perPage;
+    const pageEntities = entities.slice(start, end);
+
+    const container = document.getElementById('companyList');
+    container.innerHTML = pageEntities.map(entity => `
+        <div class="company-row" data-slug="${encodeURIComponent(entity.slug)}">
+            <span class="company-name">${entity.name}</span>
+            ${entity.ticker ? `<span class="company-ticker">${entity.ticker}</span>` : ''}
+        </div>
+    `).join('');
+
+    // Add click handlers
+    container.querySelectorAll('.company-row').forEach(row => {
+        row.addEventListener('click', () => {
+            navigateToEntity(decodeURIComponent(row.dataset.slug));
+        });
+    });
+
+    // Render pagination
+    renderPagination(entities.length, totalPages);
+}
+
+// Render pagination controls
+function renderPagination(totalItems, totalPages) {
+    let paginationContainer = document.getElementById('pagination');
+    if (!paginationContainer) {
+        paginationContainer = document.createElement('div');
+        paginationContainer.id = 'pagination';
+        paginationContainer.className = 'pagination';
+        document.getElementById('companyList').after(paginationContainer);
+    }
+
+    if (totalPages <= 1) {
+        paginationContainer.innerHTML = '';
+        return;
+    }
+
+    const pages = [];
+    const current = state.currentPage;
+
+    // Always show first page
+    pages.push(1);
+
+    // Show ellipsis and nearby pages
+    if (current > 3) pages.push('...');
+    for (let i = Math.max(2, current - 1); i <= Math.min(totalPages - 1, current + 1); i++) {
+        if (!pages.includes(i)) pages.push(i);
+    }
+    if (current < totalPages - 2) pages.push('...');
+
+    // Always show last page
+    if (totalPages > 1 && !pages.includes(totalPages)) pages.push(totalPages);
+
+    paginationContainer.innerHTML = `
+        <button class="page-btn" ${current === 1 ? 'disabled' : ''} onclick="goToPage(${current - 1})">←</button>
+        ${pages.map(p => p === '...'
+            ? '<span class="page-ellipsis">…</span>'
+            : `<button class="page-btn ${p === current ? 'active' : ''}" onclick="goToPage(${p})">${p}</button>`
+        ).join('')}
+        <button class="page-btn" ${current === totalPages ? 'disabled' : ''} onclick="goToPage(${current + 1})">→</button>
+        <span class="page-info">${totalItems} companies</span>
+    `;
+}
+
+// Go to specific page
+function goToPage(page) {
+    state.currentPage = page;
+    renderCompanyList();
+    window.scrollTo(0, 0);
+}
+
+// Navigation
+function navigateToEntity(slug) {
+    window.location.hash = slug;
+}
+
+function handleHashChange() {
+    const hash = window.location.hash.slice(1);
+    if (hash && entityMap.has(hash)) {
+        showEntity(hash);
+    } else {
+        showHome();
+    }
+}
+
+function showHome() {
+    window.location.hash = '';
+    document.getElementById('homeView').classList.add('active');
+    document.getElementById('entityView').classList.remove('active');
+    state.currentEntity = null;
+}
+
+// Show entity detail
+function showEntity(slug) {
+    const entity = entityMap.get(slug);
+    if (!entity) return;
+
+    state.currentEntity = entity;
+
+    // Header
+    document.getElementById('entityName').textContent = entity.name;
+
+    const tickerEl = document.getElementById('entityTicker');
+    if (entity.ticker) {
+        tickerEl.textContent = entity.ticker;
+        tickerEl.style.display = '';
+    } else {
+        tickerEl.style.display = 'none';
+    }
+
+    document.getElementById('entityType').textContent = entity.isPublic ? 'Public Company' : 'Entity';
+
+    // Stats
+    document.getElementById('statCompetitors').textContent = entity.competitors?.length || 0;
+    document.getElementById('statYears').textContent = entity.years ? Object.keys(entity.years).length : 0;
+    document.getElementById('statCitations').textContent = entity.mentionedBy.length;
+
+    // Industries
+    const industries = COMPETITOR_DATA.industries[slug] || [];
+    const industriesSection = document.getElementById('industriesSection');
+    const industriesList = document.getElementById('industriesList');
+
+    if (industries.length > 0) {
+        industriesList.innerHTML = industries.map(i => `<span class="industry-tag">${i}</span>`).join('');
+        industriesSection.style.display = '';
+    } else {
+        industriesSection.style.display = 'none';
+    }
+
+    // Year selector
+    renderYearSelector(entity);
+
+    // Competitors summary
+    renderCompetitorsSummary(entity);
+
+    // Citations
+    renderCitations(entity);
+
+    // Show view
+    document.getElementById('homeView').classList.remove('active');
+    document.getElementById('entityView').classList.add('active');
+    window.scrollTo(0, 0);
+}
+
+// Render year selector
+function renderYearSelector(entity) {
+    const container = document.getElementById('yearSelector');
+    const contentContainer = document.getElementById('yearContent');
+
+    if (!entity.years || Object.keys(entity.years).length === 0) {
+        container.innerHTML = '';
+
+        // Show notes for non-public entities
+        if (entity.notes && Object.keys(entity.notes).length > 0) {
+            const years = Object.keys(entity.notes).sort((a, b) => parseInt(b) - parseInt(a));
+            container.innerHTML = years.map((year, i) => `
+                <button class="year-tab ${i === 0 ? 'active' : ''}" data-year="${year}">${year}</button>
+            `).join('') + '<span class="more-years">+ more coming</span>';
+
+            state.selectedYear = years[0];
+            renderYearContentForNonPublic(entity, years[0]);
+
+            container.querySelectorAll('.year-tab').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    container.querySelectorAll('.year-tab').forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    state.selectedYear = tab.dataset.year;
+                    renderYearContentForNonPublic(entity, tab.dataset.year);
+                });
+            });
+        } else {
+            contentContainer.innerHTML = '<p class="no-data">No timeline data available.</p>';
+        }
+        return;
+    }
+
+    const years = Object.keys(entity.years).sort((a, b) => parseInt(b) - parseInt(a));
+
+    container.innerHTML = years.map((year, i) => `
+        <button class="year-tab ${i === 0 ? 'active' : ''}" data-year="${year}">${year}</button>
+    `).join('') + '<span class="more-years">+ more coming</span>';
+
+    // Set initial year
+    state.selectedYear = years[0];
+    renderYearContent(entity, years[0]);
+
+    // Year tab clicks
+    container.querySelectorAll('.year-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+            container.querySelectorAll('.year-tab').forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            state.selectedYear = tab.dataset.year;
+            renderYearContent(entity, tab.dataset.year);
+        });
+    });
+}
+
+// Render year content
+function renderYearContent(entity, year) {
+    const data = entity.years[year];
+    const container = document.getElementById('yearContent');
+
+    container.innerHTML = `
+        ${data.context ? `<div class="year-context">${data.context}</div>` : ''}
+
+        <div class="competitors-for-year">
+            <h3>Competitors in ${year}</h3>
+            ${data.competitors.map(comp => {
+                const compSlug = createSlug(comp.name);
+                const compEntity = entityMap.get(compSlug);
+                const isPublic = compEntity?.isPublic || false;
+                return `
+                    <div class="competitor-item" data-slug="${encodeURIComponent(compSlug)}">
+                        <div class="competitor-header">
+                            <span class="competitor-name">${comp.name}</span>
+                            ${isPublic ? '<span class="competitor-public">Public</span>' : ''}
+                        </div>
+                        ${comp.notes ? `<p class="competitor-notes">${comp.notes}</p>` : ''}
+                    </div>
+                `;
+            }).join('')}
+        </div>
+
+        ${data.sources && data.sources.length > 0 ? `
+            <div class="sources-section">
+                <h3>Sources</h3>
+                ${data.sources.map(url => {
+                    const domain = extractDomain(url);
+                    return `<a href="${url}" target="_blank" rel="noopener" class="source-link">${domain} ↗</a>`;
+                }).join('')}
+            </div>
+        ` : ''}
+    `;
+
+    // Add click handlers for competitor items
+    container.querySelectorAll('.competitor-item').forEach(item => {
+        item.addEventListener('click', () => {
+            navigateToEntity(decodeURIComponent(item.dataset.slug));
+        });
+    });
+}
+
+// Render year content for non-public entities
+function renderYearContentForNonPublic(entity, year) {
+    const notes = entity.notes[year];
+    const container = document.getElementById('yearContent');
+
+    container.innerHTML = `
+        <div class="competitors-for-year">
+            <h3>References in ${year}</h3>
+            ${notes.map(n => `
+                <div class="competitor-item" data-slug="${encodeURIComponent(createSlug(n.from))}">
+                    <div class="competitor-header">
+                        <span class="competitor-name">${n.from}</span>
+                        <span class="competitor-public">Source</span>
+                    </div>
+                    ${n.note ? `<p class="competitor-notes">${n.note}</p>` : ''}
+                </div>
+            `).join('')}
+        </div>
+    `;
+
+    // Add click handlers
+    container.querySelectorAll('.competitor-item').forEach(item => {
+        item.addEventListener('click', () => {
+            navigateToEntity(decodeURIComponent(item.dataset.slug));
+        });
+    });
+}
+
+// Render all competitors summary
+function renderCompetitorsSummary(entity) {
+    const container = document.getElementById('competitorsList');
+    const section = document.getElementById('competitorsSection');
+    const competitors = entity.competitors || [];
+
+    if (competitors.length === 0) {
+        section.style.display = 'none';
+        return;
+    }
+
+    section.style.display = '';
+
+    // Sort: public first, then alphabetical
+    const sorted = [...competitors].sort((a, b) => {
+        if (a.isPublic !== b.isPublic) return a.isPublic ? -1 : 1;
+        return a.name.localeCompare(b.name);
+    });
+
+    container.innerHTML = sorted.map(comp => `
+        <div class="competitor-chip" data-slug="${encodeURIComponent(comp.slug)}">
+            <span>${comp.name}</span>
+            ${comp.ticker ? `<span class="chip-ticker">${comp.ticker}</span>` : ''}
+        </div>
+    `).join('');
+
+    // Add click handlers
+    container.querySelectorAll('.competitor-chip').forEach(chip => {
+        chip.addEventListener('click', () => {
+            navigateToEntity(decodeURIComponent(chip.dataset.slug));
+        });
+    });
+}
+
+// Render citations
+function renderCitations(entity) {
+    const container = document.getElementById('citationsList');
+    const section = document.getElementById('citationsSection');
+    const mentions = entity.mentionedBy || [];
+
+    if (mentions.length === 0) {
+        section.style.display = 'none';
+        return;
+    }
+
+    section.style.display = '';
+
+    // Group by company
+    const grouped = {};
+    mentions.forEach(m => {
+        if (!grouped[m.slug]) {
+            grouped[m.slug] = { ...m, years: [] };
+        }
+        grouped[m.slug].years.push(m.year);
+    });
+
+    const sorted = Object.values(grouped).sort((a, b) => a.name.localeCompare(b.name));
+
+    container.innerHTML = sorted.map(m => `
+        <div class="citation-item" data-slug="${encodeURIComponent(m.slug)}">
+            <span class="citation-company">${m.name}</span>
+            <span class="citation-years">${m.years.sort().join(', ')}</span>
+        </div>
+    `).join('');
+
+    // Add click handlers
+    container.querySelectorAll('.citation-item').forEach(item => {
+        item.addEventListener('click', () => {
+            navigateToEntity(decodeURIComponent(item.dataset.slug));
+        });
+    });
+}
+
+// Utilities
+function createSlug(name) {
+    return name
+        .toLowerCase()
+        .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '')
+        .replace(/\s+/g, ' ')
+        .replace(/\b(inc|corp|corporation|ltd|llc|co|company|technologies|technology|software|systems|holdings|group|plc|nv|sa)\b/gi, '')
+        .trim()
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-');
+}
+
+function extractDomain(url) {
+    try {
+        const hostname = new URL(url).hostname;
+        return hostname.replace('www.', '');
+    } catch {
+        return url;
+    }
+}
+
+// Init on DOM ready
+document.addEventListener('DOMContentLoaded', init);

@@ -1,0 +1,39 @@
+{
+  "company": "Dell Technologies",
+  "ticker": "DELL",
+  "year": 2005,
+  "search_query": "Dell competitors 2005 computer hardware",
+  "search_date": "2025-12-24",
+  "context": "In 2005, Dell's sales growth slowed considerably despite continued earnings growth, with the stock losing 25% of its value. By Q4 2006, Dell lost its title as largest PC manufacturer to HP, whose restructuring under CEO Mark Hurd reinvigorated its Personal Systems Group. The slowing growth was attributed to the maturing PC market, which constituted 66% of Dell's sales. 2006 marked the first year Dell's growth was slower than the PC industry as a whole.",
+  "competitors": [
+    {
+      "name": "Hewlett-Packard (HP)",
+      "notes": "Fiercest competitor; merged with Compaq in 2002 and acquired EDS; regained PC market leadership from Dell by Q4 2006"
+    },
+    {
+      "name": "IBM",
+      "notes": "One of the oldest technology companies; known for extensive R&D and innovation; sold PC business to Lenovo in 2005"
+    },
+    {
+      "name": "Lenovo",
+      "notes": "Acquired IBM's PC business in 2005, becoming a major competitor in PC and server markets"
+    },
+    {
+      "name": "Acer",
+      "notes": "Founded 1976; operates in over 70 countries with 7,900 employees as of mid-2000s"
+    },
+    {
+      "name": "Samsung",
+      "notes": "Diversified technology competitor in PC and consumer electronics"
+    },
+    {
+      "name": "Apple",
+      "notes": "Premium PC and technology competitor"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dell",
+    "https://www.marketing91.com/dell-competitors/",
+    "https://www.mbaskool.com/competitors/companies/18497-dell.html"
+  ]
+}

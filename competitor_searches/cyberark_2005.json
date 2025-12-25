@@ -1,0 +1,33 @@
+{
+  "company": "CyberArk Software",
+  "ticker": "CYBR",
+  "year": 2005,
+  "search_query": "CyberArk competitors 2005 privileged access management",
+  "search_date": "2024-12-24",
+  "context": "In 2005, CyberArk was an early pioneer in the emerging Privileged Access Management (PAM) market, having been founded in 1999 by Udi Mokady and Alon N. Cohen in Israel. The company launched its Privileged Account Security Solution in 2005, built on its innovative 'Digital Vault' technology. At this time, the PAM market was still nascent, with most organizations relying on manual processes, spreadsheets, or basic password vaults to manage privileged access. CyberArk's focus on securing IT administrators' unlimited access to critical data positioned it as one of the first dedicated vendors in this space, competing primarily against general identity management solutions from established enterprise vendors.",
+  "competitors": [
+    {
+      "name": "IBM Tivoli",
+      "notes": "Enterprise identity and access management suite including Tivoli Access Manager and Tivoli Identity Manager, offering privilege management capabilities for operating systems and applications across Unix, Linux, and Windows platforms"
+    },
+    {
+      "name": "CA Technologies",
+      "notes": "Provided CA ControlMinder (later part of CA Privileged Access Manager) for host access control and privileged user management across physical and virtual environments, with capabilities for superuser delegation and access restriction"
+    },
+    {
+      "name": "Thycotic",
+      "notes": "Released Secret Server in 2005, an enterprise password management software for IT admins, competing directly with CyberArk in the emerging privileged password management space"
+    },
+    {
+      "name": "BeyondTrust (formerly Bomgar)",
+      "notes": "Founded in 1985, pioneered many early PAM capabilities with PowerBroker solutions, though initially focused more on remote access and systems management before expanding into comprehensive PAM"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/CyberArk",
+    "https://www.researchandmarkets.com/report/privileged-access-management",
+    "https://golden.com/wiki/Thycotic-MNAPBEG",
+    "https://www.ibm.com/docs/en/spim/1.0.1.1?topic=overview-privileged-identity-management",
+    "https://docops.ca.com/ca-privileged-identity-management/12-8/en/reference/the-ca-controlminder-registry/accesscontrol"
+  ]
+}

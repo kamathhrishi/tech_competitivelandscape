@@ -1,0 +1,79 @@
+{
+  "company": "Varonis",
+  "ticker": "VRNS",
+  "year": 2025,
+  "search_query": "Varonis competitors 2025 data security governance",
+  "search_date": "2025-12-24",
+  "context": "The 2025 data security market shows Varonis competitors taking the lead, with Osano holding a dominant 37.54% market share compared to Varonis DatAdvantage's 0.02% slice. Organizations explore Varonis alternatives due to pricing complexity, usability concerns, limited integrations, and resource-heavy deployment requirements. Varonis's pricing structure frustrates organizations with lack of transparency and high costs - company doesn't show base prices on website. SMBs often receive quotes around $150,000 that drop to $100,000 after negotiations. Teams now shortlist competitors offering agentless coverage, instant SaaS integrations, GenAI awareness, and automated remediation. Deciding factors are breadth of integrations, signal quality in real workflows, time to value, and whether remediation is first class or afterthought. Varonis originally built platform on agent-based model and expanded into cloud and SaaS security; historically recognized for strength in discovering and classifying on-premises data, but customer feedback notes cloud-native capabilities still maturing and remediation features limited compared to competitors.",
+  "competitors": [
+    {
+      "name": "Egnyte",
+      "notes": "Best overall Varonis alternative according to G2. Provides unified content security and governance solution for collaboration, data security, compliance, and threat detection for multicloud businesses. Trusted by over 16,000 organizations, offers comprehensive platform to reduce risks, simplify IT complexity, prevent ransomware and IP theft."
+    },
+    {
+      "name": "Netwrix Auditor",
+      "notes": "Strong contender for large enterprises with complex infrastructures. Offers comprehensive integration capabilities across diverse environments and advanced features like proactive attack path identification. Unlike Varonis's resource-intensive implementation, can be operational within hours, saving valuable IT resources."
+    },
+    {
+      "name": "StealthAUDIT",
+      "notes": "Strong contender for large enterprises with complex infrastructures alongside Netwrix Auditor. Comprehensive integration and advanced security capabilities."
+    },
+    {
+      "name": "BigID",
+      "notes": "Platform includes foundational data discovery combining data classification and cataloging for finding personal, sensitive and high value data. Automates scans, discovery, classification, and workflows across unstructured and structured data, on-prem and cloud. Uses advanced machine learning and data intelligence to help enterprises better manage and protect data."
+    },
+    {
+      "name": "SolarWinds Access Rights Manager",
+      "notes": "Stands out for intuitive interface and straightforward deployment. Offers clearer pricing structures helping organizations plan budgets more effectively compared to Varonis."
+    },
+    {
+      "name": "ManageEngine ADAudit Plus",
+      "notes": "Offers over 200 event-specific email alerts and detailed GUI reports. Competes in Active Directory auditing and data security governance."
+    },
+    {
+      "name": "Lepide Auditor",
+      "notes": "Appeals to teams with user-friendly design and extensive predefined threat models. Competes in data security and auditing space."
+    },
+    {
+      "name": "Strac",
+      "notes": "Modern DSPM (Data Security Posture Management) solution focusing on different layers of data discovery and protection with modern approach."
+    },
+    {
+      "name": "Cyera",
+      "notes": "Modern DSPM competitor focusing on data discovery, classification, and security posture management with cloud-native approach."
+    },
+    {
+      "name": "Securiti",
+      "notes": "Modern DSPM solution competing in data privacy, security, and governance with comprehensive data intelligence platform."
+    },
+    {
+      "name": "Sentra",
+      "notes": "Modern DSPM competitor focusing on cloud data security with agentless discovery and automated remediation."
+    },
+    {
+      "name": "Dig Security",
+      "notes": "Modern DSPM solution competing in cloud data security posture management space with focus on data pipelines and analytics."
+    },
+    {
+      "name": "OpenText",
+      "notes": "Leading vendor offering extensive coverage across entire data lifecycle and all data types. Named leader in 2025 Data Security Platforms Leadership Compass by KuppingerCole."
+    },
+    {
+      "name": "DoControl",
+      "notes": "Competes in SaaS security and data governance with focus on collaboration platforms and automated remediation workflows."
+    },
+    {
+      "name": "Osano",
+      "notes": "Holds dominant 37.54% market share in data security market. Focuses on data privacy compliance and consent management."
+    }
+  ],
+  "sources": [
+    "https://www.startupbooted.com/varonis-competitors",
+    "https://www.trustradius.com/products/varonis-data-security-platform/competitors",
+    "https://backtofrontshow.com/varonis-competitors/",
+    "https://www.strac.io/blog/top-10-varonis-competitors-and-alternatives",
+    "https://www.gartner.com/reviews/market/file-analysis-software/vendor/varonis/product/varonis-data-security-platform/alternatives",
+    "https://www.docontrol.io/blog/varonis-alternatives-and-competitors",
+    "https://www.latterly.org/varonis-competitors/"
+  ]
+}

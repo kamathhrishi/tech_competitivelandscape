@@ -1,0 +1,65 @@
+{
+  "company": "Broadcom",
+  "ticker": "AVGO",
+  "year": 2024,
+  "search_query": "Broadcom competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "In 2024, Broadcom completed its monumental $61-69 billion acquisition of VMware (late 2023), becoming a true hybrid infrastructure giant. The company surpassed $1 trillion market cap in December 2024, becoming the 12th company to achieve this milestone. Broadcom's business is split between semiconductors (58% of revenue) and infrastructure software (42%). In semiconductors, the company dominates networking chips, custom AI ASICs (co-developed Google's TPU), and wireless solutions. In software, the VMware acquisition created one of the largest infrastructure software portfolios alongside CA Technologies and Symantec. Major challenges include VMware customer migration to subscription pricing and competition from alternative virtualization platforms.",
+  "competitors": [
+    {
+      "name": "Nvidia",
+      "notes": "Primary AI semiconductor competitor, dominates general-purpose AI GPUs while Broadcom leads in custom AI ASICs"
+    },
+    {
+      "name": "Intel",
+      "notes": "Semiconductor competitor in data center solutions, CPUs, networking chips, and Ethernet controllers"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Competitor in wireless communication technologies, mobile processors, and specialized semiconductors"
+    },
+    {
+      "name": "AMD",
+      "notes": "Semiconductor competitor in AI chips, data center processors, and GPUs"
+    },
+    {
+      "name": "Marvell Technology",
+      "notes": "Competitor in data center networking, custom silicon, and storage solutions"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software competitor in cloud infrastructure, databases, and enterprise applications"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise software competitor with extensive portfolio in cybersecurity, automation, and enterprise services"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Major enterprise software competitor in virtualization, cloud platforms (Azure), and enterprise solutions"
+    },
+    {
+      "name": "Nutanix",
+      "notes": "Direct VMware alternative in hyperconverged infrastructure and virtualization, benefiting from VMware customer concerns"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Competitor in networking infrastructure, both as customer and competitor"
+    },
+    {
+      "name": "Texas Instruments",
+      "notes": "Semiconductor competitor in analog and embedded processing"
+    },
+    {
+      "name": "Micron",
+      "notes": "Competitor in memory and storage solutions"
+    }
+  ],
+  "sources": [
+    "https://thebrandhopper.com/2024/02/17/top-broadcom-competitors-in-the-world/",
+    "https://pitchgrade.com/companies/broadcom-inc",
+    "https://investors.broadcom.com/static-files/752e631c-b5f3-46af-9d67-bdeb658f5fa2",
+    "https://en.wikipedia.org/wiki/Broadcom_Inc.",
+    "https://markets.financialcontent.com/wral/article/predictstreet-2025-12-23-the-infrastructure-architect-a-deep-dive-into-broadcoms-avgo-ai-and-software-empire"
+  ]
+}

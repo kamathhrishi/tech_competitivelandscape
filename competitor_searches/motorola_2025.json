@@ -1,0 +1,41 @@
+{
+  "company": "Motorola Solutions",
+  "ticker": "MSI",
+  "year": 2025,
+  "search_query": "Motorola Solutions MSI competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "Motorola Solutions is a global leader in public safety and enterprise security offering Land Mobile Radio (LMR), Command Center, Video Security and Access Control solutions. Estimated total addressable market over $60 billion. Net sales increased from $2.556B in Q3 2023 to $2.790B in Q3 2024. Operating earnings rose from $639M to $711M. Recent developments: January 2025 - Hytera pleaded guilty to stealing trade secrets and will pay maximum $60M fine plus restitution. November 2025 - acquired Blue Eye (AI-powered enterprise remote video monitoring).",
+  "competitors": [
+    {
+      "name": "BigBear.ai",
+      "notes": "Alternative competitor in AI-powered decision intelligence and analytics"
+    },
+    {
+      "name": "Eagle Eye Networks",
+      "notes": "Competitor in cloud video surveillance and security solutions"
+    },
+    {
+      "name": "HUB Security",
+      "notes": "Competitor in cybersecurity and secure communications"
+    },
+    {
+      "name": "L3Harris Technologies",
+      "notes": "Major established competitor in public safety and defense communications"
+    },
+    {
+      "name": "Hytera Communications",
+      "notes": "Chinese competitor in professional mobile radio; pleaded guilty to trade secret theft in January 2025"
+    },
+    {
+      "name": "Airbus Defence and Space",
+      "notes": "Competitor in defense and public safety communications"
+    }
+  ],
+  "sources": [
+    "https://www.marketbeat.com/stocks/NYSE/MSI/competitors-and-alternatives/",
+    "https://csimarket.com/stocks/compet_glance.php?code=MSI",
+    "https://www.crunchbase.com/organization/motorola-solutions",
+    "https://seekingalpha.com/article/4648976-motorola-solutions-mapping-future-amid-competitive-challenges",
+    "https://finance.yahoo.com/news/decoding-motorola-solutions-inc-msi-050236564.html"
+  ]
+}

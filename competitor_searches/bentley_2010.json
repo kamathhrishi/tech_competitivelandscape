@@ -1,0 +1,48 @@
+{
+  "company": "Bentley Systems",
+  "ticker": "BSY",
+  "year": 2010,
+  "search_query": "Bentley Systems competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "By 2010, Bentley Systems had grown into a comprehensive infrastructure engineering software provider with a broad portfolio of products for design, construction, and operations of infrastructure assets. The company served roads, bridges, buildings, industrial plants, utilities, and telecommunications infrastructure. Bentley continued its growth strategy through both organic development and strategic acquisitions, competing against both specialized CAD vendors and broader design software companies. The infrastructure software market was increasingly focused on BIM (Building Information Modeling) and integrated lifecycle solutions.",
+  "competitors": [
+    {
+      "name": "Autodesk",
+      "notes": "Major competitor with Civil 3D, Revit, Navisworks, and comprehensive infrastructure and BIM solutions dominating market share"
+    },
+    {
+      "name": "Trimble",
+      "notes": "Growing competitor with positioning technology, civil engineering, and construction management software"
+    },
+    {
+      "name": "ESRI",
+      "notes": "GIS market leader with infrastructure planning, asset management, and geospatial analysis capabilities"
+    },
+    {
+      "name": "Hexagon (Intergraph)",
+      "notes": "CAD, engineering, and asset management software for infrastructure and industrial facilities"
+    },
+    {
+      "name": "Dassault Systèmes",
+      "notes": "3D design and PLM software provider competing in industrial plant and some infrastructure applications"
+    },
+    {
+      "name": "Nemetschek Group",
+      "notes": "AEC software provider with multiple brands serving architecture, engineering, and construction markets"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software vendor with Primavera for construction project management and some engineering applications"
+    },
+    {
+      "name": "Schneider Electric",
+      "notes": "Competing in industrial plant design and asset management software for utilities and energy infrastructure"
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/bentley-systems/competitors",
+    "https://craft.co/bentley-systems/competitors",
+    "https://6sense.com/tech/bim-and-architectural-design-software/bentley-market-share",
+    "https://www.owler.com/company/bentleysystems"
+  ]
+}

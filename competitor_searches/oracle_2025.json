@@ -1,0 +1,67 @@
+{
+  "company": "Oracle Corporation",
+  "ticker": "ORCL",
+  "year": 2025,
+  "search_query": "Oracle competitors 2025 competitive landscape",
+  "search_date": "2025-12-24",
+  "context": "Oracle competes across database management, cloud infrastructure (Oracle Cloud Infrastructure - OCI), and enterprise applications (ERP, HCM, CX). The company has carved out a niche in 'sovereign AI' for regulated industries and engages in fierce competition with Microsoft and SAP for enterprise back-office dominance. Oracle faces intense pressure from hyperscale cloud providers (AWS, Azure, Google Cloud) while maintaining strength in database and enterprise software markets. The company is positioning OCI as an alternative to major cloud platforms.",
+  "competitors": [
+    {
+      "name": "Microsoft",
+      "notes": "Major competitor across cloud infrastructure (Azure vs OCI), databases (SQL Server vs Oracle Database), and enterprise applications (Dynamics 365 vs Oracle Cloud Applications). Fierce battle for back-office ERP/HCM dominance."
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "notes": "Cloud infrastructure market leader competing with Oracle Cloud Infrastructure. Dominant position in IaaS with 30%+ market share vs Oracle's smaller share."
+    },
+    {
+      "name": "Google Cloud Platform",
+      "notes": "Cloud infrastructure and data warehousing competitor. Google BigQuery competes with Oracle's cloud database offerings."
+    },
+    {
+      "name": "IBM",
+      "notes": "Database competitor (Db2 vs Oracle Database) and cloud services rival. Competes in enterprise software and hybrid cloud solutions."
+    },
+    {
+      "name": "SAP",
+      "notes": "Major ERP competitor. Primary rival for large enterprise ERP implementations. Direct competition in enterprise applications market."
+    },
+    {
+      "name": "Salesforce",
+      "notes": "CRM and Customer Experience (CX) competitor. Leading position in cloud-based CRM vs Oracle's CX Cloud."
+    },
+    {
+      "name": "Workday",
+      "notes": "Significant cloud-based HCM and Financial Management competitor. Strong position in human capital management vs Oracle HCM Cloud."
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "notes": "Comprehensive ERP and CRM competitor across finance, operations, and customer engagement."
+    },
+    {
+      "name": "PostgreSQL",
+      "notes": "Open-source database competitor gaining enterprise adoption as alternative to Oracle Database."
+    },
+    {
+      "name": "MySQL",
+      "notes": "Open-source database (ironically owned by Oracle) that competes with Oracle's commercial database offerings in certain segments."
+    },
+    {
+      "name": "MongoDB",
+      "notes": "NoSQL database competitor challenging Oracle's traditional relational database model for modern applications."
+    },
+    {
+      "name": "Snowflake",
+      "notes": "Cloud data warehousing competitor with strong growth. Alternative to Oracle's data warehouse solutions and analytics platforms."
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "notes": "Primary relational database competitor to Oracle Database in enterprise environments."
+    },
+    {
+      "name": "IBM Cloud",
+      "notes": "Cloud infrastructure competitor, particularly in hybrid cloud and enterprise workloads."
+    }
+  ],
+  "sources": []
+}

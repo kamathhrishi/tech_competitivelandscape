@@ -1,0 +1,53 @@
+{
+  "company": "ServiceNow",
+  "ticker": "NOW",
+  "year": 2025,
+  "search_query": "ServiceNow ITSM competitors 2025 workflow automation market",
+  "search_date": "2025-12-24",
+  "context": "The global ITSM market is projected to grow from $10.5B (2023) to $22.1B (2028) at 15.9% CAGR. ServiceNow's 2025 acquisition of Moveworks signals industry shift toward AI-native integrated service management platforms. Competition is intensifying with both enterprise players (BMC, Jira) and mid-market alternatives (Freshservice, Ivanti) targeting ServiceNow's 40-60% higher pricing. The market is transitioning from bolt-on AI tools to integrated AI-driven platforms.",
+  "competitors": [
+    {
+      "name": "BMC Helix ITSM",
+      "notes": "ServiceNow's biggest competitor, offering AI/ML-powered ITSM with deployment flexibility (on-premise, cloud, hybrid). Key differentiator vs ServiceNow's SaaS-only model, appealing to enterprises with strict regulatory requirements"
+    },
+    {
+      "name": "Jira Service Management",
+      "notes": "Atlassian's ITSM platform with seamless integration into broader Atlassian suite, connecting IT operations with software development teams. Free version available for up to 3 agents"
+    },
+    {
+      "name": "Freshservice",
+      "notes": "Cloud-based ITSM platform focused on simplicity and quick deployment, designed to be intuitive from day one with AI-driven ticket management. Easier to deploy than ServiceNow"
+    },
+    {
+      "name": "Ivanti Neurons",
+      "notes": "No-code workflow design platform with AI-powered chatbots and automatic issue detection/resolution. Enables business managers to design workflows without coding"
+    },
+    {
+      "name": "Zendesk",
+      "notes": "Strong in service management with AI capabilities for triaging requests and automating workflows, providing comprehensive visibility into service interactions"
+    },
+    {
+      "name": "SolarWinds Service Desk",
+      "notes": "Advanced ITSM features but requires more setup and expertise compared to simpler alternatives"
+    },
+    {
+      "name": "Halo ITSM",
+      "notes": "Emerging alternative offering comprehensive ITSM capabilities at lower price points than ServiceNow"
+    },
+    {
+      "name": "Atomicwork",
+      "notes": "Modern AI-native service management platform emerging as ServiceNow alternative"
+    },
+    {
+      "name": "Open Source Alternatives",
+      "notes": "GLPI (full ITSM suite), iTop (CMDB-focused), Zammad (helpdesk/ticketing), osTicket (support ticketing) - cost-effective options for budget-conscious organizations"
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/it-service-management-platforms/vendor/servicenow/alternatives",
+    "https://www.cloudeagle.ai/blogs/servicenow-alternatives-and-competitors",
+    "https://www.saasgenie.ai/best-itsm-servicenow-alternatives",
+    "https://www.atomicwork.com/blog/best-servicenow-alternatives",
+    "https://www.saasworthy.com/blog/top-servicenow-alternatives"
+  ]
+}

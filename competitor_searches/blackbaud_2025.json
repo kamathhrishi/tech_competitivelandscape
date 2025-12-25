@@ -1,0 +1,86 @@
+{
+  "company": "Blackbaud",
+  "ticker": "BLKB",
+  "year": 2025,
+  "search_query": "Blackbaud competitors 2025 nonprofit fundraising software",
+  "search_date": "2025-12-24",
+  "context": "Blackbaud is a leading provider of cloud-based software for nonprofits, foundations, and educational institutions. In 2025, organizations increasingly seek alternatives due to Blackbaud's complex pricing (Raiser's Edge starts at $5,000 for single user, features from $119/month), steep learning curve, and lack of free trial. The nonprofit software market is competitive with both enterprise-scale and SMB-focused alternatives.",
+  "competitors": [
+    {
+      "name": "Salesforce Nonprofit Cloud",
+      "notes": "Best overall alternative to Blackbaud Enterprise Fundraising CRM. Built on Salesforce platform with enterprise scale, deep configurability, powerful automation, and robust reporting. Supports complex multi-program operations."
+    },
+    {
+      "name": "Bloomerang",
+      "notes": "Top alternative for both Enterprise CRM and Raiser's Edge. Cloud-based donor management with CRM, online donations, email marketing, and reporting. Pricing starts at $125/month for 1000 contacts."
+    },
+    {
+      "name": "Virtuous CRM+",
+      "notes": "Top Raiser's Edge alternative. User-friendly customizable interface. Nonprofits worldwide switching from Blackbaud. Resources like Virtuous Academy for quick onboarding."
+    },
+    {
+      "name": "Neon CRM",
+      "notes": "Third-ranked alternative. Cloud-based nonprofit CRM with event management, volunteer tracking, online store, donor communication, one-click reporting, automated receipts. Starts at $99/month with unlimited users."
+    },
+    {
+      "name": "DonorPerfect",
+      "notes": "Top alternative for Raiser's Edge NXT. Online fundraising software for tracking annual appeals, crowdfunding, gifts, donations, volunteers. Scalable for all nonprofit sizes."
+    },
+    {
+      "name": "Bonterra",
+      "notes": "Umbrella brand combining fundraising, digital engagement, impact management, and grants management. Portfolio includes EveryAction, CyberGrants, Social Solutions, GiveGab. Sophisticated multi-channel engagement tools."
+    },
+    {
+      "name": "Microsoft Cloud for Nonprofit",
+      "notes": "Built on Dynamics 365 and Power Platform. Centralizes donor, volunteer, program data. Strong integration with Microsoft 365, Azure, and Power BI."
+    },
+    {
+      "name": "Donorbox",
+      "notes": "Alternative for online donation management and fundraising."
+    },
+    {
+      "name": "Givebutter",
+      "notes": "Fundraising platform alternative to Blackbaud."
+    },
+    {
+      "name": "OneCause",
+      "notes": "Fundraising software for events and donor engagement."
+    },
+    {
+      "name": "Tithe.ly",
+      "notes": "Giving platform for churches and nonprofits."
+    },
+    {
+      "name": "Zeffy",
+      "notes": "Free fundraising platform alternative."
+    },
+    {
+      "name": "Keela",
+      "notes": "Nonprofit CRM and fundraising software."
+    },
+    {
+      "name": "GiveWP",
+      "notes": "WordPress donation plugin for nonprofits."
+    },
+    {
+      "name": "DonorSnap",
+      "notes": "Affordable donor management software."
+    },
+    {
+      "name": "Little Green Light",
+      "notes": "Cloud-based donor management for small nonprofits."
+    },
+    {
+      "name": "Flipcause",
+      "notes": "All-in-one fundraising platform."
+    }
+  ],
+  "sources": [
+    "https://www.bonterratech.com/blog/blackbaud-alternatives",
+    "https://www.g2.com/products/blackbaud-enterprise-fundraising-crm/competitors/alternatives",
+    "https://www.jotform.com/nonprofit/blackbaud-alternative/",
+    "https://www.latterly.org/blackbaud-competitors/",
+    "https://virtuous.org/compare/blackbaud/",
+    "https://www.g2.com/products/blackbaud-raiser-s-edge-nxt/competitors/alternatives"
+  ]
+}

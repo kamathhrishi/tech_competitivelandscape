@@ -1,0 +1,55 @@
+{
+  "company": "Dell Technologies",
+  "ticker": "DELL",
+  "year": 2010,
+  "search_query": "Dell competitors 2010 enterprise technology",
+  "search_date": "2025-12-24",
+  "context": "By 2010, Dell was expanding beyond PCs into enterprise technology including servers, storage, and networking solutions. In 2009, Dell announced it would move manufacturing from Limerick, Ireland to Łódź, Poland by January 2010. HP had split its business in 2015 into HP Inc (computers and printers) and Hewlett Packard Enterprise (products and services). Dell faced competition across multiple segments: PC/servers, enterprise infrastructure, storage, and networking.",
+  "competitors": [
+    {
+      "name": "Hewlett-Packard (HP)",
+      "notes": "Major competitor across PCs, servers, and enterprise solutions; later split into HP Inc and HPE in 2015"
+    },
+    {
+      "name": "Lenovo",
+      "notes": "Competitor in PC and server markets after acquiring IBM's PC division in 2005"
+    },
+    {
+      "name": "Hewlett Packard Enterprise (HPE)",
+      "notes": "Key competitor in enterprise servers, storage, and networking solutions (formed from HP split in 2015)"
+    },
+    {
+      "name": "IBM",
+      "notes": "Competitor in enterprise technology, software, and hardware solutions"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Competitor in networking solutions, particularly in enterprise space"
+    },
+    {
+      "name": "NetApp",
+      "notes": "Enterprise storage competitor offering scalable storage solutions"
+    },
+    {
+      "name": "Apple",
+      "notes": "Competitor in PC and consumer technology markets"
+    },
+    {
+      "name": "Acer",
+      "notes": "PC manufacturer competitor"
+    },
+    {
+      "name": "Fujitsu",
+      "notes": "Enterprise technology and PC competitor"
+    },
+    {
+      "name": "Toshiba",
+      "notes": "PC and enterprise technology competitor"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dell",
+    "https://craft.co/dell-technologies/competitors",
+    "https://www.simplyblock.io/blog/competitors-to-dell-emc/"
+  ]
+}

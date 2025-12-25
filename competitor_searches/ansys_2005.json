@@ -1,0 +1,40 @@
+{
+  "company": "ANSYS",
+  "ticker": "ANSS",
+  "year": 2005,
+  "search_query": "ANSYS competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "In 2005, ANSYS was a well-established leader in engineering simulation software, providing finite element analysis (FEA), computational fluid dynamics (CFD), and multiphysics simulation tools. The company served industries including aerospace, automotive, electronics, and manufacturing. The simulation software market was competitive with several major players offering overlapping capabilities for virtual product development, structural analysis, and electromagnetic simulation.",
+  "competitors": [
+    {
+      "name": "Altair Engineering",
+      "notes": "Competitor offering CAE software and HyperWorks suite for simulation and optimization across multiple engineering domains"
+    },
+    {
+      "name": "Cadence Design Systems",
+      "notes": "Competitor in electronic design automation (EDA) and simulation software for semiconductor and electronics industries"
+    },
+    {
+      "name": "Dassault Systèmes",
+      "notes": "Major competitor providing simulation through SIMULIA brand, integrated with broader PLM and 3D design platforms"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Competitor in CAD and engineering design software with simulation and analysis capabilities"
+    },
+    {
+      "name": "MSC Software",
+      "notes": "Direct competitor in finite element analysis and multidisciplinary simulation for product development"
+    },
+    {
+      "name": "COMSOL",
+      "notes": "Competitor offering multiphysics simulation software for modeling and analysis across engineering disciplines"
+    }
+  ],
+  "sources": [
+    "https://tracxn.com/d/companies/ansys/__ff-UUGeNkyWkQRFKy6i2TsFC8Wfae6yg1suXHNQzQQY/competitors",
+    "https://craft.co/ansys/competitors",
+    "https://www.comparably.com/companies/ansys-inc/competitors",
+    "https://www.globaldata.com/company-profile/ansys-inc/competitors/"
+  ]
+}

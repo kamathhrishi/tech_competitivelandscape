@@ -1,0 +1,44 @@
+{
+  "company": "Bentley Systems",
+  "ticker": "BSY",
+  "year": 2005,
+  "search_query": "Bentley Systems competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "In 2005, Bentley Systems was an established provider of infrastructure engineering software, founded in 1984. The company's flagship product MicroStation competed in the CAD market for civil engineering, architecture, and infrastructure projects. In 2005, Bentley was actively expanding through acquisitions, having acquired Rebis and Infrasoft in 2003, Haestad Methods in 2004, and completing the acquisition of Research Engineers International (REI) and its STAAD structural analysis product in August 2005. The company was also expanding into the telecom sector. The primary competition came from Autodesk's infrastructure and civil engineering products.",
+  "competitors": [
+    {
+      "name": "Autodesk",
+      "notes": "Primary competitor with AutoCAD Civil 3D and infrastructure design software for civil engineering and construction"
+    },
+    {
+      "name": "ESRI",
+      "notes": "Geographic information system (GIS) software provider with applications in infrastructure planning and asset management"
+    },
+    {
+      "name": "Trimble",
+      "notes": "Positioning and surveying technology provider with civil engineering and construction software"
+    },
+    {
+      "name": "Intergraph (later acquired by Hexagon)",
+      "notes": "CAD and engineering software provider for infrastructure and industrial facilities"
+    },
+    {
+      "name": "Dassault Systèmes (CATIA)",
+      "notes": "3D CAD software competing in some infrastructure and industrial plant design applications"
+    },
+    {
+      "name": "PTC",
+      "notes": "CAD and PLM software vendor with some applications in infrastructure and industrial design"
+    },
+    {
+      "name": "Nemetschek",
+      "notes": "European AEC software provider with CAD and design tools for architecture and infrastructure"
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/bentley-systems/competitors",
+    "https://en.wikipedia.org/wiki/Bentley_Systems",
+    "https://www.bentley.com/software/microstation/",
+    "https://craft.co/bentley-systems/competitors"
+  ]
+}

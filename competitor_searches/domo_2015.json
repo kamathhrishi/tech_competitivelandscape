@@ -1,0 +1,44 @@
+{
+  "company": "Domo",
+  "ticker": "DOMO",
+  "year": 2015,
+  "search_query": "Domo competitors 2015 business intelligence BI market",
+  "search_date": "2024-12-24",
+  "context": "In 2015, Domo was positioning itself as a cloud-first business intelligence platform aimed at making data accessible to business end users without heavy IT involvement. The BI market in 2015 was dominated by established players like Tableau and QlikView, with Microsoft having just launched Power BI earlier that year as a competitive response. Domo differentiated itself with its cloud-native architecture, mobile-first approach, and emphasis on real-time data visualization. The company was still private in 2015 (it would IPO in 2018) and competing against both traditional on-premise BI solutions and newer cloud-based analytics platforms. The market was undergoing a significant shift from traditional BI reporting tools to self-service analytics platforms that empowered business users.",
+  "competitors": [
+    {
+      "name": "Tableau",
+      "notes": "Market leader in data visualization and business intelligence, known for intuitive drag-and-drop interface and powerful analytics capabilities. Tableau was the dominant player in the self-service BI space in 2015."
+    },
+    {
+      "name": "QlikView / Qlik Sense",
+      "notes": "Major BI platform known for its associative data model allowing exploratory data analysis. QlikView was the established product while Qlik Sense (launched 2014) was the newer cloud-focused offering."
+    },
+    {
+      "name": "Microsoft Power BI",
+      "notes": "Microsoft's business intelligence platform launched in 2015, leveraging Microsoft's ecosystem and offering competitive pricing. Rapidly gaining adoption due to Office 365 integration."
+    },
+    {
+      "name": "Sisense",
+      "notes": "BI platform focused on handling complex data from multiple sources with embedded analytics capabilities, competing in the self-service BI market."
+    },
+    {
+      "name": "Looker",
+      "notes": "Data exploration and business intelligence platform (acquired by Google in 2019) that used SQL-based data modeling, popular among tech-savvy organizations."
+    },
+    {
+      "name": "SAP BusinessObjects",
+      "notes": "Traditional enterprise BI suite from SAP, representing the older generation of BI tools that required significant IT involvement."
+    },
+    {
+      "name": "IBM Cognos Analytics",
+      "notes": "Enterprise BI and performance management solution, part of the traditional BI market that Domo was disrupting with its cloud-first approach."
+    }
+  ],
+  "sources": [
+    "https://www.domo.com/competitors",
+    "https://www.g2.com/products/domo/competitors/alternatives",
+    "https://www.zucisystems.com/blog/comparing-business-intelligence-tools-tableau-vs-power-bi-vs-qlik-vs-domo/",
+    "https://medium.com/@analyticsemergingindia/decoding-data-dashboards-a-comparative-analysis-of-tableau-power-bi-qlik-and-domo-in-business-05b8356b678d"
+  ]
+}

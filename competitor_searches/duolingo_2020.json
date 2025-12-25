@@ -1,0 +1,58 @@
+{
+  "company": "Duolingo",
+  "ticker": "DUOL",
+  "year": 2020,
+  "search_query": "Duolingo competitors 2020 language learning apps",
+  "search_date": "2025-12-24",
+  "context": "Pre-IPO period (2020) for Duolingo. The language learning app market was characterized by established players and emerging gamified apps. Competitors ranged from traditional desktop-based solutions like Rosetta Stone to mobile-first apps like Babbel and Busuu. The market focused on gamification, free-to-download models with premium subscriptions, and mobile accessibility.",
+  "competitors": [
+    {
+      "name": "Babbel",
+      "notes": "Main competitor offering structured lessons, real-life dialogues, and grammar depth for adult learners seeking comprehensive language learning"
+    },
+    {
+      "name": "Rosetta Stone",
+      "notes": "Established player and best overall alternative, offering immersive language learning experience"
+    },
+    {
+      "name": "Busuu",
+      "notes": "Free option supporting wide range of languages, built according to CEFR standards, no daily limits or mistake penalties"
+    },
+    {
+      "name": "Memrise",
+      "notes": "Popular free app with 100+ languages, game-style learning with video clips of native speakers"
+    },
+    {
+      "name": "Drops",
+      "notes": "Unique 5-minute learning sprint approach for focused, short sessions to improve memorization"
+    },
+    {
+      "name": "LingoDeer",
+      "notes": "Best for Asian and European languages (Japanese, Korean, Chinese, French, German), comprehensive foundation-based approach"
+    },
+    {
+      "name": "Lingvist",
+      "notes": "Focuses on practical vocabulary from actual conversations rather than gamified lessons"
+    },
+    {
+      "name": "Mosalingua",
+      "notes": "Alternative offering better teaching methods according to reviewers"
+    },
+    {
+      "name": "Mondly",
+      "notes": "Alternative with improved teaching methodology compared to Duolingo"
+    },
+    {
+      "name": "Pimsleur",
+      "notes": "Audio-based learning focusing on speaking practice"
+    }
+  ],
+  "sources": [
+    "https://beebom.com/duolingo-alternatives/",
+    "https://www.g2.com/products/duolingo/competitors/alternatives",
+    "https://www.alllanguageresources.com/duolingo-alternatives/",
+    "https://www.classcentral.com/report/duolingo-alternatives/",
+    "https://talkpal.ai/top-duolingo-competitors-best-language-learning-apps-compared/",
+    "https://www.appverticals.com/blog/best-duolingo-alternatives/"
+  ]
+}

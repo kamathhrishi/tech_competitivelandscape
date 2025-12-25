@@ -1,0 +1,45 @@
+{
+  "company": "Freshworks",
+  "ticker": "FRSH",
+  "year": 2015,
+  "search_query": "Freshworks Freshdesk competitors 2015 customer service helpdesk",
+  "search_date": "2024-12-24",
+  "context": "In 2015, Freshworks (operating primarily under its Freshdesk product brand) was an emerging player in the cloud-based customer service and helpdesk software market. Founded in 2010 in Chennai, India, Freshworks had positioned itself as an affordable, easy-to-use alternative to established players like Zendesk. The company focused on providing customer support solutions for small and medium-sized businesses with features like ticketing, knowledge base, and multi-channel support. By 2015, Freshworks had gained significant traction with its freemium model and was expanding its product portfolio beyond helpdesk into CRM and other customer engagement tools. The helpdesk market in 2015 was experiencing rapid growth as more companies moved from on-premise solutions to cloud-based customer service platforms.",
+  "competitors": [
+    {
+      "name": "Zendesk",
+      "notes": "Market leader in cloud-based customer service software, founded in 2007. Zendesk was the primary competitor with strong enterprise presence, extensive features, and higher pricing that Freshworks positioned against."
+    },
+    {
+      "name": "Salesforce Service Cloud",
+      "notes": "Enterprise customer service platform integrated with Salesforce's CRM ecosystem, targeting larger organizations with complex service requirements."
+    },
+    {
+      "name": "Zoho Desk (Zoho Support)",
+      "notes": "Part of Zoho's suite of business applications, offering helpdesk and customer support functionality with strong integration across Zoho products, competing in the SMB space."
+    },
+    {
+      "name": "Desk.com",
+      "notes": "Small business-focused helpdesk solution (acquired by Salesforce in 2011) that competed in the SMB market segment before being merged into Service Cloud."
+    },
+    {
+      "name": "UserVoice",
+      "notes": "Customer feedback and helpdesk platform popular with SaaS companies, offering ticketing, feedback forums, and knowledge base features."
+    },
+    {
+      "name": "Help Scout",
+      "notes": "Simple, email-based customer support platform targeting small businesses looking for an alternative to complex helpdesk systems."
+    },
+    {
+      "name": "TeamSupport",
+      "notes": "B2B-focused customer support software offering ticket management and collaboration features for support teams."
+    }
+  ],
+  "sources": [
+    "https://www.freshworks.com/freshdesk/compare-helpdesks/zendesk-vs-freshdesk/",
+    "https://www.zendesk.com/service/comparison/zendesk-vs-freshdesk/",
+    "https://www.zendesk.com/service/comparison/freshdesk-alternative/",
+    "https://craft.co/freshworks/competitors",
+    "https://www.cbinsights.com/company/freshdesk/alternatives-competitors"
+  ]
+}

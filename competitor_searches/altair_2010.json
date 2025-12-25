@@ -1,0 +1,41 @@
+{
+  "company": "Altair Engineering",
+  "ticker": "ALTR",
+  "year": 2010,
+  "search_query": "Altair Engineering competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "By 2010, Altair Engineering had strengthened its position as a leading provider of simulation, HPC (high-performance computing), and data analytics solutions. The company's HyperWorks CAE software product competed in a mature market where engineering simulation tools were becoming increasingly essential for product development across automotive, aerospace, and industrial manufacturing sectors. The competitive landscape included both established enterprise software vendors and specialized simulation providers.",
+  "competitors": [
+    {
+      "name": "ANSYS",
+      "notes": "Primary competitor offering comprehensive engineering simulation software for predicting product behavior and performance"
+    },
+    {
+      "name": "Dassault Systèmes",
+      "notes": "Major competitor providing 3D design, simulation, and PLM solutions through its SIMULIA brand and other platforms"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Significant competitor in CAD and engineering design software with expanding simulation capabilities"
+    },
+    {
+      "name": "MSC Software",
+      "notes": "Direct competitor in CAE simulation software for virtual product development and testing"
+    },
+    {
+      "name": "CD-adapco Group",
+      "notes": "Competitor specializing in computational fluid dynamics (CFD) and multidisciplinary simulation software"
+    },
+    {
+      "name": "Bentley Systems",
+      "notes": "Provider of engineering software for infrastructure and industrial projects, competing in overlapping segments"
+    }
+  ],
+  "sources": [
+    "https://www.cbinsights.com/company/altair-engineering/alternatives-competitors",
+    "https://www.comparably.com/companies/altair-engineering/competitors",
+    "https://www.globaldata.com/company-profile/altair-engineering-inc/competitors/",
+    "https://craft.co/altair-engineering/competitors",
+    "https://en.wikipedia.org/wiki/Altair_Engineering"
+  ]
+}

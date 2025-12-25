@@ -1,0 +1,58 @@
+{
+  "company": "Pure Storage",
+  "ticker": "PSTG",
+  "year": 2025,
+  "search_query": "Pure Storage competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "Pure Storage has 0.67% market share in storage infrastructure with 52 competitors. Over 2,591 companies worldwide use Pure Storage, with 1,473 (69.45%) in the United States. Top industries: Managed Services (131), Cloud Services (106), and Cybersecurity (97). Key differentiators include all-flash architecture, non-disruptive upgrades, and subscription-based model. Established leader in all-flash storage arrays for enterprise environments.",
+  "competitors": [
+    {
+      "name": "Google Cloud Storage",
+      "notes": "Dominant cloud storage with 92.07% market share in storage infrastructure category"
+    },
+    {
+      "name": "Amazon Elastic Block Store (EBS)",
+      "notes": "Cloud storage with 1.84% market share"
+    },
+    {
+      "name": "DigitalOcean",
+      "notes": "Cloud storage provider with 1.40% market share"
+    },
+    {
+      "name": "Dell EMC",
+      "notes": "Traditional enterprise leader with PowerMax and Unity XT. End-to-end NVMe architecture, AI-driven automation, mission-critical workload focus"
+    },
+    {
+      "name": "IBM Storage FlashSystem",
+      "notes": "Best Pure Storage alternative. Comprehensive all-flash and hybrid flash suite with AI optimization. Claims 40% lifecycle cost savings through AI vs manual processes"
+    },
+    {
+      "name": "NetApp",
+      "notes": "Pure-play storage supplier with AFF series. Unified data management across on-premises and cloud. Performance, efficiency, cloud integration focus"
+    },
+    {
+      "name": "HPE 3PAR",
+      "notes": "Enterprise storage alternative alongside IBM FlashSystem and TrueNAS"
+    },
+    {
+      "name": "TrueNAS",
+      "notes": "Top Pure Storage FlashArray alternative"
+    },
+    {
+      "name": "Hitachi Vantara",
+      "notes": "Virtual Storage Platform with pricing/support excellence, robust legacy integration, enterprise features. More comprehensive deployment time vs Pure's speed/ease"
+    },
+    {
+      "name": "Simplyblock",
+      "notes": "Emerging competitor with software-defined storage, NVMe over Fabrics (NVMe-oF), Kubernetes-native deployments, modular architecture"
+    }
+  ],
+  "sources": [
+    "https://www.simplyblock.io/blog/competitors-to-purestorage/",
+    "https://www.gartner.com/reviews/market/primary-storage-platforms/vendor/pure-storage/alternatives",
+    "https://6sense.com/tech/storage-infrastructure/pure-storage-market-share",
+    "https://www.gartner.com/reviews/market/hybrid-cloud-storage/vendor/pure-storage/alternatives",
+    "https://www.g2.com/products/pure-storage-flasharray/competitors/alternatives",
+    "https://bullfincher.io/companies/pure-storage/competitors"
+  ]
+}

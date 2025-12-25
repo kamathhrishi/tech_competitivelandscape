@@ -1,0 +1,69 @@
+{
+  "company": "Atlassian",
+  "ticker": "TEAM",
+  "year": 2025,
+  "search_query": "Atlassian collaboration competitors 2025 project management DevOps tools",
+  "search_date": "2025-12-24",
+  "context": "Atlassian (founded 2002 in Sydney) develops tools for software development, project management, and team collaboration. Products include Jira, Confluence, and Bitbucket. Competition comes from DevOps platforms (GitLab, GitHub, Azure DevOps), project management tools (Monday.com, Asana), and collaboration platforms (Microsoft Teams, Slack). Key challenges: complexity, pricing prohibitive for small businesses/startups, steep learning curve, performance issues. Teams seeking simpler, more flexible solutions with better AI integration.",
+  "competitors": [
+    {
+      "name": "GitLab",
+      "notes": "First alternative for end-to-end DevOps management. Delivers everything from version control to CI/CD on single platform. Brings all DevOps lifecycle stages into one uniform, user-friendly interface, minimizing friction between developer and operation teams"
+    },
+    {
+      "name": "GitHub",
+      "notes": "Widely used platform for hosting and collaborating on code repositories with seamless integration with developer tools and vast community. Integrated capabilities for access control, bug logging, feature requests, project management, and wikis. Excellent for open-source projects"
+    },
+    {
+      "name": "Azure DevOps",
+      "notes": "Microsoft product providing end-to-end DevOps toolchain including Agile planning, source code management (Git), automated builds, testing tools, and release management"
+    },
+    {
+      "name": "Monday.com",
+      "notes": "Popular project management platform that streamlines workflows across teams. Two offerings: Monday Work Management for projects/tasks and Monday Dev for product development lifecycles"
+    },
+    {
+      "name": "Asana",
+      "notes": "Work management platform helping teams organize and manage work from small tasks to strategic initiatives. Stands out with clean, user-friendly interface and robust project management capabilities"
+    },
+    {
+      "name": "Basecamp",
+      "notes": "Project management platform for enhancing collaboration and streamlining project tracking, particularly for small teams. User-friendly interface and straightforward design make it accessible and intuitive"
+    },
+    {
+      "name": "Microsoft Teams",
+      "notes": "Teamwork and collaboration hub providing chat, video meetings, file storage, and user application integration. Part of Microsoft's collaborative products competing with Atlassian"
+    },
+    {
+      "name": "Slack",
+      "notes": "Business communication platform creating organized space for teams to interact in channels designated to different departments/tasks. Strength lies in seamless integration with many work-related tools and software"
+    },
+    {
+      "name": "Nuclino",
+      "notes": "More than knowledge base - unified workspace bringing team's notes, docs, and projects together in central location. Excels in facilitating collaboration and knowledge sharing within single platform"
+    },
+    {
+      "name": "ServiceNow",
+      "notes": "Competitor in workflow automation and collaboration space"
+    },
+    {
+      "name": "Jive Software",
+      "notes": "Collaboration and communication platform competitor"
+    },
+    {
+      "name": "Zoho",
+      "notes": "Offers project management and collaboration tools competing with Atlassian"
+    },
+    {
+      "name": "Wrike",
+      "notes": "Project management and collaboration platform alternative"
+    }
+  ],
+  "sources": [
+    "https://www.nuclino.com/alternatives/atlassian-alternatives",
+    "https://www.atlassian.com/software/jira/comparison",
+    "https://slite.com/en/learn/confluence-alternatives",
+    "https://www.getmagical.com/blog/best-atlassian-alternatives",
+    "https://www.marketing91.com/atlassian-competitors/"
+  ]
+}

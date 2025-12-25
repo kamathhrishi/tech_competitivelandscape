@@ -1,0 +1,52 @@
+{
+  "company": "Aspen Technology",
+  "ticker": "AZPN",
+  "year": 2010,
+  "search_query": "Aspen Technology AspenTech competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "By 2010, Aspen Technology had solidified its position as a leading provider of process optimization software for asset-intensive industries including oil & gas, chemicals, pharmaceuticals, and energy. The company's software enabled manufacturers to optimize engineering, manufacturing, and supply chain processes. Competition remained intense from established industrial software vendors, automation companies, and specialized engineering software providers. The industry was evolving toward more integrated solutions combining real-time data management, advanced process control, and optimization capabilities.",
+  "competitors": [
+    {
+      "name": "OSIsoft",
+      "notes": "Top competitor with PI System platform for industrial data management and real-time process optimization"
+    },
+    {
+      "name": "AVEVA",
+      "notes": "Major industrial software competitor with process simulation, engineering design, and asset management solutions"
+    },
+    {
+      "name": "Honeywell Process Solutions",
+      "notes": "Large-scale industrial automation and optimization software provider with comprehensive process management tools"
+    },
+    {
+      "name": "Schneider Electric",
+      "notes": "Industrial automation vendor with process optimization and energy management software"
+    },
+    {
+      "name": "Emerson (DeltaV, Syncade)",
+      "notes": "Process automation and manufacturing execution systems for industrial optimization"
+    },
+    {
+      "name": "Canary Labs",
+      "notes": "Industrial data historian and trending software for process monitoring and optimization"
+    },
+    {
+      "name": "Chemstations",
+      "notes": "Process simulation and chemical engineering software for design and optimization"
+    },
+    {
+      "name": "Bentley Systems",
+      "notes": "Infrastructure and plant design software with some overlap in process engineering applications"
+    },
+    {
+      "name": "ANSYS",
+      "notes": "Engineering simulation software with applications in process equipment design and optimization"
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/aspentech/competitors",
+    "https://www.owler.com/company/aspentech/competitors",
+    "https://www.zippia.com/aspen-technology-careers-1007/competitors/",
+    "https://6sense.com/tech/enterprise-asset-management-software/aspen-technology-market-share"
+  ]
+}

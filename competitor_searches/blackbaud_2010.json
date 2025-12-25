@@ -1,0 +1,53 @@
+{
+  "company": "Blackbaud",
+  "ticker": "BLKB",
+  "year": 2010,
+  "search_query": "Blackbaud competitors 2010",
+  "search_date": "2024-12-24",
+  "context": "By 2010, Blackbaud had further consolidated its dominance in the nonprofit software market through strategic acquisitions. The company acquired Kintera in 2008, expanding its online fundraising and event management capabilities. Blackbaud controlled approximately 25% of the nonprofit CRM market and was known as the clear market leader in social impact software. However, competition was increasing as general-purpose CRM vendors like Salesforce developed nonprofit-specific solutions, and new cloud-based fundraising platforms emerged. The market was evolving from traditional on-premise software toward cloud-based and Software-as-a-Service (SaaS) delivery models.",
+  "competitors": [
+    {
+      "name": "Salesforce (Nonprofit Success Pack)",
+      "notes": "Major competitor with customizable CRM adapted for nonprofits, offering free licenses for up to 10 users"
+    },
+    {
+      "name": "DonorPerfect",
+      "notes": "Established donor management software provider with growing cloud-based fundraising platform"
+    },
+    {
+      "name": "Convio (later acquired by Blackbaud in 2012)",
+      "notes": "Leading online marketing and fundraising software for nonprofits, strong in digital engagement"
+    },
+    {
+      "name": "CiviCRM",
+      "notes": "Mature open source CRM for nonprofits offering free alternative to proprietary systems, translated into 30+ languages"
+    },
+    {
+      "name": "Microsoft Dynamics CRM",
+      "notes": "Enterprise CRM being adapted for nonprofit use with fundraising and donor management customizations"
+    },
+    {
+      "name": "Salsa Labs",
+      "notes": "Online fundraising, advocacy, and email marketing platform for nonprofits and advocacy organizations"
+    },
+    {
+      "name": "DonorSnap",
+      "notes": "Web-based donor management and fundraising software for small to mid-size nonprofits"
+    },
+    {
+      "name": "eTapestry (owned by Blackbaud)",
+      "notes": "Cloud-based donor management system acquired by Blackbaud, targeting smaller nonprofits"
+    },
+    {
+      "name": "Network for Good",
+      "notes": "Online fundraising and donor management platform focused on small nonprofits"
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/blackbaud/competitors",
+    "https://en.wikipedia.org/wiki/Blackbaud",
+    "https://www.zippia.com/blackbaud-careers-1579/history/",
+    "https://civicrm.com/",
+    "https://www.cbinsights.com/company/blackbaud/alternatives-competitors"
+  ]
+}

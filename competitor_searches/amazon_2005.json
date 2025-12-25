@@ -1,0 +1,16 @@
+{
+  "company": "Amazon.com Inc.",
+  "ticker": "AMZN",
+  "year": 2005,
+  "search_query": "Amazon e-commerce competitors 2005",
+  "search_date": "2025-12-23",
+  "competitors": [
+    {"name": "eBay", "notes": "Major e-commerce competitor with slower growth"},
+    {"name": "Walmart", "notes": "Enhanced online presence"},
+    {"name": "Target", "notes": "Competing in general merchandise online"},
+    {"name": "Etsy", "notes": "Founded in 2005 for unique handcrafted products"},
+    {"name": "Alibaba", "notes": "Growing as global e-commerce giant in Asia"}
+  ],
+  "context": "2005: Amazon launched Prime with free 2-day shipping. AWS in early development. Competition remained primarily in e-commerce.",
+  "sources": ["https://doit.software/blog/amazon-competitors"]
+}

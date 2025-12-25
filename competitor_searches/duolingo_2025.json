@@ -1,0 +1,55 @@
+{
+  "company": "Duolingo",
+  "ticker": "DUOL",
+  "year": 2025,
+  "search_query": "Duolingo competitors 2025 edtech language learning",
+  "search_date": "2025-12-24",
+  "context": "Duolingo maintains market leadership position with 37.2 million daily active users and $17.5 billion market cap (exceeding Coursera and Udemy combined). The company holds $884 million cash with 76% of 2024 revenue from premium subscriptions. The global language learning market is projected to reach $25.8 billion by 2025. AI integration is now baseline expectation rather than differentiator. Key trends include voice-first interfaces, personalization engines, and contextual immersion. The competitive landscape includes traditional app competitors plus growing threat from AI-powered language learning applications.",
+  "competitors": [
+    {
+      "name": "Rosetta Stone",
+      "notes": "Best overall Duolingo alternative, offering comprehensive language learning solutions"
+    },
+    {
+      "name": "Babbel",
+      "notes": "Most academic alternative with CEFR-aligned curriculum designed by linguistic experts, focuses on real-life dialogues for adult learners"
+    },
+    {
+      "name": "Busuu",
+      "notes": "Integrates human interaction with native speaker community for practicing writing and speaking exercises"
+    },
+    {
+      "name": "Memrise",
+      "notes": "Offers courses with native speaker videos, AI feedback for pronunciation practice, and multilingual phrasebooks"
+    },
+    {
+      "name": "italki",
+      "notes": "Community marketplace connecting learners with native teachers for personalized online 1-on-1 lessons"
+    },
+    {
+      "name": "Cambly",
+      "notes": "Specializes in online English tutoring with native English-speaking tutors, offers personalized lessons and group sessions"
+    },
+    {
+      "name": "Mondly",
+      "notes": "Owned by Pearson, offers lifetime access sales model"
+    },
+    {
+      "name": "Lingvist",
+      "notes": "AI-powered personalized learning platform"
+    },
+    {
+      "name": "AI-powered language learning apps",
+      "notes": "Growing competitive threat from new AI-native applications entering the market"
+    }
+  ],
+  "sources": [
+    "https://www.g2.com/products/duolingo/competitors/alternatives",
+    "https://canvasbusinessmodel.com/blogs/competitors/duolingo-competitive-landscape",
+    "https://www.appverticals.com/blog/best-duolingo-alternatives/",
+    "https://www.classcentral.com/report/duolingo-alternatives/",
+    "https://copycatcafe.com/blog/duolingo-alternatives",
+    "https://www.cbinsights.com/company/duolingo/alternatives-competitors",
+    "https://www.edtechinnovationhub.com/news/duolingo-kahoot-and-chegg-top-times-edtech-list-as-sector-shows-strength-despite-global-uncertainty"
+  ]
+}

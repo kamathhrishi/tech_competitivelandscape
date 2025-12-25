@@ -1,0 +1,58 @@
+{
+  "company": "Wix",
+  "ticker": "WIX",
+  "year": 2025,
+  "search_query": "Wix competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "As of 2025, the website builder market remains highly competitive and segmented by use case. Wix continues as a leading all-around solution for small businesses and individuals, but faces intense pressure from specialized competitors. Squarespace is positioned as the best overall alternative with superior templates and value pricing. Shopify dominates e-commerce with over 4 million websites. Webflow's popularity has grown among professionals and agencies seeking advanced customization. Key competitive factors include: ease of use, template quality, e-commerce capabilities, SEO tools, performance/load speed, and pricing. Wix's weaknesses include slower load times, template lock-in, limited scalability, and less sophisticated e-commerce compared to specialists.",
+  "competitors": [
+    {
+      "name": "Squarespace",
+      "notes": "Research shows Squarespace is the best Wix alternative overall in 2025. Biggest direct competitor with unparalleled template design quality and easy-to-use editor. Ideal for service-based businesses with integrated Acuity Scheduling. Better value with pricing $16-$99/month vs Wix's $17-$159/month - top Squarespace plan costs one-third of Wix's most expensive plan. Some add-ons cheaper than Wix equivalents."
+    },
+    {
+      "name": "Shopify",
+      "notes": "Premier e-commerce competitor powering over 4 million websites globally. Built specifically for online selling with comprehensive features far exceeding Wix's e-commerce capabilities. Hands-down best alternative for users focused on creating online stores. Superior inventory management, multi-channel coordination, and 6,000+ specialized e-commerce apps. Plans from $35/month."
+    },
+    {
+      "name": "Webflow",
+      "notes": "Leading professional website builder with growing popularity among businesses, agencies, and creators. Visual web design platform combining design flexibility, built-in CMS, and fast hosting in one package. Better than Wix for professional design needs, offering more control than traditional drag-and-drop builders. Superior for SEO and performance with clean code output and advanced optimization. Allows code export for easy migration unlike Wix's platform lock-in."
+    },
+    {
+      "name": "WordPress",
+      "notes": "Most flexible and powerful alternative to Wix as open-source CMS powering every fourth website globally. WordPress.org offers unmatched customization with thousands of themes, 59,000+ plugins, and complete website control. Professionals worldwide contribute daily. More powerful for designers, developers, and anyone needing 100% customized projects that can scale over years. Requires more technical knowledge than Wix but offers far greater long-term flexibility."
+    },
+    {
+      "name": "Hostinger Website Builder",
+      "notes": "Best budget-friendly alternative starting at $2.99/month (1-4 year commitment) - among cheapest website builders available. Sites performed best in load speed testing on both mobile and desktop, significantly beating Wix. Easier drag-and-drop editor with fewer complex options. Offers e-commerce on all plans while Wix restricts to specific packages. Trade-off: lacks Wix's extensive app store and advanced blogging features."
+    },
+    {
+      "name": "GoDaddy Website Builder",
+      "notes": "One of Wix's biggest competitors as all-in-one builder with generous free plan, 100+ templates, and complete e-commerce and marketing feature set. Code-free platform that helps set up powerful online stores and scale with ease. Leverages strong brand and existing customer relationships from domain/hosting business."
+    },
+    {
+      "name": "Weebly",
+      "notes": "Square-owned platform considered best for average users wanting better e-commerce functionality and more apps than basic Wix. Allows free selling capability. Mobile app enables site creation on-the-go. However, platform hasn't received regular updates since 2019, making it dated compared to actively developed competitors."
+    },
+    {
+      "name": "Duda",
+      "notes": "Specialized website builder for agencies and freelancers managing multiple client projects. One of rare platforms offering true multilingual capabilities with unique management system. Unlike Wix's individual user focus, Duda provides team collaboration and client management tools for professionals."
+    },
+    {
+      "name": "Pixpa",
+      "notes": "Visual-first platform for creative professionals, artists, and content creators. Primarily used for professional portfolios but also supports online stores. Unlike general-purpose Wix, Pixpa specializes in helping visual creators display work and establish expertise through image-focused websites."
+    }
+  ],
+  "sources": [
+    "https://www.tooltester.com/en/blog/wix-alternatives/",
+    "https://www.websitebuilderexpert.com/website-builders/comparisons/best-wix-alternatives/",
+    "https://www.creativecorner.studio/blog/wix-alternatives",
+    "https://www.sitebuilderreport.com/wix-alternatives",
+    "https://www.techradar.com/best/alternatives-to-wix",
+    "https://www.bluehost.com/blog/wix-competitors/",
+    "https://elementor.com/blog/best-wix-alternatives/",
+    "https://kinsta.com/blog/wix-alternatives/",
+    "https://www.mamboserver.com/hosting/wix-alternatives/",
+    "https://www.joinamply.com/post/best-wix-alternatives"
+  ]
+}

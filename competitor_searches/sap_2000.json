@@ -1,0 +1,47 @@
+{
+  "company": "SAP",
+  "ticker": "SAP",
+  "year": 2000,
+  "search_query": "SAP competitors 2000",
+  "search_date": "2025-12-24",
+  "context": "Early 2000s ERP market dominated by on-premise enterprise software. SAP held dominant market position with R/3 system. Client-server architecture era with focus on large enterprise implementations. Y2K transition and dot-com boom period.",
+  "competitors": [
+    {
+      "name": "Oracle",
+      "notes": "Primary competitor with Oracle E-Business Suite, competing head-to-head in large enterprise ERP deployments and database-driven applications"
+    },
+    {
+      "name": "PeopleSoft",
+      "notes": "Major competitor in HR/HCM and financials, particularly strong in North American enterprise market before Oracle acquisition in 2005"
+    },
+    {
+      "name": "J.D. Edwards",
+      "notes": "Mid-market ERP competitor with strong manufacturing and distribution focus, later acquired by PeopleSoft then Oracle"
+    },
+    {
+      "name": "Baan",
+      "notes": "European ERP competitor particularly strong in manufacturing sector, offered modular approach competing with SAP R/3"
+    },
+    {
+      "name": "Siebel Systems",
+      "notes": "Leading CRM vendor that competed with SAP's expanding customer relationship management offerings"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Growing presence in business applications with Great Plains and Navision acquisitions, targeting SMB market segment"
+    },
+    {
+      "name": "Lawson Software",
+      "notes": "Specialized competitor in healthcare and public sector verticals with ERP and HCM solutions"
+    },
+    {
+      "name": "SSA Global",
+      "notes": "Mid-market ERP provider with BPCS and other legacy systems competing in manufacturing sector"
+    }
+  ],
+  "sources": [
+    "https://technologyadvice.com/blog/information-technology/top-sap-erp-alternatives/",
+    "https://www.cio.com/article/304902/10-most-powerful-erp-vendors-today.html",
+    "https://6sense.com/tech/erp/sap-erp-market-share"
+  ]
+}

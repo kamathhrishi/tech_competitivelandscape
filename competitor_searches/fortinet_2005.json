@@ -1,0 +1,40 @@
+{
+  "company": "Fortinet",
+  "ticker": "FTNT",
+  "year": 2005,
+  "search_query": "Fortinet competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "2005 was a transformative year in the network security market, marked by significant consolidation and the emergence of next-generation firewall concepts. Fortinet, founded in 2000, was establishing itself as a unified threat management (UTM) vendor in a market dominated by established firewall and network security vendors. The year saw Juniper Networks completing its $4 billion acquisition of NetScreen Technologies in 2004 and releasing its first dedicated NAC product in late 2005. Most significantly, Palo Alto Networks was founded in 2005 by Nir Zuk (formerly of Check Point and Juniper), marking the birth of the next-generation firewall category. The market was transitioning from traditional stateful firewalls to integrated security appliances.",
+  "competitors": [
+    {
+      "name": "Cisco",
+      "notes": "Dominant player in the networking market since the 1980s with strong network security presence. Cisco offered firewall solutions and network security appliances competing across enterprise networks."
+    },
+    {
+      "name": "Check Point",
+      "notes": "Established network security leader since 1993 with stateful firewalls. Check Point was a pioneering force in the commercial firewall market and a major competitor in enterprise network security."
+    },
+    {
+      "name": "Juniper Networks (NetScreen)",
+      "notes": "Major network security competitor following the 2004 acquisition of NetScreen Technologies for $4 billion. Juniper entered IT security in 2003 and was expanding enterprise segment presence, which represented one-third of revenues by 2005. Released first NAC product in late 2005."
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Founded in 2005 by former Check Point and Juniper engineer Nir Zuk with venture backing from Greylock and Sequoia. While just starting, Palo Alto represented the emerging next-generation firewall category that would reshape the market."
+    },
+    {
+      "name": "SonicWall",
+      "notes": "Network security vendor competing in the firewall and UTM appliance market, particularly strong in SMB segment."
+    },
+    {
+      "name": "WatchGuard",
+      "notes": "Network security vendor offering firewall appliances and UTM solutions competing in enterprise and SMB markets."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Juniper_Networks",
+    "https://ventureinsecurity.net/p/the-power-of-check-point-mafia-the",
+    "https://www.cbinsights.com/company/fortinet/alternatives-competitors",
+    "https://www.gartner.com/reviews/market/network-firewalls/vendor/fortinet/alternatives"
+  ]
+}

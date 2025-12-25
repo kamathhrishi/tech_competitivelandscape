@@ -1,0 +1,51 @@
+{
+  "company": "Dell Technologies",
+  "ticker": "DELL",
+  "year": 2015,
+  "search_query": "Dell competitors 2015 IT infrastructure cloud",
+  "search_date": "2025-12-24",
+  "context": "October 2015 marked a transformational moment when Dell announced its $67 billion acquisition of EMC Corporation, the largest technology sector acquisition in history at the time. Dell was the world's second-largest server vendor with robust storage, networking, and security businesses. The acquisition added EMC's storage market leadership and VMware's virtualization dominance. The deal positioned Dell to compete with Amazon Web Services in cloud computing and had ripple effects on HP and Cisco. HPE was founded in 2015 from HP's split.",
+  "competitors": [
+    {
+      "name": "Hewlett Packard Enterprise (HPE)",
+      "notes": "Founded 2015 from HP split; major competitor in enterprise servers, storage, and infrastructure; historically sold with EMC gear"
+    },
+    {
+      "name": "IBM",
+      "notes": "Top competitor in enterprise storage and infrastructure alongside HPE and Cisco"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Key competitor; was part of EMC-VMware VCE converged infrastructure partnership, affected by Dell-EMC deal"
+    },
+    {
+      "name": "NetApp",
+      "notes": "Major enterprise storage competitor with AI-driven data management solutions"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "notes": "Dominant cloud IaaS competitor with 98.07% market share in cloud infrastructure category"
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Cloud infrastructure competitor with Azure Virtual Machines and storage offerings"
+    },
+    {
+      "name": "Pure Storage",
+      "notes": "Enterprise storage vendor with all-flash infrastructure solutions"
+    },
+    {
+      "name": "Lenovo",
+      "notes": "Competitor in servers and enterprise hardware"
+    },
+    {
+      "name": "VMware",
+      "notes": "Virtualization leader (became part of Dell Technologies through EMC acquisition)"
+    }
+  ],
+  "sources": [
+    "https://www.ftei.com/news/done-deal-dell-buys-emc-vmware-in-67-billion-deal-partners-see-new-world-enterprise-order/",
+    "https://6sense.com/tech/infrastructure-as-a-service-iaas/dell-cloud-market-share",
+    "https://www.simplyblock.io/blog/competitors-to-dell-emc/"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "company": "Roper Technologies",
+  "ticker": "ROP",
+  "year": 2015,
+  "search_query": "Roper Technologies ROP competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "In April 2015, Roper Industries, Inc. changed its name to Roper Technologies, Inc., reflecting the company's evolution and increasing focus on technology-enabled products and software solutions. The company operates through multiple segments including Network Software, Technology Enabled Products, and various application software divisions.",
+  "competitors": [
+    {
+      "name": "AMETEK",
+      "notes": "Competitor in electronic instruments and electromechanical devices"
+    },
+    {
+      "name": "Danaher Corporation",
+      "notes": "Major competitor in diversified technology and industrial products"
+    },
+    {
+      "name": "Fortive",
+      "notes": "Diversified industrial technology company (spun off from Danaher in 2016)"
+    },
+    {
+      "name": "Crane Company",
+      "notes": "Competitor in diversified industrial products"
+    },
+    {
+      "name": "ITT Corporation",
+      "notes": "Competitor in engineered products and solutions"
+    },
+    {
+      "name": "Rockwell Automation",
+      "notes": "Competitor in industrial automation"
+    },
+    {
+      "name": "Parker Hannifin",
+      "notes": "Competitor in motion and control technologies"
+    },
+    {
+      "name": "Badger Meter",
+      "notes": "Similar stock in specialty industrial machinery"
+    }
+  ],
+  "sources": [
+    "https://seekingalpha.com/symbol/ROP/peers/comparison",
+    "https://www.marketbeat.com/stocks/NASDAQ/ROP/competitors-and-alternatives/",
+    "https://csimarket.com/stocks/compet_glance.php?code=ROP",
+    "https://www.tipranks.com/stocks/rop/similar-stocks"
+  ]
+}

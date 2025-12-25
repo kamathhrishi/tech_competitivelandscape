@@ -1,0 +1,74 @@
+{
+  "company": "Procore Technologies",
+  "ticker": "PCOR",
+  "year": 2025,
+  "search_query": "Procore Technologies competitors 2025 construction management software",
+  "search_date": "2025-12-24",
+  "context": "Procore is a leading construction management software platform used by large construction teams. In 2025, companies seek alternatives due to high and increasing subscription costs that cut into profit margins, making it unaffordable especially for smaller construction companies. The market includes enterprise solutions, owner-focused platforms, specialty contractor tools, and residential construction software.",
+  "competitors": [
+    {
+      "name": "Autodesk Construction Cloud",
+      "notes": "Best overall Procore alternative. Connects workflows, teams and data at every stage. Built on unified platform and common data environment. Empowers GCs, specialty trades, designers and owners to drive better outcomes."
+    },
+    {
+      "name": "Mastt",
+      "notes": "Top competitor for project owners delivering capital projects. Purpose-built for owners and PMs. Simplifies cost tracking, risk visibility, and portfolio oversight."
+    },
+    {
+      "name": "Oracle Primavera",
+      "notes": "Most powerful, robust enterprise project portfolio management solution for globally prioritizing, planning, managing, and executing projects, programs, and portfolios."
+    },
+    {
+      "name": "e-Builder",
+      "notes": "Cloud-based construction management for capital projects. Provides insights throughout project lifecycle, reduces risk and improves performance. Strong for project owners."
+    },
+    {
+      "name": "Fieldwire by Hilti",
+      "notes": "Mobile-first construction management powering over 2 million job sites. Connects foremen, PMs, field crews in real-time with offline access and intuitive task management."
+    },
+    {
+      "name": "ServiceTitan",
+      "notes": "Specializes in supporting specialty contractors: Mechanical/HVAC, plumbing, electrical, roofing. All workflows tailored for subcontractors working with general contractors."
+    },
+    {
+      "name": "Buildertrend",
+      "notes": "Designed for residential construction managing multiple moving parts: bids, estimates, scheduling, homeowner updates. Tailored for home builders, remodelers, specialty contractors."
+    },
+    {
+      "name": "ClickUp",
+      "notes": "Flexible all-in-one productivity platform for construction project management. Customizable workflows and logical hierarchy for complex teams."
+    },
+    {
+      "name": "HCSS",
+      "notes": "Construction software suite competing with Procore."
+    },
+    {
+      "name": "RedTeam Flex",
+      "notes": "Construction project management alternative."
+    },
+    {
+      "name": "Bluebeam",
+      "notes": "PDF-based construction collaboration and markup software."
+    },
+    {
+      "name": "Viewpoint Spectrum",
+      "notes": "Construction management for accounting, payroll, HR tasks to streamline operations."
+    },
+    {
+      "name": "Sage Construction Management",
+      "notes": "Online suite for estimating, project management, job cost control, scheduling, collaboration."
+    },
+    {
+      "name": "Contractor Foreman",
+      "notes": "Online construction management software used by contractors in 75+ countries."
+    }
+  ],
+  "sources": [
+    "https://www.mastt.com/software/best-procore-alternatives",
+    "https://www.g2.com/products/procore/competitors/alternatives",
+    "https://www.servicetitan.com/blog/procore-alternatives",
+    "https://revizto.com/en/procore-competitors-alternatives/",
+    "https://clickup.com/blog/procore-alternatives/",
+    "https://premiercs.com/blog/6-best-procore-alternatives-in-2025-actually-tested-reviewed"
+  ]
+}

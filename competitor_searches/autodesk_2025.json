@@ -1,0 +1,74 @@
+{
+  "company": "Autodesk",
+  "ticker": "ADSK",
+  "year": 2025,
+  "search_query": "Autodesk ADSK competitors 2025 CAD design software",
+  "search_date": "2025-12-24",
+  "context": "Autodesk has 9.26% market share in the CAD software market and competes with 79 competitor tools. However, AutoCAD (Autodesk's flagship product) holds 39.01% market share, making it the dominant player. Over 43,891 companies worldwide use Autodesk as a CAD software tool in 2025, with 17,580 customers (53.72%) from the United States. Autodesk offers multiple products including AutoCAD, Fusion 360 (cloud-based unified platform), and Inventor (on-premise 3D CAD).",
+  "competitors": [
+    {
+      "name": "SolidWorks",
+      "ticker": "Dassault Systèmes",
+      "notes": "Second-largest with 13.58% market share in CAD Software. Powerful 3D mechanical design software for automotive, aerospace, consumer products, and machinery. User-friendly interface and strong community, popular for small to medium-sized businesses."
+    },
+    {
+      "name": "AutoCAD Mechanical",
+      "ticker": "ADSK",
+      "notes": "Autodesk's own product with 5.35% market share. Internal competition within Autodesk product family."
+    },
+    {
+      "name": "BricsCAD",
+      "notes": "Easy to use, easy to learn, and costs significantly less than other CAD software. Preserves command-line workflow familiar to AutoCAD users but extends functionality with parametric constraints and design automation. More efficient in handling large point clouds and complex 3D models."
+    },
+    {
+      "name": "FreeCAD",
+      "notes": "Best free and open-source AutoCAD alternative. Designed for 2D and 3D modeling with parametric modeling support. Highly customizable and extendable through plugins with modular architecture."
+    },
+    {
+      "name": "SketchUp",
+      "ticker": "Trimble",
+      "notes": "Impressively natural modeling experience for spatial designs. More accessible for professionals who find AutoCAD too complex for conceptual development."
+    },
+    {
+      "name": "DraftSight",
+      "notes": "Most popular commercial alternative to Autodesk AutoCAD."
+    },
+    {
+      "name": "LibreCAD",
+      "notes": "Open source 2D CAD application for Windows, Apple and Linux, based on Qt. Leading cross-platform application and UI development framework."
+    },
+    {
+      "name": "Fusion 360",
+      "ticker": "ADSK",
+      "notes": "Autodesk's own cloud-based unified design platform integrating CAD, CAM, and CAE. Collaborative environment for simultaneous multi-user work. Powerful parametric modeling, rendering, and simulation features."
+    },
+    {
+      "name": "Inventor",
+      "ticker": "ADSK",
+      "notes": "Autodesk's on-premise 3D CAD software for professional-grade design, documentation, and product simulation."
+    },
+    {
+      "name": "ActCAD",
+      "notes": "Professional grade 2D Drafting and 3D Modeling CAD software working in DWG and DXF file formats."
+    },
+    {
+      "name": "Siemens NX",
+      "ticker": "SIEGY",
+      "notes": "Enterprise-grade CAD solution for complex assemblies, regulatory requirements, and deep PLM integration."
+    },
+    {
+      "name": "PTC Creo",
+      "ticker": "PTC",
+      "notes": "Enterprise CAD software for advanced assemblies and deep PLM integration via Windchill."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/cad-software/vendor/autodesk/alternatives",
+    "https://revizto.com/en/autocad-alternatives-competitors/",
+    "https://www.marketbeat.com/stocks/NASDAQ/ADSK/competitors-and-alternatives/",
+    "https://alternativeto.net/software/autocad/",
+    "https://6sense.com/tech/cad-software/autodesk-market-share",
+    "https://www.theknowledgeacademy.com/blog/autocad-alternatives/",
+    "https://www.capterra.com/p/265024/AutoCAD/alternatives/"
+  ]
+}

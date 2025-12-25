@@ -1,0 +1,75 @@
+{
+  "company": "Gen Digital",
+  "ticker": "GEN",
+  "year": 2025,
+  "search_query": "Gen Digital competitors 2025 consumer cybersecurity market",
+  "search_date": "2025-12-24",
+  "context": "Gen Digital operates in rapidly growing Consumer Security Market expected to reach $43.65 billion in 2025 and $69.01 billion by 2030 (9.60% CAGR). Norton/Avast/LifeLock units reported 500M users with $38M net revenue added in Q3 2025, leveraging freemium funnels and brand familiarity. Market shows moderate concentration with handful of global brands holding large subscriber pools. Strategic diversification: April 2025 acquisition of MoneyLion Inc. expanded into financial wellness/FinTech. Microsoft remains largest by installation share via Windows OS default inclusion. Competition from dedicated cybersecurity firms and cloud-native providers.",
+  "competitors": [
+    {
+      "name": "McAfee",
+      "notes": "Major direct competitor in consumer security with comprehensive antivirus and protection offerings"
+    },
+    {
+      "name": "Trend Micro",
+      "notes": "Direct competitor operating globally in consumer security market with strong product portfolio"
+    },
+    {
+      "name": "Kaspersky Lab",
+      "notes": "Major global competitor with 500M+ users in 150+ countries, broadened BUILD program in 2025 lowering entry barriers for developers to plug white-space capabilities into platform"
+    },
+    {
+      "name": "Bitdefender",
+      "notes": "Cybersecurity leader with 500M+ users in 150+ countries, offering GravityZone unified platform with advanced endpoint protection, EDR, XDR, and cloud workload security, consistently top-ranked in independent tests"
+    },
+    {
+      "name": "ESET",
+      "notes": "Competitor in consumer security competing through competitive pricing, product development, and targeted marketing"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Broader cybersecurity competitor with enterprise and consumer-oriented security solutions"
+    },
+    {
+      "name": "SolarWinds",
+      "notes": "Competitor in cybersecurity and network/systems management space"
+    },
+    {
+      "name": "WatchGuard Technologies",
+      "notes": "Cybersecurity competitor focusing on network security and endpoint protection"
+    },
+    {
+      "name": "EScan",
+      "notes": "Antivirus and security software competitor in consumer market"
+    },
+    {
+      "name": "SailPoint Technologies",
+      "notes": "Competitor in identity security and governance space"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Largest competitor by installation share via Windows Defender included in OS by default - will continue dominating installation base as majority of market consolidates around handful of vendors"
+    },
+    {
+      "name": "Aura",
+      "notes": "Identity protection competitor with digital safety solutions, credit monitoring, VPN, and antivirus protection"
+    },
+    {
+      "name": "Nord Security",
+      "notes": "Competitor in privacy and security tools with VPN and protection services"
+    },
+    {
+      "name": "FinTech competitors",
+      "notes": "New competitive segment following MoneyLion acquisition in April 2025, bringing financial wellness competitors into Gen Digital's competitive landscape"
+    }
+  ],
+  "sources": [
+    "https://portersfiveforce.com/blogs/competitors/gendigital",
+    "https://www.mordorintelligence.com/industry-reports/consumer-security-market",
+    "https://pitchbook.com/profiles/company/11813-14",
+    "https://programs.com/resources/largest-cybersecurity-companies/",
+    "https://cybersecuritynews.com/best-cyber-security-companies/",
+    "https://cybersecandbiz.substack.com/p/future-consumer-cybersecurity-part-2",
+    "https://www.esecurityplanet.com/products/top-cybersecurity-companies/"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "company": "Salesforce",
+  "ticker": "CRM",
+  "year": 2010,
+  "search_query": "Salesforce competitors 2010 CRM market rivals",
+  "search_date": "2025-12-23",
+  "competitors": [
+    {
+      "name": "Microsoft Dynamics CRM",
+      "notes": "Second largest market share, integrates with Office 365"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise CRM with Siebel acquisition integrated"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise CRM solutions"
+    },
+    {
+      "name": "HubSpot",
+      "notes": "Growing CRM player, market leader with ~35% share in certain segments"
+    },
+    {
+      "name": "Pipedrive",
+      "notes": "Founded in 2010, cost-effective CRM for sales teams"
+    },
+    {
+      "name": "Nutshell",
+      "notes": "Debuted in 2010 at Future of Web Design conference"
+    },
+    {
+      "name": "Zoho CRM",
+      "notes": "Cost-effective cloud CRM"
+    }
+  ],
+  "context": "By 2010, cloud CRM was mainstream. Salesforce dominated but faced competition from Microsoft and new SaaS players like Pipedrive.",
+  "sources": [
+    "https://www.salesforce.com/crm/salesforce-competition/",
+    "https://businessmodelanalyst.com/salesforce-competitors-alternatives/",
+    "https://www.insightly.com/blog/salesforce-crm-competitors/"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "company": "NetApp",
+  "ticker": "NTAP",
+  "year": 2020,
+  "search_query": "NetApp competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "Hybrid cloud storage dominance. NetApp reinvented itself as cloud services provider with partnerships with AWS (since 2012), Microsoft Azure (Azure NetApp Files), and Google Cloud. NetApp acquired Spot in 2020 for cloud workload optimization. Leadership claimed competitors were 'years behind' in cloud transformation. Kubernetes and container storage becoming important.",
+  "competitors": [
+    {
+      "name": "Dell EMC",
+      "notes": "Leading competitor with broad storage portfolio including PowerMax, Unity XT, and software-defined storage"
+    },
+    {
+      "name": "Pure Storage",
+      "notes": "All-flash storage leader with Evergreen model and expanding cloud-native capabilities"
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "notes": "Nimble Storage and 3PAR arrays with hybrid cloud focus"
+    },
+    {
+      "name": "Hitachi Vantara",
+      "notes": "Enterprise storage with Virtual Storage Platform (VSP) for mission-critical applications"
+    },
+    {
+      "name": "IBM",
+      "notes": "Hybrid cloud storage solutions and enterprise offerings"
+    },
+    {
+      "name": "Amazon S3",
+      "notes": "Dominant cloud object storage with 83.29% market share in enterprise data storage"
+    },
+    {
+      "name": "Microsoft Azure Blob Storage",
+      "notes": "Cloud storage with 9.14% market share, partner with NetApp on Azure NetApp Files"
+    },
+    {
+      "name": "Nutanix",
+      "notes": "Hyper-converged infrastructure and cloud software competitor"
+    },
+    {
+      "name": "Seagate Technology",
+      "notes": "Storage systems provider"
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/hybrid-cloud-storage/vendor/netapp/alternatives",
+    "https://www.computerweekly.com/news/252517998/NetApps-cloud-era-storage-competitors-in-world-of-hurt",
+    "https://www.netapp.com/netapp-vs-competitors/",
+    "https://6sense.com/tech/enterprise-data-storage/netapp-market-share"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "company": "MongoDB",
+  "ticker": "MDB",
+  "year": 2025,
+  "search_query": "MongoDB database competitors 2025 NoSQL cloud database market",
+  "search_date": "2025-12-24",
+  "context": "MongoDB maintains dominant position with 45.84% market share in NoSQL databases market and is most popular NoSQL document database for developers (#6 in overall database ranking in StackOverflow Survey 2025). Over 66,328 companies using MongoDB worldwide. Major 2025 development: Microsoft's DocumentDB (MongoDB-compatible database built on PostgreSQL) joined Linux Foundation as open source project. Competition comes from both managed cloud services (DynamoDB, Firestore) and open-source alternatives (Cassandra, Couchbase).",
+  "competitors": [
+    {
+      "name": "Amazon DynamoDB",
+      "notes": "Rated best overall MongoDB alternative by G2. Fully managed NoSQL database from AWS with seamless scalability and single-digit millisecond performance. Supports key-value and document data models for gaming to IoT applications. 10.99% market share in NoSQL databases"
+    },
+    {
+      "name": "Apache Cassandra",
+      "notes": "Open-source NoSQL database for high availability, scalability, and fault tolerance. Originally developed at Facebook. Peer-to-peer architecture where every node operates independently, removing single points of failure"
+    },
+    {
+      "name": "Redis",
+      "notes": "Open-source in-memory data store for extreme speed and simplicity. Supports variety of data structures for caching, session management, and real-time analytics with sub-millisecond response times"
+    },
+    {
+      "name": "Couchbase",
+      "notes": "Handles distributed NoSQL data storage efficiently. Engineered for elastic scalability, consistent high performance, always-on availability, and data mobility for mission critical applications"
+    },
+    {
+      "name": "Google Cloud Firestore",
+      "notes": "NoSQL document database for easily storing, syncing, and querying data for mobile and web apps at global scale"
+    },
+    {
+      "name": "NoSQL (Generic)",
+      "notes": "Holds 21.79% market share in NoSQL databases category - MongoDB's largest competitor segment"
+    },
+    {
+      "name": "HBase",
+      "notes": "Holds 3.98% market share in NoSQL databases, third largest competitor"
+    },
+    {
+      "name": "OrientDB",
+      "notes": "Graph-focused multi-model database for complex relationships"
+    },
+    {
+      "name": "CouchDB",
+      "notes": "Offline-first document store for distributed web/mobile apps"
+    },
+    {
+      "name": "ArangoDB",
+      "notes": "Multi-model database unifying documents, graphs, and key-value stores"
+    },
+    {
+      "name": "RethinkDB",
+      "notes": "Real-time JSON database for live updates and dashboards"
+    },
+    {
+      "name": "Microsoft DocumentDB",
+      "notes": "MongoDB-compatible document database built on PostgreSQL, announced early 2025 and joined Linux Foundation as open source project in August 2025. Designed to support quick deployment and easier data querying"
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/cloud-database-management-systems/vendor/mongodb/alternatives",
+    "https://6sense.com/tech/nosql-databases/mongodb-market-share",
+    "https://chat2db.ai/resources/blog/top-mongodb-alternatives",
+    "https://www.cloudzero.com/blog/mongodb-alternatives/",
+    "https://hevodata.com/learn/mongodb-alternatives/",
+    "https://www.g2.com/products/mongodb/competitors/alternatives"
+  ]
+}

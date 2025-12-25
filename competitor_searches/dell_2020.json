@@ -1,0 +1,64 @@
+{
+  "company": "Dell Technologies",
+  "ticker": "DELL",
+  "year": 2020,
+  "search_query": "Dell competitors 2020 enterprise technology EMC",
+  "search_date": "2025-12-24",
+  "context": "Dell Technologies was formed from the September 2016 merger of Dell and EMC Corporation. By 2020, Dell was using the Dell EMC brand with some products (phased out around 2020). Dell EMC owned over a quarter of the global enterprise storage market, making it the runaway leader. Competition spanned enterprise storage, data protection, backup/recovery, and cloud storage. Dell Technologies competed across infrastructure, virtualization, data management, and hybrid cloud solutions.",
+  "competitors": [
+    {
+      "name": "NetApp",
+      "notes": "One of the largest names in data storage market alongside Dell EMC; major enterprise storage competitor"
+    },
+    {
+      "name": "Hewlett Packard Enterprise (HPE)",
+      "notes": "Top competitor in enterprise storage, servers, and infrastructure with intelligent edge-to-cloud solutions"
+    },
+    {
+      "name": "Pure Storage",
+      "notes": "Enterprise storage vendor with all-flash infrastructure and cloud integration"
+    },
+    {
+      "name": "IBM",
+      "notes": "Major competitor in enterprise storage, data management, and infrastructure"
+    },
+    {
+      "name": "Amazon S3",
+      "notes": "Leading cloud storage competitor for Dell EMC Unity and enterprise storage solutions"
+    },
+    {
+      "name": "Microsoft Azure Blob Storage",
+      "notes": "Cloud storage competitor in enterprise data storage category"
+    },
+    {
+      "name": "Hitachi Vantara",
+      "notes": "Enterprise storage and data management competitor"
+    },
+    {
+      "name": "Commvault",
+      "notes": "Top competitor in data protection and information management solutions"
+    },
+    {
+      "name": "Veeam",
+      "notes": "Backup, recovery, and data management solutions competitor"
+    },
+    {
+      "name": "Veritas Technologies",
+      "notes": "Data protection and information management competitor"
+    },
+    {
+      "name": "Scality",
+      "notes": "Storage competitor for Dell EMC"
+    },
+    {
+      "name": "Hyland",
+      "notes": "Top competitor for Dell EMC solutions"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dell_Technologies",
+    "https://www.simplyblock.io/blog/competitors-to-dell-emc/",
+    "https://www.enterprisestorageforum.com/management/dell-emc-vs-netapp/",
+    "https://6sense.com/tech/enterprise-data-storage/dell-emc-unity-market-share"
+  ]
+}

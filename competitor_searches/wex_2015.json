@@ -1,0 +1,48 @@
+{
+  "company": "WEX",
+  "ticker": "WEX",
+  "year": 2015,
+  "search_query": "WEX competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "WEX (rebranded from Wright Express in 2012) expanding beyond fuel cards into broader payment solutions. Intense competition with FleetCor in Europe, particularly after FleetCor's Comdata acquisition strengthened domestic rivalry. Both companies pursued aggressive fleet provider deals globally, with Europe becoming competitive hotbed.",
+  "competitors": [
+    {
+      "name": "FleetCor Technologies",
+      "notes": "Primary competitor with global fleet card and corporate payment solutions, intensified competition after Comdata acquisition, competing for Shell portfolio in Germany (2014)"
+    },
+    {
+      "name": "Comdata (FleetCor subsidiary)",
+      "notes": "Major competitor post-acquisition by FleetCor, offering fuel cards, corporate spend cards, and virtual payments with strong North American presence"
+    },
+    {
+      "name": "U.S. Bank Voyager",
+      "notes": "Direct competitor in fleet management with fuel cards accepted at thousands of locations nationwide"
+    },
+    {
+      "name": "Edenred (UTA)",
+      "notes": "Global payment solutions provider with strong European presence in fleet and mobility sector"
+    },
+    {
+      "name": "Visa",
+      "notes": "Global payment network competing in travel and corporate payment infrastructure"
+    },
+    {
+      "name": "Mastercard",
+      "notes": "Global payment network with corporate and fleet payment capabilities"
+    },
+    {
+      "name": "Fiserv",
+      "notes": "Broader payment processing company competing in corporate payments space"
+    },
+    {
+      "name": "Global Payments",
+      "notes": "Payment processing provider with corporate payment solutions"
+    }
+  ],
+  "sources": [
+    "https://www.pymnts.com/in-depth/2014/in-wex-versus-fleetcor-two-b2b-winners-emerge/",
+    "https://medium.com/b2b-buzz/b2b-payments-card-players-d21204dad05f",
+    "https://en.wikipedia.org/wiki/WEX_Inc.",
+    "https://pitchgrade.com/companies/wex"
+  ]
+}

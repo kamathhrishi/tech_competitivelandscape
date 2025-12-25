@@ -1,0 +1,56 @@
+{
+  "company": "Zebra Technologies",
+  "ticker": "ZBRA",
+  "year": 2025,
+  "search_query": "Zebra Technologies ZBRA competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "As of September 30, 2025, Zebra Technologies has trailing 12-month revenue of $5.25 billion and EPS of $10.67. Market cap of $21.39B with P/E ratio of 56.41 and beta of 1.64. Stock trading with 50-day moving average of $398.66 and 200-day average of $368.99. 12-month range of $233.95 to $427.76. Company operates in Electronic Equipment, Instruments & Components sector within Information Technology industry.",
+  "competitors": [
+    {
+      "name": "Extreme Networks",
+      "notes": "One of 32 competitors in networking and enterprise technology"
+    },
+    {
+      "name": "Juniper Networks",
+      "notes": "Competitor in enterprise networking solutions"
+    },
+    {
+      "name": "NetScout Systems",
+      "notes": "Competitor in network performance monitoring"
+    },
+    {
+      "name": "Cognex",
+      "notes": "Competitor in machine vision and industrial automation"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Major competitor in enterprise networking and infrastructure"
+    },
+    {
+      "name": "Honeywell International",
+      "notes": "Major competitor across automatic identification and mobile computing"
+    },
+    {
+      "name": "Datalogic",
+      "notes": "Competitor in automatic data capture"
+    },
+    {
+      "name": "Panasonic Holdings",
+      "notes": "Competitor in rugged mobile devices"
+    },
+    {
+      "name": "Toshiba",
+      "notes": "Competitor in barcode printing and POS systems"
+    },
+    {
+      "name": "Lexmark",
+      "notes": "Competitor in printing solutions"
+    }
+  ],
+  "sources": [
+    "https://www.marketbeat.com/stocks/NASDAQ/ZBRA/competitors-and-alternatives/",
+    "https://www.gartner.com/reviews/market/managed-mobility-services-global/vendor/zebra-technologies/alternatives",
+    "https://csimarket.com/stocks/competitionSEG2.php?code=ZBRA",
+    "https://pitchbook.com/profiles/company/13173-94"
+  ]
+}

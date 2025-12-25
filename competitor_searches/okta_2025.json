@@ -1,0 +1,54 @@
+{
+  "company": "Okta",
+  "ticker": "OKTA",
+  "year": 2025,
+  "search_query": "Okta competitors 2025 identity access management",
+  "search_date": "2025-12-24",
+  "context": "Okta has a market share of 41.73% in the identity and access management market, competing with 26 competitor tools in the category. Around the world in 2025, over 27,605 companies use Okta as an IAM tool. However, organizations increasingly seek alternatives due to complex setup requiring specialized IT expertise, some actions that cannot be carried out in bulk, expensive pricing (particularly for smaller businesses), and challenges in justifying ongoing spend. With 80% of breaches linked to compromised identities, organizations need IAM solutions with seamless access control and resilient user verification. The 2025 IAM market emphasizes modular pricing, pay-as-you-grow flexibility, and solutions that provide complete visibility and control.",
+  "competitors": [
+    {
+      "name": "OneLogin",
+      "notes": "Top alternative with 42.62% market share. Often described as 'Okta-lite' in a good way. Offers all IAM essentials (SSO, MFA, user provisioning, policy management) with simpler UI and faster time to value. Largest competitor by market share."
+    },
+    {
+      "name": "Microsoft Entra ID (formerly Azure AD)",
+      "notes": "Strongest competitor, particularly for organizations invested in Microsoft ecosystem. Enterprise-grade identity and access management platform offering unified solution for managing identities across hybrid and cloud environments. Entra ID P2 is $9/user/month, Entra ID Suite is $12/user/month. Plans often included in Microsoft 365 subscriptions."
+    },
+    {
+      "name": "Duo Security",
+      "notes": "Second in market share at 3.19%. Strong in multi-factor authentication and zero trust security, now part of Cisco ecosystem offering integrated security solutions."
+    },
+    {
+      "name": "Rippling IT",
+      "notes": "Emerging as strong competitor offering granular access controls across user lifecycle and holistic approach to global workforce management. Innovative alternative to traditional IAM leaders."
+    },
+    {
+      "name": "JumpCloud",
+      "notes": "Cloud-native solution offering extensive device authentication and configuration policies. Starts at $13 per user per month with annual billing. Limited SSO capabilities and requires complex configurations but strong in device management."
+    },
+    {
+      "name": "CyberArk",
+      "notes": "Known for intuitive interface and privileged access management. Offers MFA and self-hosting options that integrate easily with other security solutions. Best for large enterprises requiring robust access controls and data security management. Limited reporting features."
+    },
+    {
+      "name": "Auth0",
+      "notes": "Now part of Okta but available as standalone platform. Developer-centric identity platform focused on flexibility and customization. Chosen by organizations needing to embed secure authentication into custom applications. Caters to product teams, startups, and enterprises prioritizing developer experience."
+    },
+    {
+      "name": "Silverfort",
+      "notes": "Comprehensive identity security solution extending across on-premises, cloud, and hybrid environments. Robust MFA, Identity Threat Detection and Response (ITDR), SSO capabilities, and adaptive deny policies. Best for organizations seeking unified solution to enforce security across cloud and on-premises seamlessly."
+    },
+    {
+      "name": "Gigya",
+      "notes": "Third in market share at 3.11%. Focuses on customer identity and access management (CIAM) with strong capabilities in user registration, authentication, and profile management."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/access-management/vendor/okta/alternatives",
+    "https://www.zluri.com/blog/okta-alternatives",
+    "https://www.rippling.com/blog/okta-competitors",
+    "https://6sense.com/tech/identity-access-management/okta-market-share",
+    "https://www.lumos.com/topic/top-okta-alternatives-and-competitors",
+    "https://www.silverfort.com/blog/top-okta-alternatives/"
+  ]
+}

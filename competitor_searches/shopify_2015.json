@@ -1,0 +1,47 @@
+{
+  "company": "Shopify",
+  "ticker": "SHOP",
+  "year": 2015,
+  "search_query": "Shopify competitors 2015",
+  "search_date": "2025-12-24",
+  "competitors": [
+    {
+      "name": "BigCommerce",
+      "notes": "Direct SaaS competitor, similar features, 99.99% uptime, built-in SSL, strong SEO tools"
+    },
+    {
+      "name": "WooCommerce",
+      "notes": "Free WordPress plugin, largest market share, self-hosted solution"
+    },
+    {
+      "name": "Magento (Adobe Commerce)",
+      "notes": "Open-source platform with full customization control, strong developer community"
+    },
+    {
+      "name": "Wix",
+      "notes": "Website builder with e-commerce, good for small businesses, less scalable"
+    },
+    {
+      "name": "Squarespace",
+      "notes": "Visual site builder with e-commerce capabilities, limited scalability vs Shopify"
+    },
+    {
+      "name": "Volusion",
+      "notes": "Similar pricing structure and interface to Shopify"
+    },
+    {
+      "name": "PrestaShop",
+      "notes": "French open-source platform, launched cloud version in 2015"
+    },
+    {
+      "name": "Weebly",
+      "notes": "Easy-to-use website builder with e-commerce features"
+    }
+  ],
+  "context": "Shopify IPO year. Company positioning itself as the e-commerce platform for entrepreneurs, competing against both established open-source solutions (WooCommerce, Magento) and website builders expanding into e-commerce (Wix, Squarespace, Weebly).",
+  "sources": [
+    "https://www.websitebuilderexpert.com/ecommerce-website-builders/comparisons/shopify-alternatives-competitors/",
+    "https://zapier.com/blog/shopify-alternatives/",
+    "https://www.tidio.com/blog/shopify-alternatives/"
+  ]
+}

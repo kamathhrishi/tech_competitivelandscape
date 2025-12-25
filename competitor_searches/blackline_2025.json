@@ -1,0 +1,66 @@
+{
+  "company": "BlackLine",
+  "ticker": "BL",
+  "year": 2025,
+  "search_query": "BlackLine competitors 2025 financial close automation accounting",
+  "search_date": "2025-12-24",
+  "context": "BlackLine is a leading financial close automation platform for enterprises. In 2025, organizations seek alternatives due to cost considerations (enterprise-focused pricing prohibitive for SMBs), implementation complexity (significant time investment required), and scalability challenges. In December 2025, BlackLine acquired WiseLayer, an AI company specializing in AI agents for automating accounting processes.",
+  "competitors": [
+    {
+      "name": "FloQast",
+      "notes": "Leads BlackLine in G2 Fall 2025 Grid Report for Financial Close. Named to G2 2025 Best Accounting and Finance Products. Average go-live 1.7 months vs 5 months for BlackLine. Positive ROI in 11 months vs 22 months for BlackLine. Better fit for mid-market on Microsoft Dynamics and Great Plains."
+    },
+    {
+      "name": "OneStream",
+      "notes": "Comprehensive corporate performance management platform including financial close, consolidation, planning all in one. Unified platform streamlining close and consolidation through automated data integration, account reconciliation, financial reporting. Embeds AI to boost productivity."
+    },
+    {
+      "name": "Adra by Trintech",
+      "notes": "Suite including Adra Matcher reconciliation software. More streamlined, modular approach tailored to mid-sized companies compared to BlackLine."
+    },
+    {
+      "name": "Workiva",
+      "notes": "Connects financial, regulatory, ESG reporting in single collaborative platform. Enterprise-wide solution for linking data, tracking changes, ensuring audit standards. More than just close tool."
+    },
+    {
+      "name": "HighRadius",
+      "notes": "Leverages AI and automation across order-to-cash and record-to-report lifecycle. Particularly strong in AR, credit, collections. Also delivers robust financial close automation including auto-reconciliation and task orchestration."
+    },
+    {
+      "name": "Redwood Finance Automation",
+      "notes": "Goes deeper into backend automation than BlackLine. Ideal for large finance operations looking to significantly reduce human involvement in routine processes."
+    },
+    {
+      "name": "Vena",
+      "notes": "Planning and close platform built on top of Excel. Helps finance teams transition from static spreadsheets to structured workflows while keeping familiar spreadsheet interface."
+    },
+    {
+      "name": "SolveXia",
+      "notes": "Major BlackLine competitor for financial close automation."
+    },
+    {
+      "name": "Oracle Cloud EPM",
+      "notes": "Oracle's enterprise performance management and financial close solution."
+    },
+    {
+      "name": "NetSuite Advanced Financial Close",
+      "notes": "Financial close capabilities within NetSuite ERP."
+    },
+    {
+      "name": "Numeric",
+      "notes": "Modern financial close and accounting automation platform reviewing BlackLine alternatives."
+    },
+    {
+      "name": "Nominal",
+      "notes": "Financial close automation alternative to BlackLine."
+    }
+  ],
+  "sources": [
+    "https://www.numeric.io/blog/blackline-competitors-top-blackline-alternatives",
+    "https://dokka.com/blackline-alternative/",
+    "https://www.nominal.so/blog/blackline-alternatives",
+    "https://www.floqast.com/competitors/floqast-vs-blackline-comparison",
+    "https://www.g2.com/products/blackline-blackline-financial-close-management/competitors/alternatives",
+    "https://en.wikipedia.org/wiki/BlackLine_Systems"
+  ]
+}

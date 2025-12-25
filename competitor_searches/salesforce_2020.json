@@ -1,0 +1,51 @@
+{
+  "company": "Salesforce",
+  "ticker": "CRM",
+  "year": 2020,
+  "search_query": "Salesforce competitors 2020 CRM market rivals",
+  "search_date": "2025-12-23",
+  "competitors": [
+    {
+      "name": "SAP",
+      "notes": "Nearest competitor with 5.3% market share as of mid-2020"
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "notes": "Second largest market share, integrates with Office 365"
+    },
+    {
+      "name": "Oracle NetSuite",
+      "notes": "Unified all-in-one commerce solution for sales, marketing, operations"
+    },
+    {
+      "name": "HubSpot",
+      "notes": "86,000 customers vs Salesforce's 150,000+. 400% increase in new customers after price cuts. Growing fast."
+    },
+    {
+      "name": "Zoho CRM",
+      "notes": "Cloud-based, works for all organization sizes, free version for up to 3 users"
+    },
+    {
+      "name": "Adobe Experience Cloud",
+      "notes": "Strong cloud focus, gaining market share"
+    },
+    {
+      "name": "monday.com",
+      "notes": "Won 2020 Webby Award for Productivity"
+    },
+    {
+      "name": "ActiveCampaign",
+      "notes": "Marketing automation and sales CRM for small businesses"
+    }
+  ],
+  "market_share": {
+    "salesforce": "~18%",
+    "sap": "5.3%"
+  },
+  "context": "2020 was a boon for Salesforce due to pandemic remote work. SAP was nearest competitor at 5.3% market share.",
+  "sources": [
+    "https://www.salesforce.com/crm/salesforce-competition/",
+    "https://money.usnews.com/investing/stock-market-news/slideshows/salesforce-competitors-every-investor-should-watch",
+    "https://businessmodelanalyst.com/salesforce-competitors-alternatives/"
+  ]
+}

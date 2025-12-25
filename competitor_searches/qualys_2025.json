@@ -1,0 +1,53 @@
+{
+  "company": "Qualys",
+  "ticker": "QLYS",
+  "year": 2025,
+  "search_query": "Qualys competitors 2025 vulnerability management",
+  "search_date": "2025-12-24",
+  "context": "Qualys is a major player in the vulnerability management and cloud security space, offering cloud-based vulnerability management, detection, and response (VMDR) platform with over 150,000 detection signatures. The 2025 vulnerability management market is evolving toward continuous threat exposure management (CTEM) and exposure management platforms. Organizations seek alternatives due to high licensing costs that don't scale well for startups or mid-market firms, complex deployments in hybrid and multi-cloud environments, demand for specialized solutions like AI-powered DAST and Kubernetes-native security, and growing importance of DevSecOps integration. Note: Web search was temporarily unavailable for this query, so competitor information is based on general industry knowledge and may be less current than other entries.",
+  "competitors": [
+    {
+      "name": "Tenable",
+      "notes": "One of the most prominent competitors offering Tenable.io and Nessus, the widely-used vulnerability scanner. Competes directly in vulnerability management and exposure management with comprehensive vulnerability coverage and cloud-based assessment."
+    },
+    {
+      "name": "Rapid7",
+      "notes": "Offers InsightVM (formerly Nexpose) for vulnerability management and risk assessment. Cloud-based platform with live dashboards, risk-based prioritization, and deep integrations into ticketing, CI/CD, and broader Insight platform."
+    },
+    {
+      "name": "CrowdStrike",
+      "notes": "Provides Falcon Spotlight for vulnerability management as part of broader security platform. Endpoint-focused VM built directly into EDR for real-time exposure views and patch status."
+    },
+    {
+      "name": "Microsoft Defender Vulnerability Management",
+      "notes": "Integrated into Microsoft security ecosystem providing vulnerability assessment and management for organizations using Microsoft security stack."
+    },
+    {
+      "name": "Tanium",
+      "notes": "Offers real-time endpoint visibility and vulnerability management with focus on speed and scale across large enterprise environments."
+    },
+    {
+      "name": "Wiz",
+      "notes": "Cloud-native security platform with strong vulnerability management capabilities. Agentless approach for comprehensive visibility across multi-cloud environments, one of fastest-growing CNAPP providers."
+    },
+    {
+      "name": "Orca Security",
+      "notes": "Agentless cloud security platform with vulnerability assessment capabilities. Competes in cloud-native vulnerability management space."
+    },
+    {
+      "name": "Arctic Wolf",
+      "notes": "Managed security services including vulnerability management, offering managed detection and response with vulnerability scanning capabilities."
+    },
+    {
+      "name": "Sophos",
+      "notes": "Provides vulnerability management as part of endpoint protection suite with integrated security capabilities."
+    },
+    {
+      "name": "Intruder",
+      "notes": "Cloud-based vulnerability scanner particularly suited for smaller organizations seeking cost-effective vulnerability management solutions."
+    }
+  ],
+  "sources": [
+    "Note: Web search was temporarily unavailable for Qualys. Competitor information based on general industry knowledge of the 2025 vulnerability management market. For most current information, recommend consulting Gartner Magic Quadrant for Vulnerability Assessment, Forrester Wave reports, or vendor websites directly."
+  ]
+}

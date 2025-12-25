@@ -1,0 +1,44 @@
+{
+  "company": "Payoneer",
+  "ticker": "PAYO",
+  "year": 2020,
+  "search_query": "Payoneer competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "Pre-IPO cross-border payments platform operating in a competitive landscape with established players and emerging fintech companies. Payoneer focused on serving freelancers, small businesses, and marketplaces with international payment needs.",
+  "competitors": [
+    {
+      "name": "PayPal",
+      "notes": "Dominant global payment platform with extensive cross-border capabilities, large user base, but higher fees for international transfers"
+    },
+    {
+      "name": "Wise (TransferWise)",
+      "notes": "Fast-growing cross-border payment platform using mid-market exchange rates with transparent, lower fees"
+    },
+    {
+      "name": "Stripe",
+      "notes": "Developer-focused payment infrastructure with growing cross-border capabilities through Stripe Connect"
+    },
+    {
+      "name": "Airwallex",
+      "notes": "Cross-border payment provider founded 2015, offering multi-currency accounts and international transfers"
+    },
+    {
+      "name": "Tipalti",
+      "notes": "B2B payment automation platform serving complex financial operations with higher fee structure"
+    },
+    {
+      "name": "Western Union",
+      "notes": "Traditional money transfer provider with extensive global network"
+    },
+    {
+      "name": "Ant Group (Alipay)",
+      "notes": "Major Asian payment platform with cross-border payment capabilities"
+    }
+  ],
+  "sources": [
+    "https://tipalti.com/resources/learn/payoneer-alternatives/",
+    "https://wise.com/us/blog/alternatives-to-payoneer",
+    "https://www.cbinsights.com/company/payoneer/alternatives-competitors",
+    "https://www.airwallex.com/us/blog/payoneer-alternatives-and-competitors"
+  ]
+}

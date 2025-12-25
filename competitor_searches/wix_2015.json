@@ -1,0 +1,36 @@
+{
+  "company": "Wix",
+  "ticker": "WIX",
+  "year": 2015,
+  "search_query": "Wix competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "In 2015, the cloud-based website builder market was rapidly growing with DIY platforms gaining traction among small businesses and individuals. Wix competed primarily with other drag-and-drop website builders targeting non-technical users. The market was characterized by platforms offering template-based design, hosting, and basic e-commerce capabilities. Around this time, Weebly's growth was peaking, while Wix and Squarespace continued to expand their user bases and feature sets.",
+  "competitors": [
+    {
+      "name": "Squarespace",
+      "notes": "Primary competitor offering high-quality templates and all-in-one website building solution. Founded in 2003, Squarespace focused on design-conscious users and creative professionals with more polished, contemporary templates compared to other builders."
+    },
+    {
+      "name": "Weebly",
+      "notes": "Major competitor with drag-and-drop builder and free hosting. Weebly was experiencing peak growth around 2015 before its popularity began to wane. Known for being extremely easy to use and beginner-friendly. Later acquired by Square in 2018."
+    },
+    {
+      "name": "WordPress.com",
+      "notes": "Hosted version of the world's most popular CMS platform. Offered more flexibility and customization through plugins but with a steeper learning curve compared to Wix's drag-and-drop interface."
+    },
+    {
+      "name": "GoDaddy Website Builder",
+      "notes": "Competing all-in-one website builder from the domain registration giant. Offered simple website creation tools bundled with domain and hosting services, targeting small business owners."
+    },
+    {
+      "name": "Shopify",
+      "notes": "E-commerce-focused platform that competed with Wix in the online store building space. While Wix offered general website building with e-commerce add-ons, Shopify specialized in comprehensive e-commerce solutions."
+    }
+  ],
+  "sources": [
+    "https://www.websitebuilderexpert.com/website-builders/comparisons/best-wix-alternatives/",
+    "https://www.tooltester.com/en/blog/wix-alternatives/",
+    "https://www.tomsguide.com/features/wix-vs-squarespace-vs-weebly",
+    "https://www.sitebuilderreport.com/website-builder-statistics"
+  ]
+}

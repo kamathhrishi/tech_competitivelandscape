@@ -1,0 +1,52 @@
+{
+  "company": "SAP",
+  "ticker": "SAP",
+  "year": 2010,
+  "search_query": "SAP competitors 2010",
+  "search_date": "2025-12-24",
+  "context": "SAP held 24% ERP market share in 2010, maintaining market leadership. Cloud computing transformation beginning with SaaS models gaining acceptance. SAP acquired Sybase for mobile and database capabilities. Oracle-SAP duopoly in large enterprise segment. In-memory computing emerging with SAP HANA announcement.",
+  "competitors": [
+    {
+      "name": "Oracle",
+      "notes": "Second-place ERP vendor with Oracle E-Business Suite and Fusion Applications, combined with database dominance creating integrated competitive offering"
+    },
+    {
+      "name": "Microsoft Dynamics",
+      "notes": "Strong competitor in mid-market with Dynamics AX, NAV, GP, and SL products, leveraging Microsoft ecosystem and Office integration"
+    },
+    {
+      "name": "Infor",
+      "notes": "Third-largest ERP vendor with extensive portfolio from acquisitions, offering industry-specific solutions competing with SAP verticals"
+    },
+    {
+      "name": "NetSuite",
+      "notes": "Leading cloud ERP platform for SMB and mid-market, demonstrating viability of SaaS model before Oracle acquisition in 2016"
+    },
+    {
+      "name": "Workday",
+      "notes": "Rapidly growing cloud-native HCM and financial management competitor, disrupting SAP's HR and finance modules with modern UX"
+    },
+    {
+      "name": "Sage",
+      "notes": "Leading SMB ERP and accounting software provider with products like Sage 100, 300, 500, and X3 competing below SAP Business One"
+    },
+    {
+      "name": "Epicor",
+      "notes": "Mid-market ERP vendor strong in manufacturing, distribution, and retail verticals with industry-tailored solutions"
+    },
+    {
+      "name": "IFS",
+      "notes": "Component-based ERP competitor specializing in project-based industries, service management, aerospace, defense, and asset-intensive sectors"
+    },
+    {
+      "name": "Salesforce.com",
+      "notes": "Cloud CRM leader expanding into broader enterprise applications, competing with SAP CRM and threatening platform expansion"
+    }
+  ],
+  "sources": [
+    "https://www.statista.com/statistics/249637/erp-software-market-share-by-company/",
+    "https://www.appsruntheworld.com/top-10-erp-software-vendors-and-market-forecast/",
+    "https://6sense.com/tech/erp/sap-erp-market-share",
+    "https://www.techtarget.com/searcherp/feature/Evaluating-todays-leading-ERP-software-vendors"
+  ]
+}

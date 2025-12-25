@@ -1,0 +1,51 @@
+{
+  "company": "Wix",
+  "ticker": "WIX",
+  "year": 2024,
+  "search_query": "Wix competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "In 2024, Wix reported 258 million users across 190 countries, making it the third most popular website building solution after WordPress (63.7%) and Shopify (5.7%). The market had become highly competitive with clear differentiation: general-purpose builders (Wix, Squarespace), e-commerce specialists (Shopify, BigCommerce), and professional design platforms (Webflow). Wix faced criticism for template lock-in, scalability issues, and limited e-commerce capabilities compared to specialized competitors. Budget-friendly alternatives like Hostinger gained traction with faster performance and lower pricing.",
+  "competitors": [
+    {
+      "name": "Squarespace",
+      "notes": "Biggest overall competitor to Wix. Powered over 3 million online stores as the 3rd most popular hosted solution. Offered superior template design quality with 188 templates (vs Wix's 2,664) but higher aesthetic standards. Best positioned for service-based businesses with Acuity Scheduling integration. Pricing more competitive at $16-$99/month vs Wix's $17-$159/month."
+    },
+    {
+      "name": "Shopify",
+      "notes": "Premier e-commerce competitor powering over 4 million websites. Specialized platform built specifically for online selling with advanced inventory management, shipping integrations, and 6,000+ e-commerce apps. Significantly more sophisticated than Wix for e-commerce with better dropshipping and print-on-demand support. Plans from $35/month."
+    },
+    {
+      "name": "Webflow",
+      "notes": "Professional-grade website builder for designers, developers, and agencies wanting advanced design control and clean code output. Offered over 2,000 templates with complete customization freedom. Superior SEO capabilities with custom meta tags and schema markup. Code export capability for easy migration. E-commerce Plus at $74/month."
+    },
+    {
+      "name": "WordPress",
+      "notes": "Dominant CMS platform powering 43.4% of all websites. Open-source platform with 59,000+ free and paid plugins offering unlimited customization. Far more flexible than Wix but required more technical knowledge. Received AI-powered enhancements in 2024 for quicker store setups and improved payment/shipping integration."
+    },
+    {
+      "name": "Hostinger Website Builder",
+      "notes": "Budget-friendly alternative starting at $2.99/month, significantly cheaper than Wix. Delivered best performance in load speed tests on both mobile and desktop, beating Wix by significant margins. Offered e-commerce capabilities across all plans while Wix restricted to specific packages. Simpler interface with fewer options than Wix."
+    },
+    {
+      "name": "BigCommerce",
+      "notes": "E-commerce platform for mid-to-large sized stores and B2B commerce. Over 40,000 live websites. Stronger than Wix for complex storefronts and custom e-commerce needs, particularly for businesses requiring advanced B2B functionality."
+    },
+    {
+      "name": "GoDaddy Website Builder",
+      "notes": "Major competitor with all-in-one builder, generous free plan, 100+ templates, and comprehensive e-commerce and marketing features. Leveraged strong brand recognition and existing customer base from domain/hosting services."
+    },
+    {
+      "name": "Weebly",
+      "notes": "Square-owned platform with free selling capability and beginner-friendly interface. However, platform hadn't received regular updates since 2019, making tools and designs outdated compared to Wix and other modern competitors."
+    }
+  ],
+  "sources": [
+    "https://www.tooltester.com/en/blog/wix-market-share/",
+    "https://www.tooltester.com/en/blog/wix-alternatives/",
+    "https://www.websitebuilderexpert.com/website-builders/comparisons/best-wix-alternatives/",
+    "https://blog.hubspot.com/website/wix-alternatives",
+    "https://www.omnisend.com/blog/wix-alternatives/",
+    "https://ecommerce-platforms.com/compare/shopify-vs-squarespace-vs-wix",
+    "https://www.ballisticdesignstudio.com/post/squarespace-vs-webflow-vs-wix-2025-ultimate-comparison"
+  ]
+}

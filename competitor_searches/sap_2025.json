@@ -1,0 +1,65 @@
+{
+  "company": "SAP",
+  "ticker": "SAP",
+  "year": 2025,
+  "search_query": "SAP competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "SAP Cloud ERP Suite growing 31% in Q1 2025, outpacing Microsoft (23%), Workday (19%), Salesforce (12%), and Oracle (10%). Cloud represents 85% of SAP revenue with €18.2B cloud backlog. AI-powered ERPs becoming standard with SAP Joule enterprise copilot. Market projected to reach $96B by 2032. Approaching 2027 on-premise support deadline driving S/4HANA migrations. Competitive focus on AI, industry clouds, and composable architecture.",
+  "competitors": [
+    {
+      "name": "Microsoft Dynamics 365",
+      "notes": "Market leader with 24.36% share in ERP category, Business Central at $95/user/month vs SAP's $1,000+, seamless Microsoft 365/Power BI/Teams ecosystem"
+    },
+    {
+      "name": "Workday",
+      "notes": "11.08% market share, fully cloud-based HCM and financials with strong AI-driven analytics, 19% growth rate challenging SAP in HR and finance"
+    },
+    {
+      "name": "Oracle NetSuite",
+      "notes": "Unified cloud platform disrupting traditional ERP with comprehensive functionality, $999 base + $99/user pricing, strong in e-commerce and multinational compliance"
+    },
+    {
+      "name": "Oracle Fusion Cloud ERP",
+      "notes": "Growing 10% with comprehensive SaaS applications, seamless Oracle Cloud/database integration, competing in large enterprise segment"
+    },
+    {
+      "name": "Acumatica",
+      "notes": "Cloud-native ERP with flexible deployment and consumption-based pricing, popular with growing SMBs seeking customization without SAP-level consulting fees"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Growing 12% with expanded cloud ecosystem, industry-specific solutions and AI capabilities competing in CRM, analytics, and customer experience"
+    },
+    {
+      "name": "Infor",
+      "notes": "Industry-specific CloudSuite solutions with AI/ML capabilities, strong in manufacturing, healthcare, hospitality competing with SAP industry verticals"
+    },
+    {
+      "name": "IFS",
+      "notes": "Specialized in service management, field service, and enterprise asset management with composable architecture for asset-intensive industries"
+    },
+    {
+      "name": "Epicor",
+      "notes": "Manufacturing and distribution ERP with deep vertical features, cloud and hybrid deployment, faster ROI than SAP for mid-market"
+    },
+    {
+      "name": "Unit4",
+      "notes": "Cloud ERP for service-centric organizations, strong in professional services, education, and non-profit sectors with people-centric approach"
+    },
+    {
+      "name": "Sage Intacct",
+      "notes": "Cloud financial management for SMB with automated processes and multi-entity capabilities, accessible pricing vs SAP Business One"
+    },
+    {
+      "name": "Odoo",
+      "notes": "Open-source ERP with free community version and paid plans from ~$25/user/month, rapidly growing in SMB segment with modular approach"
+    }
+  ],
+  "sources": [
+    "https://onfinity.io/blog/uncategorized/who-are-saps-biggest-competitors-in-enterprise-software-for-2025/",
+    "https://www.gestisoft.com/en/blog/sap-competitors",
+    "https://flatlogic-manager.medium.com/best-sap-alternatives-2025-choose-the-right-erp-7901a7f0b312",
+    "https://6sense.com/tech/erp/sap-erp-market-share",
+    "https://evinciblesolutions.com/us/best-sap-competitors-alternatives"
+  ]
+}

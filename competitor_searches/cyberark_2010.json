@@ -1,0 +1,42 @@
+{
+  "company": "CyberArk Software",
+  "ticker": "CYBR",
+  "year": 2010,
+  "search_query": "CyberArk competitors 2010 identity security PAM",
+  "search_date": "2024-12-24",
+  "context": "By 2010, CyberArk had established itself as a leader in the growing Privileged Access Management market, having opened its U.S. headquarters in 2004 and continued to develop its Privileged Account Security Solution. The PAM market was maturing beyond basic password vaults, with organizations recognizing the critical need to secure privileged accounts against insider threats and external attacks. CyberArk competed in an evolving landscape where traditional identity management vendors were adding PAM capabilities to their portfolios, while specialized PAM vendors were gaining traction. The market began to shift from manual, spreadsheet-based approaches to automated, policy-based privileged access control with session monitoring and auditing capabilities.",
+  "competitors": [
+    {
+      "name": "Thycotic",
+      "notes": "Growing rapidly with Secret Server as a comprehensive privileged account password management solution, offering password vaulting, automated rotation, session recording, and real-time threat analytics"
+    },
+    {
+      "name": "Centrify",
+      "notes": "Offering DirectControl and the Centrify Suite for secure authentication, single sign-on, role-based access control, and privileged identity management across heterogeneous systems, with a focus on centralizing fragmented identities"
+    },
+    {
+      "name": "IBM Tivoli",
+      "notes": "Providing comprehensive identity and access management through Tivoli Identity Manager and Tivoli Access Manager, with privileged identity management capabilities and role lifecycle management features"
+    },
+    {
+      "name": "CA Technologies",
+      "notes": "Offering CA ControlMinder and CA Privileged Access Manager for host access control, privileged user management, and password maintenance across physical, virtual, and cloud environments"
+    },
+    {
+      "name": "BeyondTrust",
+      "notes": "Delivering PowerBroker and privilege management solutions, pioneering many must-have PAM capabilities for controlling and tracking privileged access across enterprise environments"
+    },
+    {
+      "name": "Quest Software (One Identity)",
+      "notes": "Providing identity and access management solutions with privileged access governance capabilities for enterprise environments"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/CyberArk",
+    "https://delinea.com/centrify",
+    "https://golden.com/wiki/Thycotic-MNAPBEG",
+    "https://www.ibm.com/docs/en/spim/1.0.1.1?topic=overview-privileged-identity-management",
+    "https://www.beyondtrust.com/vs/cyberark-alternative",
+    "https://www.researchandmarkets.com/report/privileged-access-management"
+  ]
+}

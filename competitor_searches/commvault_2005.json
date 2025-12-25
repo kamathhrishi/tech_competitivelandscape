@@ -1,0 +1,36 @@
+{
+  "company": "CommVault",
+  "ticker": "CVLT",
+  "year": 2005,
+  "search_query": "CommVault competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "2005 was a pivotal year in the enterprise backup software market, marked by the Symantec-Veritas merger completed on July 2, 2005 for $13.5 billion. This merger created the fourth-largest software firm in the world and reshaped the competitive landscape. Veritas NetBackup was the market leader in enterprise backup software at the time, and the merger brought together security and data management capabilities. CommVault competed in this space dominated by traditional enterprise backup vendors, with the market focused on on-premises backup solutions for data centers.",
+  "competitors": [
+    {
+      "name": "Veritas NetBackup (Symantec)",
+      "notes": "Market leader in enterprise backup software following the Symantec-Veritas merger in July 2005. NetBackup was Veritas's flagship product and maintained dominance in the enterprise backup market."
+    },
+    {
+      "name": "EMC",
+      "notes": "Major player in the backup and storage market, competing with backup software and storage solutions for enterprise data centers."
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise backup and storage vendor with Tivoli Storage Manager, competing in the enterprise data protection market."
+    },
+    {
+      "name": "HP",
+      "notes": "Enterprise backup solutions provider competing in the data center backup market."
+    },
+    {
+      "name": "Backup Exec",
+      "notes": "Backup software targeting the SMB market, part of Veritas/Symantec portfolio, competing in the mid-market backup segment."
+    }
+  ],
+  "sources": [
+    "https://www.techtarget.com/searchdatabackup/definition/Symantec-NetBackup",
+    "https://en.wikipedia.org/wiki/Veritas_Technologies",
+    "https://www.cbinsights.com/company/commvault-systems/alternatives-competitors",
+    "https://www.baculasystems.com/commvault-competitors-alternatives/"
+  ]
+}

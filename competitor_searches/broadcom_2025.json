@@ -1,0 +1,62 @@
+{
+  "company": "Broadcom",
+  "ticker": "AVGO",
+  "year": 2025,
+  "search_query": "Broadcom competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "As of 2025, Broadcom is firmly established as one of the largest technology companies globally with a $1+ trillion market cap. The company generates 58% of revenue from semiconductors and 42% from infrastructure software. In semiconductors, Broadcom is a leader in custom AI ASICs (helping hyperscalers like Google, Meta, ByteDance develop specialized AI chips), networking solutions transitioning to Ethernet-based open networking, and wireless connectivity. The company secured a multi-year deal with OpenAI to develop next-generation AI accelerators (revenue starting late 2026). In software, Broadcom manages the massive VMware, CA Technologies, Symantec, and Brocade portfolios, though facing challenges with VMware pricing transitions driving customers to explore alternatives.",
+  "competitors": [
+    {
+      "name": "Nvidia",
+      "notes": "Dominant competitor in general-purpose AI GPUs; Broadcom differentiates with custom AI ASICs that are task-specific and more energy efficient"
+    },
+    {
+      "name": "AMD",
+      "notes": "Major AI and data center competitor; stock up 70% in 2025 vs Broadcom's 45% gain; trades at similar P/E multiples (AMD 32x vs AVGO 33.5x)"
+    },
+    {
+      "name": "Intel",
+      "notes": "Semiconductor competitor in data center, networking, and connectivity solutions, though Broadcom leads in networking chips"
+    },
+    {
+      "name": "Marvell Technology",
+      "notes": "Direct competitor in custom AI chips, data center networking, and infrastructure semiconductors"
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Competitor in wireless communications and mobile semiconductors"
+    },
+    {
+      "name": "Nutanix",
+      "notes": "Critical VMware alternative gaining traction as customers seek alternatives due to Broadcom's VMware pricing changes"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Enterprise software competitor in virtualization (Hyper-V), cloud infrastructure (Azure), and enterprise solutions"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software competitor in cloud infrastructure, databases, and enterprise applications"
+    },
+    {
+      "name": "IBM",
+      "notes": "Competitor in enterprise software, infrastructure, cybersecurity, and enterprise services"
+    },
+    {
+      "name": "Texas Instruments",
+      "notes": "Semiconductor competitor in analog and embedded processing"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Networking infrastructure competitor and customer"
+    }
+  ],
+  "sources": [
+    "https://www.benzinga.com/insights/news/25/12/49582953/exploring-the-competitive-space-broadcom-versus-industry-peers-in-semiconductors-amp-semiconductor-",
+    "https://markets.financialcontent.com/wral/article/predictstreet-2025-12-10-broadcom-inc-avgo-a-deep-dive-into-an-ai-and-software-powerhouse",
+    "https://www.marketbeat.com/stocks/NASDAQ/AVGO/competitors-and-alternatives/",
+    "https://markets.financialcontent.com/wral/article/predictstreet-2025-12-23-the-infrastructure-architect-a-deep-dive-into-broadcoms-avgo-ai-and-software-empire",
+    "https://finance.yahoo.com/news/broadcom-vs-amd-ai-chip-154500617.html",
+    "https://en.wikipedia.org/wiki/Broadcom"
+  ]
+}

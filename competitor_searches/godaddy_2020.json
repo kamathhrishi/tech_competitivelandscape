@@ -1,0 +1,65 @@
+{
+  "company": "GoDaddy",
+  "ticker": "GDDY",
+  "year": 2020,
+  "search_query": "GoDaddy competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "By 2020, GoDaddy was the world's fifth largest web host by market share with over 62 million registered domains. The COVID-19 pandemic accelerated digital transformation, driving strong growth in website builders. Wix experienced exceptional growth in 2020, adding 31 million users to reach 200 million total users and gaining 1 million paid subscribers. The website builder market leaders were Wix (45% market share), Squarespace (16%), and GoDaddy's GoCentral (10%). Competition intensified in the website builder space as no-code tools became mainstream. Common complaints about GoDaddy included renewal pricing increases and extra fees for basic features like email, SSL, backups, and privacy protection that competitors were including for free.",
+  "competitors": [
+    {
+      "name": "Wix",
+      "notes": "Market leader in website builders with 45% market share. Added 31 million users in 2020 alone, reaching 200 million total users. Generated $989 million in 2020 revenue. Offered drag-and-drop website building with integrated hosting."
+    },
+    {
+      "name": "Squarespace",
+      "notes": "Second-largest website builder with 16% market share. Highest market share among top 1 million websites. Was market leader until 2021 when Wix surpassed it. Offered easy drag-and-drop templates with domain registration."
+    },
+    {
+      "name": "Bluehost",
+      "notes": "Number one GoDaddy alternative for web hosting. Superior features, value for money, and security. WordPress-recommended host with integrated website builder. Included more essentials in entry-level plans than GoDaddy."
+    },
+    {
+      "name": "Namecheap",
+      "notes": "Leading domain registrar with cheaper renewal costs than GoDaddy. Offered free WHOIS domain privacy while GoDaddy charged extra. Strong value proposition in domain registration."
+    },
+    {
+      "name": "HostGator",
+      "notes": "Best for shared hosting with 99.99% uptime guarantee. Bundled domain registration with hosting plans. Competitive shared hosting alternative."
+    },
+    {
+      "name": "SiteGround",
+      "notes": "Premium shared hosting with best-in-class support. Fastest shared hosting with slick caching features. Superior uptime and reliability compared to GoDaddy."
+    },
+    {
+      "name": "IONOS",
+      "notes": "Best value for money with pricing starting at $1.00/month for shared hosting. Excellent pricing with good feature selection and performance. Much cheaper than GoDaddy's $5.99/month starting price."
+    },
+    {
+      "name": "Hostinger",
+      "notes": "Best for ecommerce stores with faster loading speeds and better uptime than GoDaddy. More intuitive website builder with better overall value."
+    },
+    {
+      "name": "Network Solutions",
+      "notes": "Established ICANN-accredited domain registrar with all-in-one solution for domains, hosting, and website building. Reliable option for businesses seeking room to grow."
+    },
+    {
+      "name": "Domain.com",
+      "notes": "Popular domain name registrar for easy registration and transfers. Option to purchase premium domains. Direct domain registration competitor."
+    },
+    {
+      "name": "DreamHost",
+      "notes": "Reliable web hosting with unlimited storage and bandwidth. Free SSL certificates for every site. Transparent pricing and robust features."
+    },
+    {
+      "name": "WordPress.org",
+      "notes": "Leading CMS platform (not a website builder but competing for same customers). Used by millions for website creation with hosting from various providers."
+    }
+  ],
+  "sources": [
+    "https://www.sitebuilderreport.com/state-of-website-builders/",
+    "https://www.tooltester.com/en/blog/wix-market-share/",
+    "https://www.websitebuilderexpert.com/web-hosting/godaddy-alternatives/",
+    "https://www.isitwp.com/best-godaddy-alternatives-domain-registration-web-hosting/",
+    "https://cybernews.com/best-web-hosting/godaddy-alternatives/"
+  ]
+}

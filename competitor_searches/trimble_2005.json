@@ -1,0 +1,45 @@
+{
+  "company": "Trimble",
+  "ticker": "TRMB",
+  "year": 2005,
+  "search_query": "Trimble competitors 2005",
+  "search_date": "2025-12-24",
+  "context": "Expanding geospatial and construction technology market. Trimble formed joint venture with Caterpillar (Caterpillar Trimble Control Technologies) in 2002, influencing competitive landscape through collaboration. Market saw growth in construction machine control and precision positioning applications.",
+  "competitors": [
+    {
+      "name": "Topcon Positioning Systems",
+      "notes": "Global leader offering products for surveying, construction, agriculture with high-quality innovative solutions"
+    },
+    {
+      "name": "Leica Geosystems",
+      "notes": "Major player providing products for surveying, construction, known for precision and accuracy"
+    },
+    {
+      "name": "Hexagon AB",
+      "notes": "Global leader in sensor, software, and autonomous solutions competing in geospatial and industrial automation"
+    },
+    {
+      "name": "Hemisphere GNSS",
+      "notes": "Provider of GNSS technology solutions for surveying, construction, and agriculture"
+    },
+    {
+      "name": "Spectra Precision",
+      "notes": "Known for reliable and affordable positioning technology products for surveying and construction"
+    },
+    {
+      "name": "Esri",
+      "notes": "Competitor in software and geospatial data domains with GIS solutions"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Competition in software and geospatial data, design and modeling applications"
+    }
+  ],
+  "sources": [
+    "https://sumble.com/tech/trimble",
+    "https://www.comparably.com/companies/trimble/competitors",
+    "https://canvasbusinessmodel.com/blogs/competitors/trimble-competitive-landscape",
+    "https://pitchgrade.com/companies/trimble-inc",
+    "https://matrixbcg.com/blogs/competitors/trimble"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "company": "Monday.com",
+  "ticker": "MNDY",
+  "year": 2025,
+  "search_query": "Monday.com competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "In 2025, Monday.com competes as a comprehensive Work OS platform in the collaborative work management space, serving over 60 million users across in-house, hybrid, and remote teams. The competitive landscape features mature platforms with AI integration, enhanced automation, and specialized workflow capabilities. Monday.com positions itself through customizable templates and tailored workflow structures, competing against both enterprise-grade solutions and agile startup platforms.",
+  "competitors": [
+    {
+      "name": "ClickUp",
+      "notes": "Rated best overall alternative by G2. Productivity platform offering similar customization and visual task-management features but with more functionality in lower tiers. Best for large teams (10-50+ people) or power users wanting extreme flexibility with tasks, docs, wikis, goals, and dashboards."
+    },
+    {
+      "name": "Wrike",
+      "notes": "Enterprise work management platform for complex workflows with projects, tasks, proofing, and reporting. As of November 2025, showing significant growth with new AI features, enhanced community support, and more frequent updates. Best for large marketing teams (20-100+ people) requiring advanced permissions and custom workflows."
+    },
+    {
+      "name": "Smartsheet",
+      "notes": "Modern work management platform for managing projects, automating processes, and scaling workflows in one central platform. Competes with efficient and highly customizable interface for time management, collaboration, and communication."
+    },
+    {
+      "name": "Asana",
+      "notes": "Work management platform with tasks, projects, timelines, and portfolios for clean task tracking without visual clutter. Strong for marketing teams (5-30 people) prioritizing task management and collaboration."
+    },
+    {
+      "name": "Trello",
+      "notes": "Visual project management tool using boards, lists, and cards for simple task tracking. Less complicated and visually pleasing alternative organizing tasks on colorful Kanban boards. Best for small marketing teams (1-10 people) wanting visual simplicity."
+    },
+    {
+      "name": "Notion",
+      "notes": "All-in-one workspace that has become essential for organization and team collaboration. Everything lives in one place with easily linked documents, notes, tasks, and comments. Features built-in AI tools for creating tables, flowcharts, and rewording text."
+    },
+    {
+      "name": "Hive",
+      "notes": "Project management and collaboration platform offering integrated workflow solutions with competitive pricing and comprehensive productivity tools for teams."
+    },
+    {
+      "name": "Teamwork",
+      "notes": "Comprehensive work management platform with vast range of task and project management features, strong customer support, and user-friendly interface."
+    },
+    {
+      "name": "Workfront (Adobe)",
+      "notes": "Cloud-based Enterprise Work Management solution helping marketing, IT, and enterprise teams manage excessive email, redundant status meetings, and disconnected tools with unified platform."
+    },
+    {
+      "name": "GoodDay",
+      "notes": "All-in-one work management platform trusted by Fortune 500 companies and fast-growing startups. Brings project planning, task tracking, goal setting, and reporting into one streamlined system."
+    },
+    {
+      "name": "Miro",
+      "notes": "Best for visual collaboration and innovation with over 60 million users. Comprehensive suite includes workshops, project management, and content/data visualization capabilities for seamless creation."
+    },
+    {
+      "name": "ProofHub",
+      "notes": "Project management and team collaboration platform offering centralized hub for task management, planning, and document organization."
+    }
+  ],
+  "sources": [
+    "https://www.g2.com/products/monday-com/competitors/alternatives",
+    "https://www.gartner.com/reviews/market/collaborative-work-management/vendor/monday-com/product/monday/alternatives",
+    "https://thedigitalprojectmanager.com/tools/best-monday-alternative/",
+    "https://www.teamwork.com/blog/monday-alternatives/",
+    "https://www.goodday.work/blog/best-monday-com-alternatives/",
+    "https://www.proofhub.com/articles/monday-alternatives",
+    "https://monday.com/alternative"
+  ]
+}

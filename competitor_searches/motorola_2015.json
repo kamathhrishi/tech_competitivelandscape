@@ -1,0 +1,39 @@
+{
+  "company": "Motorola Solutions",
+  "ticker": "MSI",
+  "year": 2015,
+  "search_query": "Motorola Solutions MSI competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "By 2015, Motorola Solutions was well-established as an independent company focused on public safety and enterprise security. The company was actively acquiring businesses to strengthen its position, including Emergency CallWorks (February 2015) for NG9-1-1 call-taking software and PublicEngines (April 2015) for crime analysis and data analytics.",
+  "competitors": [
+    {
+      "name": "Cisco Systems",
+      "notes": "Competitor in telecommunications equipment and enterprise communications"
+    },
+    {
+      "name": "Ericsson",
+      "notes": "Competitor in telecommunications equipment and critical communications"
+    },
+    {
+      "name": "Nokia",
+      "notes": "Competitor in telecommunications equipment and public safety networks"
+    },
+    {
+      "name": "Zebra Technologies",
+      "notes": "Competitor after acquiring Motorola's Enterprise business in 2014"
+    },
+    {
+      "name": "Harris Corporation",
+      "notes": "Competitor in public safety and tactical communications"
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "notes": "Competitor in enterprise technology solutions"
+    }
+  ],
+  "sources": [
+    "https://seekingalpha.com/symbol/MSI/peers/comparison",
+    "https://www.marketbeat.com/stocks/NYSE/MSI/competitors-and-alternatives/",
+    "https://en.wikipedia.org/wiki/Motorola_Solutions"
+  ]
+}

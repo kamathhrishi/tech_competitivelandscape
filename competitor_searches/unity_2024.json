@@ -1,0 +1,50 @@
+{
+  "company": "Unity Software",
+  "ticker": "U",
+  "year": 2024,
+  "search_query": "Unity Software competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "By 2024, Unity maintained a 25.62% market share in game development, competing against 103 tools. Over 13,830 companies worldwide were using Unity. The company remained a powerful choice for both indie developers and large studios, known for versatility in 2D and 3D development, vast asset store, and extensive customization through plugins. Open-source alternatives like Godot experienced significant growth in popularity.",
+  "competitors": [
+    {
+      "name": "Unreal Engine (Epic Games)",
+      "notes": "Primary competitor with 16.56% market share. One of the most powerful engines available. Ideal for large-scale open-world games, first-person shooters, and high graphical demands. Popular for film and television projects due to real-time rendering and VFX tools. Steeper learning curve than Unity. Free with 5% royalty on revenues exceeding $1M."
+    },
+    {
+      "name": "Godot Engine",
+      "notes": "Leading open-source alternative. Free under MIT license. Released in 2014 by Juan Linietsky and Ariel Manzur. Supports both 2D and 3D development. Uses GDScript (Python-like) and C#. Lightweight engine popular for rapid prototyping. Growing steadily in popularity among indie developers and small teams due to flexibility and affordability."
+    },
+    {
+      "name": "Stride Game Engine (formerly Xenko)",
+      "notes": "Open-source C# game engine with full toolchain. Well-suited for creating realistic games. Designed for the future of gaming with modern development approaches."
+    },
+    {
+      "name": "GDevelop",
+      "notes": "Notable Unity alternative offering accessible game development tools. Focus on ease of use."
+    },
+    {
+      "name": "CryEngine (Crytek)",
+      "notes": "Known for state-of-the-art graphical capabilities. Strong focus on 3D and realistic environments."
+    },
+    {
+      "name": "Open 3D Engine",
+      "notes": "Successor to Amazon Lumberyard. Open-sourced and managed by the Linux Foundation. Licensed under Apache 2.0. Focuses on 3D game development with powerful tooling."
+    },
+    {
+      "name": "Cocos Creator",
+      "notes": "Versatile engine for 2D and lightweight 3D games. Released in 2016. Offers integrated IDE. Highly efficient for mobile game development. Particularly favored in China and Southeast Asia markets."
+    }
+  ],
+  "sources": [
+    "https://www.androidpolice.com/best-unity-game-engine-alternative/",
+    "https://alternativeto.net/software/unity/",
+    "https://gamefromscratch.com/unity-alternatives-in-2023/",
+    "https://mobilegamer.biz/a-brief-guide-to-unity-alternatives-from-unreal-to-godot-and-beyond/",
+    "https://www.g2.com/products/unity/competitors/alternatives",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/unity-alternatives",
+    "https://www.keywordsstudios.com/en/about-us/news-events/news/choosing-the-best-game-development-software-in-2024/",
+    "https://cyberglads.com/making-cyberglads-1-choosing-a-game-engine.html",
+    "https://6sense.com/tech/game-development/unity-market-share",
+    "https://www.slant.co/options/1047/alternatives/~unity-3d-alternatives"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "company": "Duolingo",
+  "ticker": "DUOL",
+  "year": 2024,
+  "search_query": "Duolingo competitors 2024 language learning market",
+  "search_date": "2025-12-24",
+  "context": "Duolingo is the market leader with 88.4 million monthly active users (Q1 2024) and $748 million in revenue for 2024, the highest among language learning apps. The global language learning apps market was valued at $6.34 billion in 2024. Competition intensified with AI integration becoming standard, and the market expanded to include corporate/B2B solutions alongside consumer apps. Key differentiators include native speaker practice, AI personalization, and professional development offerings.",
+  "competitors": [
+    {
+      "name": "Babbel",
+      "notes": "Established competitor offering Babbel for Business for corporate clients, focusing on professional development and employee language skills"
+    },
+    {
+      "name": "Rosetta Stone",
+      "notes": "Major competitor with $182.7 million in revenue and $179.4 million brand value, targeting professionals seeking rigorous immersive experience"
+    },
+    {
+      "name": "Busuu",
+      "notes": "Differentiates with platform for practicing with native speakers to enhance conversational skills through real interaction"
+    },
+    {
+      "name": "Memrise",
+      "notes": "Established player in the competitive landscape offering video-based native speaker content"
+    },
+    {
+      "name": "Lingvist",
+      "notes": "Uses AI to personalize learning experience, adapting to user's level and pace with data-driven approach"
+    },
+    {
+      "name": "Mondly",
+      "notes": "Offers courses in 40+ languages with interactive lessons, speech recognition technology, and personalized feedback"
+    },
+    {
+      "name": "HelloTalk",
+      "notes": "Emerging competitor in the language learning space"
+    },
+    {
+      "name": "Tandem",
+      "notes": "Language exchange platform connecting learners with native speakers"
+    },
+    {
+      "name": "Drops",
+      "notes": "Continues as competitor with focused short-session learning approach"
+    },
+    {
+      "name": "LingQ",
+      "notes": "Emerging firm in the competitive landscape"
+    }
+  ],
+  "sources": [
+    "https://pitchgrade.com/companies/duolingo-inc",
+    "https://canvasbusinessmodel.com/blogs/competitors/duolingo-competitive-landscape",
+    "https://thebigmarketing.com/duolingo-competitors/",
+    "https://medium.com/brandvaluer/which-language-learning-brand-can-topple-duolingos-reign-e0408ae9e34f",
+    "https://www.g2.com/products/duolingo/competitors/alternatives",
+    "https://straitsresearch.com/report/language-learning-apps-market",
+    "https://www.businessofapps.com/data/language-learning-app-market/"
+  ]
+}

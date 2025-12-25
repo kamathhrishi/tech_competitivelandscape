@@ -1,0 +1,79 @@
+{
+  "company": "The Trade Desk",
+  "ticker": "TTD",
+  "year": 2024,
+  "search_query": "The Trade Desk competitors 2024 programmatic advertising",
+  "search_date": "2024-12-24",
+  "context": "In 2024, The Trade Desk maintained its position as the premier independent demand-side platform globally, holding a commanding 25.8% of the programmatic advertising DSP market in 2023. The company announced revenue of $2.44 billion in 2024, a 26% increase from the previous year, with $12.04 billion in advertising spend flowing through its platform. The Trade Desk is recognized as a power user's DSP, offering transparency, customizability, and control across display, video, audio, and CTV channels. The competitive landscape is defined by the tension between walled gardens (Google, Amazon, Meta) that own content and control data versus independent platforms like The Trade Desk that emphasize neutrality and transparency. AI-powered optimization and cookieless advertising solutions became critical differentiators as the industry adapted to privacy changes and moved away from third-party cookies.",
+  "competitors": [
+    {
+      "name": "Google Display & Video 360 (DV360)",
+      "notes": "Largest walled garden competitor with deep integration into Google's ecosystem, search engine, Google Ads, and Google Analytics with extensive data resources"
+    },
+    {
+      "name": "Amazon DSP",
+      "notes": "Major walled garden leveraging Amazon's deterministic first-party marketplace data, shopping behavior insights, and competitive pricing (fees as low as 1% for programmatic guaranteed deals); ad revenue reached $13.9B in Q1 2025"
+    },
+    {
+      "name": "Meta Ads (Facebook/Instagram)",
+      "notes": "Walled garden platform controlling vast first-party social media data and integrated advertising across Facebook and Instagram properties"
+    },
+    {
+      "name": "StackAdapt",
+      "notes": "Top independent DSP alternative known for native advertising, intuitive workflow, AI-powered optimizations, multi-channel reach, and B2B targeting capabilities"
+    },
+    {
+      "name": "MediaMath (by Infillion)",
+      "notes": "Independent DSP pioneer now operating as MediaMath by Infillion, focusing on cookieless solutions, supply path optimization, and data-driven strategies"
+    },
+    {
+      "name": "Adobe Advertising Cloud",
+      "notes": "Comprehensive DSP within Adobe Experience Cloud, integrating with Adobe Analytics and Adobe Audience Manager for unified campaign management"
+    },
+    {
+      "name": "Yahoo DSP",
+      "notes": "Independent unified programmatic platform combining former Brightroll, AOL, Right Media Exchange technologies, offering cookieless advertising and identity services"
+    },
+    {
+      "name": "Xandr (Microsoft)",
+      "notes": "AT&T-acquired platform (now Microsoft-owned) combining DSP and SSP with telecommunications and media data integration"
+    },
+    {
+      "name": "Simpli.fi",
+      "notes": "Specialized DSP for unstructured data with proprietary technology, excelling in geo-fencing, localized advertising, and comprehensive DSP/DMP/SSP suite"
+    },
+    {
+      "name": "Quantcast Platform",
+      "notes": "AI-driven DSP predicting audience purchasing behavior with advanced data analytics for campaign optimization"
+    },
+    {
+      "name": "Viant Technology",
+      "notes": "Independent people-based advertising DSP emphasizing identity solutions and household-level targeting"
+    },
+    {
+      "name": "Basis (Centro)",
+      "notes": "Programmatic platform offering integrated media buying and campaign management capabilities"
+    },
+    {
+      "name": "AdRoll",
+      "notes": "Growth marketing platform with DSP capabilities focusing on retargeting and e-commerce advertising"
+    },
+    {
+      "name": "Integral Ad Science",
+      "notes": "Ad verification and optimization platform competing in programmatic ad tech ecosystem"
+    },
+    {
+      "name": "Captify",
+      "notes": "Search intelligence platform leveraging search data for programmatic advertising targeting"
+    }
+  ],
+  "sources": [
+    "https://www.simulmedia.com/blog/a-closer-look-at-the-trade-desks-top-competitors-in-the-programmatic-advertising-industry",
+    "https://pitchgrade.com/companies/the-trade-desk",
+    "https://www.vibe.co/blog/trade-desk-competitors",
+    "https://www.g2.com/products/the-trade-desk/competitors/alternatives",
+    "https://www.lambosdigital.com/blog/amazon-dsp-vs-the-trade-desk-which-programmatic-platform-is-best-for-advertisers-in-2025",
+    "https://matrixbcg.com/blogs/competitors/thetradedesk",
+    "https://www.gartner.com/reviews/market/ad-tech-platforms/vendor/the-trade-desk/product/the-trade-desk/alternatives"
+  ]
+}

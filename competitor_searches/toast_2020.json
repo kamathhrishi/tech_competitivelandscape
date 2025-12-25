@@ -1,0 +1,51 @@
+{
+  "company": "Toast",
+  "ticker": "TOST",
+  "year": 2020,
+  "search_query": "Toast POS restaurant competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "In 2020, Toast was a privately-held restaurant technology company founded in 2011, focused on providing cloud-based POS and restaurant management systems built on Android. The company was rapidly growing in the fragmented restaurant POS market (800,000-900,000 US restaurant locations) with approximately 8% market penetration. Toast competed in a landscape of both general-purpose POS systems (like Square) and restaurant-specific solutions, differentiating itself through its integrated, all-in-one platform specifically designed for restaurants, 24/7 customer support, and Android-based hardware that offered more customization than iPad-based competitors.",
+  "competitors": [
+    {
+      "name": "Square",
+      "notes": "Largest competitor with general-purpose POS system that serves both retail and restaurants. Known for transparent pricing, modern interface, and strong presence in small business market. Square was more retail-focused but competed heavily in the restaurant space, particularly for counter-service and quick-service establishments."
+    },
+    {
+      "name": "Lightspeed Restaurant",
+      "notes": "Cloud-based restaurant iPad POS system with comprehensive features and robust third-party integrations. Designed for fine dining, franchises, and large restaurant groups. Higher cost alternative to Toast with powerful back-end features for inventory and multi-location management."
+    },
+    {
+      "name": "TouchBistro",
+      "notes": "iPad-based POS system focused on restaurant-specific needs with strong offline capabilities. More affordable than Toast with robust back office and inventory management. Locally installed system providing full offline functionality, ideal for independent full-service restaurants."
+    },
+    {
+      "name": "Clover",
+      "notes": "Restaurant and retail POS system offering customizable features, wide range of hardware options, and third-party app integrations. Competed on flexibility and accepting more payment options than Toast, with no contract requirements."
+    },
+    {
+      "name": "Upserve",
+      "notes": "Restaurant-industry-specific POS system with lower market presence but strong customer satisfaction. Designed exclusively for food and beverage businesses."
+    },
+    {
+      "name": "Revel Systems",
+      "notes": "iPad-based POS system that was a notable competitor in the restaurant space, particularly for multi-location restaurants. Used Apple's iOS platform versus Toast's Android approach."
+    },
+    {
+      "name": "Aloha Cloud POS",
+      "notes": "Traditional restaurant POS provider transitioning to cloud-based solutions. Established player in the restaurant technology space with deep industry roots."
+    },
+    {
+      "name": "CAKE by Mad Mobile",
+      "notes": "Restaurant-specific POS and guest engagement platform competing in the full-service restaurant segment."
+    }
+  ],
+  "sources": [
+    "https://pos.toasttab.com/blog/best-toast-competitors-and-alternatives",
+    "https://6sense.com/tech/pos-systems/toast-market-share",
+    "https://www.merchantmaverick.com/toast-alternatives/",
+    "https://www.owner.com/blog/toast-competitors",
+    "https://www.usfoods.com/our-services/business-trends/toast-goes-head-to-head-with-the-competition.html",
+    "https://www.expertmarket.com/pos/square-vs-toast-vs-lightspeed",
+    "https://technologyadvice.com/blog/sales/toast-vs-square/"
+  ]
+}

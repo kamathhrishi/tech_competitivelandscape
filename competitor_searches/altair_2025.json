@@ -1,0 +1,90 @@
+{
+  "company": "Altair Engineering",
+  "ticker": "ALTR",
+  "year": 2025,
+  "search_query": "Altair Engineering ALTR competitors 2025 simulation software",
+  "search_date": "2025-12-24",
+  "context": "Altair Engineering is a multinational IT company headquartered in Troy, Michigan, providing software and cloud solutions for simulation, IoT, HPC, data analytics, and AI. The company was formerly traded on Nasdaq under ticker ALTR. In 2025, Altair was acquired by Siemens for $10.6 billion, creating the world's most complete AI-powered portfolio of industrial software for simulation, HPC, data science, and AI as part of the Siemens Xcelerator platform. Altair HyperWorks is a comprehensive design and simulation platform that empowers engineers across multiple disciplines including structures, motion, fluids, thermal, electromagnetics, electronics, controls, and embedded systems. The company has 4,128 active competitors including 187 funded and 127 that have exited.",
+  "competitors": [
+    {
+      "name": "Dassault Systèmes",
+      "ticker": "DASSAULT",
+      "notes": "Major competitor in simulation and engineering software. Offers comprehensive PLM and simulation solutions."
+    },
+    {
+      "name": "ANSYS",
+      "ticker": "ANSS",
+      "notes": "Primary simulation software competitor. Acquired by Synopsys in July 2025 for $35 billion. Leader in engineering simulation with 39.85% market share in simulation-modeling."
+    },
+    {
+      "name": "MSC Software",
+      "ticker": "Hexagon/Cadence",
+      "notes": "Simulation and analysis software provider. Part of Hexagon, being acquired by Cadence Design Systems in September 2025 for €2.7 billion."
+    },
+    {
+      "name": "SOLIDWORKS",
+      "ticker": "Dassault Systèmes",
+      "notes": "Popular CAD and simulation alternative to Altair Inspire. Strong in 3D mechanical design with integrated simulation capabilities."
+    },
+    {
+      "name": "Autodesk Fusion",
+      "ticker": "ADSK",
+      "notes": "Cloud-based 3D CAD, CAM, and CAE tool integrating design, modeling, and simulation. Top alternative to Altair Inspire."
+    },
+    {
+      "name": "ANSYS Fluent",
+      "ticker": "ANSS",
+      "notes": "CFD simulation software, competitor to Altair's fluid dynamics solutions."
+    },
+    {
+      "name": "ANSYS Mechanical",
+      "ticker": "ANSS",
+      "notes": "Structural analysis software competing with Altair's structural simulation tools."
+    },
+    {
+      "name": "MATLAB",
+      "ticker": "MathWorks",
+      "notes": "Programming, modeling, and simulation platform competing in data analytics and simulation space."
+    },
+    {
+      "name": "Siemens NX",
+      "ticker": "SIEGY",
+      "notes": "Comprehensive 3D CAD software with design, modeling, simulation, and PLM tools. Part of Siemens, which acquired Altair in 2025."
+    },
+    {
+      "name": "Simcenter STAR-CCM+",
+      "ticker": "SIEGY",
+      "notes": "Complete multidisciplinary platform for simulation of products under real-world conditions. Part of Siemens portfolio."
+    },
+    {
+      "name": "Quantiphi",
+      "notes": "Competitor from data analytics/IT services perspective."
+    },
+    {
+      "name": "EXL",
+      "notes": "Competitor in data analytics and IT services space."
+    },
+    {
+      "name": "Infosys",
+      "ticker": "INFY",
+      "notes": "Competitor from IT services and data analytics perspective."
+    },
+    {
+      "name": "Alteryx",
+      "ticker": "AYX",
+      "notes": "Data analytics and business intelligence competitor."
+    },
+    {
+      "name": "Altium",
+      "notes": "Electronic design automation and PCB design software competitor."
+    }
+  ],
+  "sources": [
+    "https://tracxn.com/d/companies/altair-engineering/__NpXoA4Nqxzaw8Sam6FwgPldioXi0-mwE9ZtFbzK97U4",
+    "https://www.owler.com/company/altair",
+    "https://www.g2.com/products/altair-inspire/competitors/alternatives",
+    "https://en.wikipedia.org/wiki/Altair_Engineering",
+    "https://altair.com/hyperworks-2025",
+    "https://www.softwareworld.co/competitors/altair-hyperworks-alternatives/"
+  ]
+}

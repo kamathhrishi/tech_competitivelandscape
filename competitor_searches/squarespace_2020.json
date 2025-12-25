@@ -1,0 +1,53 @@
+{
+  "company": "Squarespace",
+  "ticker": "SQSP",
+  "year": 2020,
+  "search_query": "Squarespace competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "By 2020, Squarespace had matured into a comprehensive website building and e-commerce platform, preparing for its 2021 IPO. The market had evolved significantly with increased focus on e-commerce capabilities due to the COVID-19 pandemic accelerating online business adoption. Competition intensified from both traditional website builders and specialized e-commerce platforms. New entrants like Webflow brought advanced design capabilities to the market.",
+  "competitors": [
+    {
+      "name": "Wix",
+      "notes": "Remained the primary competitor with 63% combined market share alongside Squarespace. Offered comprehensive website building with e-commerce features, product galleries, inventory management, and secure payment options."
+    },
+    {
+      "name": "Shopify",
+      "notes": "Leading e-commerce platform with prices from $29-$299/month. Offered superior shipping options, fulfillment, payment processing, tax settings, and inventory management compared to Squarespace's e-commerce features."
+    },
+    {
+      "name": "WordPress with WooCommerce",
+      "notes": "Open-source CMS capable of handling all website types from simple blogs to complex e-commerce sites. Known for exceptional flexibility and SEO capabilities through customization with HTML/CSS and PHP."
+    },
+    {
+      "name": "Weebly",
+      "notes": "Owned by Square, offering tight integration with Square POS for in-person selling. Provided many of the same e-commerce features as Squarespace at lower cost, including unlimited products and inventory management."
+    },
+    {
+      "name": "BigCommerce",
+      "notes": "Open SaaS platform ideal for big brands, offering headless CMS capabilities. Could be customized on the back end while delivering content across multiple channels, suitable for complex enterprise needs."
+    },
+    {
+      "name": "Webflow",
+      "notes": "Offered complex design control with e-commerce functionality on higher tiers. Popular among designers and developers wanting creative freedom with custom checkout flows and content management."
+    },
+    {
+      "name": "GoDaddy Website Builder",
+      "notes": "Straightforward option for small businesses and individuals needing quick online presence. Focused on user-friendly platform simplifying website creation process."
+    },
+    {
+      "name": "Duda",
+      "notes": "Platform ideal for web professionals and digital agencies managing multiple responsive websites. Supported e-commerce with product catalogs, payment processing, and inventory management."
+    },
+    {
+      "name": "Zyro",
+      "notes": "Budget-friendly website builder offering affordable solutions for cost-conscious users needing basic website functionality."
+    }
+  ],
+  "sources": [
+    "https://www.sitebuilderreport.com/squarespace-alternatives",
+    "https://www.websitebuilderexpert.com/website-builders/comparisons/squarespace-alternatives/",
+    "https://blog.hubspot.com/website/squarespace-alternatives",
+    "https://medium.com/@josephloveswp/best-8-squarespace-alternatives-for-2019-267cad239534",
+    "https://breakdance.com/squarespace-alternative/"
+  ]
+}

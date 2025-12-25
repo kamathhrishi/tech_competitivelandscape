@@ -1,0 +1,70 @@
+{
+  "company": "Gartner",
+  "ticker": "IT",
+  "year": 2025,
+  "search_query": "Gartner competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "The analyst research industry is dominated by 'The FIGs' (Forrester, IDC, and Gartner). Gartner generates over $4.2 billion annually with 17,000+ employees, maintaining market leadership with the Magic Quadrant methodology as the gold standard. Competition includes traditional research firms, specialized advisors, consulting giants, and alternative peer review platforms offering different engagement models.",
+  "competitors": [
+    {
+      "name": "Forrester Research",
+      "notes": "Part of 'The Big Three FIGs'; Forrester Wave evaluations and Total Economic Impact studies; core strengths in executive programs, product leader advisory, IT strategy; helps organizations de-risk major technology selections"
+    },
+    {
+      "name": "IDC (International Data Corporation)",
+      "notes": "Part of 'The Big Three FIGs'; deep IT spending, hardware, software market coverage; benchmark for market sizing and forecasts; IDC MarketScape graphical competitor assessments; specialized in IT infrastructure, software, telecom, AI, IoT"
+    },
+    {
+      "name": "Omdia",
+      "notes": "Part of Informa Tech; broad research across telecom, media, technology; integrates sector knowledge with market data and vendor analysis; focused coverage of networks, devices, digital services"
+    },
+    {
+      "name": "451 Research",
+      "notes": "Detailed reports, market data, advisory in cloud computing, data management, information security; known for tracking emerging technology trends and innovation impact"
+    },
+    {
+      "name": "Everest Group",
+      "notes": "Leading management consulting and research firm; dedicated focus on digital transformation and technology services; differentiated by specialization in digital technology"
+    },
+    {
+      "name": "TSIA",
+      "notes": "Most strategically focused alternative to Gartner; explicitly designed for technology and services industry; concentrates on operational and financial realities of tech-driven businesses; specialized performance frameworks"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "Management consulting with strategic advisory services; different engagement model from subscription research"
+    },
+    {
+      "name": "Boston Consulting Group",
+      "notes": "Strategic advisory services for technology and digital transformation initiatives"
+    },
+    {
+      "name": "Bain & Company",
+      "notes": "Strategic advisory competing in technology and digital transformation"
+    },
+    {
+      "name": "Deloitte",
+      "notes": "Big Four firm with technology and digital transformation expertise; professional services competing with Gartner advisory"
+    },
+    {
+      "name": "Accenture",
+      "notes": "Technology consulting and digital transformation services"
+    },
+    {
+      "name": "IBM Consulting",
+      "notes": "Technology consulting and implementation services"
+    },
+    {
+      "name": "G2",
+      "notes": "Peer-driven software insights platform; different business model from traditional subscription-based research"
+    }
+  ],
+  "sources": [
+    "https://businessmodelanalyst.com/gartner-competitors/",
+    "https://www.g2.com/products/gartner/competitors/alternatives",
+    "https://clickup.com/blog/gartner-alternatives/",
+    "https://www.latterly.org/gartner-competitors/",
+    "https://www.consainsights.com/company-profile/gartner/competitors",
+    "https://guptadeepak.com/the-complete-guide-to-analyst-research-firms-how-innovative-companies-navigate-the-landscape/"
+  ]
+}

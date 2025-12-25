@@ -1,0 +1,36 @@
+{
+  "company": "Qualys",
+  "ticker": "QLYS",
+  "year": 2005,
+  "search_query": "Qualys competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "The vulnerability management market in 2005 was characterized by a mix of traditional security vendors and emerging cloud-based solutions. The market was dominated by on-premises vulnerability scanners and security management tools, with enterprises beginning to adopt automated vulnerability assessment solutions. Qualys was pioneering cloud-based vulnerability management as an alternative to traditional on-premises scanners. The competitive landscape included both established security vendors offering broad security suites and specialized vulnerability assessment tools.",
+  "competitors": [
+    {
+      "name": "Internet Security Systems (ISS)",
+      "notes": "Major player in vulnerability management and intrusion detection. ISS was a leading security vendor in 2005, offering vulnerability assessment and network security solutions before being acquired by IBM in 2006."
+    },
+    {
+      "name": "Symantec",
+      "notes": "Large security vendor offering vulnerability management as part of broader security and data management portfolio. Following the 2005 Veritas merger, Symantec became a comprehensive security provider."
+    },
+    {
+      "name": "Nessus (Tenable)",
+      "notes": "Widely-used vulnerability scanner that competed directly with Qualys' vulnerability scanning capabilities. Nessus was established as a leading vulnerability assessment tool, initially open-source before commercialization."
+    },
+    {
+      "name": "McAfee",
+      "notes": "Security vendor with vulnerability assessment and management capabilities as part of comprehensive security solutions."
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise security vendor offering vulnerability assessment tools and network security solutions, strengthened by the 2006 ISS acquisition."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/qualys/alternatives",
+    "https://www.cbinsights.com/company/qualys/alternatives-competitors",
+    "https://www.secopsolution.com/blog/top-10-qualys-alternatives",
+    "https://heimdalsecurity.com/blog/qualys-alternatives/"
+  ]
+}

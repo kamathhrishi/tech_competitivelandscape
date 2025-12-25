@@ -1,0 +1,40 @@
+{
+  "company": "Qualys",
+  "ticker": "QLYS",
+  "year": 2015,
+  "search_query": "Qualys competitors 2015",
+  "search_date": "2024-12-24",
+  "context": "By 2015, the vulnerability management market had matured with cloud-based solutions gaining significant traction. Qualys maintained its position as a leader in cloud-based vulnerability management and compliance solutions, competing against both established security vendors and emerging specialized players. The market was characterized by competition between on-premises solutions (like Tenable's Nexpose) and cloud-native platforms (like Qualys VMDR). Organizations increasingly sought integrated vulnerability management, detection, and response capabilities, with emphasis on automation and continuous monitoring.",
+  "competitors": [
+    {
+      "name": "Tenable",
+      "notes": "Direct competitor with Nessus vulnerability scanner and Nexpose (later InsightVM). Tenable competed strongly with both on-premises and cloud-based vulnerability management solutions, known for extensive CVE coverage."
+    },
+    {
+      "name": "Rapid7",
+      "notes": "Competitor in vulnerability management and penetration testing with Nexpose product and Metasploit framework. Rapid7 offered data security and analytics solutions including vulnerability management, incident detection, and response."
+    },
+    {
+      "name": "Symantec (Broadcom)",
+      "notes": "Security vendor offering cloud penetration testing and vulnerability management capabilities as part of comprehensive security solutions."
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise security provider with vulnerability management capabilities through ISS acquisition, competing in the enterprise vulnerability assessment market."
+    },
+    {
+      "name": "OpenVAS",
+      "notes": "Open-source vulnerability scanner and manager, presenting a free alternative to Qualys' commercial cloud-based offerings."
+    },
+    {
+      "name": "Micro Focus",
+      "notes": "Security vendor offering vulnerability management and security solutions for enterprise customers."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/qualys/alternatives",
+    "https://www.qualys.com/compare/qualys-vs-tenable",
+    "https://beaglesecurity.com/blog/article/tenable-vs-qualys-vs-rapid7.html",
+    "https://www.cbinsights.com/company/qualys/alternatives-competitors"
+  ]
+}

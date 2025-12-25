@@ -1,0 +1,39 @@
+{
+  "company": "Roper Technologies",
+  "ticker": "ROP",
+  "year": 2010,
+  "search_query": "Roper Technologies ROP competitors 2010",
+  "search_date": "2025-12-24",
+  "context": "In 2010, the company was known as Roper Industries, Inc. (name changed to Roper Technologies in April 2015). Roper operated as a diversified industrial company with focus on engineered products across multiple segments. Founded by George D. Roper in 1890, headquartered in Sarasota, FL.",
+  "competitors": [
+    {
+      "name": "Danaher Corporation",
+      "notes": "Competitor in diversified industrial and technology products"
+    },
+    {
+      "name": "AMETEK",
+      "notes": "Competitor in electronic instruments and electromechanical devices"
+    },
+    {
+      "name": "ITT Corporation",
+      "notes": "Competitor in diversified industrial products"
+    },
+    {
+      "name": "Crane Company",
+      "notes": "Competitor in industrial products and flow control"
+    },
+    {
+      "name": "Fortive",
+      "notes": "Diversified industrial conglomerate (spun off from Danaher in 2016)"
+    },
+    {
+      "name": "Rockwell Automation",
+      "notes": "Competitor in industrial automation and information solutions"
+    }
+  ],
+  "sources": [
+    "https://seekingalpha.com/symbol/ROP/peers/comparison",
+    "https://www.marketbeat.com/stocks/NASDAQ/ROP/competitors-and-alternatives/",
+    "https://csimarket.com/stocks/compet_glance.php?code=ROP"
+  ]
+}

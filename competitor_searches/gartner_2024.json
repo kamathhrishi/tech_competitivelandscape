@@ -1,0 +1,77 @@
+{
+  "company": "Gartner",
+  "ticker": "IT",
+  "year": 2024,
+  "search_query": "Gartner competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "Gartner remains the undisputed industry giant with over $4.2 billion in annual revenue and 17,000+ employees. Approximately 70% of revenue comes from end-user clients (technology buyers). The competitive landscape includes The Big Three (FIGs), specialized technology service firms like TSIA, consulting giants, and peer review platforms offering different engagement models.",
+  "competitors": [
+    {
+      "name": "Forrester Research",
+      "notes": "Strongest competitor; Forrester Wave evaluations and Total Economic Impact studies; focus on customer experience, product leaders, IT strategists; helps de-risk major technology selections"
+    },
+    {
+      "name": "IDC (International Data Corporation)",
+      "notes": "Deep coverage of IT spending, hardware, software markets; benchmark source for market sizing and forecasts; IDC MarketScape vendor assessments; specialized in IT infrastructure, telecom, AI, IoT"
+    },
+    {
+      "name": "451 Research",
+      "notes": "Detailed reports and market data in cloud, data management, information security; known for tracking emerging technology developments and innovation impact"
+    },
+    {
+      "name": "Omdia",
+      "notes": "Part of Informa Tech; broad research across telecom, media, technology; integrates sector knowledge with market data and vendor analysis; focused on networks, devices, digital services"
+    },
+    {
+      "name": "Everest Group",
+      "notes": "Dedicated focus on digital transformation and technology services; differentiates by specialization in digital technology navigation"
+    },
+    {
+      "name": "TSIA",
+      "notes": "Strategically focused alternative designed for technology and services industry; operational and financial realities of tech-driven businesses; specialized performance frameworks"
+    },
+    {
+      "name": "Info-Tech Research Group",
+      "notes": "IT research and advisory providing strategic decision support for CIOs and IT leaders"
+    },
+    {
+      "name": "Frost & Sullivan",
+      "notes": "Market research and analysis with growth strategy consulting across technology sectors"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "High-touch consulting with project-based engagement rather than subscription research; strategic IT and digital transformation"
+    },
+    {
+      "name": "Boston Consulting Group",
+      "notes": "Strategic advisory services for technology and digital initiatives"
+    },
+    {
+      "name": "Bain & Company",
+      "notes": "Management consulting competing in technology strategy and implementation"
+    },
+    {
+      "name": "Deloitte",
+      "notes": "Big Four firm with extensive technology and digital transformation expertise; consulting arm major competitor"
+    },
+    {
+      "name": "Accenture",
+      "notes": "Technology consulting and digital transformation services"
+    },
+    {
+      "name": "IBM Consulting",
+      "notes": "Technology consulting and advisory services"
+    },
+    {
+      "name": "G2",
+      "notes": "Peer-driven software insights offering different business model from traditional subscription research"
+    }
+  ],
+  "sources": [
+    "https://businessmodelanalyst.com/gartner-competitors/",
+    "https://clickup.com/blog/gartner-alternatives/",
+    "https://www.tsia.com/blog/alternatives-to-gartner",
+    "https://pitchgrade.com/companies/gartner",
+    "https://www.starsight.biz/2024/09/30/is-there-magic-beyond-the-quadrant-the-top-alternative-methodologies-to-the-gartner-magic-quadrant/"
+  ]
+}

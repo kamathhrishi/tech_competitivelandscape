@@ -1,0 +1,44 @@
+{
+  "company": "Pure Storage",
+  "ticker": "PSTG",
+  "year": 2015,
+  "search_query": "Pure Storage competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "Pure Storage IPO year (2015). All-flash enterprise storage company entering the market dominated by traditional storage giants. At IPO, Pure Storage was competing against established players in the enterprise storage market, offering innovative all-flash storage arrays for high-performance enterprise environments.",
+  "competitors": [
+    {
+      "name": "Dell EMC",
+      "notes": "The 800 pound gorilla in the storage world. #1 competitor with broad portfolio of storage solutions including PowerMax and Unity XT series"
+    },
+    {
+      "name": "NetApp",
+      "notes": "Major competitor providing storage solutions with AFF series, focusing on performance, efficiency, and cloud integration"
+    },
+    {
+      "name": "IBM",
+      "notes": "Competitor with FlashSystem portfolio offering high-speed storage solutions"
+    },
+    {
+      "name": "Hitachi Vantara",
+      "notes": "Enterprise storage leader with Virtual Storage Platform series, emphasis on reliability and performance"
+    },
+    {
+      "name": "HPE",
+      "notes": "Competitor with 3PAR storage solutions for enterprise workloads"
+    },
+    {
+      "name": "Nutanix",
+      "notes": "Hyper-converged infrastructure competitor"
+    },
+    {
+      "name": "VMware",
+      "notes": "Virtualization and storage competitor"
+    }
+  ],
+  "sources": [
+    "https://www.simplyblock.io/blog/competitors-to-purestorage/",
+    "https://www.quora.com/Who-are-the-main-competitors-to-Pure-Storage",
+    "https://www.cbinsights.com/company/pure-storage/alternatives-competitors",
+    "https://tracxn.com/d/companies/pure-storage/__2MRRMHqJ7_8lJOpEZnScJJ6PI4P85_IXPRJ53Sn1LEI"
+  ]
+}

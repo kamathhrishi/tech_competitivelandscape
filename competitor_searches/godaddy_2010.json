@@ -1,0 +1,49 @@
+{
+  "company": "GoDaddy",
+  "ticker": "GDDY",
+  "year": 2010,
+  "search_query": "GoDaddy competitors 2010",
+  "search_date": "2025-12-24",
+  "context": "In 2010, GoDaddy was rapidly growing as a domain registrar and web hosting provider. By 2001, GoDaddy was approximately the same size as competitors Dotster and eNom, but by April 2005, it became the largest ICANN-accredited registrar on the Internet. The company advertised during the 2010 Super Bowl XLIV. GoDaddy managed over 36 million domains, competing in both domain registration and shared web hosting markets. The domain registrar market was consolidating with Network Solutions (the original registrar since 1991) losing ground to newer competitors.",
+  "competitors": [
+    {
+      "name": "Network Solutions",
+      "notes": "First-ever domain registrar starting in 1991, operated .com, .net, and .org registries until 1999. Had 6.3 million registered domains by late 2010, down from monopoly position. Offered domain registration and web hosting."
+    },
+    {
+      "name": "eNom",
+      "notes": "Second largest domain registrar with over 10 million registered domains. Acquired BulkRegister in 2007. Acquired by Demand Media in 2006. Partnered with Network Solutions on NameJet aftermarket auction venue."
+    },
+    {
+      "name": "Tucows",
+      "notes": "Canada-based domain registrar with approximately 7.8 million registered domains. Later acquired eNom. Major player in wholesale domain registration."
+    },
+    {
+      "name": "Dotster",
+      "notes": "Early domain registrar that was approximately same size as GoDaddy in 2001. Initially led the competitive market but was later surpassed by GoDaddy."
+    },
+    {
+      "name": "Bluehost",
+      "notes": "Web hosting provider competing in shared hosting market. Offered domain registration bundled with hosting plans. Known for WordPress-optimized hosting."
+    },
+    {
+      "name": "HostGator",
+      "notes": "Shared web hosting competitor offering domain registration services. Known for bundling free domain with hosting plans and strong uptime guarantees."
+    },
+    {
+      "name": "Namecheap",
+      "notes": "Domain registrar competing on price with lower renewal costs than GoDaddy. Offered free WHOIS privacy protection while GoDaddy charged extra."
+    },
+    {
+      "name": "Domain.com",
+      "notes": "Domain name registrar offering registration and transfer services. Competed directly in domain registration market."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/GoDaddy",
+    "https://www.isitwp.com/best-godaddy-alternatives-domain-registration-web-hosting/",
+    "https://en.wikipedia.org/wiki/Enom",
+    "https://en.wikipedia.org/wiki/Domain_name_registrar",
+    "https://www.wpbeginner.com/showcase/best-godaddy-alternatives-competitors/"
+  ]
+}

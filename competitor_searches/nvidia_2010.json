@@ -1,0 +1,13 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "year": 2010,
+  "search_query": "NVIDIA GPU competitors 2010",
+  "search_date": "2025-12-23",
+  "competitors": [
+    {"name": "AMD (ATI Radeon)", "notes": "Only remaining high-end discrete GPU competitor"},
+    {"name": "Intel", "notes": "Present primarily with integrated graphics"}
+  ],
+  "context": "Challenging year with problematic Fermi architecture (GTX 480). AMD remained sole high-end competitor. GeForce vs Radeon rivalry continued.",
+  "sources": ["https://www.tomshardware.com/features/best-nvidia-gpus-of-all-time"]
+}

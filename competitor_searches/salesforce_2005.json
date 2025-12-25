@@ -1,0 +1,35 @@
+{
+  "company": "Salesforce",
+  "ticker": "CRM",
+  "year": 2005,
+  "search_query": "Salesforce competitors 2005 CRM market rivals",
+  "search_date": "2025-12-23",
+  "competitors": [
+    {
+      "name": "Oracle/Siebel",
+      "notes": "Oracle acquiring Siebel Systems in 2005 for $5.8B"
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise CRM solutions"
+    },
+    {
+      "name": "Microsoft Dynamics CRM",
+      "notes": "Microsoft entering CRM market, second largest market share"
+    },
+    {
+      "name": "Zoho CRM",
+      "notes": "Launched in 2005 as cloud CRM alternative"
+    },
+    {
+      "name": "HubSpot",
+      "notes": "Founded in 2005/2006 by MIT graduates"
+    }
+  ],
+  "context": "2005 marked emergence of cloud CRM competitors. Zoho and HubSpot both launched around this time. Oracle acquired Siebel.",
+  "sources": [
+    "https://www.salesforce.com/crm/salesforce-competition/",
+    "https://crm.org/news/best-salesforce-crm-alternatives",
+    "https://www.insightly.com/blog/salesforce-crm-competitors/"
+  ]
+}

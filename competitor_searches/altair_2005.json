@@ -1,0 +1,36 @@
+{
+  "company": "Altair Engineering",
+  "ticker": "ALTR",
+  "year": 2005,
+  "search_query": "Altair Engineering competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "In 2005, Altair Engineering was an established provider of CAE (Computer-Aided Engineering) and simulation software solutions, serving industries such as aerospace, automotive, and energy. The competitive landscape in the simulation and engineering software space was dominated by established players offering similar modeling, analysis, and visualization capabilities. Altair, founded in 1985 and based in Troy, Michigan, competed with major enterprise software vendors in the high-performance computing and simulation markets.",
+  "competitors": [
+    {
+      "name": "ANSYS",
+      "notes": "Leading competitor in engineering simulation and CAE software, offering comprehensive finite element analysis and modeling solutions"
+    },
+    {
+      "name": "Dassault Systèmes",
+      "notes": "Major competitor providing CAD, 3D modeling, and product lifecycle management software through brands like CATIA and SIMULIA"
+    },
+    {
+      "name": "MSC Software",
+      "notes": "Prominent provider of simulation software for virtual product development, competing directly in CAE and structural analysis markets"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Competitor in CAD and engineering design software space, offering simulation and visualization tools for various industries"
+    },
+    {
+      "name": "Bentley Systems",
+      "notes": "Provider of engineering software solutions for infrastructure design and analysis, competing in overlapping market segments"
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/altair-engineering/competitors",
+    "https://www.cbinsights.com/company/altair-engineering/alternatives-competitors",
+    "https://www.globaldata.com/company-profile/altair-engineering-inc/competitors/",
+    "https://craft.co/altair-engineering/competitors"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "company": "Salesforce",
+  "ticker": "CRM",
+  "year": 2024,
+  "search_query": "Salesforce competitors 2024 2025 CRM market rivals",
+  "search_date": "2025-12-23",
+  "competitors": [
+    {
+      "name": "Microsoft Dynamics 365",
+      "notes": "Closest rival, CRM+ERP suite with Copilot AI. Seamless integration with Outlook, Teams, Excel."
+    },
+    {
+      "name": "Oracle",
+      "notes": "Legacy giant, leveraging OCI for competitive AI pricing"
+    },
+    {
+      "name": "SAP",
+      "notes": "Legacy giant fighting to keep ERP customers"
+    },
+    {
+      "name": "HubSpot",
+      "notes": "Dominates SMB segment. 'Breeze AI' competes with Salesforce Agentforce. Free CRM tier."
+    },
+    {
+      "name": "Zoho CRM",
+      "notes": "250,000+ businesses across 180 countries. Affordable and customizable."
+    },
+    {
+      "name": "Freshworks",
+      "notes": "Alternative for 2025"
+    },
+    {
+      "name": "Creatio",
+      "notes": "No-code CRM platform"
+    },
+    {
+      "name": "Zendesk",
+      "notes": "Service-focused CRM"
+    },
+    {
+      "name": "Pegasystems",
+      "notes": "Enterprise alternative"
+    },
+    {
+      "name": "Monday.com",
+      "notes": "Work management CRM"
+    }
+  ],
+  "market_share": {
+    "salesforce": "21.7-23%",
+    "legacy_combined": "20% (Oracle, Microsoft, Adobe, SAP)",
+    "new_crms": "50%"
+  },
+  "revenue_fy2025": "$37.89 billion",
+  "key_trends": [
+    "AI and ML are key focus areas",
+    "Agentforce vs competitors' AI tools",
+    "Competition from both enterprise and SMB focused CRMs"
+  ],
+  "context": "Salesforce holds 21.7-23% market share. New CRMs collectively hold 50% market. AI features are key battleground.",
+  "sources": [
+    "https://www.businessnewsdaily.com/11203-salesforce-crm-competition.html",
+    "https://www.gestisoft.com/en/blog/salesforce-competitors",
+    "https://6sense.com/tech/crm-platforms/salesforce-market-share",
+    "https://markets.financialcontent.com/wral/article/predictstreet-2025-12-23-the-agentic-era-a-deep-dive-analysis-of-salesforce-crm-in-2025"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "company": "Zebra Technologies",
+  "ticker": "ZBRA",
+  "year": 2020,
+  "search_query": "Zebra Technologies ZBRA competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "In 2020, Zebra Technologies was a leader in automatic identification and data capture with approximately 40% market share in printers and barcodes, and 60% share of new Android mobile computers sold (50% overall mobile computer market share). The company acquired Reflexis Systems for $575M (workforce scheduling and task management software for retail, food service, hospitality, and banking). Experienced slight sales decline of -1% during the pandemic. Leading competitor Honeywell in low-double digits market share.",
+  "competitors": [
+    {
+      "name": "Honeywell International",
+      "notes": "Next biggest competitor across all three markets (printers, barcodes, mobile computers); has low-double digit market share"
+    },
+    {
+      "name": "Datalogic",
+      "notes": "Significant competitor in automatic data capture and industrial automation"
+    },
+    {
+      "name": "Sato Holdings",
+      "notes": "Competitor in barcode printing and RFID technology"
+    },
+    {
+      "name": "Epson",
+      "notes": "Competitor in printing solutions"
+    },
+    {
+      "name": "Toshiba",
+      "notes": "Competitor in barcode printing"
+    },
+    {
+      "name": "Panasonic",
+      "notes": "Competitor in rugged mobile devices"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Competitor in enterprise mobility infrastructure"
+    }
+  ],
+  "sources": [
+    "https://seekingalpha.com/symbol/ZBRA/peers/comparison",
+    "https://www.marketbeat.com/stocks/NASDAQ/ZBRA/competitors-and-alternatives/",
+    "https://en.wikipedia.org/wiki/Zebra_Technologies",
+    "https://punchcardinvestor.substack.com/p/zebra-technologies-the-picks-and"
+  ]
+}

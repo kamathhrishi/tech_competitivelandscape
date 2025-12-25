@@ -1,0 +1,44 @@
+{
+  "company": "Pure Storage",
+  "ticker": "PSTG",
+  "year": 2020,
+  "search_query": "Pure Storage competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "COVID-19 pandemic impact on storage market. Global external storage market revenue fell 8.2% year-over-year to $6.5B in Q1 2020 due to pandemic. Pure Storage was one of the few vendors performing well with revenue up 7.7% year-over-year, reaching $1.64B annual revenue with 7,500+ customers. Dell EMC rolled out PowerStore all-flash systems in 2020. HPE introduced new innovations for Primera and Nimble Storage with NVMe support and GreenLake as-a-service platform.",
+  "competitors": [
+    {
+      "name": "Dell EMC",
+      "notes": "#1 competitor. Launched PowerStore all-flash systems for mid-range companies and enterprises in 2020. Broad portfolio including PowerMax and Unity XT series"
+    },
+    {
+      "name": "NetApp",
+      "notes": "Top external storage OEM. Revenue fell 8.2-20% in Q1 2020. Offers AFF series with unified data management across on-premises and cloud"
+    },
+    {
+      "name": "HPE",
+      "notes": "Top external storage OEM. Unveiled innovations for Primera and Nimble Storage in 2020 with NVMe, storage-class memory, and GreenLake as-a-service platform"
+    },
+    {
+      "name": "Hitachi",
+      "notes": "Top external storage OEM with Virtual Storage Platform. Revenue fell during pandemic"
+    },
+    {
+      "name": "IBM",
+      "notes": "Tied for 5th place with Pure Storage. FlashSystem portfolio with high-speed, all-flash and hybrid flash storage solutions"
+    },
+    {
+      "name": "Huawei",
+      "notes": "Tied for 5th place with Pure Storage in external storage market"
+    },
+    {
+      "name": "New H3C Group",
+      "notes": "Top external storage OEM"
+    }
+  ],
+  "sources": [
+    "https://www.simplyblock.io/blog/competitors-to-purestorage/",
+    "https://www.nextplatform.com/2020/06/16/pure-storages-strategy-chief-talks-flash-nvme-and-the-competition/",
+    "https://www.g2.com/products/pure-storage-pure-storage-flash-arrays/competitors/alternatives",
+    "https://www.gartner.com/reviews/market/primary-storage-platforms/vendor/pure-storage/product/flasharray/alternatives"
+  ]
+}

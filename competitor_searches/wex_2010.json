@@ -1,0 +1,44 @@
+{
+  "company": "WEX",
+  "ticker": "WEX",
+  "year": 2010,
+  "search_query": "WEX competitors 2010",
+  "search_date": "2025-12-24",
+  "context": "Wright Express (WEX) operating as established fleet card payment processor post-IPO (2005). Company providing payment processing and information management services to commercial and government vehicle fleets across US, Canada, Australia, New Zealand, and Europe. Period of aggressive acquisition strategy to expand service offerings and geographic reach.",
+  "competitors": [
+    {
+      "name": "FleetCor Technologies",
+      "notes": "Major rival offering wide array of payment solutions for fleets, corporate payments, and workforce products on global scale"
+    },
+    {
+      "name": "Comdata",
+      "notes": "Fleet management and corporate payment solutions provider offering fuel cards, corporate spend cards, and virtual payments"
+    },
+    {
+      "name": "U.S. Bank Voyager",
+      "notes": "Comprehensive fleet management and payment solutions with extensive fueling and maintenance location network"
+    },
+    {
+      "name": "Edenred (UTA)",
+      "notes": "Global leader in payment solutions for working world with strong fleet and mobility solutions presence"
+    },
+    {
+      "name": "Regional fuel card providers",
+      "notes": "Various regional providers and integrated oil companies with proprietary fleet card programs"
+    },
+    {
+      "name": "Visa",
+      "notes": "Global payment network competing in corporate and fleet payment infrastructure"
+    },
+    {
+      "name": "Mastercard",
+      "notes": "Global payment network with corporate card and fleet payment capabilities"
+    }
+  ],
+  "sources": [
+    "https://canvasbusinessmodel.com/blogs/competitors/wex-competitive-landscape",
+    "https://pitchgrade.com/companies/wex",
+    "https://en.wikipedia.org/wiki/WEX_Inc.",
+    "https://medium.com/b2b-buzz/b2b-payments-card-players-d21204dad05f"
+  ]
+}

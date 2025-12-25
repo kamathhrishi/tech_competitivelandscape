@@ -1,0 +1,48 @@
+{
+  "company": "Zebra Technologies",
+  "ticker": "ZBRA",
+  "year": 2015,
+  "search_query": "Zebra Technologies ZBRA competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "In 2015, Zebra Technologies had recently completed the major acquisition of Motorola Solutions' Enterprise business in 2014, significantly expanding its product portfolio into mobile computers, barcode scanners, and RFID readers. This acquisition transformed Zebra from primarily a printer company to a comprehensive enterprise mobility solutions provider.",
+  "competitors": [
+    {
+      "name": "Honeywell International",
+      "notes": "Major competitor across multiple product categories including mobile computers and scanners"
+    },
+    {
+      "name": "Datalogic",
+      "notes": "Competitor in automatic data capture and barcode scanning"
+    },
+    {
+      "name": "Epson",
+      "notes": "Competitor in specialty printers"
+    },
+    {
+      "name": "Toshiba",
+      "notes": "Competitor in barcode printing and enterprise mobility"
+    },
+    {
+      "name": "Panasonic",
+      "notes": "Competitor in rugged mobile computing devices"
+    },
+    {
+      "name": "Lexmark",
+      "notes": "Competitor in printing solutions"
+    },
+    {
+      "name": "Hewlett Packard",
+      "notes": "Competitor in enterprise technology and mobile solutions"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Competitor in enterprise networking and mobility infrastructure"
+    }
+  ],
+  "sources": [
+    "https://www.marketbeat.com/stocks/NASDAQ/ZBRA/competitors-and-alternatives/",
+    "https://seekingalpha.com/symbol/ZBRA/peers/comparison",
+    "https://www.macroaxis.com/competition/ZBRA",
+    "https://craft.co/zebra-technologies/competitors"
+  ]
+}

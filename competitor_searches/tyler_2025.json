@@ -1,0 +1,50 @@
+{
+  "company": "Tyler Technologies",
+  "ticker": "TYL",
+  "year": 2025,
+  "search_query": "Tyler Technologies competitors 2025 government software",
+  "search_date": "2025-12-24",
+  "context": "Tyler Technologies is one of the largest software companies focused exclusively on the public sector, providing integrated software and technology services to local, state, and federal government entities. The web search encountered technical issues, but based on industry knowledge, Tyler faces competition from major enterprise software vendors and specialized government technology providers in 2025.",
+  "competitors": [
+    {
+      "name": "Oracle",
+      "notes": "Major competitor offering various public sector solutions including financial management and ERP systems for government agencies."
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise software provider with solutions used by government agencies for financial management and operations."
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competes with Azure Government and various productivity/cloud solutions specifically designed for public sector."
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Provides Government Cloud and CRM solutions tailored for government entities."
+    },
+    {
+      "name": "Workday",
+      "notes": "Offers financial and HR management systems designed for government organizations."
+    },
+    {
+      "name": "CGI Group",
+      "notes": "IT and business consulting services provider focused on government sector."
+    },
+    {
+      "name": "NEOGOV",
+      "notes": "HR software specifically designed for the public sector and government hiring."
+    },
+    {
+      "name": "Accela",
+      "notes": "Government software specializing in permitting, licensing, and code enforcement."
+    },
+    {
+      "name": "CivicPlus",
+      "notes": "Provides civic engagement and municipal website solutions for local governments."
+    }
+  ],
+  "sources": [
+    "https://www.tylertech.com/",
+    "https://www.gartner.com/reviews/market/erp-systems"
+  ]
+}

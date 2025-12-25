@@ -1,0 +1,66 @@
+{
+  "company": "Trimble",
+  "ticker": "TRMB",
+  "year": 2020,
+  "search_query": "Trimble competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "Digital transformation accelerating in construction and agriculture. Cloud-based platforms becoming standard. AI-powered construction management software emerging. Trimble focusing on hardware-embedded software products with strong emphasis on recurring revenue models through software subscriptions and connected services.",
+  "competitors": [
+    {
+      "name": "Hexagon AB",
+      "notes": "Top competitor with 163% of Trimble's revenue, global leader in sensor, software, and autonomous solutions for geospatial and industrial automation"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Major software competitor offering 3D design, engineering, and construction management solutions with AI-powered features"
+    },
+    {
+      "name": "Topcon Positioning Systems",
+      "notes": "Key rival in surveying and construction with comprehensive positioning and measurement technologies, also competing in agriculture digital transformation"
+    },
+    {
+      "name": "Leica Geosystems",
+      "notes": "Advanced surveying and geospatial solutions with precision measurement and data acquisition capabilities"
+    },
+    {
+      "name": "Deere & Company",
+      "notes": "Formidable competitor in agriculture technology with extensive precision agriculture technologies and GPS-guided systems"
+    },
+    {
+      "name": "Esri",
+      "notes": "Provides GIS software and spatial analytics technology for data integration and mapping"
+    },
+    {
+      "name": "Raven Applied Technology",
+      "notes": "Specializes in automated and autonomous farm technologies, driverless tillage, connectivity and guidance systems"
+    },
+    {
+      "name": "Hemisphere GNSS",
+      "notes": "GNSS technology solutions for surveying, construction, and agriculture"
+    },
+    {
+      "name": "SpaceCrop Technologies",
+      "notes": "Agriculture technology competitor"
+    },
+    {
+      "name": "Farmers Edge",
+      "notes": "Precision agriculture platform competitor"
+    },
+    {
+      "name": "GreenSight",
+      "notes": "Agriculture technology solutions"
+    },
+    {
+      "name": "HERE Technologies",
+      "notes": "Location-based services and mapping technology"
+    }
+  ],
+  "sources": [
+    "https://sumble.com/tech/trimble",
+    "https://www.owler.com/company/trimble",
+    "https://www.cbinsights.com/company/trimble-3/alternatives-competitors",
+    "https://canvasbusinessmodel.com/blogs/competitors/trimble-competitive-landscape",
+    "https://matrixbcg.com/blogs/competitors/trimble",
+    "https://www.cbinsights.com/company/trimble-agriculture/alternatives-competitors"
+  ]
+}

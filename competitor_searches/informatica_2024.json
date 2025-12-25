@@ -1,0 +1,74 @@
+{
+  "company": "Informatica",
+  "ticker": "INFA",
+  "year": 2024,
+  "search_query": "Informatica competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "iPaaS market valued at USD 9,168 million in 2024, projected to reach USD 47,280 million by 2032 (27.1% CAGR). Top five vendors (Boomi, Informatica, MuleSoft, Talend, SnapLogic) held 56% market share. North America dominated with 56%, Europe 22%, Asia-Pacific 12%. Qlik discontinued Talend Open Studio on January 31, 2024, consolidating around Qlik Talend Cloud. Market focused on AI-powered automation, low-code platforms, and cloud-native integration.",
+  "competitors": [
+    {
+      "name": "Dell Boomi",
+      "notes": "Powerful cloud-based iPaaS with drag-and-drop interface simplifying data integration. Fully managed platform connecting cloud and on-premises sources. Market leader in iPaaS category with significant share of 56% held by top 5 players."
+    },
+    {
+      "name": "MuleSoft (Salesforce)",
+      "notes": "Combines iPaaS, API Management, and ESB in three-layered API architecture. Anypoint Exchange popular among enterprises. Mulesoft Compose provides low-code Salesforce integrations. Major player in top 5 iPaaS vendors."
+    },
+    {
+      "name": "Talend (Qlik)",
+      "notes": "Qlik officially discontinued Talend Open Studio on January 31, 2024. Qlik Talend Cloud is now core subscription-based data integration platform for cloud and hybrid environments with automated data workflows. Part of top 5 iPaaS market leaders."
+    },
+    {
+      "name": "SnapLogic",
+      "notes": "Low-code iPaaS for enterprise integration with AI-powered tools to optimize and automate workflows across hybrid IT environments. One of top 5 iPaaS vendors with significant market share."
+    },
+    {
+      "name": "Matillion",
+      "notes": "Cloud-native platform built for cloud data warehouses. Visual, low-code interface for engineers and analysts. ETL rated positively for user-friendly interface, cloud integration, visual job orchestration, reliability and scalability."
+    },
+    {
+      "name": "Microsoft Azure Data Factory",
+      "notes": "Scalable, secure, highly integrated cloud-native data integration tool ideal for businesses seeking solution that grows with data needs. Strong for Azure-centric organizations."
+    },
+    {
+      "name": "Celigo",
+      "notes": "Modern iPaaS focused on SaaS integrations and business process automation for mid-market. Integrator.io targets upper-midmarket and small enterprises for back-office automation with AI innovations."
+    },
+    {
+      "name": "Fivetran",
+      "notes": "Cloud-based automated data extraction and loading for complex data pipelines with flexibility for ETL/ELT strategies based on business needs."
+    },
+    {
+      "name": "SAP Integration Suite",
+      "notes": "iPaaS allowing seamless integration of on-premise and cloud applications with tools and prebuilt content managed by SAP."
+    },
+    {
+      "name": "Jitterbit Harmony",
+      "notes": "Versatile iPaaS originally for SMBs, expanded into enterprise integration focusing on flexibility and value."
+    },
+    {
+      "name": "IBM",
+      "notes": "Key player in iPaaS market with integration platform offerings."
+    },
+    {
+      "name": "Oracle Integration Cloud",
+      "notes": "Oracle's iPaaS competing with Informatica Intelligent Cloud Services for enterprise integration."
+    },
+    {
+      "name": "TIBCO Software",
+      "notes": "Enterprise integration and API management platform vendor in iPaaS market."
+    },
+    {
+      "name": "Workato",
+      "notes": "Enterprise automation and iPaaS platform with AI-powered integration capabilities."
+    }
+  ],
+  "sources": [
+    "https://www.intelmarketresearch.com/integration-platform-as-a-service-market-11880",
+    "https://www.oneio.cloud/blog/ipaas-solutions-and-vendors-compared",
+    "https://www.jitterbit.com/blog/best-enterprise-ipaas-vendors/",
+    "https://www.matillion.com/learn/blog/informatica-alternatives",
+    "https://www.taloflow.ai/guides/comparisons/informatica-intelligent-cloud-services-vs-oracle-integration-cloud-ipaas",
+    "https://sourceforge.net/software/product/Informatica-Cloud-Data-Integration/alternatives"
+  ]
+}

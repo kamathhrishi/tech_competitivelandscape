@@ -1,0 +1,43 @@
+{
+  "company": "NetApp",
+  "ticker": "NTAP",
+  "year": 2005,
+  "search_query": "NetApp competitors 2005",
+  "search_date": "2025-12-24",
+  "context": "Growth period in the network storage market. NetApp was expanding its unified storage approach with ONTAP operating system, competing against established enterprise storage giants. The NAS and SAN markets were both growing rapidly as enterprises increased data storage needs.",
+  "competitors": [
+    {
+      "name": "EMC Corporation",
+      "notes": "Market leader in enterprise storage with Symmetrix and Celerra products"
+    },
+    {
+      "name": "IBM",
+      "notes": "Major enterprise storage provider with diverse storage portfolio"
+    },
+    {
+      "name": "Hewlett-Packard",
+      "notes": "Significant player with HP StorageWorks and enterprise arrays"
+    },
+    {
+      "name": "Hitachi Data Systems",
+      "notes": "Enterprise storage arrays and solutions"
+    },
+    {
+      "name": "Sun Microsystems",
+      "notes": "Storage systems and file servers, before Oracle acquisition"
+    },
+    {
+      "name": "Seagate Technology",
+      "notes": "Storage hardware and systems provider"
+    },
+    {
+      "name": "Western Digital",
+      "notes": "Storage solutions and hard drive manufacturer entering enterprise space"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/NetApp",
+    "https://6sense.com/tech/nas/netapp-nas-market-share",
+    "https://www.simplyblock.io/blog/competitors-to-netapp/"
+  ]
+}

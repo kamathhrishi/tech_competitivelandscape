@@ -1,0 +1,65 @@
+{
+  "company": "Fair Isaac Corporation",
+  "ticker": "FICO",
+  "year": 2020,
+  "search_query": "FICO Fair Isaac competitors 2020 AI analytics scoring",
+  "search_date": "2024-12-24",
+  "context": "In 2020, FICO maintained its 90% market share dominance among top U.S. lenders, with annual revenue of $1.29 billion. However, the competitive landscape was shifting with the emergence of AI-driven alternative credit scoring models. FICO continued to invest in artificial intelligence and machine learning capabilities, having operationalized explainable and responsible AI for over 20 years in credit risk and fraud detection. New fintech competitors like Upstart and Zest AI were using machine learning to analyze thousands of data points and alternative data sources, challenging traditional credit scoring methodologies. VantageScore remained the primary direct competitor, while the broader analytics and decision management market featured established enterprise software vendors.",
+  "competitors": [
+    {
+      "name": "VantageScore Solutions",
+      "notes": "Primary credit scoring competitor; joint venture of three major credit bureaus offering alternative scoring model with ability to score more consumers than FICO"
+    },
+    {
+      "name": "Upstart",
+      "notes": "AI-driven fintech using machine learning with 1,600+ variables including education and employment data; claims 75% improvement in default prediction vs traditional methods"
+    },
+    {
+      "name": "Zest AI",
+      "notes": "Machine learning platform analyzing 3,000+ data points per application; reported 15% reduction in default rates and 30% increase in loan approvals"
+    },
+    {
+      "name": "Equifax",
+      "notes": "Credit bureau competing through VantageScore ownership, proprietary analytics, and AI-powered credit solutions"
+    },
+    {
+      "name": "Experian",
+      "notes": "Major credit reporting agency offering VantageScore, AI-driven analytics, and fraud detection platforms"
+    },
+    {
+      "name": "TransUnion",
+      "notes": "Credit bureau providing VantageScore and advanced analytics solutions powered by AI and alternative data"
+    },
+    {
+      "name": "Pega",
+      "notes": "Leading competitor in decision management and customer engagement software with AI-powered automation"
+    },
+    {
+      "name": "SAS Institute",
+      "notes": "Analytics software leader offering AI-driven decision management, credit risk, and fraud detection solutions"
+    },
+    {
+      "name": "IBM",
+      "notes": "Technology giant providing AI-powered analytics platforms and decision management solutions including Watson AI capabilities"
+    },
+    {
+      "name": "Credit Karma",
+      "notes": "Direct-to-consumer credit service competing in consumer-facing credit score delivery and financial education"
+    },
+    {
+      "name": "LexisNexis Risk Solutions",
+      "notes": "Data analytics provider offering fraud detection and alternative credit risk assessment solutions"
+    },
+    {
+      "name": "In-house Bank Models",
+      "notes": "Major banks developing AI-powered custom credit scoring models; all big banks have built their own scoring models"
+    }
+  ],
+  "sources": [
+    "https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/FICO-Everyone-Knows-the-Score-but-not-the-Software",
+    "https://www.ainvest.com/news/fair-isaac-credit-scoring-monopoly-wanes-fico-dominance-crumbling-investors-2507/",
+    "https://www.owler.com/company/fico",
+    "https://smartdev.com/ai-credit-evaluation-mitigating-default-risks-in-financial/",
+    "https://www.linkedin.com/pulse/artificial-intelligence-real-use-cases-credit-scoring-nasser-sami-ee6be"
+  ]
+}

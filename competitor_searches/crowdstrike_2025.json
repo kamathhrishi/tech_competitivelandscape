@@ -1,0 +1,50 @@
+{
+  "company": "CrowdStrike",
+  "ticker": "CRWD",
+  "year": 2025,
+  "search_query": "CrowdStrike competitors 2025 endpoint security",
+  "search_date": "2025-12-24",
+  "context": "CrowdStrike has a market share of 21.21% in the endpoint protection market and has been named a Leader in the 2024 Gartner Magic Quadrant for Endpoint Protection Platforms for the fifth consecutive year. However, the July 2024 Falcon Sensor update outage, which crashed around 8.5 million Windows systems, has forced many organizations to seek alternative options. The 2025 endpoint security market emphasizes AI-powered detection, integrated threat intelligence, and automated remediation as essential features.",
+  "competitors": [
+    {
+      "name": "SentinelOne",
+      "notes": "Third-largest competitor with 10.00% market share. AI-powered cybersecurity platform delivering protection for endpoints, cloud workloads, and IoT devices. Founded in 2013, offers real-time threat detection, automated responses, and comprehensive security management. Named a Leader in 2025 Gartner Magic Quadrant for Endpoint Protection Platforms for five years running."
+    },
+    {
+      "name": "Microsoft Defender for Endpoint",
+      "notes": "Second-largest competitor with 11.82% market share. Endpoint security solution including EDR, ASR, email security across iOS, IoT, Android, Linux, macOS, and Windows devices. Best suited for Microsoft-heavy technology stacks with strong integration into Microsoft ecosystem."
+    },
+    {
+      "name": "McAfee ePO",
+      "notes": "Largest competitor by market share at 15.73%. Comprehensive enterprise endpoint protection platform with extensive management capabilities and broad feature set for large organizations."
+    },
+    {
+      "name": "Cynet",
+      "notes": "Rated as best overall CrowdStrike alternative. All-in-One Cybersecurity Platform with more budget-friendly pricing structure, particularly for small and medium-sized organizations. Offers straightforward deployment process for businesses without large IT departments."
+    },
+    {
+      "name": "Bitdefender GravityZone",
+      "notes": "Cybersecurity platform for individual consumers, small businesses, enterprises, and MSPs. Enhanced attack protection utilizing system hardening, threat prevention and detection, machine learning, and behavioral analysis. Key features include endpoint protection, sandbox analyzer, network attack defense, cloud security analytics, and patch management."
+    },
+    {
+      "name": "Carbon Black (Broadcom)",
+      "notes": "Cloud-native security platform focused on endpoint security. Originally from VMware, became a Broadcom security offering following Broadcom's acquisition of VMware. Competes with cloud-native EDR capabilities."
+    },
+    {
+      "name": "Trend Micro Vision One",
+      "notes": "Unified cybersecurity platform combining EDR with extended detection and response capabilities and telemetry across enterprise email, cloud, and networks. Good for holistic visibility beyond just endpoint-centric focus."
+    },
+    {
+      "name": "Huntress",
+      "notes": "Leading EPP solution in 2025 alongside CrowdStrike, SentinelOne, and Cynet. Caters to different needs from large enterprises to SMBs with AI-powered detection and automated remediation."
+    }
+  ],
+  "sources": [
+    "https://6sense.com/tech/endpoint-protection/crowdstrike-market-share",
+    "https://www.cynet.com/endpoint-security/5-crowdstrike-competitors-and-alternatives-you-should-consider/",
+    "https://www.gartner.com/reviews/market/endpoint-protection-platforms/vendor/crowdstrike/alternatives",
+    "https://www.huntress.com/enterprise-security-guide/best-endpoint-protection-solutions-compared",
+    "https://www.teramind.co/blog/crowdstrike-competitors-alternatives/",
+    "https://www.wiz.io/academy/crowdstrike-alternatives"
+  ]
+}

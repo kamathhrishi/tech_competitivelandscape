@@ -1,0 +1,37 @@
+{
+  "company": "Cadence Design Systems",
+  "ticker": "CDNS",
+  "year": 2025,
+  "search_query": "Cadence CDNS competitors 2025 EDA semiconductor design",
+  "search_date": "2025-12-24",
+  "context": "Cadence is a leading EDA provider with approximately 30% market share in semiconductor design software. The company focuses on functional verification and custom IC design services. In 2025, Cadence announced major acquisitions: Secure-IC (January 2025) for embedded security IP, and Hexagon's design and engineering business including MSC Software for €2.7 billion (~$3.16 billion) in September 2025. In July 2025, Cadence pled guilty to criminal charges for illegally exporting semiconductor design technology to China's NUDT and paid over $140 million in penalties. Both Cadence and Synopsys are expected to grow at 15-20%+ CAGRs over the next 5 years.",
+  "competitors": [
+    {
+      "name": "Synopsys",
+      "ticker": "SNPS",
+      "notes": "Primary competitor with approximately 30% market share. Focuses on comprehensive design platforms. In December 2024, Nvidia announced a multi-year strategic partnership and $2 billion investment in Synopsys to integrate AI and accelerated computing capabilities. Synopsys completed $35 billion acquisition of ANSYS in July 2025."
+    },
+    {
+      "name": "Siemens EDA",
+      "ticker": "SIEGY",
+      "notes": "Formerly Mentor Graphics, with approximately 13% market share. Third-largest player in the EDA oligopoly. Part of Siemens AG with benefits from broader industrial software integration."
+    },
+    {
+      "name": "Empyrean",
+      "notes": "China's largest domestic EDA vendor. Part of China's effort to invest in their EDA ecosystem, though still very small compared to Cadence and Synopsys."
+    },
+    {
+      "name": "MSC Software",
+      "notes": "Part of Hexagon's design and engineering business. Being acquired by Cadence in September 2025 for €2.7 billion. Provider of engineering simulation and analysis software."
+    }
+  ],
+  "sources": [
+    "https://www.datagravity.dev/p/synopsys-and-cadence-the-160b-unsung",
+    "https://en.wikipedia.org/wiki/Cadence_Design_Systems",
+    "https://artificall.com/analysis/companies/comparisons/synopsys-vs-cadence-design-systems/",
+    "https://www.greendotstocks.com/semiconductor-eda-faceoff-SNPS-CDNS-2023-02",
+    "https://www.wing.vc/content/how-synopsys-and-cadence-are-fueling-the-semiconductor-industrys-growth-engine",
+    "https://compoundandfire.substack.com/p/synopsys-vs-cadence-design-systems",
+    "https://www.marketbeat.com/stocks/NASDAQ/CDNS/competitors-and-alternatives/"
+  ]
+}

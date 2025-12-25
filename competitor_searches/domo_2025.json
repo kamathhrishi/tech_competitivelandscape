@@ -1,0 +1,58 @@
+{
+  "company": "Domo",
+  "ticker": "DOMO",
+  "year": 2025,
+  "search_query": "Domo competitors 2025 business intelligence analytics",
+  "search_date": "2025-12-24",
+  "context": "Domo is a business intelligence and analytics platform with 0.60% market share competing against 189 tools in the BI category. In 2025, companies seek alternatives due to cryptic pricing (no public rates, personalized quotes, $2,000-$4,000/month for small teams, $10,000+/month for larger teams) and performance issues (slow data fetches especially with big datasets). Platforms like Luzmo and ThoughtSpot offer faster deployment, clearer pricing, and modern AI capabilities.",
+  "competitors": [
+    {
+      "name": "Notion",
+      "notes": "Market share leader in Business Intelligence category with 23.71%, significantly ahead of Domo's 0.60%."
+    },
+    {
+      "name": "Microsoft Power BI",
+      "notes": "Second by market share at 14.42%. Ideal for businesses using Microsoft products. Deep integrations with Excel, Azure, and other Microsoft services."
+    },
+    {
+      "name": "Tableau",
+      "notes": "Third by market share at 13.36%. Salesforce-owned BI platform. Known for rich data visualization and interactive drag-and-drop interface. Customizable reports, real-time analysis."
+    },
+    {
+      "name": "Zoho Analytics",
+      "notes": "Comprehensive BI solution with AI-powered assistant Zia for automated insights, trends, data-driven decisions. 500+ native data connectors. Clear transparent pricing starting at $8/user/month."
+    },
+    {
+      "name": "Qlik Sense",
+      "notes": "Independent data analysis for enterprises with AI, NLP, automation. Shining feature: associative engine linking related data sets to uncover meaningful insights."
+    },
+    {
+      "name": "Amazon QuickSight",
+      "notes": "BI tool for visualizing and analyzing data with interactive dashboards and ML-driven insights. Strong integration with AWS products (Redshift, S3). ML-powered insights and natural language querying."
+    },
+    {
+      "name": "ThoughtSpot",
+      "notes": "Search-driven platform enabling natural language questions for instant insights. Combines AI-powered analytics with user-friendly dashboards. Makes data accessible to everyone."
+    },
+    {
+      "name": "Luzmo",
+      "notes": "Excels at embedded dashboards for self-service analytics. Build advanced analytics dashboards for your product. Powerful API to connect to data stack for real-time analysis."
+    },
+    {
+      "name": "Looker",
+      "notes": "Google Cloud's business intelligence and data analytics platform."
+    },
+    {
+      "name": "Sisense",
+      "notes": "AI-driven analytics platform for embedding analytics."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/vendor/domo/alternatives",
+    "https://improvado.io/blog/domo-alternatives-and-competitors",
+    "https://www.zoho.com/analytics/domo-alternative-software.html",
+    "https://www.luzmo.com/blog/domo-competitors",
+    "https://6sense.com/tech/business-intelligence-bi/domo-market-share",
+    "https://www.selecthub.com/business-intelligence-tools/domo/alternatives/"
+  ]
+}

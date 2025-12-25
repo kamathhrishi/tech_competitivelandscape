@@ -1,0 +1,71 @@
+{
+  "company": "Pegasystems",
+  "ticker": "PEGA",
+  "year": 2005,
+  "search_query": "Pegasystems competitors 2005",
+  "search_date": "2025-12-24",
+  "context": "In 2005, the BPM (Business Process Management) market was segmented by different approaches. Pegasystems competed in the workflow-oriented and case management space. The market was divided into data-centric integration-oriented vendors, workflow-oriented vendors, and content-centric workflow vendors. FileNet (later acquired by IBM in 2006) and other major enterprise software vendors dominated the landscape.",
+  "competitors": [
+    {
+      "name": "IBM (FileNet, WebSphere)",
+      "notes": "Major BPM player with FileNet for content-centric workflow and WebSphere for integration. IBM had been providing process automation technology for over two decades by this time."
+    },
+    {
+      "name": "TIBCO (Staffware)",
+      "notes": "Provided workflow-oriented BPM solutions through Staffware acquisition. Strong in integration-centric solutions for system-intensive processes."
+    },
+    {
+      "name": "FileNet",
+      "notes": "Content-centric workflow-oriented vendor, strong in document-intensive processes. Acquired by IBM in 2006."
+    },
+    {
+      "name": "Documentum (EMC)",
+      "notes": "Document-intensive process management and content management competitor."
+    },
+    {
+      "name": "Fuego",
+      "notes": "Data-centric workflow-oriented BPM vendor focused on workflow automation."
+    },
+    {
+      "name": "Savvion",
+      "notes": "Workflow-oriented BPM vendor providing people-intensive process solutions."
+    },
+    {
+      "name": "Lombardi",
+      "notes": "BPM vendor focused on people-intensive processes, later acquired by IBM in 2009."
+    },
+    {
+      "name": "Intalio",
+      "notes": "Data-centric workflow-oriented BPM vendor."
+    },
+    {
+      "name": "Metastorm",
+      "notes": "BPM vendor for people-intensive processes involving routing, approving and fulfilling requests."
+    },
+    {
+      "name": "Ultimus",
+      "notes": "Workflow and BPM solution provider for people-intensive business processes."
+    },
+    {
+      "name": "BEA Systems",
+      "notes": "Integration-centric BPM solutions, later acquired by Oracle in 2008."
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software vendor with BPM capabilities, strengthened position through BEA acquisition."
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Provided integration-oriented BPM solutions as part of broader enterprise software stack."
+    },
+    {
+      "name": "SAP",
+      "notes": "Enterprise software leader with workflow and process management capabilities integrated into ERP systems."
+    }
+  ],
+  "sources": [
+    "https://www.bpminstitute.org/resources/articles/selection-criteria-bpm-software/",
+    "https://www.bpminstitute.org/resources/articles/pick-right-type-bpms-solution/",
+    "https://www.techtarget.com/searchcio/definition/Business-process-management-suite-BPMS"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "company": "Monday.com",
+  "ticker": "MNDY",
+  "year": 2020,
+  "search_query": "Monday.com competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "In 2020, Monday.com was establishing itself as a Work OS platform, competing in the work management and project management space. The company was operating pre-IPO (went public in June 2021) and building market share against established players in collaborative work management, visual project tracking, and team productivity tools.",
+  "competitors": [
+    {
+      "name": "Asana",
+      "notes": "Work management platform with tasks, projects, timelines, and portfolios for clean task tracking. Strong competitor for marketing teams prioritizing task management and collaboration over visual customization."
+    },
+    {
+      "name": "Trello",
+      "notes": "Visual project management tool specializing in the Kanban method with boards, lists, and cards. Particularly user-friendly for small teams wanting visual simplicity without complexity."
+    },
+    {
+      "name": "Wrike",
+      "notes": "Enterprise work management platform with projects, tasks, proofing, and reporting for complex workflows. Strong for large marketing teams and enterprises needing advanced permissions and robust reporting."
+    },
+    {
+      "name": "Smartsheet",
+      "notes": "Spreadsheet-based project management platform with built-in templates. Appeals to users familiar with Excel/Google Sheets, offering team collaboration tools and workflow automation."
+    },
+    {
+      "name": "ClickUp",
+      "notes": "Productivity platform with tasks, docs, wikis, goals, and dashboards for highly customizable project management. Offers extreme flexibility for power users and large teams."
+    },
+    {
+      "name": "Teamwork",
+      "notes": "Comprehensive task and project management platform offering vast range of features and strong customer support including phone-based support on all plans."
+    },
+    {
+      "name": "Jira",
+      "notes": "Agile project management software with scrum boards, Kanban boards, and customizable dashboards. Particularly strong for software development teams tracking projects in real-time."
+    },
+    {
+      "name": "Airtable",
+      "notes": "Spreadsheet and database hybrid with project management features, ideal for data-intensive projects and general information management."
+    },
+    {
+      "name": "Notion",
+      "notes": "Hybrid platform combining document, wiki, and project management features, offering versatility beyond traditional project management tools."
+    },
+    {
+      "name": "Microsoft Project",
+      "notes": "Traditional project management software for teams relying heavily on Microsoft ecosystem, designed to help complete complex projects with enterprise-grade features."
+    }
+  ],
+  "sources": [
+    "https://www.g2.com/products/monday-com/competitors/alternatives",
+    "https://thedigitalprojectmanager.com/tools/best-monday-alternative/",
+    "https://www.teamwork.com/blog/monday-alternatives/",
+    "https://tech.co/project-management-software/best-monday-com-alternatives",
+    "https://www.projectmanager.com/blog/best-monday-com-alternatives"
+  ]
+}

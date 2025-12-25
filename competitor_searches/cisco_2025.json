@@ -1,0 +1,59 @@
+{
+  "company": "Cisco Systems Inc.",
+  "ticker": "CSCO",
+  "year": 2025,
+  "search_query": "Cisco competitors 2025 competitive landscape",
+  "search_date": "2025-12-24",
+  "context": "As of 2025, Cisco holds over 45% of the global Ethernet switch market and 30.64% of the networking hardware market. The company is a Fortune 100 company with presence in 100+ countries, with over 136,955 companies worldwide using Cisco as a networking-hardware tool. Cisco remains an innovation powerhouse, investing over $6.5B in R&D in FY2024. The 2025 networking landscape shows Cisco maintains leadership through innovation, extensive enterprise adoption, and strong ecosystem of professional training and certifications. Major competitive shift: HPE's $14B acquisition of Juniper Networks in July 2025 created a significantly stronger challenger.",
+  "competitors": [
+    {
+      "name": "HPE Juniper Networks",
+      "notes": "Major competitive development: HPE acquired Juniper for ~$14B in July 2025. Provides high-performance networking solutions (routing, switching, security) with heavy investment in AI-based network automation via Mist AI platform. Holds ~10.2% router market share, third behind Cisco and Huawei."
+    },
+    {
+      "name": "Huawei",
+      "notes": "Global telecommunications giant competing in international markets. Cost-effective choice in APAC region, though security concerns and vendor lock-in remain issues. Second-largest router manufacturer globally."
+    },
+    {
+      "name": "Arista Networks",
+      "notes": "Cloud networking solutions provider gaining traction in data center and cloud environments, challenging Cisco's market share in modern infrastructure."
+    },
+    {
+      "name": "Fortinet",
+      "notes": "Serious challenger in cybersecurity, not only in perimeter defense but also in cloud, IoT, edge, and OT security. Named Google Cloud Technology Partner of Year 2025, integrating FortiGate VM and FortiSASE with Google infrastructure. Recognized as leader in IT/OT cybersecurity in 2025 Westlands Advisory report."
+    },
+    {
+      "name": "Palo Alto Networks",
+      "notes": "Leading cybersecurity company with innovation in next-generation firewalls, cloud-native security, and AI-powered threat detection. Holds edge over Cisco through seamless integration of security features in NGFW platform, providing holistic network protection."
+    },
+    {
+      "name": "HPE Aruba",
+      "notes": "Networking solutions including wireless and edge-to-cloud services competing with Cisco's enterprise networking segment. Excellent for Wi-Fi-heavy deployments in education and hospitality sectors."
+    },
+    {
+      "name": "Dell Technologies",
+      "notes": "Through networking solutions and AI server ventures, competes with Cisco in data center and enterprise networking markets."
+    },
+    {
+      "name": "Alcatel-Lucent (Nokia)",
+      "notes": "Telecommunications and networking equipment competitor in enterprise and service provider markets."
+    },
+    {
+      "name": "HP Inc.",
+      "notes": "Networking hardware and enterprise solutions competitor."
+    },
+    {
+      "name": "VMware",
+      "notes": "Network virtualization and software-defined networking competitor, challenging traditional hardware-centric approaches."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/data-center-and-cloud-networking/vendor/cisco-systems/alternatives",
+    "https://www.rankred.com/cisco-competitors-alternatives/",
+    "https://csimarket.com/stocks/compet_glance.php?code=CSCO",
+    "https://www.rededucation.com/cisco-vs-competitors-how-cisco-stays-ahead-in-networking-technology/",
+    "https://www.exam-labs.com/blog/cisco-vs-juniper-a-2025-comparison-of-market-share",
+    "https://www.marketbeat.com/stocks/NASDAQ/CSCO/competitors-and-alternatives/",
+    "https://businessmodelanalyst.com/cisco-competitors/"
+  ]
+}

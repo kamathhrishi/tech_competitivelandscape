@@ -1,0 +1,65 @@
+{
+  "company": "SAP",
+  "ticker": "SAP",
+  "year": 2024,
+  "search_query": "SAP competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "Oracle surpassed SAP in ERP revenue for first time in 2024 ($8.7B vs $8.6B). SAP holds 6.57% market share vs Oracle's 6.63%. Global ERP market reached $135.9B (9.4% YoY growth). AI integration critical with SAP Joule copilot launch. S/4HANA Cloud growth 34%, total cloud revenue driving transformation. 2027 on-premise support deadline accelerating cloud migrations.",
+  "competitors": [
+    {
+      "name": "Oracle",
+      "notes": "New market leader with $8.7B ERP revenue and 6.63% share, driven by fast-growing Fusion Cloud ERP for enterprises and NetSuite for SMB/mid-market"
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "notes": "24.2% market share in ERP category, strong Business Central for SMB and Finance & Operations for enterprise, seamless Microsoft 365/Azure/Teams integration"
+    },
+    {
+      "name": "Workday",
+      "notes": "11.38% ERP market share, cloud-native HCM and financial management leader with strong AI-driven analytics and user satisfaction in large enterprises"
+    },
+    {
+      "name": "Intuit",
+      "notes": "Third-largest ERP vendor by revenue serving SMB segment with QuickBooks ecosystem and financial management solutions"
+    },
+    {
+      "name": "Constellation Software",
+      "notes": "Fourth-largest ERP vendor through acquisition strategy of vertical-specific software companies across diverse industries"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Expanded cloud ecosystem beyond CRM with Tableau analytics, MuleSoft integration, and industry clouds competing in customer experience and data management"
+    },
+    {
+      "name": "Infor",
+      "notes": "Industry-specific CloudSuite solutions on AWS infrastructure with deep vertical expertise and modern cloud-native architecture"
+    },
+    {
+      "name": "Acumatica",
+      "notes": "IDC MarketScape leader for SaaS mid-market ERP with consumption-based licensing, flexible deployment, and strong customer satisfaction"
+    },
+    {
+      "name": "Epicor",
+      "notes": "Customizable and scalable ERP for manufacturing and distribution mid-market, challenging SAP in industry-specific functionality"
+    },
+    {
+      "name": "IFS",
+      "notes": "Service and asset management ERP leader excelling in field service, enterprise asset management, and project-based industries"
+    },
+    {
+      "name": "Sage",
+      "notes": "SMB and mid-market ERP provider with Sage Intacct cloud financials and X3 for manufacturing/distribution"
+    },
+    {
+      "name": "IQVIA",
+      "notes": "Seventh-largest ERP vendor specializing in healthcare and life sciences with industry-specific analytics and operational solutions"
+    }
+  ],
+  "sources": [
+    "https://www.techzine.eu/news/applications/130690/analysis-oracle-beats-sap-in-erp-market/",
+    "https://www.appsruntheworld.com/oracle-surpasses-sap-to-become-no-1-erp-apps-provider/",
+    "https://www.appsruntheworld.com/top-10-erp-software-vendors-and-market-forecast/",
+    "https://thebrandhopper.com/2024/06/15/exploring-sap-top-competitors-and-alternatives/",
+    "https://www.statista.com/statistics/249637/erp-software-market-share-by-company/"
+  ]
+}

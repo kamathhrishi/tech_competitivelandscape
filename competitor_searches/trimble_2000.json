@@ -1,0 +1,36 @@
+{
+  "company": "Trimble",
+  "ticker": "TRMB",
+  "year": 2000,
+  "search_query": "Trimble competitors 2000",
+  "search_date": "2025-12-24",
+  "context": "Early GPS and positioning technology era. Trimble was pioneering commercial GPS receivers for surveying and mapping applications, having developed the world's first commercial GPS receiver in 1984. The market was focused on hardware GPS receivers and surveying equipment.",
+  "competitors": [
+    {
+      "name": "Leica Geosystems",
+      "notes": "Major competitor in surveying and geospatial solutions, known for precision measurement and data acquisition"
+    },
+    {
+      "name": "Topcon Positioning Systems",
+      "notes": "Global leader in positioning technology solutions for surveying, founded in 1932, predates Trimble"
+    },
+    {
+      "name": "Sokkia",
+      "notes": "Subsidiary of Topcon providing surveying instruments including total stations and GPS systems"
+    },
+    {
+      "name": "Garmin Ltd.",
+      "notes": "Competitor in GPS navigation and positioning technology"
+    },
+    {
+      "name": "Carlson",
+      "notes": "Offers surveying and civil engineering software and hardware"
+    }
+  ],
+  "sources": [
+    "https://sumble.com/tech/trimble-gps",
+    "https://pitchgrade.com/companies/trimble",
+    "https://matrixbcg.com/blogs/competitors/trimble",
+    "https://metricop.com/blogs/land-surveying/leica-vs-trimble-gnss-can-emerging-brands-match-leica-and-trimble-in-precision"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "company": "Salesforce",
+  "ticker": "CRM",
+  "year": 2015,
+  "search_query": "Salesforce competitors 2015 CRM market rivals",
+  "search_date": "2025-12-23",
+  "competitors": [
+    {
+      "name": "Microsoft Dynamics 365",
+      "notes": "Biggest competitor, seamless integration with Office 365, SharePoint, Teams"
+    },
+    {
+      "name": "Oracle CX Cloud",
+      "notes": "Strong for large enterprises, advanced analytics, industry-specific solutions"
+    },
+    {
+      "name": "SAP Customer Experience (Hybris)",
+      "notes": "Robust CRM for large enterprises with complex requirements"
+    },
+    {
+      "name": "HubSpot",
+      "notes": "User-friendly, strong inbound marketing, good for SMBs"
+    },
+    {
+      "name": "Zoho CRM",
+      "notes": "Cost-effective alternative for startups and small businesses"
+    },
+    {
+      "name": "Insightly",
+      "notes": "Built-in project management features"
+    },
+    {
+      "name": "Pipedrive",
+      "notes": "Visual pipeline simplicity"
+    }
+  ],
+  "market_share": {
+    "salesforce": "21.7%",
+    "microsoft": "5.9%",
+    "others_legacy": "20% (Oracle, SAP, Adobe combined)"
+  },
+  "context": "Salesforce held 21.7% of global CRM market, 3x more than Microsoft's 5.9%. Legacy providers (Oracle, Microsoft, Adobe, SAP) held ~20% combined.",
+  "sources": [
+    "https://www.salesforce.com/crm/salesforce-competition/",
+    "https://vrpconsulting.com/blog/digital-transformation/salesforce-vs-other-crms/",
+    "https://devrev.ai/blog/salesforce-alternatives"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "company": "Synopsys",
+  "ticker": "SNPS",
+  "year": 2025,
+  "search_query": "Synopsys SNPS competitors 2025 EDA electronic design automation",
+  "search_date": "2025-12-24",
+  "context": "Synopsys is a leading provider of EDA software and IP solutions in the semiconductor industry. In 2025, the company completed its $35 billion acquisition of ANSYS (July 17, 2025), expanding its total addressable market by 50% to $28 billion. The EDA market is dominated by a 'Big Three' oligopoly: Synopsys, Cadence, and Siemens EDA. The market size reached USD 19.22 billion in 2025 and is forecast to reach USD 28.85 billion by 2030. High switching costs create strong competitive moats in this industry.",
+  "competitors": [
+    {
+      "name": "Cadence Design Systems",
+      "ticker": "CDNS",
+      "notes": "Primary competitor with approximately 30% market share (matching Synopsys). Both companies dominate the semiconductor EDA software space. Customers often use both to create best-of-breed toolsets and play pricing off each other. In December 2024, Nvidia announced a multi-year strategic partnership and $2 billion investment in Synopsys."
+    },
+    {
+      "name": "Siemens EDA",
+      "ticker": "SIEGY",
+      "notes": "Formerly Mentor Graphics, acquired by Siemens. Third-largest player with approximately 13% market share. Benefits from integration with Siemens' broader industrial and manufacturing software, providing better services to automotive and industrial customers. Announced AI-enabled EDA suite in June 2025 at Design Automation Conference."
+    },
+    {
+      "name": "ANSYS",
+      "ticker": "ANSS",
+      "notes": "Acquired by Synopsys on July 17, 2025 for approximately $35 billion. Global provider of engineering simulation software. This was the largest acquisition in Synopsys' history."
+    },
+    {
+      "name": "Empyrean",
+      "notes": "China's largest domestic EDA vendor. Part of China's investment in their EDA ecosystem, though still very small compared to Synopsys and Cadence."
+    },
+    {
+      "name": "Emerging EDA Startups",
+      "notes": "New EDA startups include Alpha Design, Caspia, PrimisAI, Quilter, Rise Design Automation, Silimate, and Suitera."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Synopsys",
+    "https://csimarket.com/stocks/compet_glance.php?code=SNPS",
+    "https://www.embedded.com/taking-stock-of-the-eda-industry/",
+    "https://longtermpick.com/p/synopsys-analysis",
+    "https://www.greendotstocks.com/semiconductor-eda-faceoff-SNPS-CDNS-2023-02",
+    "https://www.datagravity.dev/p/synopsys-and-cadence-the-160b-unsung",
+    "https://www.mordorintelligence.com/industry-reports/electronic-design-automation-eda-tools-market",
+    "https://www.precedenceresearch.com/electronic-design-automation-software-market"
+  ]
+}

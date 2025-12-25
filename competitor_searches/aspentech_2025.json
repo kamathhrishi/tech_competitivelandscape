@@ -1,0 +1,81 @@
+{
+  "company": "Aspen Technology",
+  "ticker": "AZPN",
+  "year": 2025,
+  "search_query": "Aspen Technology AZPN competitors 2025 process optimization software",
+  "search_date": "2025-12-24",
+  "context": "AspenTech (NASDAQ: AZPN) is a provider of AI-based manufacturing process optimization software. Its applications utilize empirical models for chemical manufacturing processes for plant and process design, providing engineering, plant operations, and supply chain management software. Annual revenue is $1.04B as of June 30, 2023. AspenTech was acquired by Emerson on June 1, 2022. In early 2025, activist investor Elliott took a stake in Aspen Technology and pushed back on an offer from Emerson. Around the world in 2025, over 805 companies use Aspen Technology as enterprise asset management software, with 300 customers (53.96%) from the United States. Top industries include Petrochemicals, Project Management, and Refining.",
+  "competitors": [
+    {
+      "name": "Plex Systems",
+      "notes": "Top manufacturing/enterprise software competitor. Cloud-based manufacturing execution system (MES) and ERP platform."
+    },
+    {
+      "name": "First Resonance",
+      "notes": "Manufacturing software competitor focusing on hardware development and production."
+    },
+    {
+      "name": "HostBooks",
+      "notes": "Enterprise software competitor for business management and ERP."
+    },
+    {
+      "name": "ANSYS",
+      "ticker": "ANSS",
+      "notes": "Process simulation and engineering competitor. Acquired by Synopsys in July 2025 for $35 billion."
+    },
+    {
+      "name": "Micro Focus",
+      "ticker": "MFGP",
+      "notes": "Enterprise software and IT management competitor."
+    },
+    {
+      "name": "OSIsoft",
+      "notes": "Real-time data infrastructure and PI System competitor for industrial operations (owned by AVEVA/Schneider Electric)."
+    },
+    {
+      "name": "Honeywell",
+      "ticker": "HON",
+      "notes": "Process automation and control systems competitor. Major player in industrial software and automation."
+    },
+    {
+      "name": "Altair",
+      "ticker": "ALTR",
+      "notes": "Simulation and optimization software competitor. Acquired by Siemens in 2025 for $10.6 billion."
+    },
+    {
+      "name": "Autodesk Construction",
+      "ticker": "ADSK",
+      "notes": "17.41% market share in Enterprise Asset Management Software category."
+    },
+    {
+      "name": "ARCHIBUS",
+      "notes": "15.02% market share in Enterprise Asset Management Software. Facilities and real estate management software."
+    },
+    {
+      "name": "ServiceNow SAM Pro",
+      "ticker": "NOW",
+      "notes": "11.36% market share in Enterprise Asset Management Software."
+    },
+    {
+      "name": "ProSimPlus",
+      "notes": "Chemical process simulation software alternative to Aspen Plus. Widely used by oil, gas, chemicals, energy, and bio-based industries. Developed by Fives ProSim with 30+ years experience."
+    },
+    {
+      "name": "SuperPro Designer",
+      "notes": "Process simulation alternative facilitating modeling, evaluation, and optimization of integrated batch and continuous processes. Serves biotech, pharmaceutical, specialty chemical, food processing, consumer goods, metallurgical, materials, water purification, wastewater treatment, and air pollution control industries."
+    },
+    {
+      "name": "Emerson",
+      "ticker": "EMR",
+      "notes": "Parent company that acquired AspenTech on June 1, 2022. Major automation and industrial software competitor."
+    }
+  ],
+  "sources": [
+    "https://tracxn.com/d/companies/aspentech/__UVzqzXkgzXg6k0xCKZpw3YKbmkoqC6ERHRYdiYVPNCA",
+    "https://sourceforge.net/software/product/Aspen-Plus/alternatives",
+    "https://www.marketbeat.com/stocks/NASDAQ/AZPN/competitors-and-alternatives/",
+    "https://csimarket.com/stocks/compet_glance.php?code=AZPN",
+    "https://6sense.com/tech/enterprise-asset-management-software/aspen-technology-market-share",
+    "https://www.comparably.com/companies/aspentech/competitors"
+  ]
+}

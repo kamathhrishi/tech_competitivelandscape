@@ -1,0 +1,90 @@
+{
+  "company": "Apple Inc.",
+  "ticker": "AAPL",
+  "year": 2025,
+  "search_query": "Apple competitors 2025 competitive landscape",
+  "search_date": "2025-12-24",
+  "context": "As of December 2025, Apple faces intensifying competition across all product lines. In China (Apple's third-largest market at $67B of $391B total FY2024 revenue), Q1 FY2025 revenue fell 11% YoY to $18.5B due to Huawei resurgence and Chinese patriotism. Globally, Android captures 70.24% mobile OS market share vs Apple's 29.04%. Apple differentiates through premium design, ecosystem integration, and brand loyalty but trails competitors in AI development. Microsoft's OpenAI investments and Copilot launch give it an AI advantage over Apple.",
+  "competitors": [
+    {
+      "name": "Samsung",
+      "notes": "Primary smartphone competitor offering wide range of Android devices. Competes on price and features across phones, tablets, and wearables (Galaxy Watch series). Major competitor in consumer electronics globally."
+    },
+    {
+      "name": "Google / Alphabet",
+      "notes": "Android OS (70.24% global market share) and Pixel phones compete directly. Google Play rivals App Store. Major competitor across smartphones, smart devices, and services."
+    },
+    {
+      "name": "Huawei",
+      "notes": "Major competitor in China market, contributing to Apple's 11% YoY revenue decline in Q1 FY2025. Boosted by Chinese patriotism and domestic preferences."
+    },
+    {
+      "name": "Xiaomi",
+      "notes": "Significant smartphone competitor especially in emerging markets, offering competitive features at lower price points."
+    },
+    {
+      "name": "Oppo",
+      "notes": "Android smartphone competitor with strong presence in Asian markets."
+    },
+    {
+      "name": "Vivo",
+      "notes": "Growing smartphone competitor in emerging markets with aggressive pricing."
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competes in personal computing (Windows, Surface vs Mac), tablets, software, cloud services. Has significant AI lead through OpenAI investments and Microsoft Copilot."
+    },
+    {
+      "name": "HP",
+      "notes": "Personal computer competitor in laptop and desktop markets."
+    },
+    {
+      "name": "Dell",
+      "notes": "Major PC manufacturer competing with Mac line across consumer and enterprise segments."
+    },
+    {
+      "name": "Lenovo",
+      "notes": "Leading PC manufacturer competing globally with Apple's Mac computers."
+    },
+    {
+      "name": "Fitbit (Google)",
+      "notes": "Wearables competitor in fitness tracking and smartwatch markets."
+    },
+    {
+      "name": "Spotify",
+      "notes": "Music streaming competitor to Apple Music."
+    },
+    {
+      "name": "Amazon Music",
+      "notes": "Music streaming service competing for subscribers."
+    },
+    {
+      "name": "Netflix",
+      "notes": "Video streaming competitor to Apple TV+."
+    },
+    {
+      "name": "Disney+",
+      "notes": "Major streaming service competitor with exclusive content."
+    },
+    {
+      "name": "Meta Platforms",
+      "notes": "Emerging competitor in virtual and augmented reality (Quest headsets vs future Apple Vision products)."
+    },
+    {
+      "name": "NVIDIA",
+      "notes": "GPU competitor to Apple's M-series chips in professional creative markets. Holds 80%+ discrete GPU market share, Quadro and RTX A-series compete with M-series Macs in rendering, engineering, and media production."
+    },
+    {
+      "name": "Various Fintech Companies",
+      "notes": "Compete with Apple Pay and Apple's payment solutions."
+    }
+  ],
+  "sources": [
+    "https://canvasbusinessmodel.com/blogs/competitors/apple-competitive-landscape",
+    "https://www.nasdaq.com/articles/comparing-apple-industry-competitors-technology-hardware-storage-peripherals-industry-10",
+    "https://www.consainsights.com/company-profile/apple/competitors",
+    "https://businessmodelanalyst.com/apple-competitors/",
+    "https://www.rankred.com/apple-competitors-alternatives/",
+    "https://bstrategyhub.com/swot-analysis-of-apple-apple-swot/"
+  ]
+}

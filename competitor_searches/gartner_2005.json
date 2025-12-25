@@ -1,0 +1,44 @@
+{
+  "company": "Gartner",
+  "ticker": "IT",
+  "year": 2005,
+  "search_query": "Gartner competitors 2005",
+  "search_date": "2025-12-24",
+  "context": "2005 was a pivotal year for Gartner as it acquired META Group, one of its chief rivals in IT research. This strategic acquisition eliminated marketplace overlap and brought in additional talented analysts and client relationships. Gartner also acquired AMR and Burton Group to expand its global operations.",
+  "competitors": [
+    {
+      "name": "Forrester Research",
+      "notes": "Major competitor with similar business model of reports, advisory services, and events; Forrester Wave reports compete with Gartner's Magic Quadrant"
+    },
+    {
+      "name": "IDC (International Data Corporation)",
+      "notes": "Strong competitor founded 1964; IDC MarketScape is equivalent to Gartner's Magic Quadrant; over 50 countries presence"
+    },
+    {
+      "name": "META Group",
+      "notes": "Chief rival until Gartner acquired it in 2005, eliminating key competitor"
+    },
+    {
+      "name": "Burton Group",
+      "notes": "Direct competitor eventually acquired by Gartner"
+    },
+    {
+      "name": "Frost & Sullivan",
+      "notes": "Business consulting firm providing market research and analysis across technology sectors"
+    },
+    {
+      "name": "Deloitte",
+      "notes": "Big Four firm with consulting arm competing in digital transformation and technology implementation"
+    },
+    {
+      "name": "McKinsey & Company",
+      "notes": "Top-tier management consulting firm with technology advisory practice"
+    }
+  ],
+  "sources": [
+    "https://clickup.com/blog/gartner-alternatives/",
+    "https://businessmodelanalyst.com/gartner-competitors/",
+    "https://en.wikipedia.org/wiki/Gartner",
+    "https://libraries.emory.edu/media/10296"
+  ]
+}

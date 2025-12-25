@@ -1,0 +1,50 @@
+{
+  "company": "Unity Software",
+  "ticker": "U",
+  "year": 2025,
+  "search_query": "Unity Software competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "In 2025, Unity remains one of the best game engines for 3D games, known for flexibility, strong documentation, and massive community. It's positioned as the ultimate 3D game engine for AA and indie developers aiming for multiplatform support. Unity and Unreal Engine continue as the two dominant platforms. For indie developers, mobile games, or older hardware, Unity offers the best balance of performance and flexibility. The market has matured with several viable open-source and commercial alternatives.",
+  "competitors": [
+    {
+      "name": "Unreal Engine 5 (Epic Games)",
+      "notes": "Primary competitor. Leads in visual fidelity with Nanite and Lumen systems for film-grade real-time rendering. Dominates graphically rich game development. Massive ecosystem with abundant learning materials and Marketplace assets. Free with 5% royalty on revenues exceeding $1M. Full source code access. Unity and Unreal are the two dominant platforms driving game development innovation."
+    },
+    {
+      "name": "Godot Engine",
+      "notes": "Best open-source alternative. Free under MIT license. Created by Juan Linietsky and Ariel Manzur (2014). Versatile environment for 2D and 3D games. Node-based architecture for simplified development. Rapidly growing community. Increasingly popular for indie, hobbyist, and professional projects. User-friendly and intuitive design."
+    },
+    {
+      "name": "CryEngine (Crytek)",
+      "notes": "Powerful for highly realistic environments and advanced visuals. Requires strong hardware and more developer experience. Strong focus on visual fidelity."
+    },
+    {
+      "name": "Stride Game Engine (formerly Xenko)",
+      "notes": "Open-source C# game engine with full toolchain. Well-suited for realistic games. Supports Vulkan. Can achieve quality comparable to Unity and Unreal Engine."
+    },
+    {
+      "name": "Amazon Lumberyard",
+      "notes": "Comprehensive toolset for visually impressive 3D games. Emphasizes multiplayer gaming and online functionality. Seamless integration with Amazon cloud services and Twitch for live streaming."
+    },
+    {
+      "name": "Cocos Creator",
+      "notes": "Released 2016 by Cocos 2D makers. Focused on content creation for 2D and 3D games. Full production workflow tools, real-time debugging, large project support, and animation editing. Supports iOS, Android, Windows, Mac, Web, and mini-game platforms."
+    },
+    {
+      "name": "Defold Engine",
+      "notes": "Completely free and source-available. Solves common technical issues developers face. Exports to desktop and mobile. Uses Lua scripting (easy to learn)."
+    }
+  ],
+  "sources": [
+    "https://alternativeto.net/software/unity/",
+    "https://www.g2.com/products/unity/competitors/alternatives",
+    "https://www.incredibuild.com/blog/top-gaming-engines-you-should-consider",
+    "https://www.g2.com/products/unreal-engine/competitors/alternatives",
+    "https://www.slant.co/options/1047/alternatives/~unity-3d-alternatives",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/unity-alternatives",
+    "https://decimalsolution.com/blogs/unity-vs-unreal-engine-in-2025-what-to-choose-for-your-game-project",
+    "https://www.selecthub.com/3d-design-software/unity-3d/alternatives/",
+    "https://rocketbrush.com/blog/best-3d-game-engines-full-comparison",
+    "https://medium.com/@afonsofaro7/the-best-game-engines-to-use-in-2025-a-comprehensive-evaluation-c39cf8ff69c5"
+  ]
+}

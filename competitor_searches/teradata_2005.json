@@ -1,0 +1,40 @@
+{
+  "company": "Teradata",
+  "ticker": "TDC",
+  "year": 2005,
+  "search_query": "Teradata competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "In 2005, Teradata was a leading provider of enterprise data warehousing solutions and analytics platforms, then operating as a division of NCR Corporation (it became independent in 2007). The company specialized in massively parallel processing (MPP) database systems for large-scale data warehousing and business intelligence. During this period, the data warehousing market was dominated by traditional enterprise database vendors before the emergence of cloud-based analytics platforms.",
+  "competitors": [
+    {
+      "name": "Oracle",
+      "notes": "Major competitor offering Oracle Database and data warehousing solutions for enterprise analytics and business intelligence"
+    },
+    {
+      "name": "IBM",
+      "notes": "Significant competitor with DB2 database and data warehousing solutions, along with business intelligence tools"
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competitor with SQL Server database and growing presence in enterprise data warehousing and BI markets"
+    },
+    {
+      "name": "Netezza",
+      "notes": "Specialized data warehousing appliance competitor offering high-performance analytics platform (later acquired by IBM in 2010)"
+    },
+    {
+      "name": "Greenplum",
+      "notes": "Emerging MPP database competitor for data warehousing and analytics (later acquired by EMC in 2010, now part of VMware)"
+    },
+    {
+      "name": "Vertica",
+      "notes": "Column-store database competitor for analytics and data warehousing (founded in 2005, later acquired by HP in 2011)"
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/cloud-database-management-systems/vendor/teradata/alternatives",
+    "https://craft.co/teradata/competitors",
+    "https://www.cbinsights.com/company/teradata-corporation/alternatives-competitors",
+    "https://www.owler.com/company/teradata"
+  ]
+}

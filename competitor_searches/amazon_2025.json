@@ -1,0 +1,83 @@
+{
+  "company": "Amazon.com Inc.",
+  "ticker": "AMZN",
+  "year": 2025,
+  "search_query": "Amazon competitors 2025 competitive landscape",
+  "search_date": "2025-12-24",
+  "context": "Amazon operates across multiple business segments including e-commerce, cloud computing (AWS), streaming entertainment, smart devices, and logistics. AWS remains the market leader in cloud infrastructure with 30-33% market share but has faced capacity constraints in late 2025. The company competes in highly diverse markets from retail to technology infrastructure, facing specialized competitors in each vertical.",
+  "competitors": [
+    {
+      "name": "Walmart",
+      "notes": "Largest brick-and-mortar retailer with rapidly growing online e-commerce presence. Primary competitor in retail sector."
+    },
+    {
+      "name": "Target",
+      "notes": "Strong omnichannel retail strategy competing with Amazon's retail operations."
+    },
+    {
+      "name": "eBay",
+      "notes": "Online marketplace competitor in e-commerce space."
+    },
+    {
+      "name": "Alibaba / AliExpress",
+      "notes": "Major international e-commerce competitor, particularly strong in Asia and cross-border trade."
+    },
+    {
+      "name": "Shopify",
+      "notes": "Powers millions of independent online stores, enabling retailers to compete with Amazon's marketplace."
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Second-largest cloud provider, major AWS competitor. Gaining market share as AWS faces capacity constraints."
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "notes": "Third-largest cloud provider competing with AWS for enterprise cloud workloads."
+    },
+    {
+      "name": "IBM Cloud",
+      "notes": "Enterprise cloud services competitor focusing on hybrid cloud solutions."
+    },
+    {
+      "name": "Oracle Cloud",
+      "notes": "Cloud infrastructure competitor, particularly in enterprise database and application hosting."
+    },
+    {
+      "name": "Netflix",
+      "notes": "Primary streaming competitor to Amazon Prime Video."
+    },
+    {
+      "name": "Disney+",
+      "notes": "Major streaming service competitor with exclusive content library."
+    },
+    {
+      "name": "HBO Max (Max)",
+      "notes": "Premium streaming service competing for subscriber attention."
+    },
+    {
+      "name": "Apple TV+",
+      "notes": "Apple's streaming service and ecosystem competitor."
+    },
+    {
+      "name": "Google (Nest, Google Assistant)",
+      "notes": "Smart home devices and voice assistant competitor to Alexa and Echo products."
+    },
+    {
+      "name": "Apple (HomePod, Siri)",
+      "notes": "Smart speaker and voice assistant competitor in the smart home market."
+    },
+    {
+      "name": "FedEx",
+      "notes": "Logistics and package delivery competitor."
+    },
+    {
+      "name": "UPS",
+      "notes": "Major shipping and logistics competitor."
+    },
+    {
+      "name": "DHL",
+      "notes": "International shipping and logistics competitor."
+    }
+  ],
+  "sources": []
+}

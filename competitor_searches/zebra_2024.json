@@ -1,0 +1,52 @@
+{
+  "company": "Zebra Technologies",
+  "ticker": "ZBRA",
+  "year": 2024,
+  "search_query": "Zebra Technologies ZBRA competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "Zebra Technologies is a global leader providing innovative solutions for enterprise asset intelligence, mobile computing, and automatic identification. Serves healthcare, retail, manufacturing, and transportation industries. Market capitalization between $10-200 billion places ZBRA in large cap category. Company specializes in mobile computers, barcode scanners, RFID readers, specialty printers, real-time location systems, and software solutions.",
+  "competitors": [
+    {
+      "name": "Honeywell International",
+      "notes": "Major competitor offering similar range of products and services; known for innovation in mobile computing, scanning, and printing"
+    },
+    {
+      "name": "Datalogic",
+      "notes": "Specializes in automatic data capture and industrial automation; strong market presence in Europe with innovative product lineup"
+    },
+    {
+      "name": "Sato Holdings",
+      "notes": "Renowned for printing solutions, particularly in barcode and RFID technology"
+    },
+    {
+      "name": "Toshiba TEC",
+      "notes": "Competitor in barcode printing and point-of-sale systems"
+    },
+    {
+      "name": "Cognex Corporation",
+      "notes": "Competitor in machine vision and industrial barcode reading"
+    },
+    {
+      "name": "Alien Technology",
+      "notes": "Competitor in RFID technology and solutions"
+    },
+    {
+      "name": "Lexmark",
+      "notes": "Competitor in printing solutions"
+    },
+    {
+      "name": "Domino Printing",
+      "notes": "Competitor in industrial printing"
+    },
+    {
+      "name": "Entrust",
+      "notes": "Competitor in secure issuance and identification"
+    }
+  ],
+  "sources": [
+    "https://www.marketbeat.com/stocks/NASDAQ/ZBRA/competitors-and-alternatives/",
+    "https://pitchgrade.com/companies/zebra-technologies",
+    "https://seekingalpha.com/symbol/ZBRA/peers/comparison",
+    "https://www.comparably.com/companies/zebra-technologies/competitors"
+  ]
+}

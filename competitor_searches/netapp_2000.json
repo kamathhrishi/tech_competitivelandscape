@@ -1,0 +1,39 @@
+{
+  "company": "NetApp",
+  "ticker": "NTAP",
+  "year": 2000,
+  "search_query": "NetApp competitors 2000",
+  "search_date": "2025-12-24",
+  "context": "Early network-attached storage (NAS) market. NetApp (founded 1992 as Network Appliance) was establishing itself in the emerging NAS market. Traditional enterprise storage vendors dominated the landscape with SAN solutions, while NetApp focused on innovative NAS appliances.",
+  "competitors": [
+    {
+      "name": "Auspex Systems",
+      "notes": "NetApp's major competitor when the company was founded in 1992, competed in the NAS market"
+    },
+    {
+      "name": "EMC Corporation",
+      "notes": "Dominant enterprise storage vendor with SAN and emerging NAS solutions"
+    },
+    {
+      "name": "Network Appliance (early competitors)",
+      "notes": "Competed against traditional storage array vendors entering the NAS space"
+    },
+    {
+      "name": "Sun Microsystems",
+      "notes": "Provided file servers and storage systems"
+    },
+    {
+      "name": "Hewlett-Packard",
+      "notes": "Enterprise storage solutions provider"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise storage systems and solutions"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/NetApp",
+    "https://www.netapp.com/netapp-vs-competitors/",
+    "https://www.simplyblock.io/blog/competitors-to-netapp/"
+  ]
+}

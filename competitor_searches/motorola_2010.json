@@ -1,0 +1,31 @@
+{
+  "company": "Motorola Solutions",
+  "ticker": "MSI",
+  "year": 2010,
+  "search_query": "Motorola Solutions MSI competitors 2010",
+  "search_date": "2025-12-24",
+  "context": "In 2010, Motorola had not yet split into two companies. The company operated as unified Motorola, Inc. encompassing both mobile phone and enterprise/public safety businesses. The split into Motorola Solutions (public safety and enterprise security) and Motorola Mobility (mobile phones) occurred in January 2011.",
+  "competitors": [
+    {
+      "name": "Cisco Systems",
+      "notes": "Competitor in enterprise communications and networking equipment"
+    },
+    {
+      "name": "Ericsson",
+      "notes": "Competitor in telecommunications equipment and services"
+    },
+    {
+      "name": "Nokia",
+      "notes": "Competitor in telecommunications equipment and mobile communications"
+    },
+    {
+      "name": "Harris Corporation",
+      "notes": "Competitor in public safety communications (later became L3Harris Technologies)"
+    }
+  ],
+  "sources": [
+    "https://seekingalpha.com/symbol/MSI/peers/comparison",
+    "https://www.marketbeat.com/stocks/NYSE/MSI/competitors-and-alternatives/",
+    "https://en.wikipedia.org/wiki/Motorola_Solutions"
+  ]
+}

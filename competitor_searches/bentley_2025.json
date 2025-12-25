@@ -1,0 +1,63 @@
+{
+  "company": "Bentley Systems",
+  "ticker": "BSY",
+  "year": 2025,
+  "search_query": "Bentley Systems BSY competitors 2025 infrastructure engineering software",
+  "search_date": "2025-12-24",
+  "context": "Bentley Systems (Nasdaq: BSY) is the infrastructure engineering software company providing innovative software to advance the world's infrastructure, sustaining both the global economy and environment. As of mid-2025, Bentley has a market cap of $17.6B with trailing 12-month revenue of $1.42B. Their solutions are used for design, construction, and operations of roads, bridges, rail, transit, water, wastewater, public works, utilities, buildings, campuses, mining, and industrial facilities. Offerings are powered by the iTwin Platform for infrastructure digital twins and include MicroStation, Bentley Open applications, Seequent's software for geoprofessionals, ProjectWise (project delivery), SYNCHRO (construction management), and AssetWise (asset operations). In 2025, Bentley introduced OpenSight Plus for AI-powered infrastructure engineering. Most recent deal was M&A with Cadventure (IT Consulting) on May 22, 2025. Bentley has 851 active competitors.",
+  "competitors": [
+    {
+      "name": "Autodesk",
+      "ticker": "ADSK",
+      "notes": "Top competitor in infrastructure and construction software. While Bentley is smaller, it excels in core specialty areas like bridge or rail design versus Autodesk's broader-based applications."
+    },
+    {
+      "name": "Trimble",
+      "notes": "Major competitor in construction and infrastructure software. Employees rate CEO Robert G. Painter highly."
+    },
+    {
+      "name": "Oracle",
+      "ticker": "ORCL",
+      "notes": "Competes in enterprise infrastructure and construction management software."
+    },
+    {
+      "name": "Procore Technologies",
+      "ticker": "PCOR",
+      "notes": "Construction management software competitor. Listed among top 25 competitors."
+    },
+    {
+      "name": "Vectorworks",
+      "notes": "CAD and BIM software competitor for architecture, landscape, and entertainment industries."
+    },
+    {
+      "name": "Altair Engineering",
+      "ticker": "ALTR",
+      "notes": "Business/Productivity Software competitor. Note: Altair was acquired by Siemens in 2025 for $10.6 billion."
+    },
+    {
+      "name": "Synergis Technologies",
+      "notes": "Infrastructure and engineering software solutions competitor."
+    },
+    {
+      "name": "Tableau Software",
+      "ticker": "CRM",
+      "notes": "Data analytics and visualization competitor (owned by Salesforce)."
+    },
+    {
+      "name": "OpenSpace",
+      "notes": "Construction technology and AI-powered site documentation competitor. Listed as top competitor by Tracxn."
+    },
+    {
+      "name": "Converge",
+      "notes": "Infrastructure software competitor listed among top competitors."
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/bentley-systems/competitors",
+    "https://leadiq.com/c/bentley-systems/5a1d8827240000240061f215",
+    "https://growjo.com/company/Bentley_Systems",
+    "https://www.bentley.com/news/bentley-systems-enactus-announce-winner-of-the-2025-itwin4good-challenge/",
+    "https://www.marketbeat.com/stocks/NASDAQ/BSY/competitors-and-alternatives/",
+    "https://tracxn.com/d/companies/bentley-systems/__Jc32JWOjRHKlI3zQKsWLWGcU5uK3kdMhxdPLgHo3nnk"
+  ]
+}

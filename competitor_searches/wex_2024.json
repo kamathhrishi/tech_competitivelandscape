@@ -1,0 +1,105 @@
+{
+  "company": "WEX",
+  "ticker": "WEX",
+  "year": 2024,
+  "search_query": "WEX competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "WEX operating three segments: Mobility (largest by revenue), Benefits, and Corporate Payments. Trailing twelve-month revenue of $2.6B. Facing intensifying competition from fleet tech innovators and fintech disruptors. Traditional fleet card dominance challenged by new players offering faster, more efficient digital-first solutions.",
+  "competitors": [
+    {
+      "name": "Corpay (formerly FleetCor)",
+      "notes": "Primary competitor providing corporate payment products and services across fleet, travel, and B2B segments"
+    },
+    {
+      "name": "AtoB",
+      "notes": "Fuel card startup with $112M backing challenging WEX and Fleetcor dominance, using Mastercard instant transfer for faster, more efficient experience"
+    },
+    {
+      "name": "Coast",
+      "notes": "Top competitor in fuel card space with modern digital approach"
+    },
+    {
+      "name": "RoadFlex",
+      "notes": "Fleet fuel card competitor"
+    },
+    {
+      "name": "NUKO",
+      "notes": "Fuel card provider competing in fleet solutions"
+    },
+    {
+      "name": "U.S. Bank Voyager",
+      "notes": "Established fleet management and payment solutions provider"
+    },
+    {
+      "name": "Edenred",
+      "notes": "Global payment solutions with fleet and mobility sector presence"
+    },
+    {
+      "name": "Comdata",
+      "notes": "Fleet management provider with coverage at 8,000+ truck stops, volume-based discounts up to $0.08/gallon"
+    },
+    {
+      "name": "BILL AP/AR",
+      "notes": "Best WEX Business Payments alternative for B2B payments automation"
+    },
+    {
+      "name": "Ramp",
+      "notes": "Top alternative for corporate spend management and payments"
+    },
+    {
+      "name": "Brex",
+      "notes": "Corporate card and spend management platform"
+    },
+    {
+      "name": "BILL Spend & Expense (Divvy)",
+      "notes": "Corporate expense and payment management"
+    },
+    {
+      "name": "Visa",
+      "notes": "Global payment network competing in corporate and fleet infrastructure"
+    },
+    {
+      "name": "Mastercard",
+      "notes": "Global payment network with fleet and corporate solutions"
+    },
+    {
+      "name": "Coupa",
+      "notes": "B2B payments with integrated spend management"
+    },
+    {
+      "name": "Tipalti",
+      "notes": "B2B payment automation platform"
+    },
+    {
+      "name": "Optum Bank",
+      "notes": "Healthcare benefits competitor"
+    },
+    {
+      "name": "HealthEquity",
+      "notes": "HSA and benefits provider"
+    },
+    {
+      "name": "PayFlex",
+      "notes": "Healthcare payment solutions"
+    },
+    {
+      "name": "Radius",
+      "notes": "Fleet and mobility payment solutions"
+    },
+    {
+      "name": "Alegeus",
+      "notes": "Benefits administration platform"
+    },
+    {
+      "name": "Stripe",
+      "notes": "Payment infrastructure provider"
+    }
+  ],
+  "sources": [
+    "https://www.paymentsdive.com/news/truck-fleet-fintech-payments-visa-mastercard-wex-fleetcor/706695/",
+    "https://www.g2.com/products/wex-business-payments/competitors/alternatives",
+    "https://canvasbusinessmodel.com/blogs/competitors/wex-competitive-landscape",
+    "https://pitchgrade.com/companies/wex",
+    "https://ramp.com/blog/fleet-fuel-cards/best-wex-alternatives"
+  ]
+}

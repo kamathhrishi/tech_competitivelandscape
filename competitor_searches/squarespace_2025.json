@@ -1,0 +1,52 @@
+{
+  "company": "Squarespace",
+  "ticker": "SQSP",
+  "year": 2025,
+  "search_query": "Squarespace competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "In 2025, Squarespace operates in a highly competitive market where AI-driven features, omnichannel commerce, and flexible pricing are key differentiators. The company faces pressure from competitors offering more customization, better value propositions, and specialized capabilities. Squarespace's main challenges include lack of a free plan, limited customization options, transaction fees on some plans, and weaker SEO flexibility compared to rivals. The market has consolidated around a few major players while niche competitors address specific use cases.",
+  "competitors": [
+    {
+      "name": "Wix",
+      "notes": "Top-rated website builder for 2025, outperforming all other platforms. Commands 63% combined market share with Squarespace. Offers plans from Free ($0 with ads) to Business ($43/month with advanced e-commerce). Features comprehensive AI tools and unified business management dashboard."
+    },
+    {
+      "name": "Shopify",
+      "notes": "Leading AI-driven e-commerce platform for 2025 and beyond. Features Shopify Magic for AI-generated product descriptions, Shopify Markets for international selling, and Shopify POS for omnichannel retail. Superior shipping, fulfillment, payment options, and inventory management compared to Squarespace."
+    },
+    {
+      "name": "Webflow",
+      "notes": "Most customizable website builder offering advanced customization, scalability, SEO tools, and strong CMS. Best overall alternative for users needing design control. Requires significant learning investment ranging from days to months depending on technical experience."
+    },
+    {
+      "name": "WordPress",
+      "notes": "Most flexible CMS-driven option with thousands of plugins and themes. Self-hosted solution providing complete site ownership and freedom to make changes. Offers superior SEO flexibility and customization compared to Squarespace."
+    },
+    {
+      "name": "Hostinger",
+      "notes": "Features powerful AI website builder with e-commerce suite option. Domain features rated better than Squarespace based on research. Includes free professional email with domain purchase, offering strong value proposition."
+    },
+    {
+      "name": "GoDaddy",
+      "notes": "Offers quicker website launch and better value than Squarespace. Plans start at $10.99/month (billed annually) after October 2025 pricing update from previous $9.99 rate. Focuses on ease of use for small businesses."
+    },
+    {
+      "name": "Weebly",
+      "notes": "Beginner-friendly drag-and-drop builder with simpler interface than Squarespace but less advanced customization. Faces uncertainty as official communications indicate editor support only guaranteed through July 2025. Users report significant price increases and lack of updates since Square acquisition."
+    },
+    {
+      "name": "BigCommerce",
+      "notes": "Ideal for complex online stores with enterprise needs. Offers features that can feel restrictive on Squarespace, particularly for stores with sophisticated requirements and high transaction volumes."
+    }
+  ],
+  "sources": [
+    "https://www.websitebuilderexpert.com/website-builders/comparisons/squarespace-alternatives/",
+    "https://www.sitebuilderreport.com/squarespace-alternatives",
+    "https://breakdance.com/squarespace-alternative/",
+    "https://www.tooltester.com/en/blog/squarespace-alternatives/",
+    "https://elementor.com/blog/squarespace-alternatives/",
+    "https://zapier.com/blog/squarespace-alternatives/",
+    "https://litextension.com/blog/squarespace-alternatives/",
+    "https://www.creativecorner.studio/blog/top-11-squarespace-alternatives-competitors"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "company": "Wix",
+  "ticker": "WIX",
+  "year": 2020,
+  "search_query": "Wix competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "By 2020, the website builder market had matured with clear segmentation between general-purpose builders, e-commerce platforms, and professional design tools. According to the 2020 Site Builder Report, Wix and Squarespace maintained a combined 53% market share among website builders (down from 56% the previous year). The market saw increasing competition from specialized platforms like Shopify for e-commerce and emerging professional tools like Webflow. WordPress remained dominant in the broader CMS market with over 63% market share.",
+  "competitors": [
+    {
+      "name": "Squarespace",
+      "notes": "Remained Wix's primary competitor with strongest market share among top 1 million websites in 2020. Offered superior template design quality and integrated Acuity Scheduling tool, making it particularly strong for service-based businesses and creative professionals."
+    },
+    {
+      "name": "Shopify",
+      "notes": "Leading e-commerce platform that competed directly with Wix's online store offerings. Had grown to 5.7% market share and demonstrated 41.43% average growth rate over 5 years, significantly outpacing Wix's 16.12% growth rate. Specialized in comprehensive e-commerce features, inventory management, and multi-channel selling."
+    },
+    {
+      "name": "WordPress",
+      "notes": "Dominant CMS platform powering over 43% of all websites by 2020. WordPress.org offered maximum flexibility and customization through 59,000+ plugins but required more technical knowledge than Wix's no-code interface."
+    },
+    {
+      "name": "Webflow",
+      "notes": "Emerging professional website builder targeting designers and developers who wanted advanced design control and clean code output. Unlike Wix's beginner focus, Webflow catered to professionals needing sophisticated customization without coding."
+    },
+    {
+      "name": "GoDaddy Website Builder",
+      "notes": "Major competitor offering all-in-one builder with 100+ templates and comprehensive e-commerce and marketing features. Leveraged GoDaddy's existing customer base in domain registration and hosting."
+    },
+    {
+      "name": "Weebly",
+      "notes": "Square-owned e-commerce platform with drag-and-drop builder and free hosting. While still a competitor, Weebly's growth had slowed since 2015 and the platform received less frequent updates after Square's 2018 acquisition."
+    },
+    {
+      "name": "Duda",
+      "notes": "Website builder specifically created for agencies and freelancers managing multiple client projects. Offered unique multilingual management system and team collaboration features that differentiated it from Wix's individual user focus."
+    }
+  ],
+  "sources": [
+    "https://www.sitebuilderreport.com/state-of-website-builders/",
+    "https://www.tooltester.com/en/blog/wix-market-share/",
+    "https://www.tooltester.com/en/blog/wix-alternatives/",
+    "https://kinsta.com/wordpress-market-share/",
+    "https://www.websitebuilderexpert.com/website-builders/comparisons/best-wix-alternatives/"
+  ]
+}

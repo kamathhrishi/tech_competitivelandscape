@@ -1,0 +1,69 @@
+{
+  "company": "AppLovin",
+  "ticker": "APP",
+  "year": 2020,
+  "search_query": "AppLovin competitors 2020 mobile advertising",
+  "search_date": "2024-12-24",
+  "context": "By 2020, AppLovin had established itself as a significant player in mobile advertising and app monetization, holding an 8.71% market share in the mobile ad network category. The company competed with 37 other tools in the mobile ad network space. AppLovin's focus on gaming-specific advertising solutions and its developing AI-driven optimization technology positioned it competitively against larger tech giants and specialized mobile ad platforms. The company's AppDiscovery and MAX platforms were gaining traction among mobile developers seeking effective user acquisition and monetization solutions.",
+  "competitors": [
+    {
+      "name": "Google AdMob",
+      "notes": "Market leader with 10.82% share, offering advanced monetization technology and global ad request coverage across all networks"
+    },
+    {
+      "name": "Chartboost",
+      "notes": "Held 3.65% market share with the highest integrated independent mobile ad SDK, ranked as top media source by Kochava, AppsFlyer, and Singular"
+    },
+    {
+      "name": "URX",
+      "notes": "Market leader with 58.64% share in the mobile ad network category, significantly ahead of other competitors"
+    },
+    {
+      "name": "InMobi",
+      "notes": "Top competitor providing comprehensive mobile advertising solutions and digital experience platforms"
+    },
+    {
+      "name": "MOLOCO",
+      "notes": "Key competitor in programmatic advertising and machine learning-based user acquisition"
+    },
+    {
+      "name": "ironSource",
+      "notes": "Direct competitor offering comprehensive platform for app monetization and user acquisition similar to AppLovin's offerings"
+    },
+    {
+      "name": "Unity Ads",
+      "notes": "Major competitor integrated with Unity game engine, directly competing for mobile game advertising revenue"
+    },
+    {
+      "name": "Meta (Facebook Audience Network)",
+      "notes": "Alphabet's competitor leveraging Facebook's extensive user base and advanced ad targeting capabilities"
+    },
+    {
+      "name": "The Trade Desk",
+      "notes": "Competitor in programmatic advertising with advanced ad serving technology"
+    },
+    {
+      "name": "StackAdapt",
+      "notes": "Programmatic advertising platform competing in user acquisition and app discovery"
+    },
+    {
+      "name": "Tapjoy",
+      "notes": "Mobile advertising and app monetization platform focusing on engagement-based advertising"
+    },
+    {
+      "name": "MoPub",
+      "notes": "One-stop advertising serving platform for publishers with mediation capabilities"
+    },
+    {
+      "name": "Vungle",
+      "notes": "Mobile advertising and monetization platform for developers and publishers"
+    }
+  ],
+  "sources": [
+    "https://www.cbinsights.com/company/applovin/alternatives-competitors",
+    "https://6sense.com/tech/mobile-ad-network/applovin-market-share",
+    "https://www.playwire.com/blog/choosing-your-platform-applovin-vs-competitors",
+    "https://canvasbusinessmodel.com/blogs/competitors/applovin-competitive-landscape",
+    "https://www.owler.com/company/applovin"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "company": "Pegasystems",
+  "ticker": "PEGA",
+  "year": 2025,
+  "search_query": "Pegasystems competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "In 2025, the low-code BPM platform market continues to evolve with AI integration, intelligent automation, and composable architecture as key differentiators. A November 2025 Low-Code Platforms Competitive Landscape Assessment report analyzed leading vendors including Microsoft, Salesforce, Mendix, OutSystems, ServiceNow, Zoho, Oracle, Appian, and Pegasystems. Market opportunities focus on AI integration, data access across sources, enabling both developers and citizen developers, and supporting app modernization. Pega maintains strong position but faces pressure from more accessible, cost-effective alternatives targeting mid-market and organizations seeking faster implementation.",
+  "competitors": [
+    {
+      "name": "Appian",
+      "notes": "Top Pega alternative with data fabric architecture, RPA, and data mining capabilities. Strong process orchestration, complex data modeling, out-of-the-box document management, and pre-integrated content management systems."
+    },
+    {
+      "name": "ServiceNow",
+      "notes": "Expanded from service management to comprehensive business process automation and low-code development. Strong enterprise adoption with App Engine for decentralized development and workflow automation."
+    },
+    {
+      "name": "Microsoft Power Apps",
+      "notes": "Leading low-code platform with massive ecosystem integration across Microsoft 365, Dynamics, and Azure. AI-powered development with Copilot, targeting both professional developers and citizen developers."
+    },
+    {
+      "name": "Salesforce",
+      "notes": "CRM leader with expanding low-code capabilities through Salesforce Flow and Lightning Platform. Strong in customer-facing processes with Einstein AI integration for intelligent automation."
+    },
+    {
+      "name": "Mendix (Siemens)",
+      "notes": "Full-stack low-code platform included in major 2025 competitive landscape assessments. Strong collaboration between business and IT, supporting rapid enterprise application deployment."
+    },
+    {
+      "name": "OutSystems",
+      "notes": "Leading enterprise low-code platform in 2025 competitive assessments. High-productivity full-stack development with AI-assisted tools for mission-critical applications."
+    },
+    {
+      "name": "Creatio",
+      "notes": "No-code platform with powerful BPM engine and composable architecture. Combines CRM and BPM with Creatio Studio for development and three specialized industry solutions."
+    },
+    {
+      "name": "Camunda",
+      "notes": "Open-source BPM solution with strong BPMN compliance. Flexible and customizable alternative to Pega's proprietary platform with minimal licensing costs."
+    },
+    {
+      "name": "Bizagi",
+      "notes": "Business-friendly low-code process automation platform with 1M+ user community. Flexible BPM solution connecting people, applications, robots, and information for 1,000+ organizations globally."
+    },
+    {
+      "name": "Nintex",
+      "notes": "Process automation platform with workflow automation, RPA, and document generation. Strong integration with Microsoft 365 and Salesforce ecosystems."
+    },
+    {
+      "name": "Kissflow",
+      "notes": "Accessible low-code/no-code platform for business process automation. Empowers business users to automate workflows without programming expertise."
+    },
+    {
+      "name": "Zoho Creator",
+      "notes": "Included in November 2025 competitive landscape report. Affordable low-code platform with intuitive interface for custom business applications across skill levels."
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise platform vendor included in 2025 low-code competitive assessments. Oracle Integration Cloud and APEX for low-code development within Oracle ecosystem."
+    },
+    {
+      "name": "IBM BPM",
+      "notes": "Modernized BPM offering for enterprise process orchestration and monitoring. Extensive integration capabilities for complex enterprise environments."
+    },
+    {
+      "name": "UiPath",
+      "notes": "Leading intelligent automation and RPA platform competing with Pega's automation capabilities. Strong AI integration and agentic automation features."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/enterprise-low-code-application-platform/vendor/pegasystems/product/pega-platform/alternatives",
+    "https://www.peerspot.com/products/pega-platform-alternatives-and-competitors",
+    "https://www.creatio.com/glossary/pega-alternatives",
+    "https://www.kovaion.com/blog/top-5-pega-alternatives/",
+    "https://finance.yahoo.com/news/low-code-platforms-competitive-landscape-120500226.html"
+  ]
+}

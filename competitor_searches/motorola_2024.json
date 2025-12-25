@@ -1,0 +1,49 @@
+{
+  "company": "Motorola Solutions",
+  "ticker": "MSI",
+  "year": 2024,
+  "search_query": "Motorola Solutions MSI competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "Motorola Solutions continues as a global leader in public safety and enterprise security with solutions in Land Mobile Radio (LMR), Command Center, and Video Security. Q3 2024 revenues were $2.5B with net income of $430M. R&D expenditures increased by 5% in first nine months of 2024. Price-to-earnings ratio of 34.93x.",
+  "competitors": [
+    {
+      "name": "L3Harris Technologies",
+      "notes": "Major competitor in communication solutions for defense and public safety; strong in tactical communication and government contracts"
+    },
+    {
+      "name": "Hytera Communications",
+      "notes": "Chinese competitor in professional mobile radio systems; competitive pricing and strong in emerging markets; faces cybersecurity scrutiny in Western markets"
+    },
+    {
+      "name": "Airbus Defence and Space",
+      "notes": "Competitor in defense and public safety communication solutions with Secure Land Communications division; backed by extensive R&D resources"
+    },
+    {
+      "name": "BK Technologies",
+      "notes": "Competitor in wireless equipment sector"
+    },
+    {
+      "name": "Comtech Telecommunications",
+      "notes": "Competitor in wireless communications equipment"
+    },
+    {
+      "name": "CommScope Holding",
+      "notes": "Competitor in telecommunications infrastructure"
+    },
+    {
+      "name": "Harmonic",
+      "notes": "Competitor in wireless equipment"
+    },
+    {
+      "name": "InterDigital",
+      "notes": "Competitor in wireless technology"
+    }
+  ],
+  "sources": [
+    "https://csimarket.com/stocks/compet_glance.php?code=MSI",
+    "https://csimarket.com/stocks/competitionSEG2.php?code=MSI",
+    "https://www.gurufocus.com/stock/MSI/analysis",
+    "https://seekingalpha.com/article/4648976-motorola-solutions-mapping-future-amid-competitive-challenges",
+    "https://pitchgrade.com/companies/motorola-solutions"
+  ]
+}

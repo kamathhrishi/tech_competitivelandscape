@@ -1,0 +1,54 @@
+{
+  "company": "Squarespace",
+  "ticker": "SQSP",
+  "year": 2024,
+  "search_query": "Squarespace competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "As a public company in 2024, Squarespace faced increasing competition in a mature website builder market. The competitive landscape had evolved with AI-powered features becoming standard, and competitors differentiating through pricing, customization capabilities, and specialized features. Squarespace's premium positioning and limited free options contrasted with more affordable and flexible alternatives. Competitors emphasized AI innovation, deeper customization, and better value propositions.",
+  "competitors": [
+    {
+      "name": "Wix",
+      "notes": "Top-rated website builder outperforming all platforms in 2024 testing. Embraced AI innovation with AI-powered graphic design, content creation, and web building. Offered unified dashboard for lead collection, email marketing, social media, and ad campaigns. Maintained 63% combined market share with Squarespace."
+    },
+    {
+      "name": "WordPress",
+      "notes": "Open-source CMS powering 43.7% of all websites as of December 2024. Offered complete control over design, functionality, and ownership through extensive plugin ecosystem. Could create any website type including membership platforms, LMS, e-commerce, and social networks."
+    },
+    {
+      "name": "Shopify",
+      "notes": "Purpose-built e-commerce platform with 100+ mobile-responsive templates. Provided comprehensive built-in features for operating powerful online stores, superior to Squarespace's e-commerce capabilities. Consistently topped best e-commerce platform lists."
+    },
+    {
+      "name": "Hostinger",
+      "notes": "Most affordable alternative at $2.99-$3.99/month for 48-month subscription. Offered AI website builder with e-commerce suite, better domain features than Squarespace, and free professional email with domain purchase."
+    },
+    {
+      "name": "Webflow",
+      "notes": "Most customizable website builder offering advanced customization, scalability, and strong CMS. Best suited for designers and developers with technical experience. Had learning curve requiring days to months to master."
+    },
+    {
+      "name": "Weebly",
+      "notes": "Beginner-friendly drag-and-drop builder with less advanced customization than Squarespace. However, faced uncertainty as support guaranteed only through July 2025, with reports of price increases and lack of updates since Square acquisition."
+    },
+    {
+      "name": "GoDaddy",
+      "notes": "Quick setup and better value than Squarespace with plans from $10.99/month. Pricing had increased from original $9.99 after October 2024 update but remained competitive."
+    },
+    {
+      "name": "Jimdo",
+      "notes": "Easy website creation with drag-and-drop features for custom websites including online shops, blogs, and photo albums. Offered various pricing tiers including free plans for beginners."
+    },
+    {
+      "name": "BigCommerce",
+      "notes": "Platform for creating large online stores with excellent sales capabilities. User-friendly with easy access to front and back end systems. Featured reporting for tracking store performance without slowdowns during growth."
+    }
+  ],
+  "sources": [
+    "https://www.thinkific.com/blog/squarespace-alternatives/",
+    "https://breakdance.com/squarespace-alternative/",
+    "https://zapier.com/blog/squarespace-alternatives/",
+    "https://www.shopify.com/blog/squarespace-alternatives",
+    "https://mockey.ai/blog/squarespace-alternatives/",
+    "https://www.tooltester.com/en/blog/squarespace-alternatives/"
+  ]
+}

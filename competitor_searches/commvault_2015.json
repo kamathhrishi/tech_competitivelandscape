@@ -1,0 +1,44 @@
+{
+  "company": "CommVault",
+  "ticker": "CVLT",
+  "year": 2015,
+  "search_query": "CommVault competitors 2015",
+  "search_date": "2024-12-24",
+  "context": "The 2015 backup and recovery software market represented a period of transition, with traditional enterprise vendors facing challenges from emerging cloud-native solutions. The market generated revenue of almost $5.7 billion in constant currency but experienced slowing growth from 11.6% in 2014 to 5.5% in 2015. CommVault was the 4th largest vendor in the market, competing against established players like Veritas, EMC, and IBM, while also facing rising competition from Veeam, which was rapidly growing in the virtualization backup space. The market was shifting from traditional on-premises backup to virtualization-aware and cloud-enabled solutions.",
+  "competitors": [
+    {
+      "name": "Veritas Technologies",
+      "notes": "Market leader in backup and recovery software with NetBackup as the flagship enterprise product. Maintained top position in the market in 2015."
+    },
+    {
+      "name": "EMC",
+      "notes": "Second largest vendor in the data center backup market, offering comprehensive backup and storage solutions including Data Domain appliances."
+    },
+    {
+      "name": "IBM",
+      "notes": "Third largest vendor with Tivoli Storage Manager and enterprise backup solutions competing in the data center market."
+    },
+    {
+      "name": "Veeam",
+      "notes": "Fifth largest vendor in 2015, rapidly growing with agentless VM backup software for VMware and Hyper-V. Known for virtualization backup expertise and gaining significant market share."
+    },
+    {
+      "name": "Acronis",
+      "notes": "Backup and disaster recovery vendor competing with comprehensive backup capabilities and integrated cybersecurity tools."
+    },
+    {
+      "name": "HP/HPE",
+      "notes": "Enterprise backup vendor with data protection solutions competing in the data center backup market."
+    },
+    {
+      "name": "Arcserve",
+      "notes": "Backup and disaster recovery software vendor serving the enterprise and mid-market segments."
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/doc/3351817/market-share-analysis-data-center",
+    "https://www.veeam.com/blog/gartner-2019-report-3rd-largest-backup-vendor.html",
+    "https://www.baculasystems.com/commvault-competitors-alternatives/",
+    "https://www.cbinsights.com/company/commvault-systems/alternatives-competitors"
+  ]
+}

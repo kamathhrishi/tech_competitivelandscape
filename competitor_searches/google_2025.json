@@ -1,0 +1,85 @@
+{
+  "company": "Alphabet Inc. (Google)",
+  "ticker": "GOOGL",
+  "year": 2025,
+  "search_query": "Google Alphabet competitors 2025 competitive landscape",
+  "search_date": "2025-12-24",
+  "context": "As of December 2025, Alphabet operates in an intensely competitive global technology landscape. Google dominates search with 89.66-90.7% global market share, while Google Cloud holds 13% market share chasing Amazon and Microsoft. The company has regained its AI edge after initial setbacks, though competition remains fierce. Heavy reliance on advertising revenue (63.8% of global social media ad spend in H1 2024) coupled with regulatory pressures presents ongoing challenges. Integration with Android ecosystem (3+ billion devices) provides a strong competitive moat.",
+  "competitors": [
+    {
+      "name": "Microsoft Bing",
+      "notes": "Closest search competitor with 3.7-8.3% global share and 7.56-27.6% in US desktop market. Benefits from Windows 11 Copilot and Edge browser integration. Primary threat in generative search with OpenAI partnership."
+    },
+    {
+      "name": "OpenAI / ChatGPT",
+      "notes": "AI-native search tool with exponential growth trajectory. Represents major threat in generative search space, though currently holds less than 5% total search market."
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "notes": "Cloud computing rival, market leader with larger market share than Google Cloud's 13%. Fierce competition in cloud infrastructure and AI services."
+    },
+    {
+      "name": "Microsoft Azure",
+      "notes": "Major cloud competitor, second-largest cloud provider. Intense rivalry in edge computing, cloud infrastructure, and AI hosting."
+    },
+    {
+      "name": "Apple",
+      "notes": "Competes in consumer electronics, online services, mobile operating systems (iOS vs Android), and cloud services."
+    },
+    {
+      "name": "Meta (Facebook)",
+      "notes": "Major competitor in online advertising and digital services. Competes for advertising dollars and user attention."
+    },
+    {
+      "name": "Amazon",
+      "notes": "Competes in cloud services (AWS), digital advertising, and consumer hardware. Major rival across multiple fronts."
+    },
+    {
+      "name": "Samsung",
+      "notes": "Consumer electronics competitor, alternative Android device manufacturer."
+    },
+    {
+      "name": "Sony",
+      "notes": "Competes in consumer electronics and digital content distribution."
+    },
+    {
+      "name": "Netflix",
+      "notes": "Video streaming competitor to YouTube and Google's digital content services."
+    },
+    {
+      "name": "Disney",
+      "notes": "Competes in digital content distribution and streaming services against YouTube."
+    },
+    {
+      "name": "Yahoo!",
+      "notes": "Legacy search engine competitor maintaining smaller but significant market share."
+    },
+    {
+      "name": "Baidu",
+      "notes": "Dominant search engine in China, regional competitor."
+    },
+    {
+      "name": "Yandex",
+      "notes": "Leading search engine in Russia and Eastern Europe."
+    },
+    {
+      "name": "DuckDuckGo",
+      "notes": "Privacy-focused search engine alternative with growing niche market share."
+    },
+    {
+      "name": "Perplexity",
+      "notes": "AI-native search tool representing new generation of search competitors."
+    },
+    {
+      "name": "Verizon",
+      "notes": "Competes in Internet connection services and telecommunications."
+    }
+  ],
+  "sources": [
+    "https://markets.financialcontent.com/wral/article/predictstreet-2025-12-24-alphabet-googl-deep-dive-the-multimodal-pivot-and-the-future-of-search-evolution",
+    "https://www.marketbeat.com/stocks/NASDAQ/GOOGL/competitors-and-alternatives/",
+    "https://www.gurufocus.com/stock/GOOGL/analysis",
+    "https://csimarket.com/stocks/compet_glance.php?code=GOOG",
+    "https://markets.financialcontent.com/wral/article/predictstreet-2025-12-23-the-ai-utility-a-deep-dive-into-alphabet-inc-googl-in-2025"
+  ]
+}

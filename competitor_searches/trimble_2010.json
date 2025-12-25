@@ -1,0 +1,61 @@
+{
+  "company": "Trimble",
+  "ticker": "TRMB",
+  "year": 2010,
+  "search_query": "Trimble competitors 2010",
+  "search_date": "2025-12-24",
+  "context": "Mature GPS/GNSS market with expanding applications in precision agriculture, construction automation, and geospatial analytics. Trimble had evolved from GPS pioneer to integrated technology solutions provider across multiple verticals including agriculture, construction, and surveying.",
+  "competitors": [
+    {
+      "name": "Topcon Positioning Systems",
+      "notes": "Global leader in positioning technology for surveying, construction, agriculture with high-quality products"
+    },
+    {
+      "name": "Leica Geosystems",
+      "notes": "Major competitor in surveying and construction equipment/software in geospatial market"
+    },
+    {
+      "name": "Hexagon AB",
+      "notes": "Competitor in construction technology with hardware and software solutions for machine control and surveying"
+    },
+    {
+      "name": "Deere & Company",
+      "notes": "Significant competitor in agriculture with precision agriculture technologies (NavCom Technology)"
+    },
+    {
+      "name": "Raven Applied Technology",
+      "notes": "Specializes in automated and autonomous farm technologies, guidance and steering technologies"
+    },
+    {
+      "name": "Farmers Edge",
+      "notes": "Competitor in agriculture technology and precision farming solutions"
+    },
+    {
+      "name": "Hemisphere GNSS",
+      "notes": "Provider of GNSS solutions for surveying, construction, and agriculture industries"
+    },
+    {
+      "name": "Esri",
+      "notes": "Key rival in geospatial industry offering advanced GIS software"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Competes in software solutions for design and modeling"
+    },
+    {
+      "name": "Carlson",
+      "notes": "Offers surveying and civil engineering software and hardware"
+    },
+    {
+      "name": "HERE Technologies",
+      "notes": "Competitor in location-based services and mapping"
+    }
+  ],
+  "sources": [
+    "https://sumble.com/tech/trimble-gps",
+    "https://sumble.com/tech/trimble",
+    "https://matrixbcg.com/blogs/competitors/trimble",
+    "https://www.cbinsights.com/company/trimble-agriculture/alternatives-competitors",
+    "https://metricop.com/blogs/land-surveying/leica-vs-trimble-gnss-can-emerging-brands-match-leica-and-trimble-in-precision"
+  ]
+}

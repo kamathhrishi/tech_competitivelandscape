@@ -1,0 +1,58 @@
+{
+  "company": "Bill Holdings (Bill.com)",
+  "ticker": "BILL",
+  "year": 2025,
+  "search_query": "Bill Holdings Bill.com competitors 2025 accounts payable automation",
+  "search_date": "2025-12-24",
+  "context": "Bill.com (now Bill Holdings) offers AP/AR automation software popular among small to mid-sized businesses. In 2025, companies seek alternatives as they expand and face complex workflows where BILL feels restrictive in scalability, automation depth, and international functionality. BILL AP/AR is separate from BILL Spend & Expense (formerly Divvy). Pricing: Essentials $45/user/month, Team $55/user/month, Corporate $79/user/month.",
+  "competitors": [
+    {
+      "name": "Tipalti",
+      "notes": "Most complete enterprise-ready alternative. Purpose-built platform supporting modern AP departments managing global operations. Stands out for organizations serious about scaling smarter."
+    },
+    {
+      "name": "Stampli",
+      "notes": "AP automation using AI and ML to learn company patterns. Automates GL coding, approval workflows, invoice verification. Pre-built integration with 70+ ERPs and accounting platforms."
+    },
+    {
+      "name": "Paylocity (Airbase)",
+      "notes": "Procure-to-pay platform incorporating Airbase's spend management capabilities after 2025 acquisition. Combines procurement, AP automation, expense management in unified system. G2 rating 4.5/5."
+    },
+    {
+      "name": "Centime",
+      "notes": "Best for mid-market ($10M-$250M revenue). Unifies AP, AR, business banking, and finance automation in one platform. Addresses core BILL limitations."
+    },
+    {
+      "name": "Ramp",
+      "notes": "Offers completely free tier (not just trial) including invoice OCR, mobile bill approvals, basic approval workflows. Strong alternative for cost-conscious businesses."
+    },
+    {
+      "name": "Melio",
+      "notes": "Intuitive, lightweight solution for paying bills online. Quick, accessible, low-cost for small businesses. Leaner, more affordable than BILL with streamlined UX."
+    },
+    {
+      "name": "Rippling",
+      "notes": "Native-built technology with cohesive interface. Unified view of all spend across payroll, expenses, corporate cards, and bills. Better cost control and decision-making."
+    },
+    {
+      "name": "Sage Intacct",
+      "notes": "Cloud-based financial management for scaling businesses ($10M+). Robust accounting, detailed financial oversight, tailored configurations, stronger compliance controls."
+    },
+    {
+      "name": "Concur",
+      "notes": "SAP Concur - enterprise expense and AP automation solution."
+    },
+    {
+      "name": "Brex",
+      "notes": "Corporate card and spend management platform with AP automation capabilities."
+    }
+  ],
+  "sources": [
+    "https://ramp.com/blog/top-bill-alternatives",
+    "https://tipalti.com/resources/learn/bill-com-competitors-and-alternatives/",
+    "https://www.rippling.com/blog/bill-com-alternatives",
+    "https://www.stampli.com/blog/accounts-payable/bill-com-alternatives/",
+    "https://www.centime.com/top-bill-alternatives",
+    "https://www.brex.com/spend-trends/expense-management/bill-com-competitors-and-alternatives"
+  ]
+}

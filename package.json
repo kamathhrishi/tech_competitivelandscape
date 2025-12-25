@@ -1,0 +1,22 @@
+{
+  "name": "software-sector-competitive-intelligence",
+  "version": "1.0.0",
+  "description": "Competitive intelligence database for 115 Russell 1000 software companies",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "compile": "node compile-data.js"
+  },
+  "keywords": [
+    "competitive-intelligence",
+    "software-companies",
+    "russell-1000",
+    "market-research"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

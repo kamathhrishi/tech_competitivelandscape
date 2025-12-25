@@ -1,0 +1,68 @@
+{
+  "company": "Shopify",
+  "ticker": "SHOP",
+  "year": 2025,
+  "search_query": "Shopify competitors 2025",
+  "search_date": "2025-12-24",
+  "competitors": [
+    {
+      "name": "WooCommerce",
+      "notes": "WordPress plugin with largest e-commerce platform percentage, excellent for WordPress experts prioritizing SEO"
+    },
+    {
+      "name": "BigCommerce",
+      "notes": "Main SaaS competitor - Standard $39/mo, Plus $105/mo, Pro $399/mo, Enterprise custom. No transaction fees, unlimited products/staff, cloud-native architecture for scale"
+    },
+    {
+      "name": "Adobe Commerce (Magento)",
+      "notes": "Most dynamic platform for larger enterprises. Open Source free (requires hosting), Adobe Commerce Cloud starts at $40K/year. Full customization and advanced features"
+    },
+    {
+      "name": "Salesforce Commerce Cloud",
+      "notes": "Direct competitor for enterprise e-commerce needs"
+    },
+    {
+      "name": "Wix",
+      "notes": "Major indirect competitor with AI-driven personalization, ease-of-use focus"
+    },
+    {
+      "name": "Squarespace",
+      "notes": "Indirect competitor, strong design focus with e-commerce capabilities"
+    },
+    {
+      "name": "Webflow",
+      "notes": "Advanced SEO controls, customizable URLs, auto-generated schema, full page-level markup without plugins"
+    },
+    {
+      "name": "Ecwid",
+      "notes": "One of four biggest Shopify competitors, adds e-commerce to existing sites"
+    },
+    {
+      "name": "Volusion",
+      "notes": "Ease-of-use friendly alternative for small businesses"
+    },
+    {
+      "name": "Weebly",
+      "notes": "Simple website builder with e-commerce features"
+    },
+    {
+      "name": "PrestaShop",
+      "notes": "Free/low-cost alternative with flexibility and customization"
+    },
+    {
+      "name": "OpenCart",
+      "notes": "Free/low-cost open-source alternative"
+    }
+  ],
+  "market_share": {
+    "shopify": "29% of US e-commerce software market",
+    "rating": "4.4 stars with 4,100+ G2 reviews"
+  },
+  "context": "Shopify maintains leadership position with 29% US market share and 4.4-star rating. Global e-commerce revenue projected to reach $4.32T by end of 2025. Key trends: cloud-native architecture for scalability (BigCommerce, Adobe Commerce), core SEO capabilities (Webflow, WooCommerce), AI-driven personalization (Wix, Adobe Commerce). Shopify remains best choice for most companies due to ease of use, performance, scalability, and ecosystem.",
+  "sources": [
+    "https://www.tidio.com/blog/shopify-alternatives/",
+    "https://www.gartner.com/reviews/market/digital-commerce/vendor/shopify/alternatives",
+    "https://theretailexec.com/tools/best-shopify-alternatives/",
+    "https://elogic.co/blog/shopify-alternatives-explore-shopify-competitors-in-2025/"
+  ]
+}

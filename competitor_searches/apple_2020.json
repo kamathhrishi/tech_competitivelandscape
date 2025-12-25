@@ -1,0 +1,19 @@
+{
+  "company": "Apple Inc.",
+  "ticker": "AAPL",
+  "year": 2020,
+  "search_query": "Apple competitors 2020",
+  "search_date": "2025-12-23",
+  "competitors": [
+    {"name": "Samsung", "notes": "21.2% global smartphone share vs Apple's 13%"},
+    {"name": "Google", "notes": "Android OS, Pixel phones, Play Music"},
+    {"name": "Microsoft", "notes": "Surface computers and tablets"},
+    {"name": "Huawei", "notes": "Major smartphone competitor"},
+    {"name": "Amazon", "notes": "Alexa vs Siri, Fire TV vs Apple TV+"},
+    {"name": "Spotify", "notes": "Leading music streaming vs Apple Music"},
+    {"name": "Fitbit", "notes": "Wearables competitor to Apple Watch"},
+    {"name": "Xiaomi", "notes": "Mi Band wearables, smartphone manufacturer"}
+  ],
+  "context": "Competition across smartphones, computers, tablets, wearables, and streaming. Samsung largest vendor with 21.2% share.",
+  "sources": ["https://bstrategyhub.com/apple-competitors-and-alternatives/"]
+}

@@ -1,0 +1,60 @@
+{
+  "company": "SAP",
+  "ticker": "SAP",
+  "year": 2020,
+  "search_query": "SAP competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "Cloud ERP maturity with SAP S/4HANA Cloud adoption accelerating. COVID-19 pandemic driving digital transformation urgency. On-premise to cloud migration wave. SAP facing pressure on S/4HANA conversion timeline (2027 deadline). Rise of composable ERP architectures and best-of-breed approaches. Experience management and intelligent enterprise strategies.",
+  "competitors": [
+    {
+      "name": "Oracle",
+      "notes": "Strong cloud ERP portfolio with Oracle Fusion Cloud ERP for enterprises and NetSuite for mid-market, autonomous database capabilities differentiating"
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "notes": "Comprehensive cloud ERP and CRM platform with Business Central for SMB and Finance & Operations for enterprise, deep Microsoft ecosystem integration"
+    },
+    {
+      "name": "Workday",
+      "notes": "Leading cloud HCM with expanding financial management footprint, strong in large enterprises seeking modern HR and finance cloud solutions"
+    },
+    {
+      "name": "Salesforce",
+      "notes": "Cloud platform leader expanding beyond CRM into analytics (Tableau), integration (MuleSoft), and industry clouds competing with SAP Customer Experience"
+    },
+    {
+      "name": "Infor",
+      "notes": "Industry-specific CloudSuite solutions on AWS with deep vertical expertise in manufacturing, healthcare, hospitality, and public sector"
+    },
+    {
+      "name": "NetSuite (Oracle)",
+      "notes": "Market-leading cloud ERP for growing companies with 30,000+ customers, comprehensive suite for financial, operational, and commerce management"
+    },
+    {
+      "name": "Acumatica",
+      "notes": "Cloud-native ERP with flexible deployment and consumption-based licensing, recognized by IDC and growing in mid-market manufacturing and distribution"
+    },
+    {
+      "name": "Sage Intacct",
+      "notes": "Cloud financial management platform specializing in automated financial processes for SMB and mid-market, strong multi-entity capabilities"
+    },
+    {
+      "name": "Epicor",
+      "notes": "Cloud and hybrid ERP solutions for manufacturing and distribution with customizable industry-specific features and scalability"
+    },
+    {
+      "name": "IFS",
+      "notes": "Service and asset management-focused ERP strong in field service, EAM, manufacturing, and project-based industries with composable architecture"
+    },
+    {
+      "name": "ERPNext",
+      "notes": "Open-source cloud and on-premise ERP alternative for small and mid-size businesses seeking cost-effective solutions with mobile capabilities"
+    }
+  ],
+  "sources": [
+    "https://onfinity.io/blog/uncategorized/who-are-saps-biggest-competitors-in-enterprise-software-for-2025/",
+    "https://www.guru99.com/sap-erp-alternative.html",
+    "https://www.gestisoft.com/en/blog/sap-competitors",
+    "https://dynatechconsultancy.com/blog/saps-top-competitors-and-alternatives"
+  ]
+}

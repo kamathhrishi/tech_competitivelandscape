@@ -1,0 +1,81 @@
+{
+  "company": "Meta Platforms Inc.",
+  "ticker": "META",
+  "year": 2025,
+  "search_query": "Meta competitors 2025 competitive landscape",
+  "search_date": "2025-12-24",
+  "context": "Meta is the largest social media company globally with nearly 4 billion monthly active users across its Family of Apps (Facebook, Instagram, Messenger, WhatsApp). In Q1 2025, Meta reported EPS of $6.43 (exceeding $5.33 estimate) and revenue of $42.31B (up 16.1% YoY). The company plans $60-65B in capital expenditures for 2025, primarily for AI development including a large-scale AI data center. Meta captures 63.8% of global social media ad spend in H1 2024. The broader metaverse market is projected to reach $203.7B by 2025. Meta has a favorable debt-to-equity ratio of 0.26 compared to top peers.",
+  "competitors": [
+    {
+      "name": "Google / Alphabet",
+      "notes": "Primary competitor in digital advertising market. Competes for ad spend and user attention across platforms."
+    },
+    {
+      "name": "Snap Inc.",
+      "notes": "Visual content and AR competitor. Focus on younger demographics similar to Instagram user base. Innovations in augmented reality present competitive challenge."
+    },
+    {
+      "name": "Pinterest",
+      "notes": "Visual discovery and social media competitor, particularly in lifestyle and shopping categories."
+    },
+    {
+      "name": "Reddit",
+      "notes": "Social media and community platform competitor for user engagement and advertising revenue."
+    },
+    {
+      "name": "Amazon",
+      "notes": "Competitor in digital advertising market, growing ad business threatens Meta's revenue."
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Competes in digital advertising and business communication tools."
+    },
+    {
+      "name": "ByteDance / TikTok",
+      "notes": "Major social media competitor, particularly strong with younger users. Competes directly with Instagram Reels."
+    },
+    {
+      "name": "Apple iMessage",
+      "notes": "Messaging competitor to WhatsApp. Integration within Apple ecosystem and privacy focus attracts users concerned about data security."
+    },
+    {
+      "name": "Telegram",
+      "notes": "Encrypted messaging service alternative to WhatsApp. Appeals to privacy-focused users with end-to-end encryption."
+    },
+    {
+      "name": "Signal",
+      "notes": "Privacy-focused messaging app competing with WhatsApp on security and encryption features."
+    },
+    {
+      "name": "Apple (Vision Pro)",
+      "notes": "VR/AR competitor with mixed reality headsets and spatial computing devices."
+    },
+    {
+      "name": "ByteDance (Pico VR)",
+      "notes": "Direct VR headset competitor, particularly strong in Asian markets."
+    },
+    {
+      "name": "HTC (Vive)",
+      "notes": "VR headset and ecosystem competitor in virtual reality space."
+    },
+    {
+      "name": "Microsoft (HoloLens)",
+      "notes": "AR/VR and mixed reality platform competitor, focused on enterprise applications."
+    },
+    {
+      "name": "Sony (PlayStation VR)",
+      "notes": "VR headset competitor focused on gaming and entertainment."
+    },
+    {
+      "name": "Valve (Index VR)",
+      "notes": "VR headset and SteamVR platform competitor in gaming-focused VR market."
+    }
+  ],
+  "sources": [
+    "https://canvasbusinessmodel.com/blogs/competitors/meta-competitive-landscape",
+    "https://inbeat.agency/blog/meta-statistics",
+    "https://www.nasdaq.com/articles/analyzing-meta-platforms-comparison-competitors-interactive-media-services-industry-4",
+    "https://headsup.bot/competitors/meta-com",
+    "https://www.benzinga.com/insights/news/25/12/49137043/competitor-analysis-evaluating-meta-platforms-and-competitors-in-interactive-media-amp-services-ind"
+  ]
+}

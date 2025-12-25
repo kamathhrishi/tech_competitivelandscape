@@ -1,0 +1,58 @@
+{
+  "company": "Veeva Systems",
+  "ticker": "VEEV",
+  "year": 2025,
+  "search_query": "Veeva life sciences CRM competitors 2025 pharmaceutical software",
+  "search_date": "2025-12-24",
+  "context": "Veeva dominates ~80% of global life sciences CRM market serving over 1,500 customers with $2.6B revenue (fiscal 2025). Major 2025 development: Veeva announced in May 2024 it would not renew Salesforce agreement beyond Sept 2025, migrating CRM entirely to its own Vault CRM platform - creating transitional moment in market. Competition intensifying as Salesforce, IQVIA, and Oracle converge on life sciences cloud opportunity. Key competitive factors: AI/ML capabilities, pricing, industry-specific features, and integration with clinical systems.",
+  "competitors": [
+    {
+      "name": "Salesforce Life Sciences Cloud",
+      "notes": "Major competitor following Veeva-Salesforce decoupling. New offering in phased roll-out (generally available 2024/2025). Just another Salesforce cloud offering that can be deployed globally. Most sophisticated AI platform which could leapfrog incumbents if applied well to pharma use cases"
+    },
+    {
+      "name": "IQVIA OCE (Orchestrated Customer Engagement)",
+      "notes": "Approximately 400 OCE customers including many mid-to-large companies. Exceptional flexibility and scalability with Next Best Action (NBA) capabilities strategically guiding sales teams. Much more affordable: $3,000 for full platform access vs Veeva's $10-15,000/year certification costs. Arguably slightly ahead in embedding predictive intelligence at scale. Appeals to small and mid-sized companies"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Large enterprise software vendor competing in pharmaceutical operations. Oracle's Argus safety system is notable competitor in pharmacovigilance"
+    },
+    {
+      "name": "SAP",
+      "notes": "Large enterprise software vendor touching various aspects of pharmaceutical operations"
+    },
+    {
+      "name": "Inception CRM",
+      "notes": "Rated as best Veeva CRM alternative by G2 for Pharma and Biotech Software needs"
+    },
+    {
+      "name": "Vodori",
+      "notes": "Alternative for pharma and biotech CRM according to G2"
+    },
+    {
+      "name": "Scilife",
+      "notes": "Pharma and biotech software alternative to Veeva"
+    },
+    {
+      "name": "Close-Up International",
+      "notes": "Global provider of Data, Analytics and CRM platform for Life Sciences industries since 1968"
+    },
+    {
+      "name": "Creatio",
+      "notes": "Global vendor of agentic CRM & workflow platform with no-code and AI at its core"
+    },
+    {
+      "name": "Medidata Solutions",
+      "notes": "Dassault Systèmes company - direct competitor for clinical trial management systems (CTMS) and electronic data capture (EDC) in clinical development arena"
+    }
+  ],
+  "sources": [
+    "https://intuitionlabs.ai/articles/veeva-vs-salesforce-life-sciences-crm",
+    "https://intuitionlabs.ai/articles/iqvia-vs-veeva-crm-comparison",
+    "https://intuitionlabs.ai/articles/veeva-crm-vs-competitors-comprehensive-comparison",
+    "https://intuitionlabs.ai/articles/veeva-systems-2021-2025-evolving-life-sciences-cloud-leader",
+    "https://www.g2.com/products/veeva-crm/competitors/alternatives",
+    "https://www.gartner.com/reviews/market/crm-in-life-sciences/vendor/veeva/alternatives"
+  ]
+}

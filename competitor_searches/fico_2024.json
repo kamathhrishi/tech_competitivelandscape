@@ -1,0 +1,78 @@
+{
+  "company": "Fair Isaac Corporation",
+  "ticker": "FICO",
+  "year": 2024,
+  "search_query": "FICO Fair Isaac competitors 2024 credit scoring analytics software",
+  "search_date": "2024-12-24",
+  "context": "In 2024, FICO maintained its dominant position with 90% market share in lending decisions and near-exclusive status in mortgage securitizations, but faced unprecedented challenges. In March 2024, Senator Josh Hawley urged the DOJ to investigate FICO for anti-competitive practices. FICO announced a new pricing model allowing mortgage lenders to bypass credit bureaus, which analysts estimated could hurt bureau earnings by 10-15%. VantageScore scored 33 million more consumers than FICO by incorporating rent and utility payments. The Federal Housing Finance Agency's mandate allowing VantageScore 4.0 for government-backed mortgages represented a significant crack in FICO's moat. AI-driven fintechs like Upstart and Zest AI continued to carve out niches in alternative credit assessment.",
+  "competitors": [
+    {
+      "name": "VantageScore Solutions",
+      "notes": "Primary competitor jointly owned by credit bureaus; VantageScore 4.0 now approved for government-backed mortgages by FHFA; scores 33M more consumers than FICO using alternative data"
+    },
+    {
+      "name": "Equifax",
+      "notes": "Credit bureau competing through VantageScore ownership and proprietary solutions; battling FICO over new direct licensing model that bypasses bureaus"
+    },
+    {
+      "name": "Experian",
+      "notes": "Major credit bureau offering VantageScore and comprehensive analytics platforms; impacted by FICO's direct-to-lender pricing strategy"
+    },
+    {
+      "name": "TransUnion",
+      "notes": "Credit bureau co-owning VantageScore and providing alternative credit risk solutions; facing disruption from FICO's new business model"
+    },
+    {
+      "name": "In-house Bank Models",
+      "notes": "All major banks have built custom credit scoring models; Synchrony Bank switched from FICO to VantageScore in 2021"
+    },
+    {
+      "name": "Upstart",
+      "notes": "AI-driven fintech using machine learning across 1,600+ variables; offers alternative credit assessment especially for borrowers with limited credit history"
+    },
+    {
+      "name": "Zest AI",
+      "notes": "Machine learning platform providing AI-powered underwriting analyzing thousands of data points; enables more inclusive lending decisions"
+    },
+    {
+      "name": "Pega",
+      "notes": "Leading decision management and customer engagement platform competing in enterprise software and AI-powered decisioning"
+    },
+    {
+      "name": "Credit Karma",
+      "notes": "Direct-to-consumer credit service offering free credit scores and financial education; competes in consumer-facing market"
+    },
+    {
+      "name": "Credit Sesame",
+      "notes": "Consumer credit monitoring and education platform providing credit scores and financial management tools"
+    },
+    {
+      "name": "LexisNexis Risk Solutions",
+      "notes": "Data analytics provider offering fraud detection, identity verification, and alternative risk assessment across multiple sectors"
+    },
+    {
+      "name": "Dun & Bradstreet",
+      "notes": "Business credit and data analytics company competing in commercial credit scoring and risk assessment"
+    },
+    {
+      "name": "CRIF Ratings",
+      "notes": "European credit bureau offering credit scoring solutions competing in international markets"
+    },
+    {
+      "name": "SAS Institute",
+      "notes": "Analytics software leader providing AI-driven decision management and credit risk solutions"
+    },
+    {
+      "name": "IBM",
+      "notes": "Technology giant offering AI decisioning platforms and analytics solutions for financial services"
+    }
+  ],
+  "sources": [
+    "https://investors.fico.com/static-files/7363a0f4-e05a-4510-8dbb-170ae6d4c7a2",
+    "https://www.ainvest.com/news/fair-isaac-credit-scoring-monopoly-wanes-fico-dominance-crumbling-investors-2507/",
+    "https://www.cnbc.com/2024/04/26/ceo-says-the-fico-score-provider-isnt-a-monopoly-there-are-alternatives.html",
+    "https://fintechtakes.com/articles/2024-01-12/fico-score/",
+    "https://www.owler.com/company/fico",
+    "https://www.cbinsights.com/company/fico-3"
+  ]
+}

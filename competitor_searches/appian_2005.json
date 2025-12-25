@@ -1,0 +1,48 @@
+{
+  "company": "Appian Corporation",
+  "ticker": "APPN",
+  "year": 2005,
+  "search_query": "Appian competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "In 2005, Appian was a young, self-funded company focused on Business Process Management (BPM) software. Founded in 1999, Appian was still in its early growth phase, competing in the nascent BPM market. The company had achieved profitability and was building its reputation as a pure-play BPM vendor. The BPM software market in 2005 was fragmented with numerous vendors competing for market share. Many of today's major low-code platforms either did not exist or were just emerging during this period.",
+  "competitors": [
+    {
+      "name": "Pegasystems",
+      "notes": "Major BPM vendor with strong modeling, design, and development features for business process management"
+    },
+    {
+      "name": "FileNet (later acquired by IBM in 2006)",
+      "notes": "Document and workflow automation provider, competing in enterprise content management and BPM"
+    },
+    {
+      "name": "Metastorm",
+      "notes": "BPM suite vendor offering process modeling and management tools"
+    },
+    {
+      "name": "Lombardi Software (founded 1998)",
+      "notes": "Pure-play BPM vendor specializing in business process management, later acquired by IBM in 2010"
+    },
+    {
+      "name": "HandySoft",
+      "notes": "BPM suite vendor offering business process modeling and workflow tools"
+    },
+    {
+      "name": "Savvion",
+      "notes": "BPM software vendor with process management and deployment capabilities"
+    },
+    {
+      "name": "Ultimus",
+      "notes": "BPM suite provider offering workflow automation and process management"
+    },
+    {
+      "name": "Global360",
+      "notes": "Business process management and enterprise content management vendor"
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/appian/competitors",
+    "https://matrixbcg.com/blogs/brief-history/appian",
+    "https://www.datamation.com/networks/ibm-acquires-bpm-vendor-lombardi/",
+    "https://www.cio.com/article/272109/business-process-management-who-offers-business-process-management-tools.html"
+  ]
+}

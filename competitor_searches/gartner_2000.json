@@ -1,0 +1,36 @@
+{
+  "company": "Gartner",
+  "ticker": "IT",
+  "year": 2000,
+  "search_query": "Gartner competitors 2000",
+  "search_date": "2025-12-24",
+  "context": "By 2000, Gartner had solidified its dominance in IT research and advisory services, effectively creating a unique market niche. The late 1990s saw Gartner diversify its services and grow its analyst workforce to keep up with client demand during the dot-com boom.",
+  "competitors": [
+    {
+      "name": "META Group",
+      "notes": "Chief rival in IT research until acquired by Gartner in 2005"
+    },
+    {
+      "name": "IDC (International Data Corporation)",
+      "notes": "Global provider of market intelligence, advisory services, and events for IT markets; IDC MarketScape competes with Magic Quadrant"
+    },
+    {
+      "name": "Forrester Research",
+      "notes": "Market research company providing technology impact advice; Forrester Wave reports compete with Magic Quadrant"
+    },
+    {
+      "name": "Burton Group",
+      "notes": "Direct competitor in IT research (later acquired by Gartner)"
+    },
+    {
+      "name": "Frost & Sullivan",
+      "notes": "Founded 1961, provides market research and growth consulting across technology sectors"
+    }
+  ],
+  "sources": [
+    "https://businessmodelanalyst.com/gartner-competitors/",
+    "https://clickup.com/blog/gartner-alternatives/",
+    "https://www.tsia.com/blog/alternatives-to-gartner",
+    "https://en.wikipedia.org/wiki/Gartner"
+  ]
+}

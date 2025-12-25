@@ -1,0 +1,43 @@
+{
+  "company": "Broadcom",
+  "ticker": "AVGO",
+  "year": 2015,
+  "search_query": "Broadcom competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "2015 was a pivotal year as Broadcom was acquired by Avago Technologies Limited, creating a major semiconductor powerhouse. The company continued its focus on wireless, networking, broadband, and storage semiconductors. Broadcom had established dominance in Wi-Fi chips (especially for Apple products), networking chips for data centers, and broadband communication solutions. The company sold 17 core semiconductor product lines across wireless, networking, broadband, storage, and industrial markets.",
+  "competitors": [
+    {
+      "name": "Qualcomm",
+      "notes": "Fierce competitor in wireless solutions, particularly in mobile phone processors and wireless modems"
+    },
+    {
+      "name": "Intel",
+      "notes": "Competitor in data center networking solutions, processors, and connectivity technologies"
+    },
+    {
+      "name": "Marvell Technology",
+      "notes": "Direct competitor in networking, storage, and wireless semiconductor solutions"
+    },
+    {
+      "name": "Texas Instruments",
+      "notes": "Competed in wireless, industrial, and analog semiconductor solutions"
+    },
+    {
+      "name": "NXP Semiconductors",
+      "notes": "Competitor in automotive semiconductors, connectivity solutions, and general-purpose microcontrollers"
+    },
+    {
+      "name": "Mellanox (pre-Nvidia acquisition)",
+      "notes": "Major competitor in high-speed networking, particularly InfiniBand and Ethernet adapters"
+    },
+    {
+      "name": "Samsung Semiconductor",
+      "notes": "Competed in DRAM, SSDs, processors, and various semiconductor solutions"
+    }
+  ],
+  "sources": [
+    "https://www.cbinsights.com/company/broadcom/alternatives-competitors",
+    "https://pitchgrade.com/companies/broadcom",
+    "https://thebrandhopper.com/2024/02/17/top-broadcom-competitors-in-the-world/"
+  ]
+}

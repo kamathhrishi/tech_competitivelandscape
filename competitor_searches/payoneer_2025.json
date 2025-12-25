@@ -1,0 +1,81 @@
+{
+  "company": "Payoneer",
+  "ticker": "PAYO",
+  "year": 2025,
+  "search_query": "Payoneer competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "Payoneer facing competitive pressure after implementing major pricing changes in 2025, eliminating free Payoneer-to-Payoneer transfers and adding minimum withdrawal fees ($15 for non-local currencies). These changes eroded key competitive advantage of low-cost in-network transfers. Cross-border payments market continues rapid growth driven by e-commerce globalization, blockchain adoption, and digital transformation.",
+  "competitors": [
+    {
+      "name": "Wise (TransferWise)",
+      "notes": "Top affordable alternative with mid-market rates, 40+ currencies in multi-currency accounts, transparent pricing without hidden markups"
+    },
+    {
+      "name": "Airwallex",
+      "notes": "Comprehensive cross-border solution serving 150,000+ businesses globally, local accounts in 20+ currencies, competitive interbank rates"
+    },
+    {
+      "name": "PayPal",
+      "notes": "Operates in 200+ markets with MAS license in Singapore, familiar brand but higher fees especially on currency conversion"
+    },
+    {
+      "name": "Tipalti",
+      "notes": "Enterprise B2B payments platform supporting 200+ countries, 120+ currencies, 50+ payment methods, unified cloud platform"
+    },
+    {
+      "name": "Revolut",
+      "notes": "Business and personal accounts supporting 25+ currencies, spending in 140+ countries, mid-market rates up to limits"
+    },
+    {
+      "name": "Stripe Connect",
+      "notes": "Developer-friendly API for marketplaces and complex payment flows, strong integration capabilities"
+    },
+    {
+      "name": "WorldFirst",
+      "notes": "Cross-border payment platform offering competitive alternatives to Payoneer"
+    },
+    {
+      "name": "Secret",
+      "notes": "Among 20+ Payoneer alternatives in 2025 marketplace"
+    },
+    {
+      "name": "Visa",
+      "notes": "Global payment network infrastructure provider"
+    },
+    {
+      "name": "Mastercard",
+      "notes": "Global payment network with cross-border capabilities"
+    },
+    {
+      "name": "FIS",
+      "notes": "Financial technology and cross-border payment solutions"
+    },
+    {
+      "name": "Adyen",
+      "notes": "Global payment platform with cross-border processing"
+    },
+    {
+      "name": "American Express",
+      "notes": "Traditional payment network with international capabilities"
+    },
+    {
+      "name": "PingPong Global Solutions",
+      "notes": "E-commerce focused cross-border payments"
+    },
+    {
+      "name": "Thunes",
+      "notes": "Cross-border payments network"
+    },
+    {
+      "name": "Tazapay",
+      "notes": "Fintech enabling cross-border transactions in 173+ countries"
+    }
+  ],
+  "sources": [
+    "https://www.joinsecret.com/payoneer/alternatives",
+    "https://www.worldfirst.com/uk/blogs/international-transactions/best-payoneer-alternatives/",
+    "https://statrys.com/reviews/payoneer-alternatives",
+    "https://transumo.com/payoneer-alternatives/",
+    "https://www.alliedmarketresearch.com/cross-border-payments-market-A288119"
+  ]
+}

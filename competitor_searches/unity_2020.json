@@ -1,0 +1,58 @@
+{
+  "company": "Unity Software",
+  "ticker": "U",
+  "year": 2020,
+  "search_query": "Unity Software competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "Unity went public in September 2020. At this time, Unity was a leading game engine and real-time 3D development platform, particularly dominant in mobile gaming with approximately 70% market share. The competitive landscape was established with Unreal Engine as the primary rival, and open-source alternatives gaining traction.",
+  "competitors": [
+    {
+      "name": "Unreal Engine (Epic Games)",
+      "notes": "Primary competitor. Powerful game engine known for exceptional graphics and visual fidelity. Free to use with 5% royalty on revenues exceeding $1M. Strong in AAA games, first-person shooters, and high-end graphics applications. Cross-platform compatibility across PCs, consoles, mobile, and VR."
+    },
+    {
+      "name": "Godot Engine",
+      "notes": "Leading open-source alternative. Free and available under MIT license. Cross-platform engine for both 2D and 3D games. Supports C++, C#, and GDScript. Known for intuitive node-based hierarchy. Popular among indie developers and small studios."
+    },
+    {
+      "name": "CryEngine (Crytek)",
+      "notes": "Potent game engine highly regarded for state-of-the-art graphical capabilities and extensive feature set. Strong focus on realistic environments and advanced visuals."
+    },
+    {
+      "name": "Cocos",
+      "notes": "Specializes in digital content creation tools. Particularly strong in Asian markets. Focused on mobile game development."
+    },
+    {
+      "name": "GameMaker Studio",
+      "notes": "Popular alternative for 2D game development. Known for ease of use and accessibility for beginners."
+    },
+    {
+      "name": "Phaser",
+      "notes": "Versatile 2D game framework for HTML5 games. Developed by Photon Storm. Open-source with dual rendering (Canvas and WebGL). Compatible with desktop and mobile platforms."
+    },
+    {
+      "name": "Stencyl",
+      "notes": "Alternative game development platform focused on ease of use and visual programming."
+    },
+    {
+      "name": "GDevelop",
+      "notes": "Open-source game development platform offering accessible development tools."
+    },
+    {
+      "name": "Buildbox",
+      "notes": "Game development platform alternative focusing on simplified game creation."
+    }
+  ],
+  "sources": [
+    "https://alternativeto.net/software/unity/",
+    "https://www.androidpolice.com/best-unity-game-engine-alternative/",
+    "https://www.g2.com/products/unity/competitors/alternatives",
+    "https://gamefromscratch.com/unity-alternatives-in-2023/",
+    "https://www.quora.com/Which-game-engine-is-Unitys-biggest-competitor",
+    "https://www.slant.co/options/1047/alternatives/~unity-3d-alternatives",
+    "https://www.cbinsights.com/company/unity-technologies/alternatives-competitors",
+    "https://www.argentics.io/unity-game-engine-alternatives",
+    "https://mobilegamer.biz/a-brief-guide-to-unity-alternatives-from-unreal-to-godot-and-beyond/",
+    "https://www.softwaresuggest.com/unity/alternatives"
+  ]
+}

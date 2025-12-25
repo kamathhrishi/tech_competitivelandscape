@@ -1,0 +1,74 @@
+{
+  "company": "Guidewire Software",
+  "ticker": "GWRE",
+  "year": 2025,
+  "search_query": "Guidewire Software competitors 2025 insurance software",
+  "search_date": "2025-12-24",
+  "context": "Guidewire is a leading provider of cloud-based P&C insurance software. In 2025, the insurance software market continues to evolve with cloud-native platforms competing for market share. More than 570 carriers in 42 countries run on Guidewire, with over 743 companies using Guidewire InsuranceSuite. The platform competes with 216 tools in the insurance administration and management category with a 4.58% market share.",
+  "competitors": [
+    {
+      "name": "BriteCore",
+      "notes": "Cloud-native core insurance platform for P&C insurers. Best overall Guidewire alternative according to G2 2025. Unlocks business growth and delivers modern customer experience with all-in-one core system for policies, billing, claims, and product configuration."
+    },
+    {
+      "name": "EZLynx",
+      "notes": "Top Guidewire alternative with built-in tools for rating, policy management, automation, AI-powered insights, retention, and customer self-service. Trusted by agencies nationwide for over 20 years."
+    },
+    {
+      "name": "Duck Creek",
+      "notes": "Major competitor using 'buy what you need, subscribe to the rest later' model. Wide range of insurance operations capabilities. Includes Duck Creek Policy as key product."
+    },
+    {
+      "name": "AMS360",
+      "notes": "Market share leader in insurance administration and management category with 6.44% market share, ahead of Guidewire's 4.58%."
+    },
+    {
+      "name": "Guidewire PolicyCenter",
+      "notes": "Separate Guidewire product competing in same space with 4.08% market share."
+    },
+    {
+      "name": "Applied Epic",
+      "notes": "Major competitor with 4.04% market share in insurance administration category."
+    },
+    {
+      "name": "Openkoda",
+      "notes": "Open-source alternative positioned as 'own-the-code' option. Includes modules for policy management, claims processing, and embedded insurance. Built on Java-based open-source technology stack."
+    },
+    {
+      "name": "Origami Risk",
+      "notes": "Alternative to Guidewire InsuranceSuite for insurance administration."
+    },
+    {
+      "name": "Verity",
+      "notes": "Easy-to-use and cost-effective alternative for small businesses with affordable pricing and simple setup."
+    },
+    {
+      "name": "InsureEdge",
+      "notes": "Small business focused alternative with essential features tailored for growing teams."
+    },
+    {
+      "name": "GO-INSUR",
+      "notes": "Alternative targeting small to mid-sized insurers with affordable pricing."
+    },
+    {
+      "name": "NowCerts",
+      "notes": "Insurance management platform for agencies and small businesses."
+    },
+    {
+      "name": "Jenesis Software",
+      "notes": "Alternative for smaller insurance operations."
+    },
+    {
+      "name": "Nexsure Insurance Platform",
+      "notes": "Platform for insurance agencies and small carriers."
+    }
+  ],
+  "sources": [
+    "https://www.g2.com/products/guidewire-insurancesuite/competitors/alternatives",
+    "https://www.gartner.com/reviews/market/saas-p-and-c-insurance-core-platforms-north-america/vendor/guidewire/alternatives",
+    "https://dev.to/openkoda/top-5-guidewire-alternatives-in-2025-371c",
+    "https://www.selecthub.com/insurance-software/guidewire/alternatives/",
+    "https://6sense.com/tech/insurance-administration-and-management/guidewire-insurancesuite-market-share",
+    "https://www.softwareworld.co/competitors/guidewire-alternatives/"
+  ]
+}

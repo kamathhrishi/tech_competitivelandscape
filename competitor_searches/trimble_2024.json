@@ -1,0 +1,83 @@
+{
+  "company": "Trimble",
+  "ticker": "TRMB",
+  "year": 2024,
+  "search_query": "Trimble competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "Strong focus on recurring revenue with ARR reaching $2.26 billion (14% YoY increase). Annual revenue of $3.68 billion as of Dec 31, 2024. Market characterized by integration of AI, cloud platforms, and autonomous solutions. Competition intensifying from both traditional hardware competitors and software-focused platforms. Google entering geospatial market with Maps Platform and Earth Engine.",
+  "competitors": [
+    {
+      "name": "Hexagon AB",
+      "notes": "Global leader in sensor, software, and autonomous solutions competing in geospatial and industrial automation"
+    },
+    {
+      "name": "Topcon Positioning Systems",
+      "notes": "Offers integrated positioning and automation technologies, strong competitor in construction and agriculture"
+    },
+    {
+      "name": "Leica Geosystems",
+      "notes": "Specializes in measurement and surveying solutions, known for precision and reliability"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Competes in software space with 3D design, engineering, and construction management solutions"
+    },
+    {
+      "name": "Deere & Company",
+      "notes": "Formidable agriculture competitor with $59.69B revenue (April 2024), extensive agricultural machinery and precision agriculture technologies"
+    },
+    {
+      "name": "Esri",
+      "notes": "Leading competitor in geospatial industry with comprehensive GIS software platforms, dominance in GIS positions as key rival"
+    },
+    {
+      "name": "Garmin Ltd.",
+      "notes": "GPS and positioning technology competitor"
+    },
+    {
+      "name": "Raven Industries",
+      "notes": "Agriculture and construction technology solutions"
+    },
+    {
+      "name": "AGCO Corporation",
+      "notes": "Agriculture technology competitor"
+    },
+    {
+      "name": "Google",
+      "notes": "Entering geospatial sector with Google Maps Platform and Google Earth Engine"
+    },
+    {
+      "name": "HERE Technologies",
+      "notes": "Location intelligence and mapping services"
+    },
+    {
+      "name": "Hemisphere GNSS",
+      "notes": "GNSS technology solutions for surveying, construction, and agriculture"
+    },
+    {
+      "name": "Palantir Technologies",
+      "notes": "Data analytics and software platforms"
+    },
+    {
+      "name": "Cyvl.ai",
+      "notes": "Emerging player in specialized geospatial solutions"
+    },
+    {
+      "name": "NextBillion.ai",
+      "notes": "Emerging location intelligence platform"
+    },
+    {
+      "name": "Granular",
+      "notes": "Agriculture software platform"
+    }
+  ],
+  "sources": [
+    "https://pitchgrade.com/companies/trimble",
+    "https://pitchgrade.com/companies/trimble-inc",
+    "https://canvasbusinessmodel.com/blogs/competitors/trimble-competitive-landscape",
+    "https://matrixbcg.com/blogs/competitors/trimble",
+    "https://www.cbinsights.com/company/trimble-3/alternatives-competitors",
+    "https://tracxn.com/d/companies/trimble/__Y0WLCXxvir20h1jXEcl9PnAOmyj-7BHH6zBfsvi551k",
+    "https://sumble.com/tech/trimble"
+  ]
+}

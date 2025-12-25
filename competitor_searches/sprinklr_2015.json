@@ -1,0 +1,45 @@
+{
+  "company": "Sprinklr",
+  "ticker": "CXM",
+  "year": 2015,
+  "search_query": "Sprinklr competitors 2015 enterprise social media management",
+  "search_date": "2024-12-24",
+  "context": "In 2015, Sprinklr was establishing itself as the premier enterprise social media management platform, having been founded in 2009. The company focused on serving large enterprises with complex, multi-brand social media needs across numerous social channels and global markets. By 2015, Sprinklr had raised significant venture funding and was positioning itself as a comprehensive social media management and customer experience platform, going beyond simple publishing and scheduling to include social listening, analytics, advertising, and customer care. The enterprise social media management market in 2015 was maturing, with companies recognizing social media as a critical channel for customer engagement, marketing, and customer service. Sprinklr competed on its ability to handle scale, governance, and compliance requirements that large enterprises needed, while other tools focused more on SMB markets.",
+  "competitors": [
+    {
+      "name": "Hootsuite",
+      "notes": "Founded in 2008, Hootsuite was the most widely-used social media management platform, popular with both SMBs and enterprises. In 2015, Hootsuite was Sprinklr's primary competitor in the enterprise segment, though generally seen as more SMB-focused."
+    },
+    {
+      "name": "Salesforce Social Studio (Radian6)",
+      "notes": "Part of Salesforce Marketing Cloud, Social Studio (evolved from Radian6 acquisition) provided enterprise social media management integrated with Salesforce's CRM and marketing automation platform."
+    },
+    {
+      "name": "Adobe Social (part of Marketing Cloud)",
+      "notes": "Adobe's social media management solution integrated within Adobe Marketing Cloud, competing in the enterprise marketing technology space."
+    },
+    {
+      "name": "Sprout Social",
+      "notes": "Founded in 2010, Sprout Social was a growing player offering social media management with strong analytics and engagement features, targeting mid-market and growing enterprises."
+    },
+    {
+      "name": "Spredfast",
+      "notes": "Enterprise social media management and content marketing platform, competing directly with Sprinklr in the enterprise segment (later merged with Lithium to form Khoros)."
+    },
+    {
+      "name": "Lithium Technologies",
+      "notes": "Social customer experience platform offering community management and social media tools for enterprises, strong in customer community and engagement."
+    },
+    {
+      "name": "Oracle Social Cloud",
+      "notes": "Part of Oracle's Marketing Cloud suite, providing enterprise social media marketing and monitoring capabilities."
+    }
+  ],
+  "sources": [
+    "https://www.sprinklr.com/compare/",
+    "https://www.cbinsights.com/company/sprinklr/alternatives-competitors",
+    "https://www.gartner.com/reviews/market/social-marketing-management/vendor/sprinklr/product/sprinklr-social/alternatives",
+    "https://blog.hootsuite.com/sprinklr-competitors/",
+    "https://www.hootsuite.com/hootsuite-vs-sprinklr"
+  ]
+}

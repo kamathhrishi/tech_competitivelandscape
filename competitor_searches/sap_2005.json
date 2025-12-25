@@ -1,0 +1,47 @@
+{
+  "company": "SAP",
+  "ticker": "SAP",
+  "year": 2005,
+  "search_query": "SAP competitors 2005",
+  "search_date": "2025-12-24",
+  "context": "Mid-2000s consolidation era with Oracle acquiring PeopleSoft (2005) and Siebel (2006). SAP dominated ERP market with approximately 24% market share. Rise of service-oriented architecture (SOA) and early SaaS concepts. SAP focused on NetWeaver platform and mySAP Business Suite.",
+  "competitors": [
+    {
+      "name": "Oracle",
+      "notes": "Strengthened through major acquisitions of PeopleSoft and J.D. Edwards, consolidating multiple ERP product lines to compete with SAP dominance"
+    },
+    {
+      "name": "Microsoft Dynamics",
+      "notes": "Unified business applications brand launched in 2005, combining Great Plains, Navision, Axapta, and Solomon targeting SMB and mid-market"
+    },
+    {
+      "name": "Infor",
+      "notes": "Emerged as third-largest ERP vendor through aggressive acquisition strategy, consolidating legacy systems like BPCS, Lawson, and SSA Global"
+    },
+    {
+      "name": "Sage",
+      "notes": "Leading SMB-focused accounting and ERP software provider, particularly strong in UK and mid-market segments"
+    },
+    {
+      "name": "Epicor",
+      "notes": "Mid-market ERP competitor with strong manufacturing and distribution vertical focus, competing with SAP Business One"
+    },
+    {
+      "name": "NetSuite",
+      "notes": "Pioneering cloud-based ERP platform founded in 1998, gaining traction as first true SaaS ERP alternative for growing companies"
+    },
+    {
+      "name": "Workday",
+      "notes": "Founded in 2005 by PeopleSoft founders, emerging cloud-native HCM competitor targeting SAP's HR/payroll market"
+    },
+    {
+      "name": "IFS",
+      "notes": "Swedish ERP competitor strong in service management, aerospace, and defense sectors with component-based architecture"
+    }
+  ],
+  "sources": [
+    "https://6sense.com/tech/erp/sap-erp-market-share",
+    "https://www.appsruntheworld.com/top-10-erp-software-vendors-and-market-forecast/",
+    "https://www.tdinsights.com/infographics/top-sap-erp-competitors/"
+  ]
+}

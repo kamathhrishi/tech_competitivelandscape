@@ -1,0 +1,65 @@
+{
+  "company": "GoDaddy",
+  "ticker": "GDDY",
+  "year": 2024,
+  "search_query": "GoDaddy competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "In 2024, GoDaddy remained a major player but faced intensified competition across all segments. As of 2018 data, GoDaddy was the leading registrar with 24% of worldwide domain registrations. By 2023, GoDaddy was the world's fifth largest web host by market share with over 62 million registered domains. A significant development in 2024 was GoDaddy discontinuing its dedicated web hosting services, moving all future websites to VPS hosting. The website builder market was projected to grow at 6.9% CAGR to exceed $14.4 billion globally by 2032. Customers continued to cite renewal pricing increases and extra fees for basic features as key reasons to switch from GoDaddy. Competitors increasingly included SSL, privacy protection, email, and backups for free in their entry-level plans.",
+  "competitors": [
+    {
+      "name": "IONOS",
+      "notes": "Best overall GoDaddy alternative, identical in many ways with appointment booking, business email, and blogging tools. Pricing starts at $1.00/month vs GoDaddy's $5.99/month. Excellent value with good performance in tests."
+    },
+    {
+      "name": "Bluehost",
+      "notes": "Number one alternative for WordPress users. WordPress.org-recommended host. Plans start at $2.99/month with free domain, SSL, and custom WordPress setup. Superior features, value, and security. Outperforms GoDaddy on uptime, speed, and security."
+    },
+    {
+      "name": "Hostinger",
+      "notes": "Better pricing at $2.69/month vs GoDaddy's $5.99/month. Faster loading speeds, better uptime, and more intuitive website builder. Provides 24/7 support and free domain and email even on lowest-tier plan."
+    },
+    {
+      "name": "Namecheap",
+      "notes": "Less expensive and easier to use domain registrar. Sells .com domains for $8.88 with cheapest domains at $0.88 first year. All domains include free WHOIS privacy while GoDaddy charges extra."
+    },
+    {
+      "name": "HostGator",
+      "notes": "Best for shared hosting with impressive 99.98% uptime in testing. Offers 99.9% uptime guarantee. Strong alternative for reliable shared hosting with domain bundling."
+    },
+    {
+      "name": "SiteGround",
+      "notes": "Best support among shared hosts with instantly available, knowledgeable chat techs. Fastest shared hosting with advanced caching features. Superior performance and customer service."
+    },
+    {
+      "name": "Network Solutions",
+      "notes": "One of first ICANN-accredited domain registrars. Reliable all-in-one solution for domains, hosting, website building, and online marketing. Appeals to businesses seeking established, reliable registrar."
+    },
+    {
+      "name": "Domain.com",
+      "notes": "Popular domain registrar for easy registration and transfers. Option to buy premium domains. Direct competitor in domain registration market."
+    },
+    {
+      "name": "DreamHost",
+      "notes": "Reliable alternative with transparent pricing, robust features, and excellent price-to-value ratio. Unlimited storage and bandwidth with free SSL certificates."
+    },
+    {
+      "name": "Wix",
+      "notes": "Leading website builder with 45% market share. Made $1.27 billion revenue in 2021. Dominant player in drag-and-drop website building with integrated hosting."
+    },
+    {
+      "name": "Squarespace",
+      "notes": "Major website builder platform with easy drag-and-drop templates. Acquired Google Domains, expanding domain registration customer base. Includes WHOIS privacy and free SSL."
+    },
+    {
+      "name": "Shopify",
+      "notes": "Leading ecommerce platform that also offers domain registration. Comprehensive business-building solution for online stores. Competes for small business customers."
+    }
+  ],
+  "sources": [
+    "https://www.websitebuilderexpert.com/web-hosting/godaddy-alternatives/",
+    "https://www.themexpert.com/blog/godaddy-alternatives",
+    "https://www.g2.com/products/godaddy/competitors/alternatives",
+    "https://www.statista.com/statistics/1114460/worldwide-domain-registration-top-registrars/",
+    "https://cybernews.com/best-web-hosting/godaddy-alternatives/"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "company": "Box Inc.",
+  "ticker": "BOX",
+  "year": 2020,
+  "search_query": "Box cloud content competitors 2020",
+  "search_date": "2025-12-24",
+  "competitors": [
+    {"name": "Microsoft OneDrive/SharePoint", "notes": "Dominant with Microsoft 365 integration"},
+    {"name": "Dropbox", "notes": "Consumer and business file sync"},
+    {"name": "Google Drive", "notes": "Cloud storage with Google Workspace"},
+    {"name": "Citrix ShareFile", "notes": "Enterprise file sharing"},
+    {"name": "Egnyte", "notes": "Hybrid cloud content management"}
+  ],
+  "context": "In 2020, Box competed in enterprise content management against Microsoft's dominant position. The pandemic accelerated remote work and cloud content adoption. Box differentiated with enterprise security, compliance, and workflow capabilities. Microsoft's bundling of OneDrive with Office 365 was a competitive challenge. Box focused on content cloud platform beyond file storage.",
+  "sources": ["https://craft.co/box/competitors"]
+}

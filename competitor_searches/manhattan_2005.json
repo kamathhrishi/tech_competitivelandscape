@@ -1,0 +1,17 @@
+{
+  "company": "Manhattan Associates",
+  "ticker": "MANH",
+  "year": 2005,
+  "search_query": "Manhattan Associates competitors 2005",
+  "search_date": "2024-12-24",
+  "competitors": [
+    {"name": "RedPrairie", "notes": "Major WMS and supply chain competitor, later became Blue Yonder"},
+    {"name": "HighJump Software", "notes": "WMS and supply chain execution competitor, later acquired by Körber"},
+    {"name": "SAP", "notes": "Enterprise software giant with warehouse management and supply chain solutions"},
+    {"name": "Oracle", "notes": "Competitor with Oracle Warehouse Management and supply chain applications"},
+    {"name": "JDA Software", "notes": "Supply chain planning and execution software competitor, later became Blue Yonder"},
+    {"name": "i2 Technologies", "notes": "Supply chain management software provider active in mid-2000s"}
+  ],
+  "context": "In 2005, Manhattan Associates was a leading provider of supply chain execution and warehouse management systems. The WMS market was growing as retailers and distribution centers sought to optimize operations. Key competitors included RedPrairie and HighJump as specialized WMS providers, while SAP and Oracle offered broader enterprise solutions. The market was beginning to evolve from pure WMS toward broader supply chain management platforms.",
+  "sources": ["https://tracxn.com/d/companies/manhattan-associates/__6ZM3e3u2xfTYafhDprFYlEUZi2F3sMGfnV_kQj9koSo", "https://www.cbinsights.com/company/manhattan-associates/alternatives-competitors", "https://www.owler.com/company/manh"]
+}

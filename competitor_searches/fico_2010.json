@@ -1,0 +1,61 @@
+{
+  "company": "Fair Isaac Corporation",
+  "ticker": "FICO",
+  "year": 2010,
+  "search_query": "FICO Fair Isaac competitors 2010 analytics software",
+  "search_date": "2024-12-24",
+  "context": "In 2010, FICO maintained its dominance in credit scoring with approximately 90% market share among top U.S. lenders, but faced new competition from VantageScore, which the three major credit bureaus (Equifax, Experian, TransUnion) had launched in 2006 as a direct alternative. FICO had sued VantageScore in 2007 but dropped the lawsuit after the court ruled in VantageScore's favor. The company continued to expand its software business beyond credit scoring into analytics and decision management, competing against major technology companies like SAS Institute, IBM, Oracle, and Pega in the broader business analytics and decision management software market.",
+  "competitors": [
+    {
+      "name": "VantageScore Solutions",
+      "notes": "Joint venture of Equifax, Experian, and TransUnion created in 2006 to compete directly with FICO Score; the first significant threat to FICO's scoring monopoly"
+    },
+    {
+      "name": "Equifax",
+      "notes": "Credit bureau and co-owner of VantageScore, competing in credit scoring, fraud detection, and analytics while still partnering with FICO for data"
+    },
+    {
+      "name": "Experian",
+      "notes": "Credit reporting agency and VantageScore co-owner offering competing scoring models and decision analytics solutions"
+    },
+    {
+      "name": "TransUnion",
+      "notes": "Credit bureau and VantageScore co-owner providing alternative credit scoring and risk management solutions"
+    },
+    {
+      "name": "SAS Institute",
+      "notes": "Leading analytics software provider competing in credit risk, fraud detection, and decision management with enterprise analytics platforms"
+    },
+    {
+      "name": "IBM",
+      "notes": "Technology giant offering competing analytics platforms, decision management tools, and business intelligence solutions"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Enterprise software company providing competing analytics, risk management, and decision support systems"
+    },
+    {
+      "name": "Pega",
+      "notes": "Decision management and business process management software company competing with FICO's enterprise software offerings"
+    },
+    {
+      "name": "CRIF Ratings",
+      "notes": "European credit bureau offering credit scoring and risk assessment solutions in international markets"
+    },
+    {
+      "name": "LexisNexis Risk Solutions",
+      "notes": "Data analytics provider offering fraud detection, identity verification, and risk assessment services"
+    },
+    {
+      "name": "In-house Bank Analytics",
+      "notes": "Major banks continuing to develop proprietary credit scoring models as alternatives to external vendors"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/FICO",
+    "https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/FICO-Everyone-Knows-the-Score-but-not-the-Software",
+    "https://investors.fico.com/static-files/c952ca95-eb7f-4431-b210-99b84dd06331",
+    "https://www.owler.com/company/fico",
+    "https://en.wikipedia.org/wiki/VantageScore"
+  ]
+}

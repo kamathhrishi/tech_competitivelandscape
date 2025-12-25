@@ -1,0 +1,46 @@
+{
+  "company": "CyberArk Software",
+  "ticker": "CYBR",
+  "year": 2015,
+  "search_query": "CyberArk competitors 2015 privileged access management market",
+  "search_date": "2024-12-24",
+  "context": "2015 marked a pivotal year for CyberArk as the company had successfully gone public on NASDAQ in 2014 under the ticker CYBR, demonstrating the maturity of the PAM market. The company had grown from $66.2 million in 2013 revenue to become a recognized leader in privileged access management. The PAM market was experiencing rapid growth as high-profile breaches highlighted the critical importance of securing privileged accounts. Gartner began publishing Magic Quadrants for PAM, establishing evaluation criteria around privileged account and session management (PASM), privilege elevation and delegation management (PEDM), and secrets management. CyberArk competed in an increasingly sophisticated market where vendors differentiated on all-in-one platforms versus best-of-breed solutions.",
+  "competitors": [
+    {
+      "name": "BeyondTrust",
+      "notes": "Major PAM leader offering Universal Privilege Management approach with solutions deployable as SaaS or on-premises, simplifying deployments while reducing privilege risks across all users, assets, and sessions"
+    },
+    {
+      "name": "Thycotic",
+      "notes": "Rapidly growing PAM vendor with Secret Server as a flagship product, ranked number 436 in Deloitte's 2018 Technology Fast 500, offering easy-to-install privileged access management with cloud and on-premises deployment options"
+    },
+    {
+      "name": "Centrify",
+      "notes": "Named a Leader in Gartner Magic Quadrant for PAM in subsequent years, offering cloud-ready modern PAM founded on Zero Trust principles with DirectControl for centralizing heterogeneous identities"
+    },
+    {
+      "name": "IBM Security",
+      "notes": "Providing comprehensive IAM portfolio including IBM Security Privileged Identity Manager and IBM Security Identity Manager, addressing enterprise-scale privileged access with integration across IBM Tivoli products"
+    },
+    {
+      "name": "CA Technologies",
+      "notes": "Offering CA Privileged Access Manager combining access control and credential management for controlling and tracking privileged user access to critical infrastructure with complete auditing capabilities"
+    },
+    {
+      "name": "ARCON PAM",
+      "notes": "Delivering enterprise-class privileged access management solution with lifecycle management of privileged accounts, offering scalability across all IT environments"
+    },
+    {
+      "name": "One Identity",
+      "notes": "Part of Quest Software, providing robust role-based access control, identity governance, and PAM features highly customizable for large enterprises with complex needs"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/CyberArk",
+    "https://www.gartner.com/reviews/market/privileged-access-management",
+    "https://delinea.com/centrify",
+    "https://golden.com/wiki/Thycotic-MNAPBEG",
+    "https://www.silverfort.com/blog/leading-alternatives-to-cyberark/",
+    "https://www.beyondtrust.com/vs/cyberark-alternative"
+  ]
+}

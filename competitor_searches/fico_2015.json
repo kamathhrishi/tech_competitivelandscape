@@ -1,0 +1,61 @@
+{
+  "company": "Fair Isaac Corporation",
+  "ticker": "FICO",
+  "year": 2015,
+  "search_query": "FICO Fair Isaac competitors 2015 predictive analytics",
+  "search_date": "2024-12-24",
+  "context": "By 2015, FICO remained the dominant player in credit scoring with 90% market share, but the competitive landscape was evolving. VantageScore 3.0 (released in 2013) had adopted FICO's 300-850 scale, making it easier for lenders to adopt. FICO's primary competitors were still the credit bureaus through VantageScore, but the company also faced increasing competition in its broader analytics and decision management software business from major enterprise software vendors. The predictive analytics market was becoming more crowded with specialized vendors offering alternatives to FICO's solutions.",
+  "competitors": [
+    {
+      "name": "VantageScore Solutions",
+      "notes": "Credit bureaus' scoring alternative gaining traction; VantageScore 3.0 (2013) aligned with FICO's scale and could score consumers with limited credit histories"
+    },
+    {
+      "name": "Equifax",
+      "notes": "Credit bureau competing through VantageScore ownership and proprietary analytics solutions while maintaining partnership with FICO"
+    },
+    {
+      "name": "Experian",
+      "notes": "Major credit reporting agency offering VantageScore and proprietary scoring models, plus fraud detection and analytics platforms"
+    },
+    {
+      "name": "TransUnion",
+      "notes": "Credit bureau co-owning VantageScore and developing competing credit scoring and risk analytics solutions"
+    },
+    {
+      "name": "Pega",
+      "notes": "Primary competitor in decision management software, offering customer engagement and business process automation platforms"
+    },
+    {
+      "name": "SAS Institute",
+      "notes": "Leading analytics software provider competing in predictive analytics, credit risk, and advanced analytics solutions"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise technology company offering competing analytics platforms including SPSS Modeler and Cognos for decision management"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Software giant providing enterprise analytics, business intelligence, and decision support systems"
+    },
+    {
+      "name": "RapidMiner",
+      "notes": "Predictive analytics platform emerging as alternative to FICO's analytics software"
+    },
+    {
+      "name": "Alteryx",
+      "notes": "Data analytics company offering self-service data blending and advanced analytics platform"
+    },
+    {
+      "name": "In-house Bank Models",
+      "notes": "Large financial institutions maintaining custom-built credit scoring and risk models as alternatives to FICO"
+    }
+  ],
+  "sources": [
+    "https://www.cbinsights.com/company/fico-3",
+    "https://www.owler.com/company/fico",
+    "https://www.g2.com/products/fico-predictive-analytics/competitors/alternatives",
+    "https://en.wikipedia.org/wiki/VantageScore",
+    "https://eaglepointcapital.substack.com/p/fair-isaac"
+  ]
+}

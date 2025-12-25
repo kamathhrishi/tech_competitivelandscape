@@ -1,0 +1,39 @@
+{
+  "company": "Dell Technologies",
+  "ticker": "DELL",
+  "year": 2000,
+  "search_query": "Dell competitors 2000 PC market",
+  "search_date": "2025-12-24",
+  "context": "Dell surpassed Compaq to become the largest PC manufacturer in 1999 and became the global market leader in 2001. During the 2000 PC market slump, Dell initiated a price war that allowed it to gain market share while competitors struggled. The company had 13% global market share by 2001. Operating costs made up only 10% of Dell's revenue compared to 21% at HP, 25% at Gateway, and 46% at Cisco, giving Dell a significant competitive advantage.",
+  "competitors": [
+    {
+      "name": "Compaq",
+      "notes": "Global market leader in late 1990s until 2000; acquired by HP in 2002"
+    },
+    {
+      "name": "Hewlett-Packard (HP)",
+      "notes": "Shared market leadership with Dell in the 2000s; acquired Compaq in 2002 to create a more formidable competitor"
+    },
+    {
+      "name": "IBM",
+      "notes": "One of the top three PC manufacturers alongside HP and Compaq; sold PC business to Lenovo in 2005"
+    },
+    {
+      "name": "Gateway",
+      "notes": "PC vendor competitor with higher operating costs (25% of revenue vs Dell's 10%)"
+    },
+    {
+      "name": "Packard Bell",
+      "notes": "PC manufacturer that struggled during this period"
+    },
+    {
+      "name": "AST Research",
+      "notes": "PC vendor that eventually left the market"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dell",
+    "https://en.wikipedia.org/wiki/Market_share_of_personal_computer_vendors",
+    "https://www.fundinguniverse.com/company-histories/dell-inc-history/"
+  ]
+}

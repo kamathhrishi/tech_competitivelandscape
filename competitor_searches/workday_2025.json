@@ -1,0 +1,57 @@
+{
+  "company": "Workday",
+  "ticker": "WDAY",
+  "year": 2025,
+  "search_query": "Workday HCM ERP competitors 2025 enterprise cloud applications",
+  "search_date": "2025-12-24",
+  "context": "Workday HCM is popular choice for large global enterprises, but many organizations find it too complex, expensive, or less customizable for their needs. Competition is intensifying from Oracle and SAP with deep ERP integration, while mid-market players like Rippling and Ceridian offer more user-friendly alternatives. Key market trends include demand for easier setup, tighter budgets, and need for solutions better suited to regional workforce needs.",
+  "competitors": [
+    {
+      "name": "Oracle Fusion Cloud HCM",
+      "notes": "Global enterprise-level HR platform connecting HR, payroll, and workforce management with Oracle's ERP/finance systems. AI-driven workforce modeling, deep compliance tools, and ERP-native integration. Chosen by multinationals with complex workforces across multiple geographies"
+    },
+    {
+      "name": "SAP SuccessFactors",
+      "notes": "Cloud-based HCM suite for multinational enterprises wanting to unify HR/payroll with SAP's business ecosystem. Deep ERP integration, global localization in 100+ countries, advanced talent management. Preferred when running SAP for finance/supply chain"
+    },
+    {
+      "name": "Ceridian Dayforce",
+      "notes": "Global HCM software with in-depth functionality for workforce management, benefits, talent management, document management, and HR analytics. Seamlessly combines several HR functions into one solution"
+    },
+    {
+      "name": "UKG Pro (formerly UltiPro)",
+      "notes": "Cloud-based HCM for mid-sized to large organizations offering end-to-end workforce management. Comprehensive payroll processing, employee record management, compliance tracking, scheduling, recruiting, onboarding, and performance management"
+    },
+    {
+      "name": "Rippling",
+      "notes": "All-in-one platform built on single source of truth, integrating HR, IT, and finance tools. Most comprehensive HCM solution with flexibility, automation capabilities, and user-friendly interface for businesses of all sizes"
+    },
+    {
+      "name": "ADP Workforce Now",
+      "notes": "Scalable solution serving businesses from startups to large enterprises. Features include payroll processing, time/attendance, talent management, benefits administration, and AI-driven insights"
+    },
+    {
+      "name": "Paylocity",
+      "notes": "Strong focus on mid-market and employee engagement with community platform for internal communication. Includes peer-to-peer recognition and automated surveys to gauge employee sentiment"
+    },
+    {
+      "name": "Infor CloudSuite HCM",
+      "notes": "Potent HCM solution providing full global HR and task management in single system, with complete suite integrated with talent and workforce management"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Human Resources",
+      "notes": "Cloud-based HR solution with core HR functionality, benefits, compensation, leave/absences, compliance, payroll integrations, and workforce insights"
+    },
+    {
+      "name": "Paycom",
+      "notes": "Rated as best overall Workday HCM alternative by G2"
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/cloud-erp-for-service-centric-enterprises/vendor/workday-hcm/product/workday-platform/alternatives",
+    "https://www.oracle.com/human-capital-management/oracle-vs-workday/",
+    "https://www.yomly.com/workday-hcm-alternatives/",
+    "https://www.rippling.com/blog/workday-competitors",
+    "https://www.g2.com/products/workday-hcm/competitors/alternatives"
+  ]
+}

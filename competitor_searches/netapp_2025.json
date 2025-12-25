@@ -1,0 +1,65 @@
+{
+  "company": "NetApp",
+  "ticker": "NTAP",
+  "year": 2025,
+  "search_query": "NetApp competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "AI-driven intelligent data infrastructure leadership. NetApp achieved record fiscal 2025 revenues of $6.57B with 43% YoY growth in public cloud services and leading all-flash array market share gains. Positioned as intelligent data infrastructure company enabling GenAI and AI innovation. Industry transformation driven by AI/ML adoption requiring agile, secure, scalable infrastructure. Flexera acquired NetApp's Spot FinOps business in early 2025, highlighting multi-cloud cost management consolidation.",
+  "competitors": [
+    {
+      "name": "Dell Technologies",
+      "notes": "Top traditional competitor in storage infrastructure and data management"
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "notes": "Major storage and hybrid cloud infrastructure competitor"
+    },
+    {
+      "name": "Pure Storage",
+      "notes": "All-flash storage leader competing in AI workload optimization"
+    },
+    {
+      "name": "Hitachi Vantara",
+      "notes": "Enterprise storage and data infrastructure solutions"
+    },
+    {
+      "name": "IBM",
+      "notes": "Hybrid cloud and AI infrastructure solutions competitor"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Integrated cloud and storage infrastructure offerings"
+    },
+    {
+      "name": "Huawei",
+      "notes": "Global data infrastructure and storage provider"
+    },
+    {
+      "name": "Nutanix",
+      "notes": "Cloud software and hyper-converged infrastructure, increasing competitive pressure"
+    },
+    {
+      "name": "Broadcom (VMware)",
+      "notes": "Hyper-converged infrastructure adding competitive pressure in cloud software"
+    },
+    {
+      "name": "Dynatrace",
+      "notes": "Top alternative for observability and data infrastructure insights"
+    },
+    {
+      "name": "Datadog",
+      "notes": "Leading observability platform competing in infrastructure monitoring"
+    },
+    {
+      "name": "LogicMonitor",
+      "notes": "Infrastructure monitoring and observability alternative"
+    }
+  ],
+  "sources": [
+    "https://portersfiveforce.com/blogs/competitors/netapp",
+    "https://www.marketing91.com/netapp-competitors/",
+    "https://www.gartner.com/reviews/market/infrastructure-monitoring-tools/vendor/netapp/product/netapp-data-infrastructure-insights/alternatives",
+    "https://investors.netapp.com/news-releases/news-release-details/netapp-report-highlights-fierce-competition-global-ai-leadership",
+    "https://www.latterly.org/netapp-competitors/"
+  ]
+}

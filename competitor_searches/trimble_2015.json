@@ -1,0 +1,65 @@
+{
+  "company": "Trimble",
+  "ticker": "TRMB",
+  "year": 2015,
+  "search_query": "Trimble competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "Shift toward software and cloud-based construction management solutions. Market seeing integration of geospatial data with construction project management, BIM (Building Information Modeling), and precision agriculture platforms. Trimble expanding through acquisitions to build comprehensive software ecosystems.",
+  "competitors": [
+    {
+      "name": "Topcon Positioning Systems",
+      "notes": "Global leader in positioning technology for surveying, construction, agriculture"
+    },
+    {
+      "name": "Leica Geosystems",
+      "notes": "Major player in positioning technology, known for precision and accuracy in surveying and construction"
+    },
+    {
+      "name": "Hexagon AB",
+      "notes": "Significant competitor with broad portfolio of hardware and software solutions for measurement, positioning, and digital-reality technologies"
+    },
+    {
+      "name": "Autodesk",
+      "notes": "Provides 3D design, engineering, and construction technology solutions, competing in software space"
+    },
+    {
+      "name": "Esri",
+      "notes": "Provides GIS software and mapping solutions for geospatial analysis"
+    },
+    {
+      "name": "Palantir Technologies",
+      "notes": "Competitor in data analytics and software platforms"
+    },
+    {
+      "name": "Hemisphere GNSS",
+      "notes": "Provider of GNSS technology solutions for surveying, construction, and agriculture"
+    },
+    {
+      "name": "Digital Construction Works",
+      "notes": "Competitor in construction software solutions"
+    },
+    {
+      "name": "Procore",
+      "notes": "Construction project management software platform"
+    },
+    {
+      "name": "John Deere",
+      "notes": "Competitor in precision agriculture technology"
+    },
+    {
+      "name": "Raven Industries",
+      "notes": "Precision agriculture and construction technology provider"
+    },
+    {
+      "name": "FARO",
+      "notes": "3D measurement and imaging solutions"
+    }
+  ],
+  "sources": [
+    "https://www.cbinsights.com/company/trimble-construction-cloud/alternatives-competitors",
+    "https://sumble.com/tech/trimble",
+    "https://www.comparably.com/companies/trimble/competitors",
+    "https://craft.co/trimble/competitors",
+    "https://canvasbusinessmodel.com/blogs/competitors/trimble-competitive-landscape"
+  ]
+}

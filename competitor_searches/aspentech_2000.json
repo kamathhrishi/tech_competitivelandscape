@@ -1,0 +1,15 @@
+{
+  "company": "Aspen Technology Inc.",
+  "ticker": "AZPN",
+  "year": 2000,
+  "search_query": "AspenTech Aspen Technology process optimization competitors 2000",
+  "search_date": "2025-12-23",
+  "competitors": [
+    {"name": "ANSYS INC", "notes": "Engineering simulation software provider"},
+    {"name": "Micro Focus", "notes": "Enterprise software provider"},
+    {"name": "OSIsoft", "notes": "Real-time data infrastructure software, founded 1980, most similar competitor"},
+    {"name": "Honeywell", "notes": "Process automation and control systems provider"}
+  ],
+  "context": "In 2000, Aspen Technology competed in the process optimization software space with companies providing engineering simulation, real-time data infrastructure, and process automation solutions. OSIsoft (founded 1980) was identified as the most similar competitor.",
+  "sources": ["https://www.comparably.com/companies/aspentech/competitors", "https://www.cbinsights.com/company/aspentech/alternatives-competitors"]
+}

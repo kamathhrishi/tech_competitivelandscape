@@ -1,0 +1,70 @@
+{
+  "company": "Dell Technologies",
+  "ticker": "DELL",
+  "year": 2025,
+  "search_query": "Dell Technologies competitors 2024 2025",
+  "search_date": "2025-12-24",
+  "context": "As of 2025, Dell Technologies continues to operate across personal computers, enterprise infrastructure, data storage, and cloud solutions. Over 64,775 companies worldwide use Dell as their infrastructure provider. Dell competes across multiple categories with varying market positions. In infrastructure tools, top alternatives are Dispatch (42.89%), Terraform (15.82%), and Puppet (6.23%). Dell's global customer base is concentrated in the United States (58.79%), United Kingdom (8.38%), and Italy (6.62%). The company ranks 3rd in CEO Score on Comparably among competitors.",
+  "competitors": [
+    {
+      "name": "Hewlett-Packard (HP)",
+      "notes": "Leading competitor in PCs, laptops, printers, and enterprise solutions with decades-long market presence"
+    },
+    {
+      "name": "Lenovo",
+      "notes": "Major competitor with strong innovation focus; diverse product portfolio including laptops, desktops, tablets, smartphones"
+    },
+    {
+      "name": "Hewlett Packard Enterprise (HPE)",
+      "notes": "Key enterprise competitor providing intelligent edge-to-cloud solutions, servers, storage, and infrastructure"
+    },
+    {
+      "name": "Apple",
+      "notes": "Premium technology competitor in PCs and consumer electronics"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise technology, infrastructure, and services competitor"
+    },
+    {
+      "name": "NetApp",
+      "notes": "Major enterprise data storage and infrastructure competitor"
+    },
+    {
+      "name": "Pure Storage",
+      "notes": "Enterprise storage and infrastructure solutions competitor"
+    },
+    {
+      "name": "Arista Networks",
+      "notes": "Networking infrastructure competitor"
+    },
+    {
+      "name": "Intel Corporation",
+      "notes": "Technology hardware and infrastructure competitor"
+    },
+    {
+      "name": "Samsung",
+      "notes": "Consumer electronics, PC, and technology solutions competitor"
+    },
+    {
+      "name": "Acer",
+      "notes": "PC and laptop manufacturer"
+    },
+    {
+      "name": "Toshiba",
+      "notes": "Technology and enterprise solutions provider"
+    },
+    {
+      "name": "Sony Group",
+      "notes": "Consumer electronics and technology competitor"
+    }
+  ],
+  "sources": [
+    "https://www.gartner.com/reviews/market/integrated-systems/vendor/dell-technologies/alternatives",
+    "https://www.marketbeat.com/stocks/NYSE/DELL/competitors-and-alternatives/",
+    "https://www.marketing91.com/dell-competitors/",
+    "https://csimarket.com/stocks/competitionSEG2.php?code=DELL",
+    "https://craft.co/dell-technologies/competitors",
+    "https://www.comparably.com/companies/dell-technologies/competitors"
+  ]
+}

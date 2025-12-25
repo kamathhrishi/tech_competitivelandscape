@@ -1,0 +1,83 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "year": 2025,
+  "search_query": "NVIDIA competitors 2025 competitive landscape",
+  "search_date": "2025-12-24",
+  "context": "NVIDIA reached a $5 trillion valuation in late October 2025 and dominates the GPU market with 92-94% of discrete GPU market share in Q2 FY25. For AI training GPUs and supercomputers, NVIDIA holds an estimated 80-95% market share as of 2025. The company is projected to report more net income in 2025 than its two main rivals' combined sales. However, NVIDIA faces growing threats from custom ASICs by major cloud providers (Google TPU Ironwood 7th gen, Amazon Trainium2 with 500K chips for Anthropic) and well-funded AI chip startups. U.S.-China relations pose the biggest external risk, potentially cutting off Chinese customers and accelerating homegrown Chinese competitors.",
+  "competitors": [
+    {
+      "name": "AMD (Advanced Micro Devices)",
+      "notes": "Primary GPU competitor with Radeon line for PC graphics and Instinct accelerators for data centers. Radeon RX 9000 Series (RDNA 4) targets gamers and creators. Preparing Instinct MI450 series (2026) on CDNA 5 architecture with TSMC 2nm process."
+    },
+    {
+      "name": "Intel",
+      "notes": "Major semiconductor competitor attempting to enter GPU and AI accelerator markets. Promotes oneAPI to unify programming across CPUs, GPUs, and FPGAs."
+    },
+    {
+      "name": "Google (TPU)",
+      "notes": "Custom ASIC competitor. Released 7th generation TPU 'Ironwood' in November 2025, a decade after first TPU in 2015. Major threat as hyperscaler developing proprietary AI chips."
+    },
+    {
+      "name": "Amazon (Trainium/Inferentia)",
+      "notes": "Custom ASIC competitor. Largest AI data center houses 500K Trainium2 chips training Anthropic models. Significant competitive threat in cloud AI workloads."
+    },
+    {
+      "name": "Microsoft",
+      "notes": "Developing custom AI chips to reduce dependence on NVIDIA GPUs for Azure cloud services."
+    },
+    {
+      "name": "Meta",
+      "notes": "Designing custom silicon for AI workloads to optimize performance and reduce costs in its data centers."
+    },
+    {
+      "name": "OpenAI",
+      "notes": "Exploring custom chip development to support massive AI model training requirements."
+    },
+    {
+      "name": "Cerebras Systems",
+      "notes": "AI chip startup with massive wafer-scale chip architecture for AI training. Novel approach challenges traditional GPU design."
+    },
+    {
+      "name": "Graphcore",
+      "notes": "UK-based AI chip startup with Intelligence Processing Unit (IPU) architecture differentiated from GPUs."
+    },
+    {
+      "name": "SambaNova",
+      "notes": "AI chip and systems startup providing alternatives to NVIDIA-based infrastructure."
+    },
+    {
+      "name": "Groq",
+      "notes": "AI inference chip startup with novel architecture claiming superior performance for certain workloads."
+    },
+    {
+      "name": "Tenstorrent",
+      "notes": "AI chip startup that raised $700M at $2.6B+ valuation in December 2024 with backing from Jeff Bezos. Developing RISC-V based AI processors."
+    },
+    {
+      "name": "Qualcomm",
+      "notes": "Competes in mobile AI chips and edge computing processors."
+    },
+    {
+      "name": "Samsung",
+      "notes": "Semiconductor competitor in memory and potential AI accelerator markets."
+    },
+    {
+      "name": "TSMC",
+      "notes": "While primarily a foundry partner, TSMC's manufacturing capabilities enable competitors and its technology choices impact competitive dynamics."
+    },
+    {
+      "name": "Marvell Technology",
+      "notes": "Competes in data center, cloud, and 5G infrastructure markets with networking, storage, and processor technologies."
+    }
+  ],
+  "sources": [
+    "https://www.marketbeat.com/stocks/NASDAQ/NVDA/competitors-and-alternatives/",
+    "https://businessmodelanalyst.com/nvidia-competitors/",
+    "https://research.aimultiple.com/ai-chip-makers/",
+    "https://www.rankred.com/nvidia-competitors-alternatives/",
+    "https://ts2.tech/en/nvidia-2025-dominating-the-ai-boom-company-overview-key-segments-competition-and-future-outlook/",
+    "https://www.bloomberg.com/news/articles/2025-11-05/nvidia-s-hopper-blackwell-ai-chips-are-market-leaders-can-intel-amd-compete",
+    "https://www.cnbc.com/2025/11/21/nvidia-gpus-google-tpus-aws-trainium-comparing-the-top-ai-chips.html"
+  ]
+}

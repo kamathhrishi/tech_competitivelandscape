@@ -1,0 +1,44 @@
+{
+  "company": "Blackbaud",
+  "ticker": "BLKB",
+  "year": 2005,
+  "search_query": "Blackbaud competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "In 2005, Blackbaud was the established market leader in nonprofit fundraising and donor management software, having been founded in 1981 and relocated to South Carolina in 1989. The company's flagship product, The Raiser's Edge, dominated the nonprofit CRM market. In 1997, Blackbaud had acquired its chief competitor Master Software Inc., doubling its customer base and further strengthening its market position. The nonprofit software market in 2005 was less crowded than today, with Blackbaud controlling a significant market share. Most competitors were either smaller specialized vendors or larger CRM companies trying to adapt general-purpose software for nonprofit needs.",
+  "competitors": [
+    {
+      "name": "DonorPerfect",
+      "notes": "Donor management and fundraising software provider serving nonprofits with comprehensive CRM capabilities"
+    },
+    {
+      "name": "Sage (Fundraising & Donor Management)",
+      "notes": "Accounting software vendor with nonprofit-focused fundraising and financial management modules"
+    },
+    {
+      "name": "Salesforce (emerging in nonprofit space)",
+      "notes": "CRM platform beginning to adapt its commercial software for nonprofit organizations"
+    },
+    {
+      "name": "Microsoft (Dynamics CRM)",
+      "notes": "General-purpose CRM being customized for nonprofit fundraising and donor management"
+    },
+    {
+      "name": "CiviCRM",
+      "notes": "Open source CRM launched in 2005 specifically for nonprofits and civic organizations, offering free alternative"
+    },
+    {
+      "name": "Kintera (later acquired by Blackbaud in 2008)",
+      "notes": "Online fundraising and event management software for nonprofits"
+    },
+    {
+      "name": "GetActive (later became Kintera Thon)",
+      "notes": "Peer-to-peer fundraising and event management platform for nonprofits"
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/blackbaud/competitors",
+    "https://en.wikipedia.org/wiki/Blackbaud",
+    "https://www.encyclopedia.com/reference/dictionaries-thesauruses-pictures-and-press-releases/blackbaud-inc",
+    "https://civicrm.com/"
+  ]
+}

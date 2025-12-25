@@ -1,0 +1,57 @@
+{
+  "company": "Informatica",
+  "ticker": "INFA",
+  "year": 2015,
+  "search_query": "Informatica competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "Pivotal shift toward cloud-based data integration. Informatica Cloud Data Integration emerged as key offering competing against cloud-native iPaaS solutions. Market leadership contested between MuleSoft, Talend, Dell Boomi and cloud platform vendors (AWS, Azure, Google). Traditional on-premises ETL vendors adapting to hybrid cloud architectures.",
+  "competitors": [
+    {
+      "name": "MuleSoft Anypoint Platform",
+      "notes": "Leading iPaaS solution for hybrid enterprise integration, focusing on API-led connectivity and SOA. Complete platform for APIs, applications, and products with Mule as core runtime engine. Strong competitor for cloud integration workloads."
+    },
+    {
+      "name": "Microsoft Azure Data Factory",
+      "notes": "Scalable cloud-native data integration service in Azure ecosystem. Top competitor with 4.71% market share against Informatica Cloud. Cloud-first approach attracting Microsoft-centric organizations."
+    },
+    {
+      "name": "Dell Boomi",
+      "notes": "Cloud-based integration platform as a service (iPaaS) with drag-and-drop interface. Fully managed platform connecting cloud and on-premises data sources, competing directly with Informatica Cloud offerings."
+    },
+    {
+      "name": "Talend Cloud",
+      "notes": "Extensive data integration and transformation features with cloud capabilities. Comprehensive suite for data integration, data quality, and governance. Strong open-source heritage with enterprise cloud edition."
+    },
+    {
+      "name": "IBM InfoSphere DataStage",
+      "notes": "Enterprise ETL solution with advanced parallel processing. More expensive than competitors with complex initial setup but strong in large-scale enterprise deployments."
+    },
+    {
+      "name": "SAP Data Services",
+      "notes": "Comprehensive data integration, quality, and cleansing for SAP environments. Held 3.08% market share in cloud data integration category."
+    },
+    {
+      "name": "SnapLogic",
+      "notes": "Cloud data integration and iPaaS vendor gaining market share with self-service capabilities."
+    },
+    {
+      "name": "AWS Glue",
+      "notes": "Amazon's emerging data integration service supporting ETL, ELT, replication, batch and stream processing within AWS ecosystem."
+    },
+    {
+      "name": "Google Cloud Dataflow",
+      "notes": "Google's cloud-native data processing service for batch and streaming data integration."
+    },
+    {
+      "name": "Fivetran",
+      "notes": "Cloud-based automated data pipeline platform founded in 2012, offering automated ETL/ELT processes."
+    }
+  ],
+  "sources": [
+    "https://www.g2.com/products/informatica-cloud-data-integration/competitors/alternatives",
+    "https://www.gartner.com/reviews/market/data-integration-tools/vendor/informatica/product/informatica-cloud-data-integration/alternatives",
+    "https://www.matillion.com/learn/blog/informatica-alternatives",
+    "https://apix-drive.com/en/blog/other/informatica-cloud-competitors",
+    "https://6sense.com/tech/data-integration/informatica-cloud-market-share"
+  ]
+}

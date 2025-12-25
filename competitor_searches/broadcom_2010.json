@@ -1,0 +1,43 @@
+{
+  "company": "Broadcom",
+  "ticker": "AVGO",
+  "year": 2010,
+  "search_query": "Broadcom competitors 2010",
+  "search_date": "2025-12-24",
+  "context": "In 2010, Broadcom was a pure-play semiconductor company focused on networking, wireless, and broadband chips. The company was relatively small compared to its current scale, focusing primarily on communication chips for mobile devices, data centers, and network infrastructure. Key markets included Wi-Fi, Bluetooth, GPS chips, and networking solutions for enterprise and telecom.",
+  "competitors": [
+    {
+      "name": "Qualcomm",
+      "notes": "Leading competitor in wireless/mobile semiconductors, particularly in wireless modems and mobile processors"
+    },
+    {
+      "name": "Intel",
+      "notes": "Competed in networking chips, Ethernet controllers, and network interface cards"
+    },
+    {
+      "name": "Texas Instruments",
+      "notes": "Competitor in wireless solutions and analog/digital chips for various industries"
+    },
+    {
+      "name": "Marvell Technology",
+      "notes": "Direct competitor in networking, storage, and wireless semiconductor solutions"
+    },
+    {
+      "name": "Analog Devices",
+      "notes": "Competitor in semiconductor solutions for communications and industrial applications"
+    },
+    {
+      "name": "NXP Semiconductors",
+      "notes": "Competed in connectivity solutions and wireless communications"
+    },
+    {
+      "name": "Cisco",
+      "notes": "Competed as a customer and competitor in networking infrastructure and chips"
+    }
+  ],
+  "sources": [
+    "https://thebrandhopper.com/2024/02/17/top-broadcom-competitors-in-the-world/",
+    "https://www.marketbeat.com/stocks/NASDAQ/AVGO/competitors-and-alternatives/",
+    "https://www.cbinsights.com/company/broadcom/alternatives-competitors"
+  ]
+}

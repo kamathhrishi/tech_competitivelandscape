@@ -1,0 +1,48 @@
+{
+  "company": "Aspen Technology",
+  "ticker": "AZPN",
+  "year": 2005,
+  "search_query": "Aspen Technology AspenTech competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "In 2005, Aspen Technology was an established provider of process optimization software for the chemical, petroleum, and energy industries. The company competed in the specialized market of engineering software for process manufacturing, focusing on simulation, optimization, and asset performance management. Key competitors in this space included long-standing industrial software vendors that had been serving the process industries for decades. The market required deep domain expertise in chemical engineering, plant operations, and industrial process control.",
+  "competitors": [
+    {
+      "name": "OSIsoft",
+      "notes": "Founded 1980, leading provider of PI System for real-time industrial data management and process optimization in oil & gas and chemical industries"
+    },
+    {
+      "name": "AVEVA (formerly Invensys)",
+      "notes": "Founded 1967, industrial software provider with process simulation and engineering design tools"
+    },
+    {
+      "name": "Honeywell Process Solutions",
+      "notes": "Major industrial automation and process optimization software provider with UniSim and other engineering tools"
+    },
+    {
+      "name": "Chemstations",
+      "notes": "Process simulation software vendor for chemical engineering and plant design"
+    },
+    {
+      "name": "Canary Labs",
+      "notes": "Founded 1985, industrial data historian and process monitoring software provider"
+    },
+    {
+      "name": "HTRI (Heat Transfer Research Inc.)",
+      "notes": "Specialized software for heat exchanger design and process equipment optimization"
+    },
+    {
+      "name": "Schneider Electric (including Wonderware)",
+      "notes": "Industrial automation and SCADA systems provider competing in process optimization"
+    },
+    {
+      "name": "Emerson Process Management",
+      "notes": "Process automation and optimization software for industrial operations"
+    }
+  ],
+  "sources": [
+    "https://www.comparably.com/companies/aspentech/competitors",
+    "https://www.owler.com/company/aspentech/competitors",
+    "https://en.wikipedia.org/wiki/ROMeo_(process_optimizer)",
+    "https://www.cbinsights.com/company/aspentech/alternatives-competitors"
+  ]
+}

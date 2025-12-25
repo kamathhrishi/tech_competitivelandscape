@@ -1,0 +1,77 @@
+{
+  "company": "Informatica",
+  "ticker": "INFA",
+  "year": 2025,
+  "search_query": "Informatica competitors 2025",
+  "search_date": "2025-12-24",
+  "context": "Transformational year: Salesforce announced definitive agreement to acquire Informatica on May 27, 2025, and completed the acquisition on November 18, 2025 for approximately $8 billion. The acquisition enhances Salesforce's trusted data foundation for agentic AI by embedding Informatica's data catalog, integration, governance, quality, privacy, metadata management, and MDM capabilities. Over 4,653 companies worldwide use Informatica PowerCenter. Market characterized by AI-powered data management, cloud-native platforms, and convergence of data integration with AI/ML capabilities.",
+  "competitors": [
+    {
+      "name": "Talend (Qlik)",
+      "notes": "Leading alternative with comprehensive suite for data integration, transformation, quality, and governance. Now operates under Qlik's data integration and analytics ecosystem, combining ETL with data quality, governance, and observability features. Strong focus on AI-powered capabilities."
+    },
+    {
+      "name": "Matillion",
+      "notes": "Cloud-native platform built for cloud data warehouses (Snowflake, Databricks, BigQuery). Visual, low-code interface accessible to engineers and business analysts. Unlike Informatica's broad enterprise focus, Matillion specializes in leveraging cloud data platform power and scalability. More streamlined and cost-effective for cloud-first organizations."
+    },
+    {
+      "name": "dbt Labs",
+      "notes": "dbt Cloud brings software engineering best practices to analytics engineering workflow. Focuses specifically on transformation layer of modern data stack. Enables analytics engineers to work like software developers with version control, testing, and documentation built into data transformation."
+    },
+    {
+      "name": "Fivetran",
+      "notes": "Handles schema drift, incremental updates, and pipeline monitoring out-of-the-box. Allows data engineers to focus on transformation and analytics rather than connector maintenance. Hands-off, cloud-native ingestion layer for organizations burdened by complex on-prem connectors."
+    },
+    {
+      "name": "IBM InfoSphere DataStage",
+      "notes": "Enterprise-grade ETL employing parallel processing distributing large workloads across multiple nodes for massive datasets. More expensive with complex initial setup and less user-friendly UI compared to competitors."
+    },
+    {
+      "name": "AWS Glue",
+      "notes": "Serverless data integration from Amazon for ETL, ELT, replication, batch and stream processing. Simplifies data integration by modernizing ETL with automatic provisioning and worker management. Goals: faster and cheaper data preparation for ML and analytics."
+    },
+    {
+      "name": "Hevo Data",
+      "notes": "Fully managed, no-code data pipeline platform for real-time data integration and transformation. Compelling alternative for teams seeking simplicity, speed, and minimal infrastructure overhead. Automates every step from extraction to transformation to loading."
+    },
+    {
+      "name": "Alteryx",
+      "notes": "Excellent for organizations looking to go beyond traditional ETL and incorporate advanced analytics. High cost and resource requirements may be prohibitive for smaller businesses."
+    },
+    {
+      "name": "Precisely",
+      "notes": "Specializes in data integrity providing accuracy and consistency in data for customers."
+    },
+    {
+      "name": "SnapLogic",
+      "notes": "Provides iPaaS solution for enterprises specializing in self-service integration with AI-powered capabilities."
+    },
+    {
+      "name": "Workato",
+      "notes": "Specializes in AI-powered enterprise automation with integration platform capabilities."
+    },
+    {
+      "name": "Airbyte",
+      "notes": "Open-source data integration platform emerging as modern alternative to traditional ETL tools."
+    },
+    {
+      "name": "Astera",
+      "notes": "Data integration and management platform competing in enterprise space."
+    },
+    {
+      "name": "Skyvia",
+      "notes": "Cloud data integration platform offering alternative to Informatica for SMB and mid-market."
+    }
+  ],
+  "sources": [
+    "https://www.salesforce.com/news/press-releases/2025/11/18/salesforce-completes-acquisition-of-informatica/?bc=OTH",
+    "https://www.informatica.com/about-us/news/news-releases/2025/11/20251118-salesforce-completes-acquisition-of-informatica.html",
+    "https://investor.salesforce.com/news/news-details/2025/Salesforce-Signs-Definitive-Agreement-to-Acquire-Informatica/default.aspx",
+    "https://techcrunch.com/2025/05/27/salesforce-acquires-informatica-for-8-billion/",
+    "https://www.marketbeat.com/stocks/NYSE/INFA/competitors-and-alternatives/",
+    "https://www.gartner.com/reviews/market/data-integration-tools/vendor/informatica/alternatives",
+    "https://hevodata.com/learn/informatica-alternatives/",
+    "https://www.astera.com/type/blog/informatica-alternatives/",
+    "https://coalesce.io/data-insights/top-10-informatica-alternatives-and-competitors/"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "company": "WEX",
+  "ticker": "WEX",
+  "year": 2020,
+  "search_query": "WEX competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "WEX operating three business segments: Fleet Payment Solutions, Travel and Corporate Solutions, and Health and Employee Benefits. In January 2020, announced $577.5M acquisition of eNett and Optal from Travelport to strengthen travel payments. Managing 14.9M vehicles globally across US, Canada, South America, Europe, Asia, and Australia.",
+  "competitors": [
+    {
+      "name": "FleetCor Technologies (Corpay)",
+      "notes": "Primary competitor in fleet solutions with global scale, fuel cards, corporate lodging cards, and specialized payment services worldwide"
+    },
+    {
+      "name": "U.S. Bank Voyager",
+      "notes": "Comprehensive fleet management offering with extensive fueling and maintenance location acceptance network"
+    },
+    {
+      "name": "Comdata",
+      "notes": "Fleet management and corporate payment provider with fuel cards, spend cards, virtual payments, advanced technology integration"
+    },
+    {
+      "name": "Edenred (UTA)",
+      "notes": "Global payment solutions leader with strong fleet and mobility sector presence, offering fuel cards, maintenance, toll solutions"
+    },
+    {
+      "name": "Visa",
+      "notes": "Global payment network competing in travel and corporate payment sectors"
+    },
+    {
+      "name": "Mastercard",
+      "notes": "Global payment network with corporate payment infrastructure"
+    },
+    {
+      "name": "American Express",
+      "notes": "Corporate card and payment solutions provider"
+    },
+    {
+      "name": "Fiserv",
+      "notes": "Broader payment processing with corporate payment capabilities"
+    },
+    {
+      "name": "Global Payments",
+      "notes": "Payment processing company with B2B solutions"
+    },
+    {
+      "name": "Optum Bank",
+      "notes": "Healthcare HSA administrator competing in WEX health benefits segment"
+    },
+    {
+      "name": "HealthEquity",
+      "notes": "HSA and benefits technology provider"
+    },
+    {
+      "name": "PayFlex",
+      "notes": "Healthcare benefits and payment solutions"
+    },
+    {
+      "name": "JPMorgan Chase",
+      "notes": "Traditional bank with commercial card programs for corporate travel spend"
+    },
+    {
+      "name": "Citibank",
+      "notes": "Commercial card programs competing for corporate payments"
+    },
+    {
+      "name": "Coupa",
+      "notes": "Fintech specializing in B2B payments with integrated spend management and payment automation"
+    },
+    {
+      "name": "Tipalti",
+      "notes": "B2B payment automation platform"
+    }
+  ],
+  "sources": [
+    "https://canvasbusinessmodel.com/blogs/competitors/wex-competitive-landscape",
+    "https://pitchgrade.com/companies/wex",
+    "https://www.dnb.com/business-directory/company-profiles.wex_inc.8dd7b3dafd1bcb64fe66da3eb3760372.html",
+    "https://en.wikipedia.org/wiki/WEX_Inc."
+  ]
+}

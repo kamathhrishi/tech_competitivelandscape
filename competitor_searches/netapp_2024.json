@@ -1,0 +1,65 @@
+{
+  "company": "NetApp",
+  "ticker": "NTAP",
+  "year": 2024,
+  "search_query": "NetApp competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "Intelligent data infrastructure for AI era. NetApp recognized as 2025 Gartner Customers' Choice with 98% recommendation rate. Frost & Sullivan named NetApp 2024 Global Company of the Year in hybrid cloud storage. Focus on AI workloads and intelligent data infrastructure. Market dominated by cloud providers (Amazon S3 83.29%, Azure 9.14%), with NetApp holding 1.25% market share competing against 166 tools. Strategic shift with Flexera acquiring Spot FinOps business in early 2025.",
+  "competitors": [
+    {
+      "name": "Amazon S3",
+      "notes": "Dominant cloud storage provider with 83.29% market share in enterprise data storage category"
+    },
+    {
+      "name": "Microsoft Azure Blob Storage",
+      "notes": "Second largest cloud storage with 9.14% market share"
+    },
+    {
+      "name": "Dell Technologies (Dell EMC)",
+      "notes": "Top traditional storage competitor with PowerMax, Unity XT, and comprehensive portfolio"
+    },
+    {
+      "name": "Pure Storage",
+      "notes": "All-flash storage leader with Evergreen model, known for simplicity and performance"
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "notes": "Major competitor with storage arrays and data management solutions"
+    },
+    {
+      "name": "Hitachi Vantara",
+      "notes": "Reliability-focused with Virtual Storage Platform (VSP) for mission-critical apps"
+    },
+    {
+      "name": "IBM",
+      "notes": "Enterprise storage solutions and hybrid cloud offerings"
+    },
+    {
+      "name": "Oracle",
+      "notes": "Integrated storage and cloud infrastructure solutions"
+    },
+    {
+      "name": "Nutanix",
+      "notes": "Hyper-converged infrastructure and cloud software platform"
+    },
+    {
+      "name": "Huawei",
+      "notes": "Global storage infrastructure provider"
+    },
+    {
+      "name": "Cloudian",
+      "notes": "Data management software for hybrid cloud specializing in object storage"
+    },
+    {
+      "name": "Superna",
+      "notes": "Unstructured data management with AI-enabled security and ransomware protection"
+    }
+  ],
+  "sources": [
+    "https://www.marketing91.com/netapp-competitors/",
+    "https://6sense.com/tech/enterprise-data-storage/netapp-market-share",
+    "https://www.simplyblock.io/blog/competitors-to-netapp/",
+    "https://www.lucidity.cloud/blog/netapp-alternatives",
+    "https://portersfiveforce.com/blogs/competitors/netapp"
+  ]
+}

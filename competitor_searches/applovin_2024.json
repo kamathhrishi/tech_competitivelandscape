@@ -1,0 +1,79 @@
+{
+  "company": "AppLovin",
+  "ticker": "APP",
+  "year": 2024,
+  "search_query": "AppLovin competitors 2024",
+  "search_date": "2024-12-24",
+  "context": "In 2024, AppLovin has emerged as a leading AI-powered advertising platform with significant competitive advantages driven by its proprietary AXON technology. The company maintains an 8.71% market share in the mobile ad network category and competes with 37 competitor tools. AppLovin's strategic acquisitions totaling $4.1 billion from 2018 through 2024 have expanded its capabilities and market position. The company's AI-driven optimization and gaming performance have genuinely outperformed most competitors in user acquisition and app monetization, particularly evidenced by its success relative to Unity's struggling Grow Solutions division ($1.2B revenue, $664M net loss in 2024).",
+  "competitors": [
+    {
+      "name": "Google AdMob (Alphabet)",
+      "notes": "Market leader with 10.82% share in mobile ad network, part of Alphabet's massive advertising ecosystem competing in broader digital advertising"
+    },
+    {
+      "name": "Meta (Facebook Audience Network)",
+      "notes": "Major competitor with approximately $160 billion in global advertising revenues in 2024, leveraging extensive user base and ad targeting capabilities"
+    },
+    {
+      "name": "Unity Ads",
+      "notes": "Notable competitor in game advertising with Grow Solutions revenue of $1.2B in 2024, though struggling with $664M net loss and underperforming relative to AppLovin"
+    },
+    {
+      "name": "The Trade Desk",
+      "notes": "Programmatic advertising competitor with $1.95B revenue in 2024 and 9.8% net margin, focusing on DSP and programmatic capabilities"
+    },
+    {
+      "name": "Chartboost",
+      "notes": "Holds 3.65% market share in mobile ad network, specializing in in-app monetization and programmatic advertising for mobile gaming"
+    },
+    {
+      "name": "URX",
+      "notes": "Market leader with 58.64% share in mobile ad network category, significantly ahead of other competitors"
+    },
+    {
+      "name": "InMobi",
+      "notes": "Top-tier competitor providing mobile advertising solutions and digital experience platforms"
+    },
+    {
+      "name": "MOLOCO",
+      "notes": "Key competitor leveraging machine learning for programmatic advertising and user acquisition"
+    },
+    {
+      "name": "Zynga",
+      "notes": "Competitor in the gaming sector with advertising and cross-promotion capabilities"
+    },
+    {
+      "name": "Activision Blizzard",
+      "notes": "Major gaming company competing in the mobile gaming advertising and monetization space"
+    },
+    {
+      "name": "Tencent",
+      "notes": "Global gaming and technology giant competing across mobile gaming and advertising sectors"
+    },
+    {
+      "name": "Amobee",
+      "notes": "Competitor offering both DSP (demand-side platform) and SSP (supply-side platform) capabilities"
+    },
+    {
+      "name": "Tapjoy",
+      "notes": "Mobile advertising and app monetization platform focused on engagement and rewarded advertising"
+    },
+    {
+      "name": "MoPub",
+      "notes": "One-stop advertising serving platform for publishers with comprehensive ad mediation"
+    },
+    {
+      "name": "Vungle",
+      "notes": "Mobile advertising and monetization platform for developers and publishers"
+    }
+  ],
+  "sources": [
+    "https://www.cbinsights.com/company/applovin/alternatives-competitors",
+    "https://bullfincher.io/companies/applovin-corporation/competitors",
+    "https://www.marketbeat.com/stocks/NASDAQ/APP/competitors-and-alternatives/",
+    "https://seekingalpha.com/symbol/APP/peers/comparison",
+    "https://6sense.com/tech/mobile-ad-network/applovin-market-share",
+    "https://canvasbusinessmodel.com/blogs/competitors/applovin-competitive-landscape",
+    "https://www.owler.com/company/applovin"
+  ]
+}

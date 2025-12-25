@@ -1,0 +1,44 @@
+{
+  "company": "Motorola Solutions",
+  "ticker": "MSI",
+  "year": 2020,
+  "search_query": "Motorola Solutions MSI competitors 2020",
+  "search_date": "2025-12-24",
+  "context": "In 2020, Motorola Solutions was a leader in critical communications, video security, and command center technologies for public safety and enterprises. Notable event: received a $764M award in a lawsuit against Hytera for patent infringement and trade secret theft.",
+  "competitors": [
+    {
+      "name": "Hytera Communications",
+      "notes": "Chinese competitor in two-way radio systems; subject of major lawsuit resulting in $764M award to Motorola in 2020"
+    },
+    {
+      "name": "L3Harris Technologies",
+      "notes": "Major competitor in public safety and defense communications"
+    },
+    {
+      "name": "Cisco Systems",
+      "notes": "Competitor in telecommunications equipment"
+    },
+    {
+      "name": "Ericsson",
+      "notes": "Competitor in telecommunications and communications equipment"
+    },
+    {
+      "name": "Nokia",
+      "notes": "Competitor in telecommunications equipment"
+    },
+    {
+      "name": "Zebra Technologies",
+      "notes": "Competitor in enterprise mobility and data capture solutions"
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "notes": "Competitor in enterprise technology"
+    }
+  ],
+  "sources": [
+    "https://www.barchart.com/stocks/quotes/MSI/competitors",
+    "https://seekingalpha.com/symbol/MSI/peers/comparison",
+    "https://www.marketbeat.com/stocks/NYSE/MSI/competitors-and-alternatives/",
+    "https://en.wikipedia.org/wiki/Motorola_Solutions"
+  ]
+}

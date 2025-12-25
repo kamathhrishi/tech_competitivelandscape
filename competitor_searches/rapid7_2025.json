@@ -1,0 +1,69 @@
+{
+  "company": "Rapid7",
+  "ticker": "RPD",
+  "year": 2025,
+  "search_query": "Rapid7 competitors 2025 vulnerability management SIEM",
+  "search_date": "2025-12-24",
+  "context": "Rapid7 is a cybersecurity company spanning multiple product families: vulnerability management (InsightVM), application security testing (InsightAppSec), SIEM (InsightIDR), and SOAR (InsightConnect). InsightVM provides comprehensive vulnerability management starting at $1.93 per asset per month with minimum of 500 assets (entry annual cost around $11,580). Rapid7's solutions can be costly, which may be prohibitive for smaller organizations. For less experienced users, navigating the range of tools and features can be challenging, requiring significant training. Rapid7 is a strong fit for mid to large enterprises that require an integrated platform, while smaller organizations or those with focused needs may find better value in alternatives.",
+  "competitors": [
+    {
+      "name": "Tenable",
+      "notes": "Key competitor in vulnerability management business. Provides Nessus scan engine which is reliable and accurate. More capable than Rapid7 InsightVM in pricing and policy customization. Tenable Vulnerability Management provides industry's most comprehensive vulnerability coverage with real-time continuous assessment."
+    },
+    {
+      "name": "Qualys",
+      "notes": "Cloud-based security platform with advanced VMDR (Vulnerability Management, Detection, and Response) solution. Leverages over 150,000 detection signatures, enhancing CVE coverage by 17% compared to Rapid7. Competes directly with InsightVM."
+    },
+    {
+      "name": "Tripwire",
+      "notes": "Enterprise-class vulnerability management solution that accurately prioritizes risk for action on most exposed assets. Competes in vulnerability assessment and file integrity monitoring."
+    },
+    {
+      "name": "Cisco Vulnerability Management (formerly Kenna Security)",
+      "notes": "Kenna's flagship product Kenna.VM is now Cisco Vulnerability Management. Equips organizations with contextual insight and threat intelligence needed to intercept next exploit and respond with precision. Risk-based vulnerability management approach."
+    },
+    {
+      "name": "Splunk",
+      "notes": "Major SIEM/SOAR alternative. Leading security information and event management platform competing with InsightIDR for security monitoring and incident response."
+    },
+    {
+      "name": "Exabeam",
+      "notes": "Leading SIEM provider combining UEBA, SIEM, SOAR, and TDIR to accelerate security operations. Security Operations platform enables teams to quickly detect, investigate, and respond to threats."
+    },
+    {
+      "name": "IBM QRadar",
+      "notes": "SIEM solution that can integrate with Rapid7's products to provide broader security monitoring and incident response capabilities. Major enterprise SIEM competitor."
+    },
+    {
+      "name": "Securonix",
+      "notes": "Offers 'Great SIEM and UEBA product' with cloud offering that continues to evolve. Competes in SIEM market with user and entity behavior analytics."
+    },
+    {
+      "name": "FortiSIEM",
+      "notes": "Works well in MSSP environment due to multi-tenancy capabilities. Product is rich with features competing in SIEM space."
+    },
+    {
+      "name": "Devo Technology",
+      "notes": "Enables organizations to get visibility of vulnerabilities through different alert packs. Competes in cloud-native SIEM and security analytics."
+    },
+    {
+      "name": "Fortra",
+      "notes": "Excels at filtering out noise and focusing on critical incidents compared to other SIEM tools. Competes in security operations and incident management."
+    },
+    {
+      "name": "Wiz",
+      "notes": "Cloud security platform overlapping with InsightVM's vulnerability management and cloud security posture management capabilities. Agentless cloud-native approach."
+    },
+    {
+      "name": "Cortex XSOAR (Palo Alto Networks)",
+      "notes": "SIEM/SOAR alternative offering security orchestration, automation and response integrated with Palo Alto security portfolio."
+    }
+  ],
+  "sources": [
+    "https://sumble.com/tech/rapid7",
+    "https://qodex.ai/blog/rapid7-alternatives-cutting-edge-cybersecurity-tools",
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/rapid7/alternatives",
+    "https://beaglesecurity.com/blog/article/best-rapid7-alternatives.html",
+    "https://www.exabeam.com/explainers/rapid7/rapid7-solution-overview-pricing-limitations-and-alternatives/"
+  ]
+}

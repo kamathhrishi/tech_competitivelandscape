@@ -1,0 +1,44 @@
+{
+  "company": "Fair Isaac Corporation",
+  "ticker": "FICO",
+  "year": 2000,
+  "search_query": "FICO Fair Isaac competitors 2000 credit scoring analytics",
+  "search_date": "2024-12-24",
+  "context": "In 2000, Fair Isaac Corporation (renamed from Fair, Isaac and Company in 2003) was solidifying its position in the credit scoring market. The FICO Score, created in 1989, had become increasingly important after receiving critical endorsement from Fannie Mae and Freddie Mac in 1995 as the uniform model for mortgage underwriting. At this time, FICO competed primarily with in-house credit scoring models developed by large banks and with the three major credit bureaus (Equifax, Experian, and TransUnion) who were both partners and competitors, as they controlled the credit data feeding into FICO's algorithms.",
+  "competitors": [
+    {
+      "name": "Equifax",
+      "notes": "Major credit bureau that provided credit data to FICO while also developing proprietary scoring models, creating a dual partner-competitor relationship"
+    },
+    {
+      "name": "Experian",
+      "notes": "Credit reporting agency serving as both data provider to FICO and competitor with its own credit risk assessment solutions"
+    },
+    {
+      "name": "TransUnion",
+      "notes": "Credit bureau maintaining a complex relationship with FICO as data partner and competitor in credit scoring services"
+    },
+    {
+      "name": "In-house Bank Analytics",
+      "notes": "Large financial institutions developing custom credit scoring models as alternatives to FICO scores"
+    },
+    {
+      "name": "CRIF Ratings",
+      "notes": "European credit bureau offering credit scoring and risk assessment solutions, primarily competing in international markets"
+    },
+    {
+      "name": "LexisNexis",
+      "notes": "Data analytics provider offering alternative credit risk assessment and identity verification solutions"
+    },
+    {
+      "name": "ChoicePoint",
+      "notes": "Data aggregation company providing risk management and fraud detection services to financial institutions"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/FICO",
+    "https://investors.fico.com/static-files/7363a0f4-e05a-4510-8dbb-170ae6d4c7a2",
+    "https://investors.fico.com/static-files/c952ca95-eb7f-4431-b210-99b84dd06331",
+    "https://www.owler.com/company/fico"
+  ]
+}

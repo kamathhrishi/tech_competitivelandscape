@@ -1,0 +1,66 @@
+{
+  "company": "Pure Storage",
+  "ticker": "PSTG",
+  "year": 2024,
+  "search_query": "Pure Storage competitors 2024",
+  "search_date": "2025-12-24",
+  "context": "Strong financial performance with $3.2B revenue for fiscal year 2025 (12% YoY increase) and subscription ARR of $1.7B (21% rise in Q4 FY25). Pure Storage has 0.67% market share in storage infrastructure category, competing with 52 competitor tools. NetApp ranks third with 8.3% market share. Key innovations include Pure Fusion for storage automation and Pure Copilot AI-powered assistant announced at Accelerate 2024. Focus on AI, automation, and cyber resilience.",
+  "competitors": [
+    {
+      "name": "Google Cloud Storage",
+      "notes": "Dominant cloud storage competitor with 92.07% market share in storage infrastructure category"
+    },
+    {
+      "name": "Amazon Elastic Block Store (EBS)",
+      "notes": "Cloud storage competitor with 1.84% market share"
+    },
+    {
+      "name": "DigitalOcean",
+      "notes": "Cloud storage provider with 1.40% market share"
+    },
+    {
+      "name": "Dell EMC",
+      "notes": "#1 traditional competitor with PowerMax and Unity XT series. Emphasis on scalability, reliability, and IT ecosystem integration"
+    },
+    {
+      "name": "NetApp",
+      "notes": "Pure-play storage supplier ranking third with 8.3% market share. AFF series for on-premises and cloud environments"
+    },
+    {
+      "name": "HPE",
+      "notes": "3PAR ranked among best Pure Storage alternatives. Enterprise storage solutions"
+    },
+    {
+      "name": "IBM",
+      "notes": "FlashSystem with AI-driven management, hybrid cloud integration. Claims 40% lifecycle cost savings vs competitors"
+    },
+    {
+      "name": "Hitachi Vantara",
+      "notes": "Virtual Storage Platform with robust legacy integration and enterprise features. Excels in pricing and support"
+    },
+    {
+      "name": "Cohesity",
+      "notes": "Top competitor focusing on data security and management"
+    },
+    {
+      "name": "Silk",
+      "notes": "Top competitor in enterprise storage"
+    },
+    {
+      "name": "DDN",
+      "notes": "Top competitor in data storage"
+    },
+    {
+      "name": "Arista Networks",
+      "notes": "Competitor in storage infrastructure"
+    }
+  ],
+  "sources": [
+    "https://6sense.com/tech/storage-infrastructure/pure-storage-market-share",
+    "https://www.lucidity.cloud/blog/pure-storage-alternatives",
+    "https://bullfincher.io/companies/pure-storage/competitors",
+    "https://www.gartner.com/reviews/market/primary-storage-with-platform-services/vendor/pure-storage/alternatives",
+    "https://www.simplyblock.io/blog/competitors-to-purestorage/",
+    "https://matrixbcg.com/blogs/competitors/purestorage"
+  ]
+}

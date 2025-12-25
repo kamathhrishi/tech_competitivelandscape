@@ -1,0 +1,64 @@
+{
+  "company": "Shopify",
+  "ticker": "SHOP",
+  "year": 2024,
+  "search_query": "Shopify competitors 2024",
+  "search_date": "2025-12-24",
+  "competitors": [
+    {
+      "name": "WooCommerce",
+      "notes": "Biggest competitor with 67.90% market share in e-commerce platform category, built on WordPress"
+    },
+    {
+      "name": "Wix Stores",
+      "notes": "14.27% market share, major challenger with visual no-code builder"
+    },
+    {
+      "name": "WooCommerce Checkout",
+      "notes": "10.83% market share, at least 15% among top sites"
+    },
+    {
+      "name": "Squarespace",
+      "notes": "Powers over 2 million US e-commerce sites, 15%+ market share"
+    },
+    {
+      "name": "BigCommerce",
+      "notes": "API-first headless commerce, more free features, strong SEO, no transaction fees"
+    },
+    {
+      "name": "Adobe Commerce (Magento)",
+      "notes": "Top choice for enterprises needing full backend control and advanced customization"
+    },
+    {
+      "name": "Salesforce Commerce Cloud",
+      "notes": "Enterprise e-commerce for complex B2B and B2C needs"
+    },
+    {
+      "name": "Ecwid",
+      "notes": "Powers 400,000+ US stores, 1M worldwide, adds commerce to existing websites"
+    },
+    {
+      "name": "Oracle Commerce",
+      "notes": "3.66% market share in e-commerce platform category"
+    },
+    {
+      "name": "Jimdo",
+      "notes": "2.20% market share in e-commerce platform category"
+    }
+  ],
+  "market_share": {
+    "shopify": "20% global e-commerce software market, 30% of US e-commerce websites, 24% of top 1M sites",
+    "shopify_plus": "6% of market",
+    "woocommerce": "67.90% category share, 14% of top 1M sites",
+    "wix_stores": "14.27%",
+    "oracle_commerce": "3.66%",
+    "prestashop": "3% of top 1M sites"
+  },
+  "context": "Shopify holds 20% global e-commerce software market share and 30% of US e-commerce websites. Among top 1M sites, Shopify (24%) and WooCommerce Checkout (14%) lead. Global e-commerce market expected to reach $6.3T in 2024. Shopify serves millions of merchants across 175+ countries with 16,000+ apps in ecosystem.",
+  "sources": [
+    "https://www.mobiloud.com/blog/woocommerce-vs-shopify-market-share-statistics",
+    "https://www.statista.com/statistics/950591/united-states-ecommerce-platforms-market-share/",
+    "https://6sense.com/tech/ecommerce-platform/shopify-market-share",
+    "https://www.demandsage.com/shopify-market-share/"
+  ]
+}

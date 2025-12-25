@@ -1,0 +1,61 @@
+{
+  "company": "GoDaddy",
+  "ticker": "GDDY",
+  "year": 2015,
+  "search_query": "GoDaddy competitors 2015",
+  "search_date": "2025-12-24",
+  "context": "GoDaddy went public on April 1, 2015, with a successful IPO on the New York Stock Exchange, with shares soaring 30% on the first day of trading. The company raised nearly $460 million, pricing shares at $20 each, valuing the company at up to $5.48 billion including debt. At IPO, GoDaddy was the leading provider of web registration and hosting services with 59 million domains under management, representing approximately 20% of the world's Internet domains. The company served 12.7 million customers with revenue of $1.4 billion in 2014, up 22.7%. The market was expanding beyond traditional hosting into website builders and cloud services.",
+  "competitors": [
+    {
+      "name": "Namecheap",
+      "notes": "Leading domain registrar competitor with cheaper renewal costs than GoDaddy. Offered free WHOIS domain privacy while GoDaddy charged extra. Strong value proposition for cost-conscious customers."
+    },
+    {
+      "name": "Network Solutions",
+      "notes": "One of the first established ICANN-accredited domain registrars with long-standing industry presence. Offered all-in-one solution for domain services, web hosting, and website building."
+    },
+    {
+      "name": "Bluehost",
+      "notes": "Top GoDaddy alternative for web hosting, offering superior features, value for money, and security. WordPress-recommended host with integrated website builder. All-in-one provider for hosting, domains, and site building."
+    },
+    {
+      "name": "HostGator",
+      "notes": "Best for shared hosting with 99.99% uptime guarantee matching GoDaddy. Offered domain registration bundled with hosting plans. Strong competitor in shared hosting market."
+    },
+    {
+      "name": "SiteGround",
+      "notes": "Premium shared hosting provider with excellent support and fast caching features. Known for superior uptime, site speed, and security compared to GoDaddy. Top-tier shared hosting option."
+    },
+    {
+      "name": "Domain.com",
+      "notes": "Popular domain name registrar for easy registration and transfers. Direct competitor in domain registration market with competitive pricing."
+    },
+    {
+      "name": "Shopify",
+      "notes": "Comprehensive ecommerce platform that started as website builder and expanded into domain registration. Provided complete business-building solution beyond traditional domain/hosting services."
+    },
+    {
+      "name": "Wix",
+      "notes": "Website builder platform making it easier than ever to build websites. Competing in the website creation market with drag-and-drop tools."
+    },
+    {
+      "name": "Squarespace",
+      "notes": "Website builder platform competing for customers wanting easy website creation. Offered integrated domain registration with website building services."
+    },
+    {
+      "name": "DreamHost",
+      "notes": "Web hosting provider offering unlimited storage and bandwidth with free SSL certificates. Competed on features and transparent pricing."
+    },
+    {
+      "name": "IONOS",
+      "notes": "Low-cost web hosting provider with excellent pricing and good feature selection. Offered similar services to GoDaddy at lower price points."
+    }
+  ],
+  "sources": [
+    "https://fortune.com/2015/05/12/godaddy-revenue-customer/",
+    "https://www.nasdaq.com/articles/godaddy-goes-big-domain-registrar-prices-ipo-above-range-20-2015-03-31",
+    "https://www.isitwp.com/best-godaddy-alternatives-domain-registration-web-hosting/",
+    "https://www.wpbeginner.com/showcase/best-godaddy-alternatives-competitors/",
+    "https://www.bluehost.com/blog/godaddy-alternatives/"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "company": "Shopify",
+  "ticker": "SHOP",
+  "year": 2020,
+  "search_query": "Shopify competitors 2020",
+  "search_date": "2025-12-24",
+  "competitors": [
+    {
+      "name": "WooCommerce",
+      "notes": "Leading e-commerce platform globally with 28.24% market share vs Shopify's 10.98%"
+    },
+    {
+      "name": "BigCommerce",
+      "notes": "Main SaaS competitor for larger online stores, no transaction fees, unlimited products"
+    },
+    {
+      "name": "Adobe Commerce (Magento)",
+      "notes": "260,000+ developers worldwide, best for highly customized large-scale builds"
+    },
+    {
+      "name": "Salesforce Commerce Cloud",
+      "notes": "Enterprise e-commerce solution for large brands"
+    },
+    {
+      "name": "Wix",
+      "notes": "Easy website builder with e-commerce features, strong SMB presence"
+    },
+    {
+      "name": "Squarespace",
+      "notes": "Visual no-code platform with e-commerce capabilities"
+    },
+    {
+      "name": "Amazon",
+      "notes": "Spent $64B on logistics/shipping in 2019 vs Shopify's $1B 5-year fulfillment investment"
+    },
+    {
+      "name": "Ecwid",
+      "notes": "Add-on e-commerce for existing websites"
+    },
+    {
+      "name": "Volusion",
+      "notes": "Smaller player generating buzz as Shopify alternative"
+    },
+    {
+      "name": "Big Cartel",
+      "notes": "Simple e-commerce for artists and makers"
+    }
+  ],
+  "market_share": {
+    "shopify": "~30% of e-commerce websites",
+    "woocommerce": "28.24%",
+    "growth": "50% CAGR in 2020"
+  },
+  "context": "Shopify achieved incredible 50% CAGR in 2020 driven by pandemic e-commerce boom. Used by roughly 30% of e-commerce websites. WooCommerce maintained market share lead at 28.24% vs Shopify's 10.98%. Amazon emerged as indirect competitor through fulfillment services.",
+  "sources": [
+    "https://www.gartner.com/reviews/market/digital-commerce/vendor/shopify/alternatives",
+    "https://www.tidio.com/blog/shopify-alternatives/",
+    "https://www.bigcommerce.com/blog/shopify-alternatives/"
+  ]
+}

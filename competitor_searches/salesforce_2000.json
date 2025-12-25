@@ -1,0 +1,15 @@
+{
+  "company": "Salesforce",
+  "ticker": "CRM",
+  "year": 2000,
+  "search_query": "Salesforce competitors 2000 CRM market",
+  "search_date": "2025-12-23",
+  "competitors": [
+    {"name": "Siebel Systems", "notes": "Dominant on-premise CRM leader before cloud era"},
+    {"name": "Oracle", "notes": "Major enterprise software player with CRM offerings"},
+    {"name": "SAP", "notes": "Enterprise software giant with CRM solutions"},
+    {"name": "PeopleSoft", "notes": "Enterprise software company with CRM capabilities"}
+  ],
+  "context": "In 2000, Salesforce was a startup (founded 1999). The CRM market was dominated by on-premise solutions.",
+  "sources": ["https://www.salesforce.com/crm/salesforce-competition/", "https://6sense.com/tech/crm-platforms/salesforce-market-share"]
+}

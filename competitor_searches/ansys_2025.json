@@ -1,0 +1,70 @@
+{
+  "company": "ANSYS",
+  "ticker": "ANSS",
+  "year": 2025,
+  "search_query": "ANSYS ANSS competitors 2025 simulation software engineering",
+  "search_date": "2025-12-24",
+  "context": "ANSYS is a leading engineering simulation software provider with 39.85% market share in the simulation-modeling category, competing with 56 competitor tools. The company was acquired by Synopsys on July 17, 2025 for approximately $35 billion, following a definitive agreement announced in January 2024. Over 14,229 companies worldwide use ANSYS as a simulation-modeling tool, with 4,271 customers from the United States. The 2025 R2 release features enhanced physics solvers, streamlined workflows, and new AI tools to accelerate simulations.",
+  "competitors": [
+    {
+      "name": "Simulink",
+      "ticker": "MATHWORKS",
+      "notes": "Top competitor with 17.95% market share in simulation modeling. Part of MathWorks' MATLAB platform. Widely used for programming, modeling, and simulation."
+    },
+    {
+      "name": "ANSYS Structures",
+      "notes": "ANSYS's own product with 7.16% market share. Internal competition within ANSYS product family."
+    },
+    {
+      "name": "SolidWorks Simulation",
+      "ticker": "Dassault Systèmes",
+      "notes": "4.76% market share. Easy-to-use FEA structural analysis tools integrated with SolidWorks CAD. Supports linear, non-linear static and dynamic analysis capabilities."
+    },
+    {
+      "name": "COMSOL Multiphysics",
+      "notes": "Versatile simulation platform integrating various physics phenomena. Features Model Builder and Application Builder for complex engineering challenges."
+    },
+    {
+      "name": "Abaqus",
+      "ticker": "Dassault Systèmes",
+      "notes": "High-performance FEA tool known for nonlinear simulations, hyperelastic materials, crash tests, and advanced material modeling. Handles nonlinear and high-deformation simulations more gracefully than ANSYS Mechanical."
+    },
+    {
+      "name": "Siemens NX",
+      "ticker": "SIEGY",
+      "notes": "Premium enterprise-grade CAE solution with extremely accurate solvers. Clean CAD-to-simulation workflow. More cost-effective for small to medium-sized businesses with transparent pricing."
+    },
+    {
+      "name": "Altair HyperWorks",
+      "ticker": "ALTR",
+      "notes": "Full simulation suite for advanced engineering - structural, CFD, EM, optimization, composites, manufacturing. Insanely fast solver performance, especially OptiStruct. Note: Altair was acquired by Siemens in 2025 for $10.6 billion."
+    },
+    {
+      "name": "SimScale",
+      "notes": "Cloud-based platform revolutionizing CAE by providing 100% web browser access. Enables CFD, FEA, Thermodynamics, Acoustics and Particle Analyses."
+    },
+    {
+      "name": "OpenFOAM",
+      "notes": "Free, open-source CFD software developed by OpenCFD Ltd since 2004. Extensive features for fluid dynamics, solid mechanics, and electromagnetics. Supported globally by ESI Group."
+    },
+    {
+      "name": "Autodesk Fusion",
+      "ticker": "ADSK",
+      "notes": "Cloud-based platform integrating CAD, CAM, CAE, and PCB software. Comprehensive simulation and generative design capabilities."
+    },
+    {
+      "name": "Synopsys",
+      "ticker": "SNPS",
+      "notes": "Acquired ANSYS on July 17, 2025 for $35 billion. This was Synopsys's largest acquisition, expanding its TAM by 50% to $28 billion."
+    }
+  ],
+  "sources": [
+    "https://www.softwaresuggest.com/ansys-simulation/alternatives",
+    "https://en.wikipedia.org/wiki/Ansys",
+    "https://6sense.com/tech/simulation-modeling/ansys-market-share",
+    "https://technologycounter.com/products/ansys-simulation/alternatives",
+    "https://website-alternatives.com/ansys-alternatives/",
+    "https://www.g2.com/products/ansys-mechanical/competitors/alternatives",
+    "https://www.g2.com/products/ansys-fluent/competitors/alternatives"
+  ]
+}

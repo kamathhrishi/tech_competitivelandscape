@@ -1,0 +1,40 @@
+{
+  "company": "Rapid7",
+  "ticker": "RPD",
+  "year": 2005,
+  "search_query": "Rapid7 competitors 2005",
+  "search_date": "2024-12-24",
+  "context": "Rapid7 was founded in 2000 and by 2005 was an emerging player in the vulnerability management and penetration testing space. The cybersecurity market in 2005 was focused on network security, intrusion detection, and vulnerability assessment, with enterprises adopting automated security testing tools. Rapid7 competed in a market dominated by established security vendors and specialized vulnerability assessment tools. The company was building its reputation in vulnerability management and security analytics, though it had not yet acquired Metasploit (which came in 2009).",
+  "competitors": [
+    {
+      "name": "Internet Security Systems (ISS)",
+      "notes": "Leading security vendor offering vulnerability assessment, intrusion detection, and network security solutions. ISS was a major competitor before being acquired by IBM in 2006."
+    },
+    {
+      "name": "Symantec",
+      "notes": "Large security vendor with vulnerability management and network security capabilities, strengthened by the 2005 Veritas merger to become fourth-largest software company."
+    },
+    {
+      "name": "Nessus (Tenable)",
+      "notes": "Widely-used vulnerability scanner competing directly in vulnerability assessment. Nessus was established as the leading vulnerability scanning tool in the market."
+    },
+    {
+      "name": "Qualys",
+      "notes": "Cloud-based vulnerability management competitor offering automated vulnerability assessment and compliance solutions."
+    },
+    {
+      "name": "Core Security Technologies",
+      "notes": "Security vendor specializing in vulnerability assessment and penetration testing tools, competing in the security testing market."
+    },
+    {
+      "name": "FireEye",
+      "notes": "Emerging security vendor focusing on threat detection and network security solutions."
+    }
+  ],
+  "sources": [
+    "https://www.cbinsights.com/company/rapid7/alternatives-competitors",
+    "https://www.comparably.com/companies/rapid7/competitors",
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/rapid7/alternatives",
+    "https://beaglesecurity.com/blog/article/best-rapid7-alternatives.html"
+  ]
+}

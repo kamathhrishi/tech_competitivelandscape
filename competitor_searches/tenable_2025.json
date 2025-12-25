@@ -1,0 +1,62 @@
+{
+  "company": "Tenable",
+  "ticker": "TENB",
+  "year": 2025,
+  "search_query": "Tenable competitors 2025 exposure management",
+  "search_date": "2025-12-24",
+  "context": "As of December 2025, Tenable One Exposure Management Platform has 5.5% mindshare in the Continuous Threat Exposure Management (CTEM) category, up from 1.8% compared to the previous year. According to the IDC MarketScape: Worldwide Exposure Management 2025 Vendor Assessment, Tenable claims industry's broadest vulnerability coverage, accuracy and speed. Security leaders increasingly seek Tenable alternatives due to high licensing costs that don't scale well for startups or mid-market firms, complex deployments in hybrid and multi-cloud environments, demand for specialized solutions like AI-powered DAST and Kubernetes-native security, and growing importance of DevSecOps integration and developer-friendly workflows.",
+  "competitors": [
+    {
+      "name": "Qualys",
+      "notes": "Most direct like-for-like rival in vulnerability and exposure management. Competes with comprehensive cloud-based VMDR platform and extensive vulnerability detection signature coverage."
+    },
+    {
+      "name": "Rapid7 InsightVM",
+      "notes": "Other major competitor in vulnerability and exposure management. Cloud-based successor to Nexpose focusing on 'vulnerability risk management' with live dashboards, risk-based prioritization, and deep integrations into ticketing, CI/CD, and wider Rapid7 Insight platform."
+    },
+    {
+      "name": "CrowdStrike Falcon Spotlight",
+      "notes": "Main competitor when buyers want VM built directly into EDR instead of separate scanner. Endpoint-focused VM module on Falcon agent providing real-time exposure views and patch status. Plugs into broader Falcon Exposure Management/RBVM stack with ExPRT.AI."
+    },
+    {
+      "name": "Wiz",
+      "notes": "One of fastest-growing CNAPP providers. Best Tenable VM alternative according to G2. Agentless approach makes deployment almost instant. Without need for agents or sensors, provides comprehensive visibility across multi-cloud environments. Sets apart from Tenable's agent-based model."
+    },
+    {
+      "name": "Aqua Security",
+      "notes": "Specializes in Kubernetes-native security and runtime protection for container-heavy setups. Competes in cloud-native security and container vulnerability management."
+    },
+    {
+      "name": "Armis",
+      "notes": "Asset/exposure management platform appearing on competitive shortlists. Focuses on visibility and security for connected assets including IoT and OT devices."
+    },
+    {
+      "name": "Axonius",
+      "notes": "Asset/exposure management platform appearing on competitive shortlists. Provides comprehensive asset inventory and management across security and IT environments."
+    },
+    {
+      "name": "Tanium",
+      "notes": "Offers real-time endpoint visibility and vulnerability management competing with Tenable in enterprise vulnerability assessment space."
+    },
+    {
+      "name": "Vicarius",
+      "notes": "Emerging platform competing in vulnerability management with focus on automation and remediation capabilities."
+    },
+    {
+      "name": "Palo Alto Networks Cortex Xpanse",
+      "notes": "Major platform offering attack surface management and exposure management through different module approach. Part of broader Palo Alto security portfolio."
+    },
+    {
+      "name": "Cisco Vulnerability Management (formerly Kenna.VM)",
+      "notes": "Alternative according to G2. Risk-based vulnerability management platform acquired by Cisco, competing with contextual risk scoring and prioritization."
+    }
+  ],
+  "sources": [
+    "https://underdefense.com/blog/tenable-alternatives-2026-9-vulnerability-exposure-platforms/",
+    "https://www.tenable.com/products/competitive-comparison",
+    "https://www.gartner.com/reviews/market/vulnerability-assessment/vendor/tenable/alternatives",
+    "https://www.peerspot.com/products/tenable-one-exposure-management-platform-reviews",
+    "https://www.g2.com/products/tenable-vulnerability-management/competitors/alternatives",
+    "https://virsec.com/best-exposure-management-platforms/"
+  ]
+}

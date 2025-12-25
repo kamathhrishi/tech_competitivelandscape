@@ -1,0 +1,16 @@
+{
+  "company": "Appian Corporation",
+  "ticker": "APPN",
+  "year": 2020,
+  "search_query": "Appian low-code competitors 2020",
+  "search_date": "2025-12-24",
+  "competitors": [
+    {"name": "Microsoft Power Platform", "notes": "Low-code/no-code platform growing rapidly"},
+    {"name": "Salesforce", "notes": "Low-code development on Salesforce platform"},
+    {"name": "OutSystems", "notes": "Enterprise low-code platform"},
+    {"name": "Mendix", "notes": "Siemens-owned low-code platform"},
+    {"name": "ServiceNow", "notes": "Workflow and low-code automation"}
+  ],
+  "context": "In 2020, Appian competed in the growing low-code platform market. The pandemic accelerated digital transformation and low-code adoption as organizations needed rapid application development. Microsoft's Power Platform was emerging as major competitor. Appian differentiated with process automation and case management focus.",
+  "sources": ["https://craft.co/appian/competitors"]
+}
