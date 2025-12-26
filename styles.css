@@ -384,6 +384,81 @@ select {
     border-radius: 3px;
 }
 
+.type-badge.public {
+    color: var(--accent);
+    background: var(--accent-light);
+}
+
+.type-badge.private {
+    color: #6b21a8;
+    background: #f3e8ff;
+}
+
+.type-badge.product {
+    color: #c2410c;
+    background: #ffedd5;
+}
+
+/* Parent Company Section */
+.parent-company-section {
+    margin-top: 0.75rem;
+    text-align: center;
+}
+
+.parent-company-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    font-size: 0.9rem;
+    color: var(--accent);
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    transition: background 0.15s;
+}
+
+.parent-company-link:hover {
+    background: var(--accent-light);
+}
+
+.parent-label {
+    color: var(--text-muted);
+}
+
+/* Financial Stats Section */
+.financial-stats {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+}
+
+.financial-stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.financial-value {
+    font-family: var(--mono);
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #059669;
+}
+
+.financial-value.market-cap {
+    color: #0284c7;
+}
+
+.financial-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
 .entity-header h1 {
     font-size: 2rem;
     font-weight: 600;
@@ -535,6 +610,47 @@ select {
     border-radius: 2px;
 }
 
+.competitor-product {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    color: #c2410c;
+    background: #ffedd5;
+    padding: 0.1rem 0.4rem;
+    border-radius: 2px;
+}
+
+.competitor-revenue {
+    font-size: 0.7rem;
+    font-family: var(--mono);
+    color: #059669;
+    background: #d1fae5;
+    padding: 0.1rem 0.4rem;
+    border-radius: 2px;
+    margin-left: auto;
+}
+
+.competitor-mcap {
+    font-size: 0.7rem;
+    font-family: var(--mono);
+    color: #0284c7;
+    background: #e0f2fe;
+    padding: 0.1rem 0.4rem;
+    border-radius: 2px;
+    margin-left: 0.25rem;
+}
+
+.competitor-parent {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: 0.25rem;
+    font-style: italic;
+}
+
+.competitor-item.is-product {
+    border-left: 3px solid #fdba74;
+    padding-left: 1rem;
+}
+
 .competitor-notes {
     color: var(--text-secondary);
     font-size: 0.9rem;
@@ -606,6 +722,29 @@ select {
     font-family: var(--mono);
     font-size: 0.75rem;
     color: var(--accent);
+}
+
+.competitor-chip .chip-name {
+    flex: 1;
+}
+
+.competitor-chip .chip-revenue {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: #059669;
+    background: #d1fae5;
+    padding: 0.1rem 0.35rem;
+    border-radius: 2px;
+    margin-left: 0.5rem;
+}
+
+.competitor-chip.chip-public {
+    border-left: 3px solid var(--accent);
+}
+
+.competitor-chip.chip-product {
+    border-left: 3px solid #fdba74;
+    background: #fffbeb;
 }
 
 .citations-list {

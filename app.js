@@ -125,6 +125,15 @@ function setupEventListeners() {
     searchInput.addEventListener('blur', () => {
         setTimeout(() => searchResults.classList.remove('active'), 200);
     });
+
+    // Parent company link
+    const parentLink = document.getElementById('parentCompanyLink');
+    if (parentLink) {
+        parentLink.addEventListener('click', () => {
+            const slug = parentLink.dataset.slug;
+            if (slug) navigateToEntity(slug);
+        });
+    }
 }
 
 // Render company list with pagination
@@ -261,7 +270,38 @@ function showEntity(slug) {
         tickerEl.style.display = 'none';
     }
 
-    document.getElementById('entityType').textContent = entity.isPublic ? 'Public Company' : 'Entity';
+    // Entity type and ownership badges
+    const entityTypeEl = document.getElementById('entityType');
+    const entityType = entity.entityType || 'unknown';
+
+    if (entityType === 'product' || entityType === 'division') {
+        entityTypeEl.textContent = entityType === 'division' ? 'Division' : 'Product';
+        entityTypeEl.className = 'type-badge product';
+    } else if (entity.isPublic) {
+        entityTypeEl.textContent = 'Public Company';
+        entityTypeEl.className = 'type-badge public';
+    } else if (entity.ownership === 'private') {
+        entityTypeEl.textContent = 'Private Company';
+        entityTypeEl.className = 'type-badge private';
+    } else {
+        entityTypeEl.textContent = 'Entity';
+        entityTypeEl.className = 'type-badge';
+    }
+
+    // Parent company link for products
+    const parentSection = document.getElementById('parentCompanySection');
+    if (parentSection) {
+        if (entity.parentCompany && entity.parentSlug) {
+            document.getElementById('parentCompanyName').textContent = entity.parentCompany;
+            document.getElementById('parentCompanyLink').dataset.slug = entity.parentSlug;
+            parentSection.style.display = '';
+        } else {
+            parentSection.style.display = 'none';
+        }
+    }
+
+    // Financial stats - will be updated per year
+    updateFinancialStats(entity, null);
 
     // Stats
     document.getElementById('statCompetitors').textContent = entity.competitors?.length || 0;
@@ -336,6 +376,7 @@ function renderYearSelector(entity) {
     // Set initial year
     state.selectedYear = years[0];
     renderYearContent(entity, years[0]);
+    updateFinancialStats(entity, years[0]);
 
     // Year tab clicks
     container.querySelectorAll('.year-tab').forEach(tab => {
@@ -344,6 +385,7 @@ function renderYearSelector(entity) {
             tab.classList.add('active');
             state.selectedYear = tab.dataset.year;
             renderYearContent(entity, tab.dataset.year);
+            updateFinancialStats(entity, tab.dataset.year);
         });
     });
 }
@@ -361,14 +403,28 @@ function renderYearContent(entity, year) {
             ${data.competitors.map(comp => {
                 const compSlug = createSlug(comp.name);
                 const compEntity = entityMap.get(compSlug);
+                const entityType = compEntity?.entityType || 'unknown';
+                const isProduct = entityType === 'product' || entityType === 'division';
                 const isPublic = compEntity?.isPublic || false;
+
+                // Get year-specific financials
+                const yearFin = getCompetitorFinancials(compSlug, year);
+                const revenueDisplay = yearFin?.revenue || yearFin?.revenue_2024 || null;
+                const mcDisplay = yearFin?.market_cap || null;
+
+                const badgeClass = isProduct ? 'competitor-product' : (isPublic ? 'competitor-public' : '');
+                const badgeText = isProduct ? (entityType === 'division' ? 'Division' : 'Product') : (isPublic ? 'Public' : '');
+
                 return `
-                    <div class="competitor-item" data-slug="${encodeURIComponent(compSlug)}">
+                    <div class="competitor-item ${isProduct ? 'is-product' : ''}" data-slug="${encodeURIComponent(compSlug)}">
                         <div class="competitor-header">
                             <span class="competitor-name">${comp.name}</span>
-                            ${isPublic ? '<span class="competitor-public">Public</span>' : ''}
+                            ${badgeText ? `<span class="${badgeClass}">${badgeText}</span>` : ''}
+                            ${revenueDisplay ? `<span class="competitor-revenue">${revenueDisplay}</span>` : ''}
+                            ${mcDisplay ? `<span class="competitor-mcap">${mcDisplay}</span>` : ''}
                         </div>
                         ${comp.notes ? `<p class="competitor-notes">${comp.notes}</p>` : ''}
+                        ${isProduct && compEntity?.parentCompany ? `<p class="competitor-parent">Product of ${compEntity.parentCompany}</p>` : ''}
                     </div>
                 `;
             }).join('')}
@@ -434,18 +490,32 @@ function renderCompetitorsSummary(entity) {
 
     section.style.display = '';
 
-    // Sort: public first, then alphabetical
+    // Sort: companies by market cap (highest first), products at end
     const sorted = [...competitors].sort((a, b) => {
-        if (a.isPublic !== b.isPublic) return a.isPublic ? -1 : 1;
+        const aIsProduct = a.entityType === 'product' || a.entityType === 'division';
+        const bIsProduct = b.entityType === 'product' || b.entityType === 'division';
+        if (aIsProduct !== bIsProduct) return aIsProduct ? 1 : -1;
+        const aMcap = a.financials?.market_cap_raw || 0;
+        const bMcap = b.financials?.market_cap_raw || 0;
+        if (aMcap !== bMcap) return bMcap - aMcap;
         return a.name.localeCompare(b.name);
     });
 
-    container.innerHTML = sorted.map(comp => `
-        <div class="competitor-chip" data-slug="${encodeURIComponent(comp.slug)}">
-            <span>${comp.name}</span>
-            ${comp.ticker ? `<span class="chip-ticker">${comp.ticker}</span>` : ''}
-        </div>
-    `).join('');
+    container.innerHTML = sorted.map(comp => {
+        const typeClass = comp.entityType === 'product' || comp.entityType === 'division'
+            ? 'chip-product'
+            : (comp.isPublic ? 'chip-public' : '');
+        const revenueLabel = comp.financials?.revenue_2024
+            ? `<span class="chip-revenue">${comp.financials.revenue_2024}</span>`
+            : '';
+        return `
+            <div class="competitor-chip ${typeClass}" data-slug="${encodeURIComponent(comp.slug)}">
+                <span class="chip-name">${comp.name}</span>
+                ${comp.ticker ? `<span class="chip-ticker">${comp.ticker}</span>` : ''}
+                ${revenueLabel}
+            </div>
+        `;
+    }).join('');
 
     // Add click handlers
     container.querySelectorAll('.competitor-chip').forEach(chip => {
@@ -492,6 +562,54 @@ function renderCitations(entity) {
             navigateToEntity(decodeURIComponent(item.dataset.slug));
         });
     });
+}
+
+// Update financial stats for a given year
+function updateFinancialStats(entity, year) {
+    const financialSection = document.getElementById('financialStats');
+    const revLabel = document.querySelector('#financialStats .financial-label');
+
+    if (!financialSection) return;
+
+    // Try to get year-specific financials first
+    let yearFin = null;
+    if (year && entity.financialsByYear && entity.financialsByYear[year]) {
+        yearFin = entity.financialsByYear[year];
+    }
+
+    // Fall back to latest financials if no year-specific data
+    const fin = yearFin || entity.financials;
+
+    if (fin && (fin.revenue || fin.revenue_2024 || fin.market_cap)) {
+        const revenue = fin.revenue || fin.revenue_2024 || 'N/A';
+        const marketCap = fin.market_cap || 'N/A';
+
+        document.getElementById('statRevenue').textContent = revenue;
+        document.getElementById('statMarketCap').textContent = marketCap;
+
+        // Update label to show year
+        if (revLabel) {
+            revLabel.textContent = year ? `Revenue (${year})` : 'Revenue (Latest)';
+        }
+
+        financialSection.style.display = '';
+    } else {
+        financialSection.style.display = 'none';
+    }
+}
+
+// Get year-specific financials for a competitor
+function getCompetitorFinancials(compSlug, year) {
+    const compEntity = entityMap.get(compSlug);
+    if (!compEntity) return null;
+
+    // Try year-specific first
+    if (year && compEntity.financialsByYear && compEntity.financialsByYear[year]) {
+        return compEntity.financialsByYear[year];
+    }
+
+    // Fall back to latest
+    return compEntity.financials;
 }
 
 // Utilities

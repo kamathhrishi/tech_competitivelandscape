@@ -9,6 +9,63 @@ const path = require('path');
 
 const DATA_DIR = path.join(__dirname, 'competitor_searches');
 const OUTPUT_FILE = path.join(__dirname, 'data.js');
+const FINANCIALS_FILE = path.join(__dirname, 'competitor_financials.json');
+
+// Load financial data
+function loadFinancials() {
+  try {
+    if (fs.existsSync(FINANCIALS_FILE)) {
+      const data = JSON.parse(fs.readFileSync(FINANCIALS_FILE, 'utf8'));
+      console.log(`Loaded financial data for ${Object.keys(data.entities).length} entities`);
+      return data.entities;
+    }
+  } catch (err) {
+    console.warn('Warning: Could not load financials file:', err.message);
+  }
+  return {};
+}
+
+// Get financial data for an entity by trying multiple slug variations
+function getFinancialData(financials, name, slug) {
+  // Try exact slug match first
+  if (financials[slug]) return financials[slug];
+
+  // Try normalized name as slug
+  const nameSlug = createSlug(name);
+  if (financials[nameSlug]) return financials[nameSlug];
+
+  // Try common variations
+  const variations = [
+    slug.replace(/-+/g, '-'),
+    nameSlug.replace(/-inc$/, ''),
+    nameSlug.replace(/-corp$/, ''),
+    nameSlug.replace(/-llc$/, ''),
+  ];
+
+  for (const v of variations) {
+    if (financials[v]) return financials[v];
+  }
+
+  return null;
+}
+
+// Get the latest year's financial data from financials_by_year
+function getLatestFinancials(finData) {
+  if (!finData || !finData.financials_by_year) return null;
+
+  const years = Object.keys(finData.financials_by_year).sort((a, b) => parseInt(b) - parseInt(a));
+  if (years.length === 0) return null;
+
+  const latestYear = years[0];
+  const latest = finData.financials_by_year[latestYear];
+
+  return {
+    revenue_2024: latest.revenue || null,
+    market_cap: latest.market_cap || null,
+    revenue_raw: latest.revenue_raw || null,
+    market_cap_raw: latest.market_cap_raw || null
+  };
+}
 
 // Normalize company names for matching
 function normalizeCompanyName(name) {
@@ -30,6 +87,7 @@ function createSlug(name) {
 // Main compilation
 function compileData() {
   const files = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
+  const financials = loadFinancials();
 
   // Entity maps
   const publicCompanies = new Map(); // ticker -> company data
@@ -47,11 +105,19 @@ function compileData() {
     const ticker = data.ticker;
 
     if (!publicCompanies.has(ticker)) {
+      const finData = getFinancialData(financials, data.company, slug);
+      const latestFin = getLatestFinancials(finData);
       publicCompanies.set(ticker, {
         slug,
         name: data.company,
         ticker,
         isPublic: true,
+        entityType: finData?.type || 'company',
+        ownership: 'public',
+        parentCompany: finData?.parent_company || null,
+        parentSlug: finData?.parent_slug || null,
+        financials: latestFin,
+        financialsByYear: finData?.financials_by_year || null,
         years: {},
         mentionedBy: [],
         competitors: []
@@ -93,11 +159,22 @@ function compileData() {
         // If not found, create as non-public entity
         if (!competitorEntity) {
           if (!allEntities.has(competitorSlug)) {
+            const finData = getFinancialData(financials, competitor.name, competitorSlug);
+            const entityType = finData?.type || 'unknown';
+            const ownership = finData?.ownership || (entityType === 'product' ? null : 'private');
+            const latestFin = getLatestFinancials(finData);
+
             allEntities.set(competitorSlug, {
               slug: competitorSlug,
               name: competitor.name,
-              ticker: null,
-              isPublic: false,
+              ticker: finData?.ticker || null,
+              isPublic: ownership === 'public',
+              entityType: entityType,
+              ownership: ownership,
+              parentCompany: finData?.parent_company || null,
+              parentSlug: finData?.parent_slug || null,
+              financials: latestFin,
+              financialsByYear: finData?.financials_by_year || null,
               mentionedBy: [],
               competitors: [],
               notes: {}
@@ -142,7 +219,11 @@ function compileData() {
             slug: competitorEntity.slug,
             name: competitorEntity.name,
             ticker: competitorEntity.ticker,
-            isPublic: competitorEntity.isPublic
+            isPublic: competitorEntity.isPublic,
+            entityType: competitorEntity.entityType,
+            parentSlug: competitorEntity.parentSlug,
+            financials: competitorEntity.financials,
+            financialsByYear: competitorEntity.financialsByYear
           });
         }
       }
@@ -155,6 +236,25 @@ function compileData() {
   // Build category/industry inference from context
   const industries = inferIndustries(publicCompanies);
 
+  // Count entity types
+  let companyCount = 0;
+  let productCount = 0;
+  let unknownCount = 0;
+  let withFinancialsCount = 0;
+
+  for (const entity of allEntities.values()) {
+    if (entity.entityType === 'company' || entity.entityType === 'division') {
+      companyCount++;
+    } else if (entity.entityType === 'product') {
+      productCount++;
+    } else {
+      unknownCount++;
+    }
+    if (entity.financials && entity.financials.revenue_2024) {
+      withFinancialsCount++;
+    }
+  }
+
   // Convert to arrays for output
   const output = {
     meta: {
@@ -162,6 +262,10 @@ function compileData() {
       totalEntities: allEntities.size,
       publicCompanies: publicCompanies.size,
       privateEntities: allEntities.size - publicCompanies.size,
+      companies: companyCount,
+      products: productCount,
+      unknown: unknownCount,
+      withFinancials: withFinancialsCount,
       totalRelationships: relationships.length
     },
     entities: Array.from(allEntities.values()).sort((a, b) => {
@@ -185,6 +289,9 @@ if (typeof module !== 'undefined') module.exports = COMPETITOR_DATA;
   console.log(`\nWritten to ${OUTPUT_FILE}`);
   console.log(`  - ${output.meta.publicCompanies} public companies`);
   console.log(`  - ${output.meta.privateEntities} private/other entities`);
+  console.log(`  - ${output.meta.companies} classified as companies`);
+  console.log(`  - ${output.meta.products} classified as products`);
+  console.log(`  - ${output.meta.withFinancials} with financial data`);
   console.log(`  - ${output.meta.totalRelationships} relationships`);
 }
 
