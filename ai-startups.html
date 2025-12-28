@@ -1,0 +1,1121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0RD4HFWXR0"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-0RD4HFWXR0');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Companies Database · 2025</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        /* AI Startups specific styles */
+        .filter-bar {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 0 2rem 1.5rem;
+            display: flex;
+            gap: 0.75rem;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .filter-bar label {
+            font-size: 0.8125rem;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+
+        .filter-bar select {
+            padding: 0.5rem 2rem 0.5rem 0.75rem;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            background: var(--bg);
+            font-size: 0.875rem;
+            color: var(--text);
+            cursor: pointer;
+            min-width: 180px;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+        }
+
+        .filter-bar select:hover {
+            border-color: var(--text-muted);
+        }
+
+        .filter-bar select:focus {
+            outline: none;
+            border-color: var(--text);
+        }
+
+        .filter-spacer {
+            flex: 1;
+        }
+
+        .quick-filters {
+            display: flex;
+            gap: 0.375rem;
+        }
+
+        .quick-filter-btn {
+            padding: 0.375rem 0.625rem;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            background: var(--bg);
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: var(--text-muted);
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        .quick-filter-btn:hover {
+            border-color: var(--text-muted);
+            color: var(--text-secondary);
+        }
+
+        .quick-filter-btn.active {
+            background: var(--text);
+            color: var(--bg);
+            border-color: var(--text);
+        }
+
+        .company-row {
+            display: flex;
+            align-items: center;
+            padding: 0.875rem 0;
+            cursor: pointer;
+            gap: 1rem;
+            transition: opacity 0.1s ease;
+            border-bottom: 1px solid var(--border-light);
+        }
+
+        .company-row:hover {
+            opacity: 0.6;
+        }
+
+        .company-rank {
+            font-family: var(--mono);
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            min-width: 2rem;
+        }
+
+        .company-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .company-name {
+            font-weight: 400;
+            font-size: 0.9375rem;
+            color: var(--text);
+            margin-bottom: 0.125rem;
+        }
+
+        .company-category {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        .company-valuation {
+            font-family: var(--mono);
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: var(--text);
+            text-align: right;
+        }
+
+        .product-badge {
+            font-size: 0.625rem;
+            font-weight: 500;
+            color: var(--text-muted);
+            background: var(--border);
+            padding: 0.125rem 0.375rem;
+            border-radius: var(--radius-sm);
+            margin-left: 0.5rem;
+            vertical-align: middle;
+        }
+
+        .product-row {
+            opacity: 0.85;
+        }
+
+        .entity-type-badge {
+            display: inline-block;
+            font-size: 0.6875rem;
+            font-weight: 500;
+            padding: 0.25rem 0.5rem;
+            border-radius: var(--radius-sm);
+            margin-left: 0.75rem;
+            vertical-align: middle;
+        }
+
+        .entity-type-badge.company {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+
+        .entity-type-badge.product {
+            background: #fff3e0;
+            color: #e65100;
+        }
+
+        .parent-company-link {
+            color: var(--text);
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        .parent-company-link:hover {
+            opacity: 0.7;
+        }
+
+        .company-valuation-label {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            font-weight: 400;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        .valuation-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        /* Results bar */
+        .results-bar {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 0 2rem 0.75rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .results-count {
+            font-size: 0.8125rem;
+            color: var(--text-muted);
+        }
+
+        .results-bar select {
+            padding: 0.375rem 1.75rem 0.375rem 0.625rem;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            background: var(--bg);
+            font-size: 0.8125rem;
+            color: var(--text-secondary);
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 12 12'%3E%3Cpath fill='%23888' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.5rem center;
+        }
+
+        /* Website link */
+        .website-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.375rem;
+            color: var(--text);
+            text-decoration: none;
+            font-size: 0.875rem;
+            padding: 0.5rem 1rem;
+            background: var(--bg-subtle);
+            border-radius: var(--radius-sm);
+            margin-top: 1rem;
+            transition: opacity 0.15s ease;
+        }
+
+        .website-link:hover {
+            opacity: 0.7;
+        }
+
+        .website-link svg {
+            width: 14px;
+            height: 14px;
+        }
+
+        /* Entity View for AI Startups */
+        .startup-header {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .startup-valuation-box {
+            background: var(--bg-subtle);
+            border-radius: var(--radius-md);
+            padding: 1.5rem 2rem;
+            margin: 1.5rem 0;
+            text-align: center;
+            border-left: 3px solid var(--text);
+        }
+
+        .startup-valuation-amount {
+            font-family: var(--mono);
+            font-size: 2rem;
+            font-weight: 600;
+            color: var(--text);
+            margin-bottom: 0.25rem;
+        }
+
+        .startup-valuation-note {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        .startup-info-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .startup-info-item {
+            text-align: center;
+            padding: 1rem;
+            background: var(--bg-subtle);
+            border-radius: var(--radius-sm);
+        }
+
+        .startup-info-value {
+            font-size: 1rem;
+            font-weight: 500;
+            color: var(--text);
+            margin-bottom: 0.25rem;
+        }
+
+        .startup-info-label {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .startup-section {
+            margin: 2rem 0;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--border-light);
+        }
+
+        .startup-section h3 {
+            font-size: 0.7rem;
+            font-weight: 500;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+        }
+
+        .startup-section p {
+            font-size: 0.9375rem;
+            line-height: 1.7;
+            color: var(--text-secondary);
+        }
+
+        .tag-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .tag {
+            display: inline-block;
+            font-size: 0.8125rem;
+            color: var(--text-secondary);
+            background: var(--bg-subtle);
+            padding: 0.375rem 0.75rem;
+            border-radius: var(--radius-sm);
+        }
+
+        .competitor-row {
+            display: flex;
+            align-items: center;
+            padding: 0.625rem 0;
+            border-bottom: 1px solid var(--border-light);
+            cursor: pointer;
+            transition: opacity 0.1s ease;
+        }
+
+        .competitor-row:hover {
+            opacity: 0.6;
+        }
+
+        .competitor-row:last-child {
+            border-bottom: none;
+        }
+
+        .competitor-row .comp-name {
+            flex: 1;
+            font-size: 0.9375rem;
+        }
+
+        .competitor-row .comp-type {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            color: var(--text-muted);
+            margin-left: 0.5rem;
+        }
+
+        .competitor-row .comp-valuation {
+            font-family: var(--mono);
+            font-size: 0.8125rem;
+            color: var(--text-muted);
+        }
+
+        .external-badge {
+            font-size: 0.6rem;
+            padding: 0.125rem 0.375rem;
+            background: var(--bg-hover);
+            border-radius: 2px;
+            color: var(--text-muted);
+            margin-left: 0.5rem;
+        }
+
+        @media (max-width: 768px) {
+            .startup-info-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .filter-bar {
+                padding: 0 1.5rem 1.25rem;
+            }
+
+            .results-bar {
+                padding: 0 1.5rem 0.75rem;
+            }
+
+            .filter-spacer {
+                display: none;
+            }
+
+            .quick-filters {
+                width: 100%;
+                justify-content: flex-start;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .startup-info-grid {
+                grid-template-columns: 1fr 1fr;
+                gap: 0.75rem;
+            }
+
+            .startup-valuation-amount {
+                font-size: 1.5rem;
+            }
+
+            .filter-bar {
+                padding: 0 1rem 1rem;
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .filter-bar select {
+                width: 100%;
+            }
+
+            .results-bar {
+                padding: 0 1rem 0.75rem;
+                flex-direction: column;
+                gap: 0.5rem;
+                align-items: flex-start;
+            }
+
+            .quick-filters {
+                flex-wrap: wrap;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="loading-overlay active">
+        <div class="loading-content">
+            <div class="loading-spinner"></div>
+            <div class="loading-text">Loading...</div>
+        </div>
+    </div>
+
+    <!-- Home View -->
+    <div id="homeView" class="view active">
+        <header class="page-header">
+            <div class="header-title">
+                <h1>AI Companies Database</h1>
+                <p class="subtitle">AI Companies & Valuations · December 2025</p>
+            </div>
+            <div class="header-controls">
+                <div class="search-container">
+                    <input type="text" id="globalSearch" placeholder="Search companies..." autocomplete="off">
+                    <div id="searchResults" class="search-dropdown"></div>
+                </div>
+                <a href="index.html" class="about-link">Public Companies</a>
+                <a href="#about" class="about-link" onclick="showAbout(); return false;">About</a>
+            </div>
+        </header>
+
+        <!-- Filter Bar -->
+        <div class="filter-bar">
+            <select id="categorySelect">
+                <option value="">All Categories</option>
+                <!-- Populated by JS -->
+            </select>
+            <select id="entityTypeSelect">
+                <option value="company">Companies</option>
+                <option value="product">Products</option>
+                <option value="all">All</option>
+            </select>
+            <select id="sortSelect">
+                <option value="valuation">By Valuation</option>
+                <option value="name">By Name</option>
+                <option value="founded">By Founded</option>
+            </select>
+            <div class="filter-spacer"></div>
+            <div class="quick-filters">
+                <button class="quick-filter-btn active" data-category="">All</button>
+                <button class="quick-filter-btn" data-category="foundation_models">LLMs</button>
+                <button class="quick-filter-btn" data-category="code_assistants">Code</button>
+                <button class="quick-filter-btn" data-category="image_generation">Image</button>
+                <button class="quick-filter-btn" data-category="video_generation">Video</button>
+            </div>
+        </div>
+
+        <!-- Results Bar -->
+        <div class="results-bar">
+            <span class="results-count"><span id="resultsCount">0</span> results · <span id="entityCounts"></span></span>
+        </div>
+
+        <div class="company-list" id="companyList">
+            <!-- Populated by JS -->
+        </div>
+
+        <div class="pagination" id="pagination">
+            <!-- Populated by JS -->
+        </div>
+    </div>
+
+    <!-- Entity Detail View -->
+    <div id="entityView" class="view">
+        <nav class="breadcrumb">
+            <a href="#" onclick="showHome(); return false;">← All Startups</a>
+        </nav>
+
+        <article class="entity-article">
+            <header class="startup-header">
+                <div class="entity-meta">
+                    <span id="entityCategory" class="type-badge"></span>
+                    <span id="entityRank" class="ticker"></span>
+                </div>
+                <h1 id="entityName"></h1>
+
+                <!-- Valuation Box -->
+                <div class="startup-valuation-box">
+                    <div class="valuation-date" id="entityValuationDate">As of December 2025</div>
+                    <div class="startup-valuation-amount" id="entityValuation"></div>
+                    <div class="startup-valuation-note" id="entityValuationNote"></div>
+                </div>
+
+                <!-- Website Link -->
+                <a id="entityWebsite" href="#" target="_blank" class="website-link" style="display: none;">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <line x1="2" y1="12" x2="22" y2="12"></line>
+                        <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+                    </svg>
+                    <span id="entityWebsiteText">Visit Website</span>
+                </a>
+
+                <!-- Info Grid -->
+                <div class="startup-info-grid">
+                    <div class="startup-info-item">
+                        <div class="startup-info-value" id="entityFounded"></div>
+                        <div class="startup-info-label">Founded</div>
+                    </div>
+                    <div class="startup-info-item">
+                        <div class="startup-info-value" id="entityHQ"></div>
+                        <div class="startup-info-label">Headquarters</div>
+                    </div>
+                    <div class="startup-info-item">
+                        <div class="startup-info-value" id="entityEmployees"></div>
+                        <div class="startup-info-label">Employees</div>
+                    </div>
+                    <div class="startup-info-item">
+                        <div class="startup-info-value" id="entityRevenue"></div>
+                        <div class="startup-info-label">Revenue</div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Description -->
+            <div class="startup-section" id="descriptionSection">
+                <h3>About</h3>
+                <p id="entityDescription"></p>
+            </div>
+
+            <!-- Founders -->
+            <div class="startup-section" id="foundersSection">
+                <h3>Founders</h3>
+                <p id="entityFounders"></p>
+            </div>
+
+            <!-- Products -->
+            <div class="startup-section" id="productsSection">
+                <h3>Key Products</h3>
+                <div class="tag-list" id="entityProducts"></div>
+            </div>
+
+            <!-- Investors -->
+            <div class="startup-section" id="investorsSection">
+                <h3>Key Investors</h3>
+                <div class="tag-list" id="entityInvestors"></div>
+            </div>
+
+            <!-- Competitors -->
+            <section class="startup-section" id="competitorsSection">
+                <h3>Key Competitors</h3>
+                <div id="competitorsList"></div>
+            </section>
+        </article>
+    </div>
+
+    <!-- About View -->
+    <div id="aboutView" class="view">
+        <nav class="breadcrumb">
+            <a href="#" onclick="showHome(); return false;">← Back to Database</a>
+        </nav>
+
+        <article class="entity-article">
+            <header style="margin-bottom: 2rem;">
+                <h1>About This Database</h1>
+            </header>
+
+            <div class="startup-section" style="border-top: none; padding-top: 0;">
+                <h3>What is this?</h3>
+                <p>This is a comprehensive database of AI companies and their products, tracking valuations, competitors, and key information across the AI ecosystem. It covers foundation model companies, creative AI tools, developer platforms, enterprise solutions, robotics, healthcare AI, and more.</p>
+            </div>
+
+            <div class="startup-section">
+                <h3>Data Coverage</h3>
+                <p id="aboutStats"></p>
+            </div>
+
+            <div class="startup-section">
+                <h3>Categories</h3>
+                <p>Companies are organized into 37 categories across major sectors including:</p>
+                <div class="tag-list" style="margin-top: 1rem;" id="aboutCategories"></div>
+            </div>
+
+            <div class="startup-section">
+                <h3>Related</h3>
+                <p>
+                    <a href="index.html" style="color: var(--text); text-decoration: underline;">Public Companies Database</a> —
+                    Explore Russell 1000 public companies with market caps, competitors, and financial data.
+                </p>
+            </div>
+
+            <div class="startup-section">
+                <h3>Last Updated</h3>
+                <p id="aboutUpdated">December 2025</p>
+            </div>
+        </article>
+    </div>
+
+    <script>
+        let companiesData = null;
+        let categoriesData = [];
+        let metaData = null;
+        let activeCategory = null;
+        let currentPage = 1;
+        const perPage = 25;
+
+        async function loadData() {
+            try {
+                const response = await fetch('../data/ai_startups.json');
+                const data = await response.json();
+                companiesData = data.companies;
+                categoriesData = data.categories;
+                metaData = data.meta;
+                initializeApp();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('companyList').innerHTML = `
+                    <div style="text-align: center; padding: 3rem; color: var(--text-muted);">
+                        Error loading data.
+                    </div>
+                `;
+                document.getElementById('loadingOverlay').classList.remove('active');
+            }
+        }
+
+        function initializeApp() {
+            renderCategories();
+            updateEntityCounts();
+            renderCompanyList();
+            setupEventListeners();
+            document.getElementById('loadingOverlay').classList.remove('active');
+        }
+
+        function renderCategories() {
+            // Populate category dropdown
+            const select = document.getElementById('categorySelect');
+            let optionsHtml = '<option value="">All Categories</option>';
+
+            // Group categories
+            const groups = {
+                'AI Models & Research': ['foundation_models', 'ml_platforms', 'ai_frameworks'],
+                'Creative AI': ['image_generation', 'video_generation', 'voice_audio', 'music_generation', 'creative_3d'],
+                'Developer Tools': ['code_assistants', 'ai_coding_agents', 'dev_platforms'],
+                'Enterprise': ['business_intelligence', 'customer_support', 'sales_marketing', 'hr_recruiting', 'legal_ai', 'workflow_automation', 'business_agents'],
+                'Infrastructure': ['cloud_compute', 'hardware', 'vector_db'],
+                'Healthcare': ['clinical_ai', 'drug_discovery', 'medical_imaging'],
+                'Robotics & Autonomy': ['humanoid_robots', 'industrial_robots', 'delivery_robots', 'autonomous_vehicles'],
+                'Other': ['search', 'security', 'fintech', 'defense', 'ai_companions', 'design_tools', 'quantum', 'climate', 'education']
+            };
+
+            for (const [groupName, catIds] of Object.entries(groups)) {
+                const groupCats = catIds.map(id => categoriesData.find(c => c.id === id)).filter(Boolean);
+                if (groupCats.length > 0) {
+                    optionsHtml += `<optgroup label="${groupName}">`;
+                    groupCats.forEach(cat => {
+                        const count = Object.values(companiesData).filter(c => c.category === cat.id && c.entity_type !== 'product').length;
+                        optionsHtml += `<option value="${cat.id}" ${activeCategory === cat.id ? 'selected' : ''}>${cat.name} (${count})</option>`;
+                    });
+                    optionsHtml += '</optgroup>';
+                }
+            }
+
+            // Add any remaining categories not in groups
+            const groupedIds = Object.values(groups).flat();
+            const remaining = categoriesData.filter(c => !groupedIds.includes(c.id));
+            if (remaining.length > 0) {
+                optionsHtml += '<optgroup label="Other">';
+                remaining.forEach(cat => {
+                    const count = Object.values(companiesData).filter(c => c.category === cat.id && c.entity_type !== 'product').length;
+                    optionsHtml += `<option value="${cat.id}" ${activeCategory === cat.id ? 'selected' : ''}>${cat.name} (${count})</option>`;
+                });
+                optionsHtml += '</optgroup>';
+            }
+
+            select.innerHTML = optionsHtml;
+
+            // Update quick filter buttons
+            document.querySelectorAll('.quick-filter-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.category === (activeCategory || ''));
+            });
+        }
+
+        function getFilteredCompanies() {
+            let companies = Object.values(companiesData);
+
+            // Filter by entity type
+            const entityType = document.getElementById('entityTypeSelect').value;
+            if (entityType === 'company') {
+                companies = companies.filter(c => c.entity_type !== 'product');
+            } else if (entityType === 'product') {
+                companies = companies.filter(c => c.entity_type === 'product');
+            }
+
+            // Filter by search
+            const searchTerm = document.getElementById('globalSearch').value.toLowerCase();
+            if (searchTerm) {
+                companies = companies.filter(c =>
+                    c.name.toLowerCase().includes(searchTerm) ||
+                    c.description.toLowerCase().includes(searchTerm)
+                );
+            }
+
+            // Filter by category
+            if (activeCategory) {
+                companies = companies.filter(c => c.category === activeCategory);
+            }
+
+            // Sort
+            const sortBy = document.getElementById('sortSelect').value;
+            companies.sort((a, b) => {
+                if (sortBy === 'valuation') {
+                    // Products without valuation go to the end
+                    const aVal = a.valuation_raw || 0;
+                    const bVal = b.valuation_raw || 0;
+                    return bVal - aVal;
+                }
+                if (sortBy === 'name') return a.name.localeCompare(b.name);
+                if (sortBy === 'founded') return (a.founding_year || 0) - (b.founding_year || 0);
+                return 0;
+            });
+
+            return companies;
+        }
+
+        function updateEntityCounts() {
+            const allCompanies = Object.values(companiesData);
+            const companies = allCompanies.filter(c => c.entity_type !== 'product');
+            const productCount = allCompanies.filter(c => c.entity_type === 'product').length;
+
+            // Calculate total valuation of private companies
+            const totalValuation = companies.reduce((sum, c) => sum + (c.valuation_raw || 0), 0);
+            const formattedTotal = totalValuation >= 1e12
+                ? `$${(totalValuation / 1e12).toFixed(2)}T`
+                : `$${(totalValuation / 1e9).toFixed(0)}B`;
+
+            document.getElementById('entityCounts').innerHTML = `${companies.length} companies · ${productCount} products · <strong>${formattedTotal}</strong> total valuation`;
+        }
+
+        function getCategoryName(catId) {
+            const cat = categoriesData.find(c => c.id === catId);
+            return cat ? cat.name : 'AI';
+        }
+
+        function renderCompanyList() {
+            const allCompanies = getFilteredCompanies();
+            const container = document.getElementById('companyList');
+            const totalPages = Math.ceil(allCompanies.length / perPage);
+
+            // Ensure current page is valid
+            if (currentPage > totalPages) currentPage = 1;
+
+            // Get paginated subset
+            const start = (currentPage - 1) * perPage;
+            const companies = allCompanies.slice(start, start + perPage);
+
+            // Update count
+            document.getElementById('resultsCount').textContent = allCompanies.length;
+
+            // Get global rank for each company
+            const allSorted = Object.values(companiesData).sort((a, b) => b.valuation_raw - a.valuation_raw);
+            const rankMap = {};
+            allSorted.forEach((c, i) => rankMap[c.id] = i + 1);
+
+            if (companies.length === 0) {
+                container.innerHTML = `
+                    <div style="text-align: center; padding: 3rem; color: var(--text-muted);">
+                        No startups found.
+                    </div>
+                `;
+                document.getElementById('pagination').innerHTML = '';
+                return;
+            }
+
+            container.innerHTML = companies.map(company => {
+                const isProduct = company.entity_type === 'product';
+                const rightLabel = isProduct ? 'Product of' : 'Valuation';
+                const rightValue = isProduct ? company.parent_company : company.valuation;
+                const typeClass = isProduct ? 'product-row' : 'company-row-type';
+
+                return `
+                <div class="company-row ${typeClass}" onclick="showEntity('${company.id}')">
+                    <span class="company-rank">${isProduct ? '—' : '#' + rankMap[company.id]}</span>
+                    <div class="company-info">
+                        <div class="company-name">${company.name}${isProduct ? ' <span class="product-badge">Product</span>' : ''}</div>
+                        <div class="company-category">${getCategoryName(company.category)}</div>
+                    </div>
+                    <div style="text-align: right;">
+                        <div class="company-valuation">${rightValue || 'N/A'}</div>
+                        <div class="company-valuation-label">${rightLabel}</div>
+                    </div>
+                </div>
+            `}).join('');
+
+            // Render pagination
+            renderPagination(totalPages, allCompanies.length);
+        }
+
+        function renderPagination(totalPages, totalItems) {
+            const container = document.getElementById('pagination');
+            if (totalPages <= 1) {
+                container.innerHTML = '';
+                return;
+            }
+
+            let html = '';
+
+            // Previous button
+            html += `<button class="page-btn" ${currentPage === 1 ? 'disabled' : ''} onclick="goToPage(${currentPage - 1})">←</button>`;
+
+            // Page numbers
+            for (let i = 1; i <= totalPages; i++) {
+                if (i === 1 || i === totalPages || (i >= currentPage - 1 && i <= currentPage + 1)) {
+                    html += `<button class="page-btn ${i === currentPage ? 'active' : ''}" onclick="goToPage(${i})">${i}</button>`;
+                } else if (i === currentPage - 2 || i === currentPage + 2) {
+                    html += `<span class="page-ellipsis">...</span>`;
+                }
+            }
+
+            // Next button
+            html += `<button class="page-btn" ${currentPage === totalPages ? 'disabled' : ''} onclick="goToPage(${currentPage + 1})">→</button>`;
+
+            // Page info
+            const start = (currentPage - 1) * perPage + 1;
+            const end = Math.min(currentPage * perPage, totalItems);
+            html += `<span class="page-info">${start}–${end} of ${totalItems}</span>`;
+
+            container.innerHTML = html;
+        }
+
+        function goToPage(page) {
+            currentPage = page;
+            renderCompanyList();
+            window.scrollTo(0, 0);
+        }
+
+        function showEntity(companyId) {
+            const company = companiesData[companyId];
+            if (!company) return;
+
+            const isProduct = company.entity_type === 'product';
+
+            // Calculate rank (only for companies)
+            const allSorted = Object.values(companiesData)
+                .filter(c => c.entity_type !== 'product')
+                .sort((a, b) => (b.valuation_raw || 0) - (a.valuation_raw || 0));
+            const rank = isProduct ? null : allSorted.findIndex(c => c.id === companyId) + 1;
+
+            // Populate header
+            document.getElementById('entityCategory').textContent = getCategoryName(company.category);
+            document.getElementById('entityRank').textContent = isProduct ? '' : `#${rank}`;
+
+            // Add entity type badge
+            const typeBadge = isProduct
+                ? '<span class="entity-type-badge product">Product</span>'
+                : '<span class="entity-type-badge company">Company</span>';
+            document.getElementById('entityName').innerHTML = company.name + typeBadge;
+
+            // Valuation section - different for products
+            if (isProduct) {
+                document.getElementById('entityValuationDate').textContent = 'Part of';
+                const parentLink = company.parent_company_id
+                    ? `<span class="parent-company-link" onclick="event.stopPropagation(); showEntity('${company.parent_company_id}')">${company.parent_company}</span>`
+                    : company.parent_company;
+                document.getElementById('entityValuation').innerHTML = parentLink;
+                document.getElementById('entityValuationNote').textContent = 'This is a product/division, not a standalone company';
+            } else {
+                document.getElementById('entityValuationDate').textContent = `As of ${metaData?.last_updated || 'December 2025'}`;
+                document.getElementById('entityValuation').textContent = company.valuation;
+                document.getElementById('entityValuationNote').textContent = company.valuation_note || '';
+            }
+
+            // Website link
+            const websiteEl = document.getElementById('entityWebsite');
+            if (company.website) {
+                websiteEl.href = company.website;
+                websiteEl.style.display = 'inline-flex';
+                // Show domain name
+                try {
+                    const domain = new URL(company.website).hostname.replace('www.', '');
+                    document.getElementById('entityWebsiteText').textContent = domain;
+                } catch {
+                    document.getElementById('entityWebsiteText').textContent = 'Visit Website';
+                }
+            } else {
+                websiteEl.style.display = 'none';
+            }
+
+            // Info grid
+            document.getElementById('entityFounded').textContent = company.founding_year || 'N/A';
+            document.getElementById('entityHQ').textContent = company.headquarters || 'N/A';
+            document.getElementById('entityEmployees').textContent = company.employees || 'N/A';
+            document.getElementById('entityRevenue').textContent = company.revenue || 'N/A';
+
+            // Description
+            document.getElementById('entityDescription').textContent = company.description;
+
+            // Founders
+            document.getElementById('entityFounders').textContent = company.founders || 'N/A';
+
+            // Products
+            const productsHtml = (company.key_products || []).map(p => `<span class="tag">${p}</span>`).join('');
+            document.getElementById('entityProducts').innerHTML = productsHtml || '<span class="no-data">No products listed</span>';
+
+            // Investors
+            const investorsHtml = (company.investors || []).map(i => `<span class="tag">${i}</span>`).join('');
+            document.getElementById('entityInvestors').innerHTML = investorsHtml || '<span class="no-data">No investors listed</span>';
+
+            // Competitors
+            const competitorsHtml = (company.competitors || []).map(comp => {
+                const isInternal = comp.type === 'internal';
+                const linkedCompany = isInternal ? companiesData[comp.id] : null;
+
+                if (isInternal && linkedCompany) {
+                    const compIsProduct = linkedCompany.entity_type === 'product';
+                    const rightText = compIsProduct ? linkedCompany.parent_company : linkedCompany.valuation;
+                    return `
+                        <div class="competitor-row" onclick="event.stopPropagation(); showEntity('${comp.id}')">
+                            <span class="comp-name">${comp.name}${compIsProduct ? ' <span class="product-badge">Product</span>' : ''}</span>
+                            <span class="comp-valuation">${rightText || ''}</span>
+                        </div>
+                    `;
+                } else {
+                    return `
+                        <div class="competitor-row" style="cursor: default; opacity: 0.7;">
+                            <span class="comp-name">${comp.name}</span>
+                            <span class="external-badge">External</span>
+                        </div>
+                    `;
+                }
+            }).join('');
+            document.getElementById('competitorsList').innerHTML = competitorsHtml || '<span class="no-data">No competitors listed</span>';
+
+            // Show entity view
+            document.getElementById('homeView').classList.remove('active');
+            document.getElementById('entityView').classList.add('active');
+            window.scrollTo(0, 0);
+
+            // Update URL
+            history.pushState({ company: companyId }, '', `#${companyId}`);
+        }
+
+        function showHome() {
+            document.getElementById('entityView').classList.remove('active');
+            document.getElementById('aboutView').classList.remove('active');
+            document.getElementById('homeView').classList.add('active');
+            history.pushState({}, '', window.location.pathname);
+        }
+
+        function showAbout() {
+            // Populate stats
+            const companies = Object.values(companiesData).filter(c => c.entity_type !== 'product');
+            const products = Object.values(companiesData).filter(c => c.entity_type === 'product');
+            const withCompetitors = companies.filter(c => c.competitors && c.competitors.length > 0).length;
+            const withWebsite = companies.filter(c => c.website).length;
+
+            // Calculate total valuation
+            const totalValuation = companies.reduce((sum, c) => sum + (c.valuation_raw || 0), 0);
+            const formattedTotal = totalValuation >= 1e12
+                ? `$${(totalValuation / 1e12).toFixed(2)} trillion`
+                : `$${(totalValuation / 1e9).toFixed(0)} billion`;
+
+            document.getElementById('aboutStats').innerHTML = `
+                <strong>${companies.length}</strong> AI companies and <strong>${products.length}</strong> products tracked.<br>
+                <strong>${formattedTotal}</strong> in combined valuations.<br>
+                <strong>${withCompetitors}</strong> companies with competitor relationships.<br>
+                <strong>${withWebsite}</strong> companies with website links.<br>
+                <strong>${categoriesData.length}</strong> categories.
+            `;
+
+            // Populate categories
+            const catHtml = categoriesData.map(cat => {
+                const count = companies.filter(c => c.category === cat.id).length;
+                return `<span class="tag">${cat.name} (${count})</span>`;
+            }).join('');
+            document.getElementById('aboutCategories').innerHTML = catHtml;
+
+            // Update date
+            document.getElementById('aboutUpdated').textContent = metaData?.last_updated || 'December 2025';
+
+            // Show about view
+            document.getElementById('homeView').classList.remove('active');
+            document.getElementById('entityView').classList.remove('active');
+            document.getElementById('aboutView').classList.add('active');
+            window.scrollTo(0, 0);
+            history.pushState({ about: true }, '', '#about');
+        }
+
+        function setupEventListeners() {
+            // Category dropdown change
+            document.getElementById('categorySelect').addEventListener('change', (e) => {
+                activeCategory = e.target.value || null;
+                currentPage = 1;
+                renderCategories();
+                renderCompanyList();
+            });
+
+            // Quick filter buttons
+            document.querySelectorAll('.quick-filter-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    activeCategory = btn.dataset.category || null;
+                    document.getElementById('categorySelect').value = activeCategory || '';
+                    currentPage = 1;
+                    renderCategories();
+                    renderCompanyList();
+                });
+            });
+
+            // Entity type filter change
+            document.getElementById('entityTypeSelect').addEventListener('change', () => {
+                currentPage = 1;
+                renderCompanyList();
+            });
+
+            // Sort change
+            document.getElementById('sortSelect').addEventListener('change', () => {
+                currentPage = 1;
+                renderCompanyList();
+            });
+
+            // Search
+            const searchInput = document.getElementById('globalSearch');
+            const searchResults = document.getElementById('searchResults');
+
+            searchInput.addEventListener('input', () => {
+                const term = searchInput.value.toLowerCase();
+                if (term.length < 2) {
+                    searchResults.classList.remove('active');
+                    renderCompanyList();
+                    return;
+                }
+
+                const matches = Object.values(companiesData)
+                    .filter(c => c.name.toLowerCase().includes(term))
+                    .slice(0, 8);
+
+                if (matches.length > 0) {
+                    searchResults.innerHTML = matches.map(c => {
+                        const isProduct = c.entity_type === 'product';
+                        const rightText = isProduct ? c.parent_company : c.valuation;
+                        return `
+                        <div class="search-result" onclick="showEntity('${c.id}')">
+                            <span>${c.name}${isProduct ? ' <span class="product-badge">Product</span>' : ''}</span>
+                            <span class="ticker">${rightText || ''}</span>
+                        </div>
+                    `}).join('');
+                    searchResults.classList.add('active');
+                } else {
+                    searchResults.classList.remove('active');
+                }
+
+                renderCompanyList();
+            });
+
+            searchInput.addEventListener('blur', () => {
+                setTimeout(() => searchResults.classList.remove('active'), 200);
+            });
+
+            // Handle back button
+            window.addEventListener('popstate', (e) => {
+                if (e.state && e.state.company) {
+                    showEntity(e.state.company);
+                } else if (e.state && e.state.about) {
+                    showAbout();
+                } else {
+                    showHome();
+                }
+            });
+
+            // Handle initial hash
+            if (window.location.hash) {
+                const hash = window.location.hash.slice(1);
+                if (hash === 'about') {
+                    showAbout();
+                } else if (companiesData[hash]) {
+                    showEntity(hash);
+                }
+            }
+        }
+
+        loadData();
+    </script>
+</body>
+</html>
