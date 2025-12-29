@@ -194,89 +194,152 @@
   },
   "categories": [
     {
-      "id": "enterprise",
-      "name": "Enterprise AI",
-      "count": 124
+      "id": "business_intelligence",
+      "name": "Business Intelligence"
     },
     {
-      "id": "creative",
-      "name": "Creative AI",
-      "count": 89
+      "id": "cloud_compute",
+      "name": "Cloud & Compute"
     },
     {
-      "id": "infrastructure",
-      "name": "AI Infrastructure",
-      "count": 73
+      "id": "customer_support",
+      "name": "Customer Support"
     },
     {
-      "id": "robotics",
-      "name": "Robotics",
-      "count": 53
-    },
-    {
-      "id": "healthcare",
-      "name": "Healthcare AI",
-      "count": 50
-    },
-    {
-      "id": "developer_tools",
-      "name": "Developer Tools",
-      "count": 47
-    },
-    {
-      "id": "foundation_models",
-      "name": "Foundation Models & LLMs",
-      "count": 43
+      "id": "audio_voice",
+      "name": "Voice & Audio"
     },
     {
       "id": "security",
-      "name": "AI Security",
-      "count": 42
+      "name": "Security"
     },
     {
-      "id": "fintech",
-      "name": "AI Fintech",
-      "count": 40
+      "id": "ai_frameworks",
+      "name": "AI Frameworks & MLOps"
+    },
+    {
+      "id": "industrial_robots",
+      "name": "Industrial Robots"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "dev_platforms",
+      "name": "Developer Platforms"
+    },
+    {
+      "id": "foundation_models",
+      "name": "Foundation Models"
+    },
+    {
+      "id": "code_assistants",
+      "name": "Code Assistants"
+    },
+    {
+      "id": "clinical_ai",
+      "name": "Clinical AI"
+    },
+    {
+      "id": "video_generation",
+      "name": "Video Generation"
+    },
+    {
+      "id": "image_generation",
+      "name": "Image Generation"
+    },
+    {
+      "id": "sales_marketing",
+      "name": "Sales & Marketing"
     },
     {
       "id": "autonomous_vehicles",
-      "name": "Autonomous Vehicles",
-      "count": 26
+      "name": "Autonomous Vehicles"
     },
     {
-      "id": "data_analytics",
-      "name": "Data & Analytics",
-      "count": 25
+      "id": "fintech",
+      "name": "Fintech"
+    },
+    {
+      "id": "ml_platforms",
+      "name": "ML Platforms"
+    },
+    {
+      "id": "drug_discovery",
+      "name": "Drug Discovery"
+    },
+    {
+      "id": "business_agents",
+      "name": "Business Agents"
     },
     {
       "id": "defense",
-      "name": "Defense & Aerospace",
-      "count": 22
+      "name": "Defense"
     },
     {
       "id": "hardware",
-      "name": "AI Hardware & Chips",
-      "count": 22
+      "name": "AI Hardware"
     },
     {
-      "id": "agents",
-      "name": "AI Agents & Assistants",
-      "count": 17
+      "id": "workflow_automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "legal",
+      "name": "Legal AI"
+    },
+    {
+      "id": "vector_db",
+      "name": "Vector Databases"
+    },
+    {
+      "id": "data_analytics",
+      "name": "Data Analytics"
+    },
+    {
+      "id": "humanoid_robots",
+      "name": "Humanoid Robots"
+    },
+    {
+      "id": "ai_companions",
+      "name": "AI Companions"
+    },
+    {
+      "id": "design_tools",
+      "name": "Design Tools"
     },
     {
       "id": "search",
-      "name": "AI Search",
-      "count": 12
+      "name": "Search"
+    },
+    {
+      "id": "ai_coding_agents",
+      "name": "AI Coding Agents"
+    },
+    {
+      "id": "delivery_robots",
+      "name": "Delivery Robots"
+    },
+    {
+      "id": "creative_3d",
+      "name": "3D & Creative"
+    },
+    {
+      "id": "hr_tech",
+      "name": "HR Tech"
     },
     {
       "id": "quantum",
-      "name": "Quantum Computing",
-      "count": 11
+      "name": "Quantum Computing"
     },
     {
-      "id": "automation",
-      "name": "Automation & RPA",
-      "count": 6
+      "id": "gaming",
+      "name": "Gaming AI"
+    },
+    {
+      "id": "climate",
+      "name": "Climate & Agriculture"
     }
   ],
   "companies": {
